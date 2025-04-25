@@ -1,0 +1,683 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+    <head>
+        <meta charset="UTF-8"/>
+        <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+        <meta content="ie=edge" http-equiv="X-UA-Compatible"/>
+        <title>
+            Privacy
+        </title>
+        
+        
+        
+            <script src="https://cdn.levelaccess.net/accessjs/YW1wX2NwcDExMDM/access.js"></script>
+<script>// <![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSKJRNV');
+// ]]></script>
+<link rel="icon" href="/common/green-and-gold/assets/icons/gg-favicon.svg"  type="image/svg+xml" />
+<link rel="icon" href="/common/green-and-gold/assets/icons/gg-favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/index.css" />
+<link rel="stylesheet" href="https://use.typekit.net/fia5dle.css" />
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/cpp-fonts.css" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+<script src="/common/green-and-gold/assets/js/accordion.js"></script>
+<script crossorigin="anonymous" defer="defer" integrity="sha384-FW78RPcSpi13vjx77nPWQIrQbNSLkPBopb0qGzLCxD2x4Kr6FA8V05C/6cpgkKPL" src="https://pro.fontawesome.com/releases/v5.10.1/js/all.js"></script>
+<script src="/common/green-and-gold/assets/js/modal.js"></script>
+<script src="/common/green-and-gold/assets/js/fontawesome/v6.0x/sharp-light.js" crossorigin="anonymous" type="text/javascript"></script>
+<script src="/common/green-and-gold/assets/js/fontawesome/v6.0x/sharp-others.js" crossorigin="anonymous" type="text/javascript"></script>
+<!-- Swiper Library -->
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/swiper-bundle.min.css" />
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/swiper-carousel.css" />
+<script src="/common/green-and-gold/assets/js/swiper-bundle.min.js"></script>
+<script src="/common/green-and-gold/assets/js/carousel-cards-swiper.js"></script>
+
+    </head>
+    <body>
+        <a class="skip-to-content-link" href="#main">Skip to content</a>
+             <header class="nav fixed">
+    <nav class="container">
+        <ul class="row nav__main" id="mainNavMenu">
+            <li id="main-logo" class="col-6 col-lg-3 nav__logo">
+                <a href="/" aria-label="Cal Poly Pomona Home" tabindex="0">
+                    <div class="nav__logo--horizontal">
+                        <img src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png" alt="Cal Poly Pomona Logo" />
+                    </div>
+                </a>
+            </li>
+            <!-- department header hidden by default-->
+            <li id="dept-header-desktop" class="col-sm-5 col-md-6 nav__logo desktop d-none">
+                <a href="/" aria-label="Cal Poly Pomona Home" tabindex="0">
+                    <div class="nav__logo--stacked">
+                        <img src="/common/green-and-gold/assets/logos/cpp_primary_2c_green_cmyk.png" alt="Cal Poly Pomona Logo">
+                        </div>
+                    </a>
+                    <div class="divider"></div>
+                    <div id="split-header" class="nav__division col-lg-6">
+                        <div id="large-name"></div>
+                        <div style="display:none" id="sub-name"></div>
+                    </div>
+                </div>
+            </li>
+            <li class="nav__links col-2" id="head-links">
+                <a class="nav__link nav__link--desktop col-1" href="/commencement/" tabindex="0">
+                    <svg
+                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 1px;
+    width: auto;
+">
+                        <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                        <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#005030"></path>
+                    </svg>
+                    <span class="sr-only">commencement</span>
+                </a>
+                <a class="nav__link nav__link--desktop col-1" href="/apply/" tabindex="0">apply</a>
+                <a class="nav__link nav__link--desktop col-1" href="/outreach/tours.shtml" tabindex="0">visit</a>
+                <a class="nav__link nav__link--desktop col-1" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="0">info</a>
+                <a class="nav__link nav__link--desktop col-1" href="/giving/" tabindex="0">give</a>
+                <a class="nav__link nav__link--desktop col-1" href="https://my.cpp.edu" tabindex="0">mycpp</a>
+                <button id="search-open" class="nav__search col-1" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/search-dark-green.svg" alt="Open search box" />
+                </button>
+                <button class="nav__menu col-1" id="menuButton" aria-expanded="false" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/menu.svg" alt="menu" />
+                </button>
+            </li>
+        </ul>
+    </nav>
+</header>
+<header id="search-header" style="display:none">
+    <div class="row">
+        <div class="col-md-6"></div>
+        <div id="searchbox" class="col-md-6">
+            <div id="search-slide">
+                <label for="#gsc-i-id1" class="sr-only">Search</label>
+                <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+                <div class="gcse-searchbox-only" data-resultsurl="https://www.cpp.edu/search.shtml"></div>
+                <button class="nav__menu col-1" id="search-close" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close search menu">
+                    </button>
+                </div>
+            </div>
+            <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+            <script>
+       $("#search-open").click(function() {
+         $("#search-header").show();
+         $("#search-slide").addClass("slideup");
+         $("#gsc-i-id1").focus();
+         $('#search-close').focusout(function() {
+           $("#search-header").hide();
+           $("#search-slide").removeClass("slideup");
+           $("#search-open").focus();
+         })
+       });
+       $("#search-close").click(function() {
+         $("#search-header").hide();
+         $("#search-slide").removeClass("slideup");
+         $("#search-open").focus();
+       });
+     </script>
+            <style>
+       .gstl_50 gssb_c {
+         position: fixed !important;
+       }
+
+       #searchbox {
+         height: 93px;
+         overflow: hidden;
+       }
+
+       #search-header {
+         position: fixed;
+         height: 100px;
+         width: 100%;
+         height: 93px;
+         z-index: 99999;
+         top: 0;
+       }
+
+       #gsc-i-id1 {
+         height: 40px;
+         width: 70%;
+         border-radius: 4px;
+         border: none;
+         padding: 15px;
+       }
+
+       #search-submit {
+         margin: 15px;
+       }
+
+       #search-close {
+         width: 23px;
+         height: 21px;
+         position: absolute;
+         top: 32px;
+       }
+
+       #search-slide {
+         width: 0px;
+         right: -100%;
+         padding: 20px 15px;
+         position: relative;
+         background: #005030;
+         height: 100%;
+         transition: all .5s ease 0s
+       }
+
+       #search-slide.slideup {
+         right: 0;
+         width: 100%;
+         position: relative;
+       }
+
+       @media screen and (max-width:991px) {
+         #search-slide {
+           height: 77px !important;
+           padding: 12px 10px;
+         }
+       }
+
+       @media screen and (max-width:767px) {
+         #search-header {
+           position: relative !important;
+         }
+
+         #search-slide {
+           text-align: center !important;
+         }
+       }
+
+       .gsc-search-button-v2 svg {
+         width: auto;
+         height: 21px;
+       }
+
+       .gsc-search-button-v2,
+       .gsc-search-button-v2:hover,
+       .gsc-search-button-v2:focus {
+         border: none !important;
+         background: none !important;
+       }
+
+       form.gsc-search-box {
+         font-size: 13px;
+         margin-top: 0;
+         margin-right: 0;
+         margin-bottom: 4px;
+         margin-left: 0;
+         width: 100%;
+         display: inline-block;
+       }
+
+       #___gcse_0 {
+         width: 70%;
+         display: inline-block;
+       }
+
+       table.gsc-search-box td.gsc-input {
+         padding-right: 0;
+       }
+
+       #gsc-i-id1 {
+         width: 100%;
+         padding: 0px;
+         border: none;
+         margin: -0.0625em 0px 0px;
+         height: 40px !important;
+         background: rgb(255, 255, 255);
+         outline: none;
+         font-size: 20px;
+         font-weight: 200;
+       }
+
+       .gstl_50.gssb_c {
+         z-index: 99999;
+       }
+
+       .gsq_a {
+         font-weight: 200;
+         font-size: 18px;
+         padding: 2px;
+       }
+
+       .gssb_a img {
+         display: none;
+       }
+     </style>
+        </div>
+    </header>
+    <section class="side-nav" id="sideNavOverlay">
+        <header class="side-nav__overlay relative">
+            <nav class="container">
+                <ul class="row nav__overlay" id="sideNavMenu">
+                    <li class="nav__logo col-12 col-md-10 col-lg-3" id="navLogoOverlay">
+                        <a href="/" aria-label="Cal Poly Pomona Home" tabindex="-1">
+                            <img src="/common/green-and-gold/assets/logos/cpp_horizontal_1c_gold_rgb.png" alt="Cal Poly Pomona Logo" />
+                        </a>
+                    </li>
+                    <div class="nav__overlay--right col-12 col-lg-9">
+                        <li class="nav__links nav__links--desktop col-12 col-lg-6">
+                            <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 1px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/apply/" tabindex="-1">apply</a>
+                            <a class="nav__link nav__link--mobile col-1" href="/outreach/tours.shtml" tabindex="-1">visit</a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="-1">info</a>
+                            <a class="nav__link nav__link--mobile col-1" href="/giving/" tabindex="-1">give</a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://my.cpp.edu" tabindex="-1">mycpp</a>
+                        </li>
+                        <li class="nav__icons col-1">
+                            <button id="search-open-green" class="nav__search col-1" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/search-white.svg" alt="Open search box" />
+                            </button>
+                            <button class="nav__close col-1" id="closeButton" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close menu" />
+                            </button>
+                        </li>
+                        <li class="nav__links nav__links--mobile col-12 col-lg-6">
+                            <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 1px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/apply/" tabindex="-1">apply </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/outreach/tours.shtml" tabindex="-1">visit </a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="-1">info </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/giving/" tabindex="-1">give </a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://my.cpp.edu" tabindex="-1">mycpp </a>
+                        </li>
+                    </div>
+                </ul>
+            </nav>
+        </header>
+        <nav class="container side-nav__container">
+            <ul class="row side-nav__links">
+                <li class="side-nav__link col-12">
+                    <a class="h3__proxima" href="/" tabindex="-1" aria-label="Cal Poly Pomona Home page">Home</a>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--0">
+                    <button class="h3__proxima" id="0" aria-expanded="false" tabindex="-1" aria-label="About">
+                        <span>about</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--1">
+                    <button class="h3__proxima" id="1" aria-expanded="false" tabindex="-1" aria-label="Admissions & Aid">
+                        <span>admissions &amp; aid</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--2">
+                    <button class="h3__proxima" id="2" aria-expanded="false" tabindex="-1" aria-label="Academics">
+                        <span>academics</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--3">
+                    <button class="h3__proxima" id="3" aria-expanded="false" tabindex="-1" aria-label="Life at CPP">
+                        <span>life at CPP</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small">
+            <ul class="row">
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="https://broncoathletics.com/" tabindex="-1">athletics</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/alumni/" tabindex="-1">alumni</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/news/" tabindex="-1">news &amp; events</a>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small-bottom">
+            <ul class="col-12 col-lg-6 side-nav__links--small-bottom">
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/prospective-student-gateway/" tabindex="-1">future students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/student-gateway/" tabindex="-1">current students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/family/" tabindex="-1">families</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/faculty-staff-gateway/" tabindex="-1">faculty &amp; staff</a>
+                </li>
+            </ul>
+            <ul class="col-12 col-lg-6 social-icons">
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.instagram.com/calpolypomona/" aria-label="Instagram" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.linkedin.com/school/cal-poly-pomona/" aria-label="LinkedIn " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.youtube.com/user/calpolypomona" aria-label="Youtube " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="Youtube" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.facebook.com/calpolypomona" aria-label="Facebook " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://twitter.com/calpolypomona" aria-label="X (Twitter)" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X" />
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </section>
+    <script src="/common/green-and-gold/assets/js/nav.js"></script>
+
+            
+    
+
+
+
+  
+
+
+  
+
+  
+                  
+            
+
+                   
+                           <code></code>
+           
+                            
+
+
+
+<div class="cqw-wrapper" id="main">
+ <div class="organism-spacer">
+    <section class="content-sub-page">
+        <div class="container">
+            <div class="row">
+                <div class="col-6 col-lg-8">
+                    <h1 class="h2__proxima content-sub-page__header">Privacy</h1>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+
+     
+        
+            
+                
+                    
+                        
+                                   
+                            <div class="organism-spacer cta-green-card__header spacer__padding-top--small spacer__padding-bottom--small">
+                                <section class="standard-text body2 cta-green-card" id="content-section-1">
+                        <div class="container">
+                            <div class="row">
+                               
+                                     <header class="cta-green-card__header text-start col-12 col-sm-8">
+                                                                        <h2 class="h4__proxima">Online Privacy Notice</h2>
+                                                                </header>
+                            </div>
+                            <div class="row">
+                                <div class="body2 text-start col-12 col-sm-8"><p>California State Polytechnic University, Pomona respects your privacy and is committed to protecting it to the extent possible, subject to applicable state and federal law, through our compliance with our privacy policies and this Privacy Notice.</p>
+<p>This Notice applies to the information that we collect when you visit the Cal Poly Pomona&#8217;smain website(www.cpp.edu)and other websites that we own or control, and on which we have linked or referred to this Notice (together, the &#8220;<strong>Sites</strong>&#8221;).&#160; This Notice describes how this information is collected, processed, maintained, protected, and disclosed.&#160; Unless otherwise indicated on a specific Site, the California State University is the data controller for all information collected under this Notice.&#160;Contact information for the CSU is listed at the end of this Notice.</p>
+<p>This Notice does not apply to information collected from or about current or former employees, contractors, volunteers, and other workers at Cal Poly Pomona as part of their employment or working relationship with Cal Poly Pomona.&#160;</p>
+<p>Except as specifically described, our Sites are operated in accordance with the laws of the United States. &#160;Please read this Notice carefully to understand our policies and practices regarding your information and how we will treat it.&#160; This Notice reflects the University&#8217;s current practices and may change from time to time, so please check the Notice periodically for updates.</p>
+<h3 class="h5__proxima" style="margin-bottom: 0.5em;">Personal Information we collect and process:</h3>
+<p>In this Notice, &#8220;personal information&#8221; means any information that identifies or describes an individual user of the Sites, including, but not limited to, the user&#8217;s name, social security number, physical description, address, telephone number, education, financial matters, medical or employment history, password, email address, and information that reveals any network location or identity. &#160;&#160;If you are located in the European Economic Area (EEA), &#8220;personal information&#8221; includes all personal data as defined under EEA laws (including &#8220;sensitive personal information&#8221; which is provided enhanced protections under those laws).</p>
+<p>We collect personal information about users only as allowed by law and limit the collection of personal information to what is relevant and necessary to accomplish a lawful purpose of the University.&#160;We collect personal information (and sensitive personal information) that you send to the CSU, or permit us to obtain from third parties, for purposes relevant to CSU operations in pursuit of our academic mission.&#160; Examples include information needed for student admission (including financial aid information), employment, housing and dining services, online educational programs, research, health services, donor relations, visa application processing, event registration, parking services, IT usage and support services, library usage, bookstore operations, and website account registrations.&#160; Our legal basis for processing most of this information is to perform a task in the public interest or in fulfillment of CSU official functions, including those set out in the California Education Code and/or Title V of the California Code of Regulations, or under applicable federal law.&#160; Other legal bases for processing information include processing necessary for contract (e.g., to process parking permit payments), for legitimate interests (e.g., to send requested information) or consent (e.g., to process certain sensitive personal information).&#160;</p>
+<p><strong>User-Provided Information:</strong>&#160; You may be required to provide personal information to access or use certain parts of our Sites, or features of our Sites or services, including without limitation, when you apply for or enroll at one of our campuses or programs, subscribe to a newsletter or email list, make a purchase or donation, fill out a form, participate in any of our programs, special events or promotions, contact us with a comment, question or complaint, etc.&#160; If you do not provide the requested personal information, you may not be able to access or use the features of our Sites or service where such information is requested.&#160;</p>
+<p>Depending upon the nature of the transaction, the personal information that you may provide may include: contact information (name, home or mailing address, telephone number, social media username/handle, mobile phone and/or email address, etc.); academic area or interest; financial information (financial aid application history, payment history, social security number, passport number, credit card number, donation attribution and amount, etc.); &#160;health record information (medical record number), allergies, past medical history, family history, current medications, current medical conditions) demographic information (age, birthdate, marital status, income, etc.); and profile information (admissions date, graduation date, alumni status, student identification number, username, password, relationship to the University, etc.).</p>
+<p><em>Emails and Social Media Sites</em>:&#160; If you correspond with us by email, mail or via social media, we may retain the content of your communication or social media posting, the email or social media account address from which it is sent, and our response.&#160; We collect information automatically using technology when you visit our Sites or social media pages or when you open one of our emails as described in this Notice.</p>
+<p>The specific personal information (and sensitive personal information) we collect, why we collect it, and our legal basis for processing it, is periodically reassessed in applicable data process flow assessments or Data Protection Impact Assessments, as relevant.</p>
+<p>It is the policy of the California State University to limit the collection and safeguard the privacy of personal information collected or maintained by the University. The University&#8217;s information management practices conform to the requirements of the Information Practices Act of 1977 (Civil Code Section 1798,<em>et seq</em>.), the Public Records Act (California Government Code Section 6250, <em>et seq</em>.), California Government Code Section 11015.5, the Family Educational Rights and Privacy Act (FERPA) (20 U.S.C. &#167; 1232g; 34 CFR Part 99), and other applicable laws pertaining to information privacy.&#160; In the event of a conflict between this Notice and the Public Records Act, the Information Practices Act, FERPA, or other law governing the disclosure of University records, the applicable law will control.</p>
+<p>Any information acquired by the University through the Sites is subject to the limitations set forth in the Information Practices Act.&#160; The University will not distribute or share electronically collected personal information (as defined in subdivision (d) of California Government Code Section 11015.5) about users to any third party without the permission of the user, except in narrow circumstances set forth in this Notice.&#160; The University will not sell any electronically collected personal information to any third party.&#160; Such electronically-collected personal information is exempt from requests made pursuant to the California Public Records Act (Chapter 3.5 (commencing with Section 6250) of Division 7 of Title 1).</p>
+<h3 class="h5__proxima" style="margin-bottom: 0.5em;">How we use the information we collect:</h3>
+<p>We use information that we collect about you or that you provide to us, including any personal information:</p>
+<ul style="margin-bottom: 1em;">
+<li>To provide you with information that you request from us.</li>
+<li>To process application, registration and enrollment requests when you apply, register or enroll for our campuses, events, programs or services, or otherwise administer your participation in our events, programs or services, including (without limitation) study abroad and distance learning, financial aid, housing and dining.</li>
+<li>To collect and process donations, gifts and donor information.</li>
+<li>To process service requests from students, staff, faculty, and other members of the campus community, including the facilitation of parking permit and identification card requests.</li>
+<li>To process registration for sports, cultural, educational, and other university events.</li>
+<li>To respond to your questions, requests, comments or complaints and determine your satisfaction with our events, programs and services.</li>
+<li>To operate, maintain, and provide to you the features, services, and functionality of the Sites and its contents, and to monitor and improve our site and the user experience.</li>
+<li>To provide information about our University and send you related information including brochures and other University materials, campus and CSU news, academic notices, updates, security alerts, special offers, confirmations, and support and administrative messages.</li>
+<li>To notify you about changes to our Sites or any services we offer or provide through it.</li>
+<li>To compare and review your personal information for errors, omissions and accuracy.</li>
+<li>To prevent, detect or investigate any fraudulent, abusive or illegal act.</li>
+<li>To allow you to participate in interactive features on our Sites.</li>
+<li>In any other way we may describe when you provide the information.</li>
+<li>For any other purpose with your consent.</li>
+</ul>
+<p>We may also use your personal information for operational and other lawful purposes such as security, analytics, operations, fraud detection and prevention, reporting, making back-ups and legal compliance.</p>
+<p>We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the Sites; (b) monitor the effectiveness of our Sites and services; (c) monitor aggregate metrics such as the total number of visitors and traffic; (d) diagnose or fix technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP; and (e) help you efficiently access information.</p>
+<p>At the time we collect personal information, we strive to tell users about the purpose for which the information is collected as well as the general or specific uses that we will make of that information.&#160;</p>
+<p><strong>International transfer of personal information:&#160; </strong>Personal information provided to us by users outside of the United States may be transferred to other countries such as the United States, where data protection laws may differ from those of your home country.&#160; By providing us with your information, you acknowledge that your personal information may be transferred to the United States and processed on servers within the United States. &#160;However, all reasonable steps will be taken to protect your privacy in accordance with applicable data protection laws.</p>
+<p><strong>User Content:&#160; </strong>Any personal information or content you voluntarily disclose for posting to the Sites (for instance, any content you post) (&#8220;<strong>User Content</strong>&#8221;) becomes available to the public via the Sites.&#160; User Content includes, but is not limited to, comments, photos, videos, etc.&#160; If you remove User Content, copies may remain viewable in cached and archived pages or if other users have copied or stored your User Content.</p>
+<p>We reserve the right to monitor the User Content you post on the Sites and to remove any User Content for any reason or no reason including, without limitation, if in our sole opinion, such material violates, or may violate, any applicable law, or to protect or defend our rights or those of any third party.&#160; We also reserve the right to remove User Content upon the request of any third party.</p>
+<h3 class="h5__proxima" style="margin-bottom: 0.5em;">Cookie Policy</h3>
+<p><strong>Cookies Information:&#160; </strong>When you visit the Sites, we may send one or more cookies &#8211; a small text file containing a string of alphanumeric characters &#8211; to your computer that uniquely identifies your browser and lets us help you log in faster and enhance your navigation through the Sites.&#160; A cookie does not collect personal information about you.&#160; We use both session cookies and persistent cookies.&#160; A persistent cookie remains on your hard drive after you close your browser.&#160;Persistent cookies may be used by your browser on subsequent visits to the Sites.&#160; Persistent cookies can be removed by following your web browser&#8217;s directions.&#160; A session cookie is temporary and disappears after you close your browser.&#160; You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent.&#160; However, some features of the Sites or services may not function properly if the ability to accept cookies is disabled.&#160;</p>
+<p><strong>Google Analytics:</strong>&#160; We use a tool called &#8220;Google Analytics,&#8221; a web analytics service provided by Google, Inc. to collect information about use of the Sites.&#160; Google Analytics collects information such as how often users visit our Sites, what pages are visited, and what other sites were visited prior to coming to our Sites.&#160; We use the information we get from Google Analytics only to improve the Sites.&#160;Google Analytics collects only the IP address assigned to you on the date you visit the Sites, rather than your name or other identifying information.&#160; Google Analytics will also collect contextual information, such as type of web browser, type of operating system, browser resolution, and network location, however we do not combine the information collected through the use of Google Analytics with personally identifiable information.&#160;Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit the Sites, the cookie cannot be used by anyone but Google.&#160;Google&#8217; s ability to use and share information collected by Google Analytics about your visits to the Sites is restricted by the <a href="http://www.google.com/analytics/tos.html">Google Analytics Terms of Use</a> and the <a href="http://www.google.com/privacypolicy.html">Google Privacy Policy</a>. You can prevent Google Analytics from recognizing you on return visits to the Sites by disabling cookies on your browser, however, please note that if you do this you may not be able to use the full functionality of the Sites.</p>
+<p><strong>Log File Information:</strong>&#160; Log file information is automatically reported by your browser each time you access a web page.&#160; When you register with or view our Sites, our servers automatically record certain information that your web browser sends whenever you visit any website.&#160; These server logs may include information such as your web request, Internet Protocol addresses or other device identifiers, browser information, Internet Service Provider, operating system, location, date/time stamp, clickstream data, referring/exit pages and URLs, domain names, landing pages, pages viewed, and other such information.</p>
+<p><strong>Clear Gifs Information:</strong>&#160; When you use the Sites, we may employ clear gifs (also known as web beacons) which are used to track the online usage patterns of our users anonymously.&#160; No personal information is collected using these clear gifs.&#160; In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients.&#160;</p>
+<h3 class="h5__proxima" style="margin-bottom: 0.5em;">California Do Not Track Disclosures</h3>
+<p>California Business &amp; Professions Code Section 22575(b) (as amended effective January 1, 2014) provides that California residents are entitled to know how a website operator responds to &#8220;Do Not Track&#8221; (DNT) browser settings.&#160; DNT is a feature offered by some browsers which, when enabled, sends a signal to websites to request that your browsing is not tracked, such as by third party ad networks, social networks and analytic companies.&#160; We do not engage in the collection of personally identifiable information about users&#8217; online activities over time and across third party websites when an individual uses our Sites and therefore do not respond to DNT signals.</p>
+<h3 class="h5__proxima" style="margin-bottom: 0.5em;">How we share your information:</h3>
+<p>We share your information internally at the CSU to facilitate and manage the purposes listed above, including with third parties whom the University engages to process your personal information on our behalf for the purposes stated above (such as vendors who help the University with our marketing, application processing, financial aid or payment processing, education management, and web hosting).&#160; The University may also share your personal data with government and law enforcement agencies or regulators (1) to comply with a legal process, subpoena, order or other legal or regulatory requirement applicable to us; (2) to enforce our terms of use or other policies; or (3) to pursue available legal remedies or defend against legal claims.&#160; We may also share your personal information with a third party as requested by you if permitted by this and other University policies and applicable laws and regulations.&#160; We will not distribute or share any electronically collected personal information (as defined in subdivision (d) of California Government Code section 11015.5) about users to any third party without prior written permission from the user except in narrow circumstances involving possible violations of Section 502 of the Penal Code or as authorized under law (including but not limited to the Information Practices Act), or to assist another state agency or public law enforcement organization in any case where the security of a network operated by a state agency has been, or is suspected of having been, breached.</p>
+<p>We fully cooperate with law enforcement agencies in identifying those who use our Sites or services for illegal activities.&#160; We may report to law enforcement agencies any activities that we in good faith believe to be unlawful.&#160; Release of your personal information for security purposes, as described in this Notice to any person or entity, including, without limitation, in connection with any government investigation or litigation, shall be based on a determination made solely by us, as permitted by law or, for those not in the EEA, exercising our discretion for which you expressly grant permission to us in accordance with this Notice.</p>
+<h3 class="h5__proxima" style="margin-bottom: 0.5em;">How we protect your information:</h3>
+<p>We take reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information against loss, unauthorized access, and illegal use or disclosure.&#160; Such personal information is stored by the University in secure locations and University staff is trained on procedures for the management of personal information, including limitations on the release of information. Access to personal information is limited to those members of the University&#8217;s staff whose work requires such access.&#160; Confidential information is destroyed according to the University&#8217;s records retention schedule.&#160; The University conducts periodic reviews to ensure that proper information management policies and procedures are understood and followed.&#160;</p>
+<p>The security of your personal information is important to us, but please remember that no method of transmission over the Internet or method of electronic storage is 100% secure.&#160; While we strive to use commercially reasonable means to protect your personal information, we cannot ensure or warrant the absolute security of any information you transmit to the Sites, and you do so at your own risk.&#160;Once we receive your transmission of information, we make commercially reasonable efforts to ensure the security of our systems.&#160; However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.&#160; While we strive to protect your personal information and privacy, we cannot guarantee the security of any information you disclose online.</p>
+<p>We encourage all individuals to use appropriate safeguards to secure their computers and the information on those computers.&#160; For additional information on online privacy and security, please see the University&#8217;s <a href="http://www.calstate.edu/icsuam/documents/section8000.pdf">policies and procedures related to Information Security (pdf)</a>; you may also consult with the <a href="https://oag.ca.gov/privacy">California Attorney General&#8217;s Privacy Enforcement and Protection website</a>.</p>
+<p>In the event that personal information is compromised as a result of a breach of security, we will promptly investigate and notify those persons whose personal information has been compromised in accordance with the notification procedures set forth in the CSU Information Security Policy, or as otherwise required by applicable law.</p>
+<h3 class="h5__proxima" style="margin-bottom: 0.5em;">Links to Other Websites</h3>
+<p>We are not responsible for the practices employed by websites linked to or from our Sites nor the information or content contained in them, and we make no warranty, either express or implied, concerning the content of any such site, including the accuracy, completeness, reliability, or suitability of them for any particular purpose, nor do we warrant that any such site or content is free from any claims of copyright, trademark, or other infringement of the rights of third parties, or that any such site or content is devoid of viruses or other contamination.&#160; We may provide links to other websites to you solely as a convenience, and the inclusion of linked sites does not imply endorsement by the University or CSU of any of the linked sites.&#160; Please remember that when you use a link to go from our Sites to another website, our Notice is no longer in effect.&#160; Your browsing and interaction on any other website, including those that have a link on our Sites, is subject to that website&#8217;s own rules and policies.&#160;Please read over those rules and policies before proceeding.&#160; We do not ensure the security of your personal information if you visit websites not belonging to CSU, nor are we the data controller for any information collected on those sites unless we specifically state so.&#160; We further reserve the right to terminate a link to a third party site at any time.</p>
+<h3 class="h5__proxima" style="margin-bottom: 0.5em;">Access and choice:</h3>
+<p>We comply with all applicable regulations regarding data retention and deletion of personal data and retain personal information only for as long as necessary to fulfill the purpose for which it was collected (including for college operations), for strategic planning, and to comply with applicable laws and retention requirements.&#160; You can ask to review, update or make changes to the personal information we maintain about you, or exercise your option of having your personal information discarded without reuse or distribution, by sending a written request to the postal or email address set out below.&#160; We may take a reasonable period of time to respond.&#160;If you request the deactivation or change of information on our system, such information may be retained in our backup systems for a period of time subject to technology restrictions, or as a precaution against systems failures.&#160; Some information may be retained for longer periods as required by law, contract or auditing requirements or as otherwise described in this Notice.</p>
+<p>You have the option to decline providing information about yourself online and may use other methods, such as U.S. mail, to respond to requests for information or to communicate with us.&#160; You may use the contact information listed below to ask about additional alternatives to providing or obtaining information through use of our Sites.</p>
+<p>By providing us your email address, you consent to our use of your email address to send you Site and service-related notices, including any notices required by law, in lieu of communication by postal mail.&#160;We may also use your email address to send you other messages, including, but not limited to, newsletters, information on campus activities, programs and events, legal updates, changes to features of our Sites or services, or other account information.&#160; Where required by law, we will obtain your consent before sending you specific types of email or other communications.</p>
+<p>You can choose not to receive such emails from us by &#8220;unsubscribing&#8221; using the instructions in any email you receive from us, or by sending a written request to the postal or email address set out below. &#160;It may take up to thirty (30) business days for us to process your request. This will not stop us from sending emails about your account or your transactions with us, or any other service-related email. &#160;Opting out does not affect our communications with you via telephone or mail nor does it affect our use of your non-personally identifiable information as described in this Notice.</p>
+<h3 class="h5__proxima" style="margin-bottom: 0.5em;">EEA Data Subject Rights</h3>
+<p>If you are an individual located in the EEA only, you have certain rights with regard to your personal data collected while you are in the EEA.&#160; These rights may include right of access, right of correction, right to be forgotten, right to restrict processing of your identifiable personal information, right to notice related to changes/deletion/processing limits, right to data portability, right to objection, right not to be subject to decisions based solely on automated processing, and right to withdraw consent.&#160;Some of these rights are restricted by law to information that was collected on the basis of explicit consent, or are restricted by other conditions (such as necessity for contract or to comply with the law).&#160; You have the right to contact us in connection with the exercise of your rights under applicable EEA law, which you can do through the contact information below, or by sending an email to <a href="mailto:privacy@cpp.edu">privacy@cpp.edu</a>.&#160;&#160;We will respond to your written request without unreasonable delay and in accordance with any deadlines imposed by law.&#160; Unless we notify you at the time of your request, we will not charge you any fee in connection with the exercise of your rights.&#160; If you are not satisfied with our response, you have the right to complain to or seek advice from a supervisory authority and/or bring a claim against us in any court of competent jurisdiction.</p>
+<h3 class="h5__proxima" style="margin-bottom: 0.5em;">Changes to Our Privacy Notice</h3>
+<p>We reserve the right to modify this Notice at any time.&#160; It is our policy to provide notifications, whether such notifications are required by law or are for other operational purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on our Sites page, as determined by the University in its sole discretion.&#160; We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Notice.&#160; You are responsible for ensuring we have an up-to-date active and deliverable email address for you, and for periodically visiting our Sites and this Notice to check for any changes.&#160;</p>
+<p>For changes to our Privacy Notice, it is our policy to post any changes we make on this page.&#160; The date the Notice was last revised is identified at the top of the page.&#160;We will provide notice on the Sites, or at www.cpp.edu, prior to the effective date of any change.&#160; Your continued use of the Sites after any change in this Notice will constitute your acceptance of such change.</p>
+<h3 class="h5__proxima" style="margin-bottom: 0.5em;">Contact Us</h3>
+<p>If you have any questions about this Notice or the practices of our Sites, you may contact us using one of the following methods:</p>
+<ul>
+<li>Call: Carol Gonzales, AVP IT Security &amp; Compliance/CISO, 909-979-6457</li>
+<li>Email: <a href="mailto:privacy@cpp.edu">privacy@cpp.edu</a> or <a href="mailto:privacy@calstate.edu">privacy@calstate.edu</a></li>
+<li>Send mail to: <br/>Carol Gonzales, AVP IT Security &amp; Compliance/CISO <br/>Division of Information Technology <br/>3801 W. Temple Avenue Pomona, CA 91768</li>
+</ul>
+<p>&#160;</p></div>  
+                            </div>
+                       </div>
+                    </section>
+                </div>
+                                          
+            
+</div>
+
+
+
+         
+<style>
+     @media screen and (min-width: 992px) {
+    .mini-footer .footer__socials-buttons {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}
+
+.mini-footer .button1__transducer {
+    font-size: 12px;
+    letter-spacing: .5px;
+}
+
+.mini-footer .button {
+	margin-top: 0;
+    padding: 8px 20px 8px 20px;
+
+}
+.mini-footer .footer-line {
+    border-top: thin solid #a4d65e;
+    margin-top: 39px;
+    padding-top: 15px;
+}
+ </style>
+<footer class="footer mini-footer">
+    <div class="footer__rip-wrapper">
+        <img class="footer__rip" alt="" src="/common/green-and-gold/assets/images/green-rip.svg" alt="Ripped green paper." />
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-2">
+                <div class="footer__logo-wrapper">
+                    <a href="/" aria-label="CPP Logo">
+                        <img class="footer__logo" src="/common/green-and-gold/assets/logos/cpp_primary_1c_gold_rgb.png" alt="Cal Poly Pomona logo, building with a palm tree." />
+                    </a>
+                </div>
+            </div>
+            <div class="col-12 col-lg-6 offset-lg-4">
+                <div class="footer__socials">
+                    <div class="footer__socials-buttons">
+                        <a class="button button__secondary button1__transducer" href="/apply/">Apply</a>
+                        <a class="button button__secondary button1__transducer" href="https://maps.cpp.edu/">Maps</a>
+                        <a class="button button__secondary button1__transducer" href="/outreach/tours.shtml">Visit</a>
+                        <a class="button button__secondary button1__transducer" href="/contact.shtml">Contact Us</a>
+                    </div>
+                    <div class="footer__socials-icons">
+                        <a href="https://www.instagram.com/calpolypomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram opens a new window" />
+                        </a>
+                        <a href="https://www.linkedin.com/school/cal-poly-pomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn opens a new window" />
+                        </a>
+                        <a href="https://www.youtube.com/user/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="YouTube opens a new window" />
+                        </a>
+                        <a href="https://www.facebook.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook opens a new window" />
+                        </a>
+                        <a href="https://twitter.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X opens a new window" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 footer-line">
+                <div class="footer__errata">
+                    <p class="footer__copyright" style="line-height: 1.8em">Copyright ©2025 California State Polytechnic University, Pomona.  All Rights Reserved 
+                        
+                        <br />A campus of 
+                        
+                        <a class="footer__errata-link" style="display: inline" href="https://www.calstate.edu/">The California State University</a>.
+                    
+                    </p>
+                    <div class="footer__errata-links">
+                        <a class="footer__errata-link" href="https://www.cpp.edu/website-feedback.shtml">Feedback</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/privacy.shtml">Privacy</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/accessibility.shtml">Accessibility</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/file-viewers.shtml">Document Readers</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer__gradient-bottom"></div>
+</footer>
+
+
+    </body>
+</html>

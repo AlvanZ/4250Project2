@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png?v=zXryopmz8G" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/icons/favicon-32x32.png?v=zXryopmz8G" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/icons/favicon-16x16.png?v=zXryopmz8G" />
+    <link rel="manifest" href="/icons/manifest.json?v=zXryopmz8G" />
+    <link rel="mask-icon" href="/icons/safari-pinned-tab.svg?v=zXryopmz8G" color="#5bbad5" />
+    <link rel="shortcut icon" href="/icons/favicon.ico?v=zXryopmz8G" />
+    <meta name="description"
+        content="Discover unique opportunities at! Find and attend events, browse and join organizations, and showcase your involvement." />
+    <meta name="msapplication-config" content="/icons/browserconfig.xml?v=zXryopmz8G" />
+    <meta name="theme-color" content="#ffffff" />
+
+    <title> - </title>
+
+    
+        <meta property="og:title" content="Parenting Student Ally Training" />
+        <meta property="og:type" content="website" />
+        <meta property="og:image" content="https://se-images.campuslabs.com/clink/images/6c58cbbc-3326-4b29-abe8-3da9667a8f5bb3245b03-73bb-472b-a5bf-fa975258d4f8.png?preset=med-w" />
+
+
+<script type="text/javascript">!function(T,l,y){var S=T.location,k="script",D="instrumentationKey",C="ingestionendpoint",I="disableExceptionTracking",E="ai.device.",b="toLowerCase",w="crossOrigin",N="POST",e="appInsightsSDK",t=y.name||"appInsights";(y.name||T[e])&&(T[e]=t);var n=T[t]||function(d){var g=!1,f=!1,m={initialize:!0,queue:[],sv:"5",version:2,config:d};function v(e,t){var n={},a="Browser";return n[E+"id"]=a[b](),n[E+"type"]=a,n["ai.operation.name"]=S&&S.pathname||"_unknown_",n["ai.internal.sdkVersion"]="javascript:snippet_"+(m.sv||m.version),{time:function(){var e=new Date;function t(e){var t=""+e;return 1===t.length&&(t="0"+t),t}return e.getUTCFullYear()+"-"+t(1+e.getUTCMonth())+"-"+t(e.getUTCDate())+"T"+t(e.getUTCHours())+":"+t(e.getUTCMinutes())+":"+t(e.getUTCSeconds())+"."+((e.getUTCMilliseconds()/1e3).toFixed(3)+"").slice(2,5)+"Z"}(),iKey:e,name:"Microsoft.ApplicationInsights."+e.replace(/-/g,"")+"."+t,sampleRate:100,tags:n,data:{baseData:{ver:2}}}}var h=d.url||y.src;if(h){function a(e){var t,n,a,i,r,o,s,c,u,p,l;g=!0,m.queue=[],f||(f=!0,t=h,s=function(){var e={},t=d.connectionString;if(t)for(var n=t.split(";"),a=0;a<n.length;a++){var i=n[a].split("=");2===i.length&&(e[i[0][b]()]=i[1])}if(!e[C]){var r=e.endpointsuffix,o=r?e.location:null;e[C]="https://"+(o?o+".":"")+"dc."+(r||"services.visualstudio.com")}return e}(),c=s[D]||d[D]||"",u=s[C],p=u?u+"/v2/track":d.endpointUrl,(l=[]).push((n="SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details)",a=t,i=p,(o=(r=v(c,"Exception")).data).baseType="ExceptionData",o.baseData.exceptions=[{typeName:"SDKLoadFailed",message:n.replace(/\./g,"-"),hasFullStack:!1,stack:n+"\nSnippet failed to load ["+a+"] -- Telemetry is disabled\nHelp Link: https://go.microsoft.com/fwlink/?linkid=2128109\nHost: "+(S&&S.pathname||"_unknown_")+"\nEndpoint: "+i,parsedStack:[]}],r)),l.push(function(e,t,n,a){var i=v(c,"Message"),r=i.data;r.baseType="MessageData";var o=r.baseData;return o.message='AI (Internal): 99 message:"'+("SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details) ("+n+")").replace(/\"/g,"")+'"',o.properties={endpoint:a},i}(0,0,t,p)),function(e,t){if(JSON){var n=T.fetch;if(n&&!y.useXhr)n(t,{method:N,body:JSON.stringify(e),mode:"cors"});else if(XMLHttpRequest){var a=new XMLHttpRequest;a.open(N,t),a.setRequestHeader("Content-type","application/json"),a.send(JSON.stringify(e))}}}(l,p))}function i(e,t){f||setTimeout(function(){!t&&m.core||a()},500)}var e=function(){var n=l.createElement(k);n.src=h;var e=y[w];return!e&&""!==e||"undefined"==n[w]||(n[w]=e),n.onload=i,n.onerror=a,n.onreadystatechange=function(e,t){"loaded"!==n.readyState&&"complete"!==n.readyState||i(0,t)},n}();y.ld<0?l.getElementsByTagName("head")[0].appendChild(e):setTimeout(function(){l.getElementsByTagName(k)[0].parentNode.appendChild(e)},y.ld||0)}try{m.cookie=l.cookie}catch(p){}function t(e){for(;e.length;)!function(t){m[t]=function(){var e=arguments;g||m.queue.push(function(){m[t].apply(m,e)})}}(e.pop())}var n="track",r="TrackPage",o="TrackEvent";t([n+"Event",n+"PageView",n+"Exception",n+"Trace",n+"DependencyData",n+"Metric",n+"PageViewPerformance","start"+r,"stop"+r,"start"+o,"stop"+o,"addTelemetryInitializer","setAuthenticatedUserContext","clearAuthenticatedUserContext","flush"]),m.SeverityLevel={Verbose:0,Information:1,Warning:2,Error:3,Critical:4};var s=(d.extensionConfig||{}).ApplicationInsightsAnalytics||{};if(!0!==d[I]&&!0!==s[I]){var c="onerror";t(["_"+c]);var u=T[c];T[c]=function(e,t,n,a,i){var r=u&&u(e,t,n,a,i);return!0!==r&&m["_"+c]({message:e,url:t,lineNumber:n,columnNumber:a,error:i}),r},d.autoExceptionInstrumented=!0}return m}(y.cfg);function a(){y.onInit&&y.onInit(n)}(T[t]=n).queue&&0===n.queue.length?(n.queue.push(a),n.trackPageView({})):a()}(window,document,{
+src: "https://js.monitor.azure.com/scripts/b/ai.2.min.js", // The SDK URL Source
+crossOrigin: "anonymous", 
+cfg: { // Application Insights Configuration
+    instrumentationKey: '52218977-e6e6-461a-9579-7a3e21973b4b'
+}});</script>
+    <link defer rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" />
+    <link defer rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+    <link defer rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700,700i" />
+    <link rel="stylesheet" href="https://unpkg.com/react-select@1.2.1/dist/react-select.css" />
+    <link rel="stylesheet" href="https://static.campuslabsengage.com/discovery/2025.1.29.3/client.css" />
+    <script src="https://cdn.jsdelivr.net/npm/systemjs/dist/system.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/systemjs/dist/extras/amd.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/systemjs/dist/extras/named-exports.min.js"></script>
+    <script type="text/javascript">
+        (function (c, l, a, r, i, t, y) {
+            c[a] = c[a] || function () { (c[a].q = c[a].q || []).push(arguments) };
+            t = l.createElement(r); t.async = 1; t.src = "https://www.clarity.ms/tag/" + i;
+            y = l.getElementsByTagName(r)[0]; y.parentNode.insertBefore(t, y);
+        })(window, document, "clarity", "script", "3xldl8atnn");
+    </script>
+    
+    
+        <script src="/globalcontext"></script>
+        <script src="/topbar/context?path=%2Fevent%2F10934424"></script>
+    
+</head>
+
+<body>
+    <noscript>This application requires JavaScript to be enabled.</noscript>
+    <div id="discovery-bar"></div>
+    <div class="engage-application">
+        <div id="react-app"></div>
+<script>window.initialAppState = {"institution":null,"coverPhoto":{"id":118029,"imageId":"82c7772c-2a85-453c-8d2d-c63cba41dce5","imagePath":"","url":"https://se-images-blob.campuslabs.com/communities/1651/coverphotos/82c7772c-2a85-453c-8d2d-c63cba41dce5.jpg","thumbnailUrl":"https://se-images-blob.campuslabs.com/communities/1651/coverphotos/82c7772c-2a85-453c-8d2d-c63cba41dce5-thumbnail.jpg","caption":"A view of the Old Stables from the Student Services Building","dateCreated":"2025-01-27T13:54:09.757-05:00","institutionId":1651},"user":null,"preFetchedData":{"event":{"id":10934424,"institutionId":1651,"organizationId":194262,"submittedByOrganizationId":194262,"organizationIds":[194262,326664],"eventSubmissionId":12318003,"imagePath":"6c58cbbc-3326-4b29-abe8-3da9667a8f5bb3245b03-73bb-472b-a5bf-fa975258d4f8.png","imageUrl":"https://se-images.campuslabs.com/clink/images/6c58cbbc-3326-4b29-abe8-3da9667a8f5bb3245b03-73bb-472b-a5bf-fa975258d4f8.png","name":"Parenting Student Ally Training","description":"<p>Parenting Student Ally Training strives to shape attendees' perspectives by:</p>\r\n<ul>\r\n<li>Identifying stereotypes, myths, and beliefs that shape personal perceptions</li>\r\n<li>Offering an authentic view into the lives of parenting students through a student panel</li>\r\n<li>Providing attendees with an opportunity to discuss parenting students in a non-judgmental and safe environment</li>\r\n<li>Providing an open forum for questions and concerns for those working and interacting with students with dependents</li>\r\n</ul>\r\n<p><strong>Upon completion of the full training and post-training survey, participants will receive a certificate and an electronic Parenting Student Ally placard (print to display).</strong></p>\r\n<p><strong>Parenting Student Allies</strong>&nbsp;are a network of faculty, staff, and students who promote awareness, support, and resources for students with dependent(s). Parenting Student Allies pledge to:</p>\r\n<ul>\r\n<li>Be a support system to students with dependent(s)</li>\r\n<li>Display their Parenting Student Ally placard wherever people may see it best</li>\r\n<li>Be respectful, understanding, and helpful to the needs of students with dependent(s)</li>\r\n<li>Provide referrals to programs and services as needed</li>\r\n<li>Actively seek assistance and further training</li>\r\n</ul>","startsOn":"2025-03-06T17:00:00-05:00","endsOn":"2025-03-06T19:00:00-05:00","address":{"locationId":null,"name":"Online","address":null,"line1":null,"line2":null,"city":null,"state":null,"zip":null,"latitude":null,"longitude":null,"onlineLocation":"https://cpp.zoom.us/j/81988597225","instructions":"The training will be conducted over Zoom.","roomReservation":"","provider":"Zoom"},"theme":"ThoughtfulLearning","benefits":[],"categories":[],"state":{"eventId":10934424,"status":"Approved","comments":null,"updatedByAccountId":"00000000-0000-0000-0000-000000000000"},"visibility":"Public","type":"Event","originalSubmissionId":null,"sourceSubmissionId":null,"submittedByAccountId":null,"submittedById":{"communityMemberId":16136660},"accessCode":null,"rsvpSettings":{"isInviteOnly":false,"totalAllowed":25,"shouldShowRemainingRsvps":true,"shouldAllowGuests":false,"totalGuestsAllowedPerRsvp":null,"shouldGuestsCountTowardsTotalAllowed":false,"organizationRepresentationEnabled":false,"organizationRepresentationRequired":false,"totalRsvps":25,"totalGuests":0,"spotsAvailable":0,"questions":null},"legacyKey":null,"autoSendRatingNotifications":false,"hasSentRatingNotifications":false,"evaluationQuestions":null,"allowDisplayOnTranscript":false},"loadAdditionalEventDetails":true,"organization":null,"article":null},"imageServerBaseUrl":"https://se-images.campuslabs.com/clink/images/","baseUrl":"https://mybar.cpp.edu","serverSideContextRoot":"","serviceOpportunitiesEnabled":false,"xsrfToken":"CfDJ8Az9GcAD4TpIm2NmyW6ywWEzSuK_CWkpbdJsPfM_kbew0iwsbEQ39GL2kbU8vqrC00e_Ws44kKs4mTDKq3XxiVSmiZILGSzmw4ORC3Z2_t8cn8uvoouP7mIR4rHJhGTXqzGX3OvPwxZnAyIEOr1HO64","reCaptchaPublicKey":"6LdlpB0TAAAAAJ25ETYC1pRiwGiT7clzxta-HGH0","returnUrl":"","launchDarkly":null};</script>
+
+
+
+
+    </div>
+    <div id="engage-footer"></div>
+    
+    <script crossorigin="anonymous" src="https://static.campuslabsengage.com/discovery/2025.1.29.3/client.js"></script>
+
+    
+    
+        <script src="/topbar/standalone"></script>
+    
+</body>
+
+</html>

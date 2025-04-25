@@ -1,0 +1,2849 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+		<title>
+			Women's Rights Are Human Rights
+		</title>
+		<!-- Required meta tags -->
+		<meta charset="utf-8"/>
+		<meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
+		<meta content="Yes" property="cludo:category"/>
+<meta content="2025-03-11T18:53Z" property="date"/>
+<link href="https://www.cpp.edu/~huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/index.shtml" rel="canonical"/>
+		
+		<meta content="Women's Rights Are Human Rights will be making its return to Cal Poly Pomona at the Huntley Gallery February 20th, 2025." name="description"/>
+		
+    <div lang="en">
+
+
+                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                <script src="https://cdn.levelaccess.net/accessjs/YW1wX2NwcDExMDM/access.js"></script>
+<script>// <![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSKJRNV');
+// ]]></script>
+<link href="/common/green-and-gold/assets/icons/gg-favicon.svg" rel="icon" type="image/svg+xml"/> <link crossorigin="anonymous" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" rel="stylesheet"/>
+<script crossorigin="anonymous" defer="defer" integrity="sha384-FW78RPcSpi13vjx77nPWQIrQbNSLkPBopb0qGzLCxD2x4Kr6FA8V05C/6cpgkKPL" src="https://pro.fontawesome.com/releases/v5.10.1/js/all.js"></script>
+<link href="https://www.cpp.edu/common/2018/assets/css/cpp-base-styles.css" rel="stylesheet"/> <link href="https://www.cpp.edu/common/2018/assets/css/cpp-extended-styles.css" rel="stylesheet"/> <link href="https://use.typekit.net/fia5dle.css" rel="stylesheet"/> <link href="/common/green-and-gold/assets/css/cpp-fonts.css" rel="stylesheet"/> <link href="/common/green-and-gold/assets/css/gg-header-footer.css" rel="stylesheet"/>
+
+</div>
+    
+		
+		<link href="/kellogg-gallery/inc/env-custom.css" rel="stylesheet"/>
+	</head>
+	<body>
+		
+		 
+<header class="nav fixed">
+    <nav class="container">
+        <ul class="row nav__main" id="mainNavMenu">
+            <li id="main-logo" class="col-6 col-lg-3 nav__logo">
+                <a href="/" aria-label="Cal Poly Pomona Home" tabindex="0">
+                    <div class="nav__logo--horizontal">
+                        <img src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png" alt="Cal Poly Pomona Logo" />
+                    </div>
+                </a>
+            </li>
+            <li class="nav__links col-6" id="head-links">
+             <a class="nav__link nav__link--desktop col-1" href="/commencement/" tabindex="0">
+                    <svg
+                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 6px;
+    width: auto;
+">
+                        <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                        <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#005030"></path>
+                    </svg>
+                    <span class="sr-only">commencement</span>
+                </a>
+                <a class="nav__link nav__link--desktop" href="/apply/" tabindex="0">apply</a>
+                <a class="nav__link nav__link--desktop" href="/outreach/tours.shtml" tabindex="0">visit</a>
+                <a class="nav__link nav__link--desktop" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="0">info</a>
+                <a class="nav__link nav__link--desktop" href="/giving/" tabindex="0">give</a>
+                <a class="nav__link nav__link--desktop" href="https://my.cpp.edu" tabindex="0">mycpp</a>
+                <button id="search-open" class="nav__search" aria-expanded="false" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/search-dark-green.svg" alt="Search" />
+                </button>
+                <button class="nav__menu" id="menuButton" aria-expanded="false" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/menu.svg" alt="menu" />
+                </button>
+            </li>
+        </ul>
+    </nav>
+</header>
+<header id="search-header" style="display:none">
+    <div class="row">
+        <div class="col-md-6"></div>
+        <div id="searchbox" class="col-md-6">
+            <div id="search-slide">
+                <label for="#gsc-i-id1" class="sr-only">Search</label>
+                <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+                <div class="gcse-searchbox-only" data-resultsurl="https://www.cpp.edu/search.shtml"></div>
+                <button class="nav__menu col-1" id="search-close" aria-expanded="false" tabindex="0" aria-label="Menu icon">
+                    <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close icon">
+                    </button>
+                </div>
+            </div>
+            <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+            <style>
+
+     .gstl_50 gssb_c {
+         position:fixed !important;
+         }
+       #search-close img {
+         width: auto !important;
+       }
+
+       #searchbox {
+         height: 93px;
+         overflow: hidden;
+       }
+
+       #search-header {
+         position: fixed;
+         height: 100px;
+         width: 100%;
+         height: 93px;
+         z-index: 99999;
+         top: 0;
+       }
+
+       #gsc-i-id1 {
+         height: 40px;
+         width: 70%;
+         border-radius: 4px;
+         border: none;
+         padding: 15px;
+       }
+
+       #search-submit {
+         margin: 15px;
+       }
+
+       #search-close {
+         width: 23px;
+         height: 21px;
+         position: absolute;
+         top: 32px;
+       }
+
+       #search-slide {
+         width: 0px;
+         right: -100%;
+         padding: 20px 15px;
+         position: relative;
+         background: #005030;
+         height: 100%;
+         transition: all .5s ease 0s
+       }
+
+       #search-slide.slideup {
+         right: 0;
+         width: 100%;
+         position: relative;
+       }
+
+       @media screen and (max-width:991px) {
+         #search-slide {
+           height: 77px !important;
+           padding: 12px 10px;
+         }
+       }
+
+       @media screen and (max-width:767px) {
+         #search-header {
+           position: relative !important;
+         }
+
+         #search-slide {
+           text-align: center !important;
+         }
+       }
+
+     .gsc-search-button-v2 svg {
+    width: auto;
+    height: 25px;
+    position: relative;
+    top: 8px;
+}
+
+       .gsc-search-button-v2,
+       .gsc-search-button-v2:hover,
+       .gsc-search-button-v2:focus {
+         border: none !important;
+         background: none !important;
+       }
+
+       form.gsc-search-box {
+         font-size: 13px;
+         margin-top: 0;
+         margin-right: 0;
+         margin-bottom: 4px;
+         margin-left: 0;
+         width: 100%;
+         display: inline-block;
+       }
+
+       #___gcse_0 {
+         width: 70%;
+         display: inline-block;
+       }
+
+       table.gsc-search-box td.gsc-input {
+         padding-right: 0;
+       }
+
+       #gsc-i-id1 {
+         width: 100%;
+         padding: 0px;
+         border: none;
+         margin: -0.0625em 0px 0px;
+         height: 40px !important;
+         background: rgb(255, 255, 255);
+         outline: none;
+         font-size: 20px;
+         font-weight: 200;
+       }
+
+       .gstl_50.gssb_c {
+         z-index: 99999;
+       }
+
+       .gsq_a {
+         font-weight: 200;
+         font-size: 18px;
+         padding: 2px;
+       }
+
+       .gssb_a img {
+         display: none;
+       }
+
+       .side-nav__links--small-bottom {
+           margin-left:-15px;
+       }
+       .nav__links .nav__links--mobile {
+           margin-top: 50px;
+            margin-bottom: -50px;
+            margin-left: 50px
+       }
+       .nav__link--mobile {
+        	padding:0px;
+        }
+     /*   .side-nav__container, .side-nav__container--small {
+          
+            padding-left: 50px;
+        }*/
+        .side-nav__container--small-bottom {
+           padding-left: 35px;
+        }
+         @media screen and (max-width:991px) {
+             .nav__links--mobile {
+                 display:flex;
+             }
+         }
+          @media screen and (min-width:992px) {
+             .nav__links--mobile {
+                 display:none !important;
+             }
+          }
+         .nav__link--mobile {
+             color: #ffb81c;
+         }
+       </style>
+        </div>
+    </header>
+    <section class="side-nav" id="sideNavOverlay">
+        <header class="side-nav__overlay relative">
+            <nav class="container">
+                <ul class="row nav__overlay" id="sideNavMenu">
+                    <li class="nav__logo col-12 col-md-10 col-lg-3" id="navLogoOverlay">
+                        <a href="/" aria-label="Cal Poly Pomona Home" tabindex="-1">
+                            <img src="/common/green-and-gold/assets/logos/cpp_horizontal_1c_gold_rgb.png" alt="Cal Poly Pomona Logo" />
+                        </a>
+                    </li>
+                    <div class="nav__overlay--right col-12 col-lg-9">
+                        <li class="nav__links nav__links--desktop col-12 col-lg-6">
+                             <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 6px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                            <a class="nav__link nav__link--mobile" href="/apply/" tabindex="-1">apply</a>
+                            <a class="nav__link nav__link--mobile" href="/outreach/tours.shtml" tabindex="-1">visit</a>
+                            <a class="nav__link nav__link--mobile" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="-1">info</a>
+                            <a class="nav__link nav__link--mobile" href="/giving/" tabindex="-1">give</a>
+                            <a class="nav__link nav__link--mobile" href="https://my.cpp.edu" tabindex="-1">mycpp</a>
+                        </li>
+                        <li class="nav__icons">
+                            <button id="search-open-green" class="nav__search" aria-expanded="false" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/search-white.svg" alt="Search" />
+                            </button>
+                            <button class="nav__close" id="closeButton" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close menu" />
+                            </button>
+                        </li>
+                    </div>
+                </ul>
+            </nav>
+        </header>
+        
+            <div class="mobile_overlay_nav nav__links nav__links--mobile col-12 col-lg-6">
+                 <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 6px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                <a class="nav__link nav__link--mobile" href="/apply/" tabindex="0">apply </a>
+                <a class="nav__link nav__link--mobile" href="/outreach/tours.shtml" tabindex="0">visit </a>
+                <a class="nav__link nav__link--mobile" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="0">info </a>
+                <a class="nav__link nav__link--mobile" href="/giving/" tabindex="0">give </a>
+                <a class="nav__link nav__link--mobile" href="https://my.cpp.edu" tabindex="0">mycpp </a>
+            </div>
+       
+        <nav class="container side-nav__container">
+            <ul class="row side-nav__links">
+                <li id="home-button" class="side-nav__link">
+                    <a class="h3__proxima" href="/" tabindex="-1" aria-label="Cal Poly Pomona Home page">Home</a>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--0">
+                    <button class="h3__proxima" id="0" aria-expanded="false" tabindex="-1" aria-label="Link">
+                        <span>about</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--1">
+                    <button class="h3__proxima" id="1" aria-expanded="false" tabindex="-1" aria-label="Admissions & Aid">
+                        <span>admissions &amp; aid</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--2">
+                    <button class="h3__proxima" id="2" aria-expanded="false" tabindex="-1" aria-label="academics">
+                        <span>academics</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--3">
+                    <button class="h3__proxima" id="3" aria-expanded="false" tabindex="-1" aria-label="life at CPP">
+                        <span>life at CPP</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small">
+            <ul class="row">
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="https://broncoathletics.com/" tabindex="-1">athletics</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/alumni/" tabindex="-1">alumni</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/news/" tabindex="-1">news &amp; events</a>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small-bottom">
+            <ul class="col-12 col-lg-7 side-nav__links--small-bottom">
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/prospective-student-gateway/" tabindex="-1">future students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/student-gateway/" tabindex="-1">current students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/family/" tabindex="-1">families</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/faculty-staff-gateway/" tabindex="-1">faculty &amp; staff</a>
+                </li>
+            </ul>
+            <ul class="col-12 col-lg-5 social-icons">
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.instagram.com/calpolypomona/" aria-label="Instagram" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.linkedin.com/school/cal-poly-pomona/" aria-label="LinkedIn " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.youtube.com/user/calpolypomona" aria-label="Youtube " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="Youtube" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.facebook.com/calpolypomona" aria-label="Facebook " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://twitter.com/calpolypomona" aria-label="X (Twitter)" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X" />
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </section>
+		                                                                                                                                                        																										                                                            															    		                                            
+
+
+            
+
+    <style>
+                 #main {
+                	 padding: 15px 50px;
+                	 background-color: #ffffff;
+                	 margin-top: 50px;
+                	 margin-bottom: 50px;
+                }
+                 #color-bg {
+                     flex: 1 0 0%;
+                	 /*height:100%;
+                	 overflow: hidden;*/
+                	 position: relative;
+                	 margin-top: -15px;
+                	 background-color: #212529;
+                }
+                        #color-img {
+                	 opacity: .4;
+                	 position: absolute;
+                	 left: -5px;
+                	 right: 0;
+                	 display: block;
+                	 background-image: url(img/payasos2.jpg);
+                	 background-size: cover;
+                	 width: 100%;
+                	 height: 99.5%;
+                	 -webkit-filter: blur(8px);
+                	 -moz-filter: blur(8px);
+                	 -o-filter: blur(8px);
+                	 -ms-filter: blur(8px);
+                	 filter: blur(8px);
+            }
+            </style>
+                
+    <header title="The Don B. Huntley Gallery">
+
+
+
+      
+        
+    <custom/> 
+
+    
+                         <div id="dept-title">
+                            The Don B. Huntley Gallery
+                    </div>
+    </header>
+
+                        <nav class="navbar navbar-expand-md navbar-light d-block " id="horizontalnav">
+        <button aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler navbar-toggler-right" data-target="#navbarSupportedContent" data-toggle="collapse" id="site-menu-expand-button" type="button">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="nav nav-pills nav-fill center-pills" id="site-nav">
+                                <li class="nav-item" id="li-1">
+                    <a class="nav-link" data-parent="#site-nav" href="/~huntley-gallery/index.shtml">Home</a>    
+                </li>
+                                  
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+                                                
+                                                                                                            
+                                                                                            <li class="nav-item dropdown" id="li-2">
+
+                                    <a aria-expanded="false" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">About</a>
+                                                                             <div class="dropdown-menu">
+                                                                           
+                                                                                                                                                <a class="dropdown-item" href="/~huntley-gallery/about/index.shtml">About</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/~huntley-gallery/about/mission.shtml">Mission</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/~huntley-gallery/about/community-engagement.shtml">Community Engagement</a>
+                                                                                                                                    
+                                                                                                                        
+                                    </div>
+                                </li>
+                                
+                                                                                                                                     
+                                                                                                                                                                                            
+                                                
+                                                                                                            
+                                                                                                
+                                                                    <li class="nav-item" id="li-3">
+                                         <a class="nav-link" data-parent="#site-nav" href="/~huntley-gallery/news-and-events/index.shtml">News &amp; Events</a>    
+                                    </li>
+
+                                                                                                                                        
+                                                                                                                                                                                            
+                                                
+                                                                                                            
+                                                                                            <li class="nav-item dropdown" id="li-4">
+
+                                    <a aria-expanded="false" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">Exhibitions</a>
+                                                                             <div class="dropdown-menu">
+                                                                           
+                                                                                                                                                <a class="dropdown-item" href="/~huntley-gallery/exhibitions/future_exhibition.shtml">Future Exhibitions</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/~huntley-gallery/exhibitions/current_exhibition.shtml">Current Exhibitions</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/~huntley-gallery/exhibitions/past_exhibitions.shtml">Past Exhibitions</a>
+                                                                                                                                    
+                                                                                                                        
+                                    </div>
+                                </li>
+                                
+                                                                                                                                     
+                                                                                                                                                                                            
+                                                
+                                                                                                            
+                                                                                                
+                                                                    <li class="nav-item" id="li-5">
+                                         <a class="nav-link" data-parent="#site-nav" href="/~huntley-gallery/call-for-entry/index.shtml">Call for Entry</a>    
+                                    </li>
+
+                                                                                                                                        
+                                                                                                                                                                                            
+                                                
+                                                                                                            
+                                                                                            <li class="nav-item dropdown" id="li-6">
+
+                                    <a aria-expanded="false" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">Engage</a>
+                                                                             <div class="dropdown-menu">
+                                                                           
+                                                                                                                                                <a class="dropdown-item" href="/~huntley-gallery/engage/volunteer-opportunities.shtml">Volunteer Opportunities</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/~huntley-gallery/engage/internship-opportunities.shtml">Internship Opportunities</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/~huntley-gallery/engage/student-job-opportunities.shtml">Student Job Opportunities</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/~huntley-gallery/engage/exhibition-proposals.shtml">Exhibition Proposals</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/~huntley-gallery/engage/proposed-artwork-donations.shtml">Proposed Artwork Donations</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/~huntley-gallery/engage/make-a-donation.shtml">Make a Donation</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/~huntley-gallery/engage/mailing-list-request.shtml">Mailing List Request</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/~huntley-gallery/engage/social-media.shtml">Social Media</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/~huntley-gallery/engage/other-affiliated-sites.shtml">Other Affiliated Sites</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/~huntley-gallery/engage/visiting-and-tours.shtml">Self-guided Visits, Group Visits &amp; Large Group Guided Tours</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/~huntley-gallery/engage/special-events.shtml">Special Events</a>
+                                                                                                                                    
+                                                                                                                        
+                                    </div>
+                                </li>
+                                
+                                                                                                                                     
+                                                                                                                                                                                            
+                                                
+                                                                                                            
+                                                                                            <li class="nav-item dropdown" id="li-7">
+
+                                    <a aria-expanded="false" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">Collections</a>
+                                                                             <div class="dropdown-menu">
+                                                                           
+                                                                                                                                                <a class="dropdown-item" href="/~huntley-gallery/collections/university-permanent-collection.shtml">University Permanent Collection</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/~huntley-gallery/collections/james-jones-memorial-art-collection.shtml">Col. James Jones Collection</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/~huntley-gallery/collections/ink-and-clay-collection.shtml">Ink &amp; Clay Collection</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/~huntley-gallery/collections/raymond-burr-robert-benevides-collection.shtml">Raymond Burr/Robert Benevides Collection</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/~huntley-gallery/collections/gilson-collection.shtml">Gilson Collection of Midcentury Industrial Design</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/~huntley-gallery/collections/bruce-jewett-collection.shtml">Bruce Jewett Collection of Beatrice Wood Ceramics</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/~huntley-gallery/collections/don-b-huntley-collection.shtml">Don B. Huntley Collection of Western Art</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/~huntley-gallery/collections/keith-janet-kellogg-collection.shtml">Kellogg Art Gallery Collection</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/~huntley-gallery/collections/env-archives-special-collections.shtml">Coll of Env. Des. Archives &amp; Special Collections</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/~huntley-gallery/collections/neutra-vdl-studio-residences.shtml">Neutra VDL Studios &amp; Residences</a>
+                                                                                                                                    
+                                                                                                                        
+                                    </div>
+                                </li>
+                                
+                                                                                                                                     
+                                                                                                                                                                                            
+                                                
+                                        
+                        
+                            
+                                <li class="nav-item" id="li-8">
+                                    <a class="nav-link" data-parent="#site-nav" href="/~huntley-gallery/plan-your-visit.shtml">Visit</a>    
+                                </li>
+
+                                                                                                                                                                                                                                                                                                                                                        
+                                                
+                                        
+                        
+                            
+                                <li class="nav-item" id="li-9">
+                                    <a class="nav-link" data-parent="#site-nav" href="/~huntley-gallery/contact-us.shtml">Contact Us</a>    
+                                </li>
+
+                                                                                                                                                                                                                                                        
+                                                
+                                                                                                            
+                                                                                                
+                                                                    <li class="nav-item" id="li-10">
+                                         <a class="nav-link" data-parent="#site-nav" href="/~huntley-gallery/people/index.shtml">People</a>    
+                                    </li>
+
+                                                                                                                                        
+                                                                                                                                                                                                                                                                                                                                                                        </ul>
+        </div>
+    </nav>
+             
+    <div id="color-bg"><div id="color-img"></div>
+
+
+
+    <main class="container flex-grow">
+
+           <div class="row">
+                            <div class="col-12" id="main">
+                            <h1 class="sr-only">Women's Rights Are Human Rights</h1>
+    
+<h2>Women's Rights Are Human Rights</h2>
+    <strong>Date:</strong> February 20, 2025 <br/>
+
+    <strong>Location: </strong>Don B. Huntley University Art Gallery
+
+
+    
+                    
+                  
+       
+	
+	
+ 
+         
+       
+    <section>
+    <style>
+        #main {
+                	 padding: 15px 50px;
+                	 background-color: #ffffff;
+                	 margin-top: 50px;
+                	 margin-bottom: 50px;
+                }
+        @media screen and (min-width:480px) {
+            main {
+                padding-left: 175px !important;
+            }
+        }
+        
+    </style>
+    <p class="sr-only" id="tab-content-instr">Press the tab key to view the content.  Use the down arrow key to move to the next tab and up arrow key to move to the previous.</p>
+    <div class="row offset-tabs">
+        <div aria-orientation="vertical" class="nav flex-column nav-pills" id="offset-pills-tab" role="tablist">
+                                          <a aria-controls="tab-1" aria-describedby="tab-content-instr" aria-selected="true" class="nav-link active" data-toggle="pill" href="#tab-1" id="tab-1-tab" role="tab" tabindex="0">About the Exhibition</a>
+                       
+                                              <a aria-controls="tab-2" aria-describedby="tab-content-instr" aria-selected="false" class="nav-link" data-toggle="pill" href="#tab-2" id="tab-2-tab" role="tab" tabindex="-1">Guest Currator</a>
+                       
+                                              <a aria-controls="tab-3" aria-describedby="tab-content-instr" aria-selected="false" class="nav-link" data-toggle="pill" href="#tab-3" id="tab-3-tab" role="tab" tabindex="-1">Exhibited Works</a>
+                       
+                                              <a aria-controls="tab-4" aria-describedby="tab-content-instr" aria-selected="false" class="nav-link" data-toggle="pill" href="#tab-4" id="tab-4-tab" role="tab" tabindex="-1">Installation Views</a>
+                       
+                            </div>
+        <div class="tab-content" id="v-pills-tabContent">
+                        
+                                    <div aria-labelledby="tab-1-tab" class="tab-pane fade show active" id="tab-1" role="tabpanel" tabindex="0">
+              
+                      
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                            <p><img alt="banner image for &quot;Women's Rights Are Human Rights&quot; exhibition" class="" height="666" src="img/wrhr-cover-art.png" width="1280"/></p>
+<p data-end="461" data-start="99"><em><strong data-end="136" data-start="99">&#160; &#160; Women's Rights Are Human Rights</strong></em>&#160;is a fitting title for an exhibition of women's rights and advocacy posters. The phrase is a key slogan in the women's rights movement and was also the title of an important speech delivered by Hillary Rodham Clinton at the United Nations Fourth World Conference on Women in Beijing in 1995. In her speech, Clinton stated:</p>
+<p data-end="772" data-start="463"><em data-end="770" data-start="463">&#160; &#160; "If the term 'women's rights' were to be interchangeable with the term 'human rights,' the world community would be a better place because human rights affect the women who raise the world's children, care for the elderly, run companies, work in hospitals, and fight for better education and health care."</em></p>
+<p data-end="1134" data-start="774">&#160; &#160; Yet, gender inequalities remain deeply entrenched in every society. Women lack access to decent work, face occupational segregation, and experience gender wage disparities. Many women are denied access to basic education and healthcare, suffer from violence and discrimination, and remain underrepresented in political and economic decision-making processes.</p>
+<p data-end="1848" data-start="1136">&#160; &#160; In many cultures, women have limited control over their own bodies, as female sexuality is often controlled and defined by men in patriarchal societies. Sexual violence committed by men is frequently rooted in ideologies of male sexual entitlement, with many systems granting women few legitimate options to refuse sexual advances. This entitlement manifests in different ways depending on the culture. Human rights and women's rights are violated every day, as rape and brutality against women are often used as instruments of armed conflict. Women and children comprise the majority of the world&#8217;s refugees, and when women are excluded from political participation, they become even more vulnerable to abuse.</p>
+<p data-end="2429" data-start="1850">&#160; &#160; This exhibition features posters created by both men and women to celebrate and acknowledge the vital role all citizens must play in protecting and promoting human rights. These works challenge gender inequality and stereotypes, advocate for sexual and reproductive rights, and call for the protection of women and girls against violence. The posters promote women&#8217;s empowerment and full participation in society while questioning religious and cultural norms, as well as patriarchal attitudes that subordinate, stigmatize, or restrict women from reaching their full potential.</p>
+<p data-end="2753" data-start="2431">&#160; &#160; With a powerful collective visual voice, these posters are designed to awaken a sense of shared responsibility in challenging gender inequality and discrimination. They provoke both a necessary discomfort and an empathetic response in viewers, urging them to reflect on the pervasive injustices faced by women worldwide.</p>
+<p>&#160;</p>
+                            </div>
+                        
+                        
+                            
+                                      <div aria-labelledby="tab-2-tab" class="tab-pane fade" id="tab-2" role="tabpanel" tabindex="0">
+                <h2><br/><img alt="Portrait of Curator Elizabeth Resnick" height="1000" src="img/elizabeth-resnick_photo_color_2017.jpg" style="height: 310px; width: auto; float: left; margin: 0px 20px 20px 0px;" width="789"/>Guest Curator Biography</h2>
+<p style="padding-left: 60px; text-align: left;"><strong>&#160; &#160; Elizabeth Resnick</strong> is a Professor Emerita, former chair of Graphic Design and current part-time faculty at Massachusetts College of Art and Design, Boston, Massachusetts. She earned her B.F.A. and M.F.A. degrees in Graphic Design from Rhode Island School of Design, Providence, Rhode Island.</p>
+<p>&#160; &#160; Elizabeth Resnick Design, an independent Boston design studio was in operation from 1973&#8211;1996. Clients included: Ciba Corning Diagnostics Corporation, Store 24, Animal Rescue League of Boston, AIGA Boston, Massachusetts College of Art, and other area schools plus many local non-profit cultural organizations.</p>
+<p>&#160; &#160; Professor Resnick is a passionate design curator who has organized seven comprehensive design exhibitions: Within/Without: The Art of Russell Mills with Teresa Flavin (1991); Dutch Graphic Design: 1918&#8211;1945 with Alston Purvis (1994); The Art of the Poster: Makoto Saito with Jan Kubasiewicz (1999); The Graphic Imperative: International Posters of Peace, Social Justice and The Environment 1965&#8211;2005 with Chaz Maviyane-Davies and Frank Baseman (2005); Graphic Intervention: 25 Years of International AIDS Awareness Posters 1985&#8211;2010 with Javier Cort&#233;s (2010); Graphic Advocacy: International Posters for the Digital Age: 2001&#8211;2012 (2012) and currently Women&#8217;s Rights Are Human Rights: International Posters on Gender-based Inequality, Violence and Discrimination (2016) which investigates gender-based inequalities deeply entrenched in every global society.</p>
+<p>&#160; &#160; Her publications include catalogs for the most of the exhibitions mentioned above plus The Social Design Reader Bloomsbury Visual Arts (2019), Developing Citizen Designers, Bloomsbury Academic (2016), Design for Communication: Conceptual Graphic Design Basics, John Wiley &amp; Sons Publishers (2003) and Graphic Design: A Problem-Solving Approach to Visual Communication, Prentice-Hall Publications&#8221;(1984).</p>
+<p>&#160; &#160; She has led poster workshops and lectured throughout the United States, Mexico, Ireland, Great Britain, China, South Korea, Iceland, Taiwan, Bolivia, Krakow and Warsaw. Her posters have been accepted at the Warsaw Poster Biennial and Mexican Poster Biennial and she frequently participates in International poster invitational exhibitions.</p> 
+                                
+                </div>
+            
+                        
+                        
+                            
+                                      <div aria-labelledby="tab-3-tab" class="tab-pane fade" id="tab-3" role="tabpanel" tabindex="0">
+                <content></content> 
+                                    
+                                        <!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+		<title>
+			Exhibited Artwork
+		</title>
+		<!-- Required meta tags -->
+		<meta charset="utf-8"/>
+		<meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
+		
+		
+		
+		
+		
+		<link href="/kellogg-gallery/inc/exhibited-works-style-override.css" rel="stylesheet"/>
+	</head>
+	<body>
+		
+		
+		                                                                                                                                                        																										                                                            															    		                                            
+
+
+            
+
+    <header title="The Don B. Huntley Gallery">
+
+
+
+      
+        
+    <custom/> 
+
+    
+        </header>
+
+    
+
+
+    <main class="container-fluid flex-grow">
+
+    <div class="row">
+                <div class="col-12" id="main"> 
+                 <h1 class="sr-only">Exhibited Artwork</h1>
+    
+
+
+    
+                    
+                         
+                   
+                                            
+    
+            <section class="row  align-items-top card-section secondary-blue" id="s0"> 
+                      
+                 
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                                                                      
+                                                                                                        
+              
+        
+                    <div class="col-lg-4 col-md-4 col-sm-12 single-card">
+                            
+            
+                                                            <div class="card h-100 border-0">    
+                                                    
+                                                                                    <div class="shift text-center">
+                                                                                                             <img alt="&quot;Congo, The Worst Place To Be a Woman&quot; by Ophelia Acquah" src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/cropped-real-wrhr/cropped_acquah.png"/>
+                                                                            </div>
+                                                                        <div class="card-body d-flex flex-column align-items-start">
+                            
+                            <h2 id="ch-0">Ophelia Acquah </h2>
+                                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                        <em><span class="NormalTextRun SCXW132378623 BCX0">Congo, The Worst Place </span><span class="NormalTextRun ContextualSpellingAndGrammarErrorV2Themed SCXW132378623 BCX0">To</span><span class="NormalTextRun SCXW132378623 BCX0"> Be a Woman</span></em>  
+                        
+                        
+                                    <button class="btn btn-primary mt-3" data-target="#modal-artwork-listing-pg-0" data-toggle="modal" title="Enlarge. Enlarge &quot;Congo, The Worst Place To Be a Woman&quot;" type="button">Enlarge</button>
+                                            
+       
+                            </div>
+                            </div>
+                            
+                                
+            <div aria-hidden="true" aria-labelledby="title0" class="modal fade" id="modal-artwork-listing-pg-0" role="dialog" style="display: none;" tabindex="-1">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header" tabindex="0">
+                            <h3 class="modal-title" id="title0">"Congo, The Worst Place To Be a Woman"</h3>
+                             <button aria-label="Close" class="close" data-dismiss="modal" type="button">
+          <span aria-hidden="true">
+             
+              &times;
+              
+              </span>
+        </button>
+                        </div>
+                        <div class="modal-body" tabindex="0">
+                            <p><img alt="&quot;Congo, The Worsts Place To Be a Woman&quot; by Ophelia Acquah" class="" height="1143" src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/wrhr-real-exhibited/acquah_ophelia_congo-is-the-worst-place-to-be-a-woman.jpg" width="800"/></p>
+<p><strong><span data-contrast="auto">Ophelia Acquah</span></strong><span data-ccp-props="{}">&#160;<br/></span><i>Congo, The Worst Place To Be a Woman</i>, 2011<span data-ccp-props="{}">&#160;<br/></span><span data-contrast="auto">Ghana</span><span data-ccp-props="{}">&#160;<br/></span><span data-contrast="auto">100 x 70 cm</span><span data-ccp-props="{}">&#160;<br/></span><span data-contrast="auto">Image use courtesy of the artist</span><span data-ccp-props="{}">&#160;</span></p>
+                        </div>
+                        <div class="modal-footer text-align-right">
+                            <button aria-label="Close" class="btn btn-primary" data-dismiss="modal" type="button">
+                                <span aria-hidden="true">Close</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                
+    
+            </div>
+                                                
+                                                                                                        
+              
+        
+                    <div class="col-lg-4 col-md-4 col-sm-12 single-card">
+                            
+            
+                                                            <div class="card h-100">
+                                                    
+                                                                                    <div class="shift text-center">
+                                                                                                             <img alt="&quot;Keep Abortion Legal&quot; by Scott Bakal" src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/cropped-real-wrhr/bakal-cropped.png"/>
+                                                                            </div>
+                                                                        <div class="card-body d-flex flex-column align-items-start">
+                            
+                            <h2 id="ch-1">Scott Bakal</h2>
+                                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                        <em><span class="TextRun SCXW133327521 BCX0" data-contrast="auto" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW133327521 BCX0">Keep Abortion Legal</span></span></em>  
+                        
+                        
+                                    <button class="btn btn-primary mt-3" data-target="#modal-artwork-listing-pg-1" data-toggle="modal" title="Enlarge. Enlarge &quot;Keep Abortion Legal&quot;" type="button">Enlarge</button>
+                                            
+       
+                            </div>
+                            </div>
+                            
+                                
+            <div aria-hidden="true" aria-labelledby="title1" class="modal fade" id="modal-artwork-listing-pg-1" role="dialog" style="display: none;" tabindex="-1">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header" tabindex="0">
+                            <h3 class="modal-title" id="title1">"Keep Abortion Legal"</h3>
+                             <button aria-label="Close" class="close" data-dismiss="modal" type="button">
+          <span aria-hidden="true">
+             
+              &times;
+              
+              </span>
+        </button>
+                        </div>
+                        <div class="modal-body" tabindex="0">
+                            <p><img alt="&quot;Keep Abortion Legal&quot; by Scott Bakal" class="" height="1019" src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/wrhr-real-exhibited/bakal_scott-_keep-abortion-legal.jpg" width="800"/></p>
+<p><strong><span data-contrast="auto">Scott Bakal</span></strong><span>&#160;<br/></span><i>Keep Abortion Legal</i>, 2017<span data-ccp-props="{}">&#160;<br/></span><span data-contrast="auto">USA</span><span>&#160;<br/></span><span data-contrast="auto">100 x 70 cm</span><span>&#160;<br/></span><span data-contrast="auto">Image use courtesy of the artist</span><span data-ccp-props="{}">&#160;</span></p>
+                        </div>
+                        <div class="modal-footer text-align-right">
+                            <button aria-label="Close" class="btn btn-primary" data-dismiss="modal" type="button">
+                                <span aria-hidden="true">Close</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                
+    
+            </div>
+                                                
+                                                                                                        
+              
+        
+                    <div class="col-lg-4 col-md-4 col-sm-12 single-card">
+                            
+            
+                                                            <div class="card h-100">
+                                                    
+                                                                                    <div class="shift text-center">
+                                                                                                             <img alt="&quot;Women Aren't Battlefields&quot; by Eric Boeltz" src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/cropped-real-wrhr/boelts-cropped.png"/>
+                                                                            </div>
+                                                                        <div class="card-body d-flex flex-column align-items-start">
+                            
+                            <h2 id="ch-2">Eric Boeltz</h2>
+                                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                        <em><span class="TextRun SCXW136179321 BCX0" data-contrast="auto" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW136179321 BCX0">Women Aren't Battlefields</span></span></em>  
+                        
+                        
+                                    <button class="btn btn-primary mt-3" data-target="#modal-artwork-listing-pg-2" data-toggle="modal" title="Enlarge. Enlarge &quot;Women Aren't Battlefields&quot;" type="button">Enlarge</button>
+                                            
+       
+                            </div>
+                            </div>
+                            
+                                
+            <div aria-hidden="true" aria-labelledby="title2" class="modal fade" id="modal-artwork-listing-pg-2" role="dialog" style="display: none;" tabindex="-1">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header" tabindex="0">
+                            <h3 class="modal-title" id="title2">"Women Aren't Battlefields"</h3>
+                             <button aria-label="Close" class="close" data-dismiss="modal" type="button">
+          <span aria-hidden="true">
+             
+              &times;
+              
+              </span>
+        </button>
+                        </div>
+                        <div class="modal-body" tabindex="0">
+                            <p><img alt="&quot;Women Aren't Battlefields&quot; by Eric Boeltz" class="" height="1143" src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/wrhr-real-exhibited/boelts_eric_women-arent-battlefields.jpg" width="800"/></p>
+<p><strong><span data-contrast="auto">Eric Boelts</span></strong><span data-ccp-props="{}">&#160;<br/></span><i>Women Aren't Battlefields</i>, 2017&#160;<br/><span data-contrast="auto">USA</span><span data-ccp-props="{}">&#160;<br/></span><span data-contrast="auto">100 x 70 cm</span><strong><span data-contrast="auto">&#8239;</span></strong><span>&#160;<br/></span><span data-contrast="auto">Image use courtesy of the artist</span></p>
+<p>&#160;</p>
+                        </div>
+                        <div class="modal-footer text-align-right">
+                            <button aria-label="Close" class="btn btn-primary" data-dismiss="modal" type="button">
+                                <span aria-hidden="true">Close</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                
+    
+            </div>
+                                                
+                                                                                                        
+              
+        
+                    <div class="col-lg-4 col-md-4 col-sm-12 single-card">
+                            
+            
+                                                            <div class="card h-100">
+                                                    
+                                                                                    <div class="shift text-center">
+                                                                                                             <img alt="&quot;Preserve the Right of Choice (Unrestricted Area)&quot; by Trudy Cole" src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/cropped-real-wrhr/cole-cropped.png"/>
+                                                                            </div>
+                                                                        <div class="card-body d-flex flex-column align-items-start">
+                            
+                            <h2 id="ch-3">Trudy Cole</h2>
+                                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                        <em><span class="TextRun SCXW200442985 BCX0" data-contrast="auto" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW200442985 BCX0">Preserve the Right of Choice (Unrestricted Area)</span></span></em>  
+                        
+                        
+                                    <button class="btn btn-primary mt-3" data-target="#modal-artwork-listing-pg-3" data-toggle="modal" title="Enlarge. Enlarge &quot;Preserve the Right of Choice (Unrestricted Area)&quot;" type="button">Enlarge</button>
+                                            
+       
+                            </div>
+                            </div>
+                            
+                                
+            <div aria-hidden="true" aria-labelledby="title3" class="modal fade" id="modal-artwork-listing-pg-3" role="dialog" style="display: none;" tabindex="-1">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header" tabindex="0">
+                            <h3 class="modal-title" id="title3">"Preserve the Right of Choice (Unrestricted Area)"</h3>
+                             <button aria-label="Close" class="close" data-dismiss="modal" type="button">
+          <span aria-hidden="true">
+             
+              &times;
+              
+              </span>
+        </button>
+                        </div>
+                        <div class="modal-body" tabindex="0">
+                            <p><img alt="&quot;Preserve the Right of Choice (Unrestricted Area)&quot; by Trudy Cole" class="" height="480" src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/wrhr-real-exhibited/cole_trudy_preserve-the-right-of-choice.jpg" width="315"/></p>
+<p><strong><span data-contrast="auto">Trudy Cole</span></strong><span data-ccp-props="{}">&#160;<br/></span><i>Preserve the Right of Choice (Unrestricted Area)</i>, 1993&#160;<br/><span data-contrast="auto">USA</span><span data-ccp-props="{}">&#160;<br/></span><span data-contrast="auto">88.75 x 58.2 cm&#8239;</span><span>&#160;<br/></span><span data-contrast="auto">Image use courtesy of the artist</span></p>
+                        </div>
+                        <div class="modal-footer text-align-right">
+                            <button aria-label="Close" class="btn btn-primary" data-dismiss="modal" type="button">
+                                <span aria-hidden="true">Close</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                
+    
+            </div>
+                                                
+                                                                                                        
+              
+        
+                    <div class="col-lg-4 col-md-4 col-sm-12 single-card">
+                            
+            
+                                                            <div class="card h-100">
+                                                    
+                                                                                    <div class="shift text-center">
+                                                                                                             <img alt="&quot;The Sound of Silence&quot; by Meaghan Dee" src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/cropped-real-wrhr/dee-cropped.png"/>
+                                                                            </div>
+                                                                        <div class="card-body d-flex flex-column align-items-start">
+                            
+                            <h2 id="ch-4">Meaghan Dee</h2>
+                                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                        <em><span class="TextRun SCXW253491791 BCX0" data-contrast="auto" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW253491791 BCX0">The Sound of Silence</span></span></em>  
+                        
+                        
+                                    <button class="btn btn-primary mt-3" data-target="#modal-artwork-listing-pg-4" data-toggle="modal" title="Enlarge. Enlarge &quot;The Sound of Silence&quot; " type="button">Enlarge</button>
+                                            
+       
+                            </div>
+                            </div>
+                            
+                                
+            <div aria-hidden="true" aria-labelledby="title4" class="modal fade" id="modal-artwork-listing-pg-4" role="dialog" style="display: none;" tabindex="-1">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header" tabindex="0">
+                            <h3 class="modal-title" id="title4">"The Sound of Silence"</h3>
+                             <button aria-label="Close" class="close" data-dismiss="modal" type="button">
+          <span aria-hidden="true">
+             
+              &times;
+              
+              </span>
+        </button>
+                        </div>
+                        <div class="modal-body" tabindex="0">
+                            <p><img alt="&quot;The Sound of Silence&quot; by Meaghan Dee" class="" height="1200" src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/wrhr-real-exhibited/dee_meaghan_sound-of-silence.jpg" width="840"/></p>
+<p><strong><span data-contrast="auto">Meaghan Dee&#8239;</span></strong><span>&#160;<br/></span><em>The Sound of Silence, 2018&#160;<br/></em><span data-contrast="auto">USA</span><span data-ccp-props="{}">&#160;<br/></span><span data-contrast="auto">100 x 70 cm&#8239;</span><span>&#160;<br/></span><span data-contrast="auto">Image use courtesy of the artist</span></p>
+                        </div>
+                        <div class="modal-footer text-align-right">
+                            <button aria-label="Close" class="btn btn-primary" data-dismiss="modal" type="button">
+                                <span aria-hidden="true">Close</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                
+    
+            </div>
+                                                
+                                                                                                        
+              
+        
+                    <div class="col-lg-4 col-md-4 col-sm-12 single-card">
+                            
+            
+                                                            <div class="card h-100">
+                                                    
+                                                                                    <div class="shift text-center">
+                                                                                                             <img alt="&quot;Stop FGM (Female Genital Mutilation)&quot; by Michelle Flunger" src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/cropped-real-wrhr/flunger-cropped.png"/>
+                                                                            </div>
+                                                                        <div class="card-body d-flex flex-column align-items-start">
+                            
+                            <h2 id="ch-5">Michelle Flunger </h2>
+                                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                        <em><span class="TextRun SCXW182963178 BCX0" data-contrast="auto" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW182963178 BCX0">Stop FGM (Female Genital Mutilation)</span></span></em>  
+                        
+                        
+                                    <button class="btn btn-primary mt-3" data-target="#modal-artwork-listing-pg-5" data-toggle="modal" title="Enlarge. Enlarge &quot;Stop FGM (Female Genital Mutilation)&quot;" type="button">Enlarge</button>
+                                            
+       
+                            </div>
+                            </div>
+                            
+                                
+            <div aria-hidden="true" aria-labelledby="title5" class="modal fade" id="modal-artwork-listing-pg-5" role="dialog" style="display: none;" tabindex="-1">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header" tabindex="0">
+                            <h3 class="modal-title" id="title5">"Stop FGM (Female Genital Mutilation)"</h3>
+                             <button aria-label="Close" class="close" data-dismiss="modal" type="button">
+          <span aria-hidden="true">
+             
+              &times;
+              
+              </span>
+        </button>
+                        </div>
+                        <div class="modal-body" tabindex="0">
+                            <p><img alt="&quot;Stop FGM (Female Genital Mutilation)&quot; by Michelle Flunger" class="" height="1143" src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/wrhr-real-exhibited/flunger_michelle_female-gential-mutilation.jpg" width="800"/></p>
+<p><strong><span data-contrast="auto">Michelle Flunger&#8239;</span></strong><span>&#160;<br/></span><em>Stop FGM (Female Genital Mutilation), 2012&#160;<br/></em><span data-contrast="auto">Germany</span><span data-ccp-props="{}">&#160;<br/></span><span data-contrast="auto">100 x 70 cm&#8239;</span><span>&#160;<br/></span><span data-contrast="auto">Image use courtesy of the artist&#8239;</span><span>&#160;<br/></span><span data-contrast="auto">Design: Michelle Flunger&#8239;</span><span>&#160;<br/></span><span data-contrast="auto">Font: Thorn by Hubert Jocham&#8239;</span><span>&#160;<br/></span><span data-contrast="auto">Winner MUT ZUR WUT, 2012</span><span data-ccp-props="{}">&#160;</span></p>
+<p>&#160;</p>
+<p>&#160;</p>
+                        </div>
+                        <div class="modal-footer text-align-right">
+                            <button aria-label="Close" class="btn btn-primary" data-dismiss="modal" type="button">
+                                <span aria-hidden="true">Close</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                
+    
+            </div>
+                                                
+                                                                                                        
+              
+        
+                    <div class="col-lg-4 col-md-4 col-sm-12 single-card">
+                            
+            
+                                                            <div class="card h-100">
+                                                    
+                                                                                    <div class="shift text-center">
+                                                                                                             <img alt="&quot;Raise Your Voice: Stop Harassment&quot; by Ashraf Foda" src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/cropped-real-wrhr/foda-cropped.png"/>
+                                                                            </div>
+                                                                        <div class="card-body d-flex flex-column align-items-start">
+                            
+                            <h2 id="ch-6">Ashraf Foda</h2>
+                                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                        <em>Raise Your Voice: Stop Harassment</em>  
+                        
+                        
+                                    <button class="btn btn-primary mt-3" data-target="#modal-artwork-listing-pg-6" data-toggle="modal" title="Enlarge. Enlarge &quot;Raise Your Voice: Stop Harassment&quot;" type="button">Enlarge</button>
+                                            
+       
+                            </div>
+                            </div>
+                            
+                                
+            <div aria-hidden="true" aria-labelledby="title6" class="modal fade" id="modal-artwork-listing-pg-6" role="dialog" style="display: none;" tabindex="-1">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header" tabindex="0">
+                            <h3 class="modal-title" id="title6">"Raise Your Voice: Stop Harassment"</h3>
+                             <button aria-label="Close" class="close" data-dismiss="modal" type="button">
+          <span aria-hidden="true">
+             
+              &times;
+              
+              </span>
+        </button>
+                        </div>
+                        <div class="modal-body" tabindex="0">
+                            <p><img alt="&quot;Raise Your Voice: Stop Harassment&quot; by Ashraf Foda" class="" height="1081" src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/wrhr-real-exhibited/foda_ashraf_raise-your-voice_stop-harassment.jpg" width="800"/></p>
+<p><strong><span data-contrast="auto">Ashraf Foda&#8239;</span></strong><span>&#160;<br/></span><i>Raise Your Voice: Stop Harassment</i>, 2013&#8239;&#160;<br/><span data-contrast="auto">Egypt</span><span>&#160;<br/></span><span data-contrast="auto">100 x 70 cm&#8239;</span><span>&#160;<br/></span><span data-contrast="auto">Image use courtesy of the artist</span><span data-ccp-props="{}">&#160;</span></p>
+                        </div>
+                        <div class="modal-footer text-align-right">
+                            <button aria-label="Close" class="btn btn-primary" data-dismiss="modal" type="button">
+                                <span aria-hidden="true">Close</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                
+    
+            </div>
+                                                
+                                                                                                        
+              
+        
+                    <div class="col-lg-4 col-md-4 col-sm-12 single-card">
+                            
+            
+                                                            <div class="card h-100">
+                                                    
+                                                                                    <div class="shift text-center">
+                                                                                                             <img alt="&quot;Against Violence to Women&quot; by Lourdes Zolezzi Horiuchi" src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/cropped-real-wrhr/horiuchi-cropped.png"/>
+                                                                            </div>
+                                                                        <div class="card-body d-flex flex-column align-items-start">
+                            
+                            <h2 id="ch-7">Lourdes Zolezzi Horiuchi </h2>
+                                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                        <em><span class="TextRun SCXW128645065 BCX0" data-contrast="auto" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW128645065 BCX0">Against Violence to Women</span></span></em>  
+                        
+                        
+                                    <button class="btn btn-primary mt-3" data-target="#modal-artwork-listing-pg-7" data-toggle="modal" title="Enlarge. Enlarge &quot;Against Violence to Women&quot;" type="button">Enlarge</button>
+                                            
+       
+                            </div>
+                            </div>
+                            
+                                
+            <div aria-hidden="true" aria-labelledby="title7" class="modal fade" id="modal-artwork-listing-pg-7" role="dialog" style="display: none;" tabindex="-1">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header" tabindex="0">
+                            <h3 class="modal-title" id="title7">"Against Violence to Women"</h3>
+                             <button aria-label="Close" class="close" data-dismiss="modal" type="button">
+          <span aria-hidden="true">
+             
+              &times;
+              
+              </span>
+        </button>
+                        </div>
+                        <div class="modal-body" tabindex="0">
+                            <p><img alt="&quot;Against Violence to Women&quot; by Lourdes Zolezzi Horiuchi" class="" height="1143" src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/wrhr-real-exhibited/horiuchi_lourdes-zolezzi_against-violence-toward-women.jpg" width="800"/></p>
+<p><strong><span data-contrast="auto">Lourdes Zolezzi Horiuchi&#8239;</span></strong><span>&#160;<br/></span><i>Against Violence to Women</i>, 2000<strong><span data-contrast="auto">&#8239;</span></strong><span data-ccp-props="{}">&#160;<br/></span><span data-contrast="auto">Mexico</span><span>&#160;<br/></span><span data-contrast="auto">100 x 90 cm</span><strong><span data-contrast="auto">&#8239;</span></strong><span>&#160;<br/></span><span data-contrast="auto">Image use courtesy of the artist</span><span data-ccp-props="{}">&#160;</span></p>
+                        </div>
+                        <div class="modal-footer text-align-right">
+                            <button aria-label="Close" class="btn btn-primary" data-dismiss="modal" type="button">
+                                <span aria-hidden="true">Close</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                
+    
+            </div>
+                                                
+                                                                                                        
+              
+        
+                    <div class="col-lg-4 col-md-4 col-sm-12 single-card">
+                            
+            
+                                                            <div class="card h-100">
+                                                    
+                                                                                    <div class="shift text-center">
+                                                                                                             <img alt="&quot;Stop Violence Against Women&quot; by Michel Kichka" src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/cropped-real-wrhr/kichka-cropped.png"/>
+                                                                            </div>
+                                                                        <div class="card-body d-flex flex-column align-items-start">
+                            
+                            <h2 id="ch-8">Michel Kichka</h2>
+                                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                        <em><span class="TextRun SCXW142526491 BCX0" data-contrast="auto" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW142526491 BCX0">Stop Violence Against Women</span></span></em>  
+                        
+                        
+                                    <button class="btn btn-primary mt-3" data-target="#modal-artwork-listing-pg-8" data-toggle="modal" title="Enlarge. Enlarge &quot;Stop Violence Against Women&quot;" type="button">Enlarge</button>
+                                            
+       
+                            </div>
+                            </div>
+                            
+                                
+            <div aria-hidden="true" aria-labelledby="title8" class="modal fade" id="modal-artwork-listing-pg-8" role="dialog" style="display: none;" tabindex="-1">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header" tabindex="0">
+                            <h3 class="modal-title" id="title8">"Stop Violence Against Women"</h3>
+                             <button aria-label="Close" class="close" data-dismiss="modal" type="button">
+          <span aria-hidden="true">
+             
+              &times;
+              
+              </span>
+        </button>
+                        </div>
+                        <div class="modal-body" tabindex="0">
+                            <p><img alt="&quot;Stop Violence Against Women&quot; by Michel Kichka" class="" height="1135" src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/wrhr-real-exhibited/kichka_michel_stop-violence-against-women.jpg" width="800"/></p>
+<p><strong><span data-contrast="auto">Michel Kichka&#8239;</span></strong><span>&#160;<br/></span><i>Stop Violence Against Women</i>, 2008&#8239;&#160;<br/><span data-contrast="auto">Israel</span><span>&#160;<br/></span><span data-contrast="auto">100 x 70 cm&#8239;</span><span>&#160;<br/></span><span data-contrast="auto">Image use courtesy of the artist</span></p>
+                        </div>
+                        <div class="modal-footer text-align-right">
+                            <button aria-label="Close" class="btn btn-primary" data-dismiss="modal" type="button">
+                                <span aria-hidden="true">Close</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                
+    
+            </div>
+                                                
+                                                                                                        
+              
+        
+                    <div class="col-lg-4 col-md-4 col-sm-12 single-card">
+                            
+            
+                                                            <div class="card h-100">
+                                                    
+                                                                                    <div class="shift text-center">
+                                                                                                             <img alt="&quot;Leave My Body Alone&quot; by Anita Kunz" src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/cropped-real-wrhr/kunz-cropped.png"/>
+                                                                            </div>
+                                                                        <div class="card-body d-flex flex-column align-items-start">
+                            
+                            <h2 id="ch-9">Anita Kunz</h2>
+                                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                        <em><span class="TextRun SCXW172706025 BCX0" data-contrast="auto" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW172706025 BCX0">Leave My Body Alone</span></span></em>  
+                        
+                        
+                                    <button class="btn btn-primary mt-3" data-target="#modal-artwork-listing-pg-9" data-toggle="modal" title="Enlarge. Enlarge &quot;Leave My Body Alone&quot;" type="button">Enlarge</button>
+                                            
+       
+                            </div>
+                            </div>
+                            
+                                
+            <div aria-hidden="true" aria-labelledby="title9" class="modal fade" id="modal-artwork-listing-pg-9" role="dialog" style="display: none;" tabindex="-1">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header" tabindex="0">
+                            <h3 class="modal-title" id="title9">"Leave My Body Alone"</h3>
+                             <button aria-label="Close" class="close" data-dismiss="modal" type="button">
+          <span aria-hidden="true">
+             
+              &times;
+              
+              </span>
+        </button>
+                        </div>
+                        <div class="modal-body" tabindex="0">
+                            <p><img alt="&quot;Leave My Body Alone&quot; by Anita Kunz" class="" height="840" src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/wrhr-real-exhibited/kunz_anita_leave-my-body-alone.jpg" width="1200"/></p>
+<p><strong><span data-contrast="auto">Anita Kunz&#8239;</span></strong><span>&#160;<br/></span><i>Leave My Body Alone</i>, 2006&#8239;&#160;<br/><span data-contrast="auto">Canada</span><span>&#160;<br/></span><span data-contrast="auto">70 x 100 cm&#8239;</span><span>&#160;<br/></span><span data-contrast="auto">Image use courtesy of the artist &#8239;</span><span>&#160;<br/></span><span data-contrast="auto">&#169; Anita Kunz for RESIST Publication&#8239;</span><span>&#160;<br/></span><span data-contrast="auto">Art Direction: Fran&#231;oise Mouly and Nadja Spiegelman</span></p>
+                        </div>
+                        <div class="modal-footer text-align-right">
+                            <button aria-label="Close" class="btn btn-primary" data-dismiss="modal" type="button">
+                                <span aria-hidden="true">Close</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                
+    
+            </div>
+                                                
+                                                                                                        
+              
+        
+                    <div class="col-lg-4 col-md-4 col-sm-12 single-card">
+                            
+            
+                                                            <div class="card h-100">
+                                                    
+                                                                                    <div class="shift text-center">
+                                                                                                             <img alt="&quot;Let's Protect a Woman from Sexual Violence&quot; by Takayuki Kuribayashi  " src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/cropped-real-wrhr/kuribayashi-cropped.png"/>
+                                                                            </div>
+                                                                        <div class="card-body d-flex flex-column align-items-start">
+                            
+                            <h2 id="ch-10">Takayuki Kuribayashi  </h2>
+                                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                        <em><span class="TextRun SCXW25406532 BCX0" data-contrast="auto" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW25406532 BCX0">Let's Protect a Woman from Sexual Violence</span></span></em>  
+                        
+                        
+                                    <button class="btn btn-primary mt-3" data-target="#modal-artwork-listing-pg-10" data-toggle="modal" title="Enlarge. Enlarge &quot;Let's Protect a Woman from Sexual Violence&quot;" type="button">Enlarge</button>
+                                            
+       
+                            </div>
+                            </div>
+                            
+                                
+            <div aria-hidden="true" aria-labelledby="title10" class="modal fade" id="modal-artwork-listing-pg-10" role="dialog" style="display: none;" tabindex="-1">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header" tabindex="0">
+                            <h3 class="modal-title" id="title10">"Let's Protect a Woman from Sexual Violence"</h3>
+                             <button aria-label="Close" class="close" data-dismiss="modal" type="button">
+          <span aria-hidden="true">
+             
+              &times;
+              
+              </span>
+        </button>
+                        </div>
+                        <div class="modal-body" tabindex="0">
+                            <p><img alt="&quot;Let's Protect a Woman from Sexual Violence&quot; by Takayuki Kuribayashi" class="" height="1131" src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/wrhr-real-exhibited/kuribayashi_takayuki_lets-respect-womens-rights.jpg" width="800"/></p>
+<p><strong><span data-contrast="auto">Takayuki Kuribayashi&#8239;</span></strong><span>&#160;<br/></span><i>Let's Protect a Woman from Sexual Violence</i>, 2015&#8239;<span>&#160;<br/></span><span data-contrast="auto">Japan</span><span data-ccp-props="{}">&#160;<br/></span><span data-contrast="auto">100 x 70 cm&#8239;</span><span>&#160;<br/></span><span data-contrast="auto">Image use courtesy of the artist</span><span data-ccp-props="{}">&#160;</span></p>
+                        </div>
+                        <div class="modal-footer text-align-right">
+                            <button aria-label="Close" class="btn btn-primary" data-dismiss="modal" type="button">
+                                <span aria-hidden="true">Close</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                
+    
+            </div>
+                                                
+                                                                                                        
+              
+        
+                    <div class="col-lg-4 col-md-4 col-sm-12 single-card">
+                            
+            
+                                                            <div class="card h-100">
+                                                    
+                                                                                    <div class="shift text-center">
+                                                                                                             <img alt="&quot;Freedom From Oppression&quot; by Yossi Lemel " src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/cropped-real-wrhr/lemel-cropped.png"/>
+                                                                            </div>
+                                                                        <div class="card-body d-flex flex-column align-items-start">
+                            
+                            <h2 id="ch-11">Yossi Lemel </h2>
+                                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                        <em><span class="NormalTextRun SCXW776787 BCX0">Freedom </span><span class="NormalTextRun ContextualSpellingAndGrammarErrorV2Themed SCXW776787 BCX0">From</span><span class="NormalTextRun SCXW776787 BCX0"> Oppression</span></em>  
+                        
+                        
+                                    <button class="btn btn-primary mt-3" data-target="#modal-artwork-listing-pg-11" data-toggle="modal" title="Enlarge. Enlarge &quot;Freedom From Oppression&quot;" type="button">Enlarge</button>
+                                            
+       
+                            </div>
+                            </div>
+                            
+                                
+            <div aria-hidden="true" aria-labelledby="title11" class="modal fade" id="modal-artwork-listing-pg-11" role="dialog" style="display: none;" tabindex="-1">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header" tabindex="0">
+                            <h3 class="modal-title" id="title11">"Freedom From Oppression"</h3>
+                             <button aria-label="Close" class="close" data-dismiss="modal" type="button">
+          <span aria-hidden="true">
+             
+              &times;
+              
+              </span>
+        </button>
+                        </div>
+                        <div class="modal-body" tabindex="0">
+                            <p><img alt="&quot;Freedom From Oppression&quot; by Yossi Lemel" class="" height="1200" src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/wrhr-real-exhibited/lemel_yossi_freedom-from-oppression.jpg" width="840"/></p>
+<p><strong><span data-contrast="auto">Yossi Lemel&#8239;</span></strong><span>&#160;<br/></span><i>Freedom From Oppression</i>, 2017&#8239;&#160;<br/><span data-contrast="auto">Israel</span><span>&#160;<br/></span><span data-contrast="auto">100 x 70 cm&#8239;</span><span>&#160;<br/></span><span data-contrast="auto">Image use courtesy of the artist</span></p>
+                        </div>
+                        <div class="modal-footer text-align-right">
+                            <button aria-label="Close" class="btn btn-primary" data-dismiss="modal" type="button">
+                                <span aria-hidden="true">Close</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                
+    
+            </div>
+                                                
+                                                                                                        
+              
+        
+                    <div class="col-lg-4 col-md-4 col-sm-12 single-card">
+                            
+            
+                                                            <div class="card h-100">
+                                                    
+                                                                                    <div class="shift text-center">
+                                                                                                             <img alt="&quot;Words Hurt&quot; by Julie McNamara" src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/cropped-real-wrhr/mcnamara-cropped.png"/>
+                                                                            </div>
+                                                                        <div class="card-body d-flex flex-column align-items-start">
+                            
+                            <h2 id="ch-12">Julie McNamara</h2>
+                                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                        <em>Words Hurt</em>  
+                        
+                        
+                                    <button class="btn btn-primary mt-3" data-target="#modal-artwork-listing-pg-12" data-toggle="modal" title="Enlarge. Enlarge &quot;Words Hurt&quot;" type="button">Enlarge</button>
+                                            
+       
+                            </div>
+                            </div>
+                            
+                                
+            <div aria-hidden="true" aria-labelledby="title12" class="modal fade" id="modal-artwork-listing-pg-12" role="dialog" style="display: none;" tabindex="-1">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header" tabindex="0">
+                            <h3 class="modal-title" id="title12">"Words Hurt"</h3>
+                             <button aria-label="Close" class="close" data-dismiss="modal" type="button">
+          <span aria-hidden="true">
+             
+              &times;
+              
+              </span>
+        </button>
+                        </div>
+                        <div class="modal-body" tabindex="0">
+                            <p><img alt="&quot;Words Hurt&quot; by Julie Mcnamara" class="" height="1200" src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/wrhr-real-exhibited/mcnamara_julie_wordshurt.jpg" width="840"/></p>
+<p><strong><span data-contrast="auto">Julie McNamara&#8239;</span></strong><span>&#160;<br/></span><i>Words Hurt</i>, 2016&#8239;<span>&#160;<br/></span><span data-contrast="auto">USA</span><span data-ccp-props="{}">&#160;<br/></span><span data-contrast="auto">100 x 70 cm&#8239;</span><span>&#160;<br/></span><span data-contrast="auto">Image use courtesy of the artist&#8239;</span><span>&#160;<br/></span><span data-contrast="auto">Art Direction: Alice Drueding</span><span data-ccp-props="{}">&#160;</span></p>
+                        </div>
+                        <div class="modal-footer text-align-right">
+                            <button aria-label="Close" class="btn btn-primary" data-dismiss="modal" type="button">
+                                <span aria-hidden="true">Close</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                
+    
+            </div>
+                                                
+                                                                                                        
+              
+        
+                    <div class="col-lg-4 col-md-4 col-sm-12 single-card">
+                            
+            
+                                                            <div class="card h-100">
+                                                    
+                                                                                    <div class="shift text-center">
+                                                                                                             <img alt="&quot;Breast Cancer: The Value of Early Detection&quot; by Maria Papaefstathiou  " src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/cropped-real-wrhr/papaefstathiou-cropped.png"/>
+                                                                            </div>
+                                                                        <div class="card-body d-flex flex-column align-items-start">
+                            
+                            <h2 id="ch-13">Maria Papaefstathiou</h2>
+                                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                        <em><span class="TextRun SCXW114394549 BCX0" data-contrast="auto" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW114394549 BCX0">Breast Cancer: The Value of Early Detection</span></span></em>  
+                        
+                        
+                                    <button class="btn btn-primary mt-3" data-target="#modal-artwork-listing-pg-13" data-toggle="modal" title="Enlarge. Enlarge &quot;Breast Cancer: The Value of Early Detection&quot;" type="button">Enlarge</button>
+                                            
+       
+                            </div>
+                            </div>
+                            
+                                
+            <div aria-hidden="true" aria-labelledby="title13" class="modal fade" id="modal-artwork-listing-pg-13" role="dialog" style="display: none;" tabindex="-1">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header" tabindex="0">
+                            <h3 class="modal-title" id="title13">"Breast Cancer: The Value of Early Detection"</h3>
+                             <button aria-label="Close" class="close" data-dismiss="modal" type="button">
+          <span aria-hidden="true">
+             
+              &times;
+              
+              </span>
+        </button>
+                        </div>
+                        <div class="modal-body" tabindex="0">
+                            <p><img alt="&quot;Breast Cancer: The Value of Early Detection&quot; by Maria Papaefstathiou" class="" height="1143" src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/wrhr-real-exhibited/papaefstathiou_maria_breast-cancer-the-value-of-early-detection.jpg" width="800"/></p>
+<p><strong><span data-contrast="auto">Maria Papaefstathiou&#8239;</span></strong><span>&#160;<br/></span><i>Breast Cancer: The Value of Early Detection</i>, 2015&#8239;<span>&#160;<br/></span><span data-contrast="auto">Greece</span><span data-ccp-props="{}">&#160;<br/></span><span data-contrast="auto">100 x 70 cm&#8239;</span><span>&#160;<br/></span><span data-contrast="auto">Image use courtesy of the artist</span><span data-ccp-props="{}">&#160;</span></p>
+                        </div>
+                        <div class="modal-footer text-align-right">
+                            <button aria-label="Close" class="btn btn-primary" data-dismiss="modal" type="button">
+                                <span aria-hidden="true">Close</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                
+    
+            </div>
+                                                
+                                                                                                        
+              
+        
+                    <div class="col-lg-4 col-md-4 col-sm-12 single-card">
+                            
+            
+                                                            <div class="card h-100">
+                                                    
+                                                                                    <div class="shift text-center">
+                                                                                                             <img alt="&quot;Verbal Abuse Can Be Just as Horrific&quot; by Saatchi &amp; Saatchi Singapore " src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/cropped-real-wrhr/saatchi-cropped.png"/>
+                                                                            </div>
+                                                                        <div class="card-body d-flex flex-column align-items-start">
+                            
+                            <h2 id="ch-14">Saatchi &amp; Saatchi Singapore </h2>
+                                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                        <em>Verbal Abuse Can Be Just as Horrific&#160;</em>  
+                        
+                        
+                                    <button class="btn btn-primary mt-3" data-target="#modal-artwork-listing-pg-14" data-toggle="modal" title="Enlarge. Enlarge &quot;Verbal Abuse Can Be Just as Horrific&quot;" type="button">Enlarge</button>
+                                            
+       
+                            </div>
+                            </div>
+                            
+                                
+            <div aria-hidden="true" aria-labelledby="title14" class="modal fade" id="modal-artwork-listing-pg-14" role="dialog" style="display: none;" tabindex="-1">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header" tabindex="0">
+                            <h3 class="modal-title" id="title14">"Verbal Abuse Can Be Just as Horrific"</h3>
+                             <button aria-label="Close" class="close" data-dismiss="modal" type="button">
+          <span aria-hidden="true">
+             
+              &times;
+              
+              </span>
+        </button>
+                        </div>
+                        <div class="modal-body" tabindex="0">
+                            <p><img alt="&quot;Verbal Abuse Can Be Just as Horrific&quot; by Saatch &amp; Saatchi Singapore" class="" height="800" src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/wrhr-real-exhibited/saatchi-saatchi-singapore_verbal-abuse-can-be-just-as-horrific_2.jpg" width="1196"/></p>
+<p><strong><span data-contrast="auto">Saatchi &amp; Saatchi Singapore &#8239;</span></strong><span>&#160;<br/></span><i>Verbal Abuse Can Be Just as Horrific </i>series, 2008&#8239;<span data-ccp-props="{}">&#160;<br/></span><span data-contrast="auto">Singapore</span><span>&#160;<br/></span><span data-contrast="auto">70 x 100 cm&#8239;</span><span>&#160;<br/></span><span data-contrast="auto">Image use courtesy of the artist&#8239;</span><span>&#160;<br/></span><span data-contrast="auto">Creative Director: Richard Copping &#8239;</span><span>&#160;<br/></span><span data-contrast="auto">Copywriter: Simon Jenkins&#8239;</span><span>&#160;<br/></span><span data-contrast="auto">Art Direction: Christopher Hunt&#8239;</span><span>&#160;<br/></span><span data-contrast="auto">Art Director: Ronojoy Ghosh&#8239;</span><span>&#160;<br/></span><span data-contrast="auto">Photography: Teo Studios&#8239;</span><span>&#160;<br/></span><span data-contrast="auto">Client: Aware Helpline</span><span data-ccp-props="{}">&#160;</span></p>
+                        </div>
+                        <div class="modal-footer text-align-right">
+                            <button aria-label="Close" class="btn btn-primary" data-dismiss="modal" type="button">
+                                <span aria-hidden="true">Close</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                
+    
+            </div>
+                                                
+                                                                                                        
+              
+        
+                    <div class="col-lg-4 col-md-4 col-sm-12 single-card">
+                            
+            
+                                                            <div class="card h-100">
+                                                    
+                                                                                    <div class="shift text-center">
+                                                                                                             <img alt="&quot;Stop Violence Against Girls&quot; by Saatchi &amp; Saatchi Zürich" src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/cropped-real-wrhr/cropped-saatchi-2.png"/>
+                                                                            </div>
+                                                                        <div class="card-body d-flex flex-column align-items-start">
+                            
+                            <h2 id="ch-15">Saatchi &amp; Saatchi Zürich</h2>
+                                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                        <em>Stop Violence Against Girls</em>  
+                        
+                        
+                                    <button class="btn btn-primary mt-3" data-target="#modal-artwork-listing-pg-15" data-toggle="modal" title="Enlarge. Enlarge &quot;Stop Violence Against Girls&quot;" type="button">Enlarge</button>
+                                            
+       
+                            </div>
+                            </div>
+                            
+                                
+            <div aria-hidden="true" aria-labelledby="title15" class="modal fade" id="modal-artwork-listing-pg-15" role="dialog" style="display: none;" tabindex="-1">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header" tabindex="0">
+                            <h3 class="modal-title" id="title15">"Stop Violence Against Girls"</h3>
+                             <button aria-label="Close" class="close" data-dismiss="modal" type="button">
+          <span aria-hidden="true">
+             
+              &times;
+              
+              </span>
+        </button>
+                        </div>
+                        <div class="modal-body" tabindex="0">
+                            <p><img alt="&quot;Stop Violence Against Girls&quot; by Saatchi &amp; Saatchi Zurich" class="" height="1143" src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/wrhr-real-exhibited/saatchi-saatchi-zürich_stop-violence-against-girls_unicef_3.jpg" width="800"/></p>
+<p><strong><span data-contrast="auto">Saatchi &amp; Saatchi Z&#252;rich &#8239;</span></strong><span>&#160;<br/></span><i>Stop Violence Against Girls</i>, 2012&#8239;<span data-ccp-props="{}">&#160;<br/></span><span data-contrast="auto">Z&#252;rich&#8239;</span><span>&#160;<br/></span><span data-contrast="auto">100 x 70 cm&#8239;</span><span>&#160;<br/></span><span data-contrast="auto">Image use courtesy of the artist&#8239;</span><span>&#160;<br/></span><span data-contrast="auto">Creative Direction: Juerg Aemmer&#8239;</span><span>&#160;<br/></span><span data-contrast="auto">Art Direction: Fr&#233;d&#233;ric Nogier&#8239;</span><span>&#160;<br/></span><span data-contrast="auto">Copywriter: Felix Freese&#8239;</span><span>&#160;<br/></span><span data-contrast="auto">Graphic Design: Stella Feurer&#8239;</span><span>&#160;<br/></span><span data-contrast="auto">Managing &amp; Strategy Director: Pascal Schaub&#8239;</span><span>&#160;<br/></span><span data-contrast="auto">Account managers: Sonia Ducu, Stephanie Weber&#8239;</span><span>&#160;<br/></span><span data-contrast="auto">Photography: Marco Grob, Retouching: Su&#776;ss</span><span data-ccp-props="{}">&#160;</span></p>
+                        </div>
+                        <div class="modal-footer text-align-right">
+                            <button aria-label="Close" class="btn btn-primary" data-dismiss="modal" type="button">
+                                <span aria-hidden="true">Close</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                
+    
+            </div>
+                                                
+                                                                                                        
+              
+        
+                    <div class="col-lg-4 col-md-4 col-sm-12 single-card">
+                            
+            
+                                                            <div class="card h-100">
+                                                    
+                                                                                    <div class="shift text-center">
+                                                                                                             <img alt="&quot;Acid Violence Against Women&quot; by Joe Scorsone &amp; Alice Drueding" src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/cropped-real-wrhr/scorsone-cropped.png"/>
+                                                                            </div>
+                                                                        <div class="card-body d-flex flex-column align-items-start">
+                            
+                            <h2 id="ch-16">Joe Scorsone &amp; Alice Drueding</h2>
+                                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                        <em>Acid Violence Against Women</em>  
+                        
+                        
+                                    <button class="btn btn-primary mt-3" data-target="#modal-artwork-listing-pg-16" data-toggle="modal" title="Enlarge. Enlarge &quot;Acid Violence Against Women&quot;" type="button">Enlarge</button>
+                                            
+       
+                            </div>
+                            </div>
+                            
+                                
+            <div aria-hidden="true" aria-labelledby="title16" class="modal fade" id="modal-artwork-listing-pg-16" role="dialog" style="display: none;" tabindex="-1">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header" tabindex="0">
+                            <h3 class="modal-title" id="title16">"Acid Violence Against Women"</h3>
+                             <button aria-label="Close" class="close" data-dismiss="modal" type="button">
+          <span aria-hidden="true">
+             
+              &times;
+              
+              </span>
+        </button>
+                        </div>
+                        <div class="modal-body" tabindex="0">
+                            <p><img alt="&quot;Acid Violence Against Women&quot; by Joe Scorsone &amp; Alice Drueding " class="" height="1207" src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/wrhr-real-exhibited/scorsone_joe_drueding_alice_acid-violence-in-south-asia.jpg" width="800"/></p>
+<p><strong><span data-contrast="auto">Joe Scorsone &amp; Alice Drueding &#8239;</span></strong><span>&#160;<br/></span><i>Acid Violence Against Women</i>, 2010&#8239;<span data-ccp-props="{}">&#160;<br/></span><span data-contrast="auto">USA</span><span>&#160;<br/></span><span data-contrast="auto">100 x 70 cm&#8239;</span><span>&#160;<br/></span><span data-contrast="auto">Image use courtesy of the artists</span><span data-ccp-props="{}">&#160;</span></p>
+                        </div>
+                        <div class="modal-footer text-align-right">
+                            <button aria-label="Close" class="btn btn-primary" data-dismiss="modal" type="button">
+                                <span aria-hidden="true">Close</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                
+    
+            </div>
+                                                
+                                                                                                        
+              
+        
+                    <div class="col-lg-4 col-md-4 col-sm-12 single-card">
+                            
+            
+                                                            <div class="card h-100">
+                                                    
+                                                                                    <div class="shift text-center">
+                                                                                                             <img alt="&quot;Quanto Project: Sexual Slavery&quot; by Joe Scorsone &amp; Alice Drueding" src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/cropped-real-wrhr/scorsone-cropped-quanto.png"/>
+                                                                            </div>
+                                                                        <div class="card-body d-flex flex-column align-items-start">
+                            
+                            <h2 id="ch-17">Joe Scorsone &amp; Alice Drueding</h2>
+                                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                        <em><span class="TextRun SCXW191300636 BCX0" data-contrast="auto" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW191300636 BCX0">Quanto Project: Sexual Slavery</span></span></em>  
+                        
+                        
+                                    <button class="btn btn-primary mt-3" data-target="#modal-artwork-listing-pg-17" data-toggle="modal" title="Enlarge. Enlarge &quot;Quanto Project: Sexual Slavery&quot;" type="button">Enlarge</button>
+                                            
+       
+                            </div>
+                            </div>
+                            
+                                
+            <div aria-hidden="true" aria-labelledby="title17" class="modal fade" id="modal-artwork-listing-pg-17" role="dialog" style="display: none;" tabindex="-1">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header" tabindex="0">
+                            <h3 class="modal-title" id="title17">"Quanto Project: Sexual Slavery"</h3>
+                             <button aria-label="Close" class="close" data-dismiss="modal" type="button">
+          <span aria-hidden="true">
+             
+              &times;
+              
+              </span>
+        </button>
+                        </div>
+                        <div class="modal-body" tabindex="0">
+                            <p><img alt="&quot;Quanto Project: Sexual Slavery&quot; by Joe Scorsone &amp; Alice Drueding " class="" height="1076" src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/wrhr-real-exhibited/scorsone_joe_drueding_alice_sexual-slavery.jpg" width="800"/></p>
+<p><strong><span data-contrast="auto">Joe Scorsone &amp; Alice Drueding &#8239;</span></strong><span>&#160;<br/></span><i>Quanto Project: Sexual Slavery</i>, 2008&#8239;<span data-ccp-props="{}">&#160;<br/></span><span data-contrast="auto">USA</span><span>&#160;<br/></span><span data-contrast="auto">100 x 70 cm&#8239;</span><span>&#160;<br/></span><span data-contrast="auto">Image use courtesy of the artists</span><span data-ccp-props="{}">&#160;</span></p>
+                        </div>
+                        <div class="modal-footer text-align-right">
+                            <button aria-label="Close" class="btn btn-primary" data-dismiss="modal" type="button">
+                                <span aria-hidden="true">Close</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                
+    
+            </div>
+                                                
+                                                                                                        
+              
+        
+                    <div class="col-lg-4 col-md-4 col-sm-12 single-card">
+                            
+            
+                                                            <div class="card h-100">
+                                                    
+                                                                                    <div class="shift text-center">
+                                                                                                             <img alt="&quot;Fistula&quot; by Joe Scorsone &amp; Alice Drueding" src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/cropped-real-wrhr/scorsone-fistula-cropped.png"/>
+                                                                            </div>
+                                                                        <div class="card-body d-flex flex-column align-items-start">
+                            
+                            <h2 id="ch-18">Joe Scorsone &amp; Alice Drueding</h2>
+                                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                        <em><span class="TextRun SCXW9457373 BCX0" data-contrast="auto" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW9457373 BCX0">Fistula</span></span></em>  
+                        
+                        
+                                    <button class="btn btn-primary mt-3" data-target="#modal-artwork-listing-pg-18" data-toggle="modal" title="Enlarge. Enlarge &quot;Fistula&quot;" type="button">Enlarge</button>
+                                            
+       
+                            </div>
+                            </div>
+                            
+                                
+            <div aria-hidden="true" aria-labelledby="title18" class="modal fade" id="modal-artwork-listing-pg-18" role="dialog" style="display: none;" tabindex="-1">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header" tabindex="0">
+                            <h3 class="modal-title" id="title18">"Fistula"</h3>
+                             <button aria-label="Close" class="close" data-dismiss="modal" type="button">
+          <span aria-hidden="true">
+             
+              &times;
+              
+              </span>
+        </button>
+                        </div>
+                        <div class="modal-body" tabindex="0">
+                            <p><img alt="&quot;Fistula&quot; by Joe Scorsone &amp; Alice Drueding " class="" height="1123" src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/wrhr-real-exhibited/scorsone_joe_drueding_alice_fistula.jpg" width="800"/></p>
+<p><strong><span data-contrast="auto">Joe Scorsone &amp; Alice Drueding &#8239;</span></strong><span data-ccp-props="{}">&#160;<br/></span><i>Fistula</i>, 2014&#8239;<span data-ccp-props="{}">&#160;<br/></span><span data-contrast="auto">USA</span><span>&#160;<br/></span><span data-contrast="auto">100 x 70 cm&#8239;</span><span>&#160;<br/></span><span data-contrast="auto">Image use courtesy of the artists</span><span data-ccp-props="{}">&#160;</span></p>
+                        </div>
+                        <div class="modal-footer text-align-right">
+                            <button aria-label="Close" class="btn btn-primary" data-dismiss="modal" type="button">
+                                <span aria-hidden="true">Close</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                
+    
+            </div>
+                                                
+                                                                                                        
+              
+        
+                    <div class="col-lg-4 col-md-4 col-sm-12 single-card">
+                            
+            
+                                                            <div class="card h-100">
+                                                    
+                                                                                    <div class="shift text-center">
+                                                                                                             <img alt="&quot;Gender Violence&quot; by Elmer Sosa" src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/cropped-real-wrhr/sosa-cropped.png"/>
+                                                                            </div>
+                                                                        <div class="card-body d-flex flex-column align-items-start">
+                            
+                            <h2 id="ch-19">Elmer Sosa</h2>
+                                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                        <em>G<span class="TextRun SCXW11306520 BCX0" data-contrast="auto" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW11306520 BCX0">ender Violence</span></span></em>  
+                        
+                        
+                                    <button class="btn btn-primary mt-3" data-target="#modal-artwork-listing-pg-19" data-toggle="modal" title="Enlarge. Enlarge &quot;Gender Violence&quot;" type="button">Enlarge</button>
+                                            
+       
+                            </div>
+                            </div>
+                            
+                                
+            <div aria-hidden="true" aria-labelledby="title19" class="modal fade" id="modal-artwork-listing-pg-19" role="dialog" style="display: none;" tabindex="-1">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header" tabindex="0">
+                            <h3 class="modal-title" id="title19">"Gender Violence"</h3>
+                             <button aria-label="Close" class="close" data-dismiss="modal" type="button">
+          <span aria-hidden="true">
+             
+              &times;
+              
+              </span>
+        </button>
+                        </div>
+                        <div class="modal-body" tabindex="0">
+                            <p><img alt="&quot;Gender Violence&quot; by Elmer Sosa" class="" height="1829" src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/wrhr-real-exhibited/sosa_elmer_gender-violence.jpg" width="1280"/></p>
+<p><strong><span data-contrast="auto">Elmer Sosa&#8239;</span></strong><span>&#160;<br/></span><i>Gender Violence</i>, 2017&#8239;<span data-ccp-props="{}">&#160;<br/></span><span data-contrast="auto">Mexico</span><span>&#160;<br/></span><span data-contrast="auto">100 x 70 cm&#8239;</span><span>&#160;<br/></span><span data-contrast="auto">Image use courtesy of the artist</span></p>
+                        </div>
+                        <div class="modal-footer text-align-right">
+                            <button aria-label="Close" class="btn btn-primary" data-dismiss="modal" type="button">
+                                <span aria-hidden="true">Close</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                
+    
+            </div>
+                                                
+                                                                                                        
+              
+        
+                    <div class="col-lg-4 col-md-4 col-sm-12 single-card">
+                            
+            
+                                                            <div class="card h-100">
+                                                    
+                                                                                    <div class="shift text-center">
+                                                                                                             <img alt="&quot;Female Genital Mutilation: Apricot Rose&quot; by Volonaire" src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/cropped-real-wrhr/volonaire-cropped.png"/>
+                                                                            </div>
+                                                                        <div class="card-body d-flex flex-column align-items-start">
+                            
+                            <h2 id="ch-20">Volonaire</h2>
+                                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                        <em><span class="NormalTextRun SCXW45027769 BCX0">Female </span><span class="NormalTextRun SpellingErrorV2Themed SCXW45027769 BCX0">Genital</span><span class="NormalTextRun SCXW45027769 BCX0"> Mutilation: Apricot Rose</span></em>  
+                        
+                        
+                                    <button class="btn btn-primary mt-3" data-target="#modal-artwork-listing-pg-20" data-toggle="modal" title="Enlarge. Enlarge &quot;Female Genital Mutilation: Apricot Rose&quot; " type="button">Enlarge</button>
+                                            
+       
+                            </div>
+                            </div>
+                            
+                                
+            <div aria-hidden="true" aria-labelledby="title20" class="modal fade" id="modal-artwork-listing-pg-20" role="dialog" style="display: none;" tabindex="-1">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header" tabindex="0">
+                            <h3 class="modal-title" id="title20">"Female Genital Mutilation: Apricot Rose"</h3>
+                             <button aria-label="Close" class="close" data-dismiss="modal" type="button">
+          <span aria-hidden="true">
+             
+              &times;
+              
+              </span>
+        </button>
+                        </div>
+                        <div class="modal-body" tabindex="0">
+                            <p><img alt="&quot;Female Gential Mutilation: Apricot Rose&quot; by Volonaire" class="" height="1217" src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/wrhr-real-exhibited/volonaire_amnesty-international_fgm_apricot.jpg" width="800"/></p>
+<p><strong><span data-contrast="auto">Volonaire &#8239;</span></strong><span>&#160;<br/></span><i>Female Genital Mutilation: Apricot Rose,</i>&#8239;<span data-ccp-props="{}">&#160;<br/></span><span data-contrast="auto">Sweden</span><span data-ccp-props="{}">&#160;<br/></span><span data-contrast="auto">100 x 70 cm</span><strong><span data-contrast="auto">&#8239;</span></strong><span>&#160;<br/></span><span data-contrast="auto">Image use courtesy of the artist&#8239;</span><span>&#160;<br/></span><span data-contrast="auto">Copywriter: Malin Akersten Triumf&#8239;</span><span>&#160;<br/></span><span data-contrast="auto">Art Director: Yasin Lekorchi&#8239;</span><span>&#160;<br/></span><span data-contrast="auto">Photographers: Niklas Alm, Mattias Nilson, Vostro&#8239;</span><span>&#160;<br/></span><span data-contrast="auto">Retouch Artist: Sofia Cederstr&#246;m, Vostro&#8239;</span><span>&#160;<br/></span><span data-contrast="auto">Client: Amnesty International</span></p>
+                        </div>
+                        <div class="modal-footer text-align-right">
+                            <button aria-label="Close" class="btn btn-primary" data-dismiss="modal" type="button">
+                                <span aria-hidden="true">Close</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                
+    
+            </div>
+                                                
+                                                                                                        
+              
+        
+                    <div class="col-lg-4 col-md-4 col-sm-12 single-card">
+                            
+            
+                                                            <div class="card h-100">
+                                                    
+                                                                                    <div class="shift text-center">
+                                                                                                             <img alt="&quot;My Body My Rights&quot; by Ewa Wein" src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/cropped-real-wrhr/wein-cropped.png"/>
+                                                                            </div>
+                                                                        <div class="card-body d-flex flex-column align-items-start">
+                            
+                            <h2 id="ch-21">Ewa Wein</h2>
+                                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                        <em><span class="TextRun SCXW238865156 BCX0" data-contrast="auto" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW238865156 BCX0">My Body My Rights</span></span></em>  
+                        
+                        
+                                    <button class="btn btn-primary mt-3" data-target="#modal-artwork-listing-pg-21" data-toggle="modal" title="Enlarge. Enlarge &quot;My Body My Rights&quot;" type="button">Enlarge</button>
+                                            
+       
+                            </div>
+                            </div>
+                            
+                                
+            <div aria-hidden="true" aria-labelledby="title21" class="modal fade" id="modal-artwork-listing-pg-21" role="dialog" style="display: none;" tabindex="-1">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header" tabindex="0">
+                            <h3 class="modal-title" id="title21">"My Body My Rights"</h3>
+                             <button aria-label="Close" class="close" data-dismiss="modal" type="button">
+          <span aria-hidden="true">
+             
+              &times;
+              
+              </span>
+        </button>
+                        </div>
+                        <div class="modal-body" tabindex="0">
+                            <p><img alt="&quot;My Body My Rights&quot; by Ewa Wein" class="" height="1129" src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/wrhr-real-exhibited/wein_ewa_my-body-my-rights.jpg" width="800"/></p>
+<p><strong><span data-contrast="auto">Ewa Wein&#8239;</span></strong><span>&#160;<br/></span><i>My Body My Rights</i>, 2017&#8239;<span data-ccp-props="{}">&#160;<br/></span><span data-contrast="auto">Poland</span><span>&#160;<br/></span><span data-contrast="auto">100 x 70 cm&#8239;</span><span>&#160;<br/></span><span data-contrast="auto">Image use courtesy of the artist</span><span data-ccp-props="{}">&#160;</span></p>
+<p>&#160;</p>
+                        </div>
+                        <div class="modal-footer text-align-right">
+                            <button aria-label="Close" class="btn btn-primary" data-dismiss="modal" type="button">
+                                <span aria-hidden="true">Close</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                
+    
+            </div>
+                                                
+                                                                                                        
+              
+        
+                    <div class="col-lg-4 col-md-4 col-sm-12 single-card">
+                            
+            
+                                                            <div class="card h-100">
+                                                    
+                                                                                    <div class="shift text-center">
+                                                                                                             <img alt="&quot;Unveil 1&quot; by Maja Wolna" src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/cropped-real-wrhr/wolna-cropped.png"/>
+                                                                            </div>
+                                                                        <div class="card-body d-flex flex-column align-items-start">
+                            
+                            <h2 id="ch-22">Maja Wolna</h2>
+                                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                        <em><span class="TextRun SCXW64214906 BCX0" data-contrast="auto" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW64214906 BCX0">Unveil 1</span></span></em>  
+                        
+                        
+                                    <button class="btn btn-primary mt-3" data-target="#modal-artwork-listing-pg-22" data-toggle="modal" title="Enlarge. Enlarge &quot;Unveil 1&quot;" type="button">Enlarge</button>
+                                            
+       
+                            </div>
+                            </div>
+                            
+                                
+            <div aria-hidden="true" aria-labelledby="title22" class="modal fade" id="modal-artwork-listing-pg-22" role="dialog" style="display: none;" tabindex="-1">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header" tabindex="0">
+                            <h3 class="modal-title" id="title22">"Unveil 1"</h3>
+                             <button aria-label="Close" class="close" data-dismiss="modal" type="button">
+          <span aria-hidden="true">
+             
+              &times;
+              
+              </span>
+        </button>
+                        </div>
+                        <div class="modal-body" tabindex="0">
+                            <p><img alt="&quot;Unveil 1&quot; by Maja Wolna" class="" height="1200" src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/wrhr-real-exhibited/wolna_maja_unveil-5.jpg" width="857"/></p>
+<p><strong><span data-contrast="auto">Maja Wolna&#8239;</span></strong><span>&#160;<br/></span><i>Unveil 1</i>, 2009&#8239;<span data-ccp-props="{}">&#160;<br/></span><span data-contrast="auto">Poland</span><span>&#160;<br/></span><span data-contrast="auto">100 x 70 cm&#8239;</span><span>&#160;<br/></span><span data-contrast="auto">Image use courtesy of the artist</span><span data-ccp-props="{}">&#160;</span></p>
+<p>&#160;</p>
+                        </div>
+                        <div class="modal-footer text-align-right">
+                            <button aria-label="Close" class="btn btn-primary" data-dismiss="modal" type="button">
+                                <span aria-hidden="true">Close</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                
+    
+            </div>
+                                                
+                                                                                                        
+              
+        
+                    <div class="col-lg-4 col-md-4 col-sm-12 single-card">
+                            
+            
+                                                            <div class="card h-100">
+                                                    
+                                                                                    <div class="shift text-center">
+                                                                                                             <img alt="&quot;Women's Rights Violation&quot; by Yong Zhang" src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/cropped-real-wrhr/yong-cropped.png"/>
+                                                                            </div>
+                                                                        <div class="card-body d-flex flex-column align-items-start">
+                            
+                            <h2 id="ch-23">Yong Zhang  </h2>
+                                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                        <em><span class="TextRun SCXW79047894 BCX0" data-contrast="auto" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW79047894 BCX0">Women's Rights Violation</span></span></em>  
+                        
+                        
+                                    <button class="btn btn-primary mt-3" data-target="#modal-artwork-listing-pg-23" data-toggle="modal" title="Enlarge. Enlarge &quot;Women's Rights Violation&quot;" type="button">Enlarge</button>
+                                            
+       
+                            </div>
+                            </div>
+                            
+                                
+            <div aria-hidden="true" aria-labelledby="title23" class="modal fade" id="modal-artwork-listing-pg-23" role="dialog" style="display: none;" tabindex="-1">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header" tabindex="0">
+                            <h3 class="modal-title" id="title23">"Women's Rights Violation"</h3>
+                             <button aria-label="Close" class="close" data-dismiss="modal" type="button">
+          <span aria-hidden="true">
+             
+              &times;
+              
+              </span>
+        </button>
+                        </div>
+                        <div class="modal-body" tabindex="0">
+                            <p><img alt="&quot;Women's Rights Violation&quot; by Yong Zhang" class="" height="1143" src="https://www.cpp.edu/huntley-gallery/exhibitions/2025-womens-rights-are-humans-rights/exhibited-works/wrhr-real-exhibited/yong_zhang_womens-rights-violation.jpg" width="800"/></p>
+<p><strong><span data-contrast="auto">Yong Zhang&#8239;</span></strong><span>&#160;<br/></span><i>Women's Rights Violation</i>, 2012&#8239;<span data-ccp-props="{}">&#160;<br/></span><span data-contrast="auto">China</span><span>&#160;<br/></span><span data-contrast="auto">100 x 70 cm&#8239;</span><span>&#160;<br/></span><span data-contrast="auto">Image use courtesy of the artist</span></p>
+                        </div>
+                        <div class="modal-footer text-align-right">
+                            <button aria-label="Close" class="btn btn-primary" data-dismiss="modal" type="button">
+                                <span aria-hidden="true">Close</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                
+                
+            </div>
+        </section>
+          
+       
+	
+	
+ 
+         
+    
+
+    
+                    
+                         
+                   
+                                            
+    
+            <section class="row card-section" id="s1">
+                      
+                 
+                          
+                                                                              
+              
+        
+                    <div class="col-md- col-sm-12 single-card">
+                            
+            
+                                                            <div class="card h-100">
+                                                    
+                                                                                        <div class="card-body d-flex flex-column align-items-center center-card text-center">
+                            
+                                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                        <card-body/>  
+                        
+                        
+                                    <button class="btn btn-primary mt-3" data-target="#modal-artwork-listing-pg-24" data-toggle="modal" title="Enlarge. " type="button">Enlarge</button>
+                                            
+       
+                            </div>
+                            </div>
+                            
+                                            
+            <div aria-hidden="true" aria-labelledby="title24" class="modal fade" id="modal-artwork-listing-pg-24" role="dialog" style="display: none;" tabindex="-1">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header" tabindex="0">
+                            <h3 class="modal-title" id="title24">Enlarge</h3>
+                             <button aria-label="Close" class="close" data-dismiss="modal" type="button">
+          <span aria-hidden="true">
+             
+              &times;
+              
+              </span>
+        </button>
+                        </div>
+                        <div class="modal-body" tabindex="0">
+                            <modal-content/>
+                        </div>
+                        <div class="modal-footer text-align-right">
+                            <button aria-label="Close" class="btn btn-primary" data-dismiss="modal" type="button">
+                                <span aria-hidden="true">Close</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                
+                
+            </div>
+        </section>
+          
+       
+	
+	
+ 
+         
+    
+
+</div>
+</div>
+</main>
+
+		
+		
+		
+	</body>
+</html>
+                                
+                </div>
+            
+                        
+                        
+                            
+                                      <div aria-labelledby="tab-4-tab" class="tab-pane fade" id="tab-4" role="tabpanel" tabindex="0">
+                <figure class="image"><img alt="Entrance of the Huntley Gallery" height="720" src="img/installation-photos/js_wrhr1.jpg" width="540"/>
+<figcaption><span>Installation View, Gallery Entrance,&#160;</span><i>Women's Rights Are Human Rights</i><em>,<span>&#160;</span></em><span>Feb. 20 to Summer 2025.</span></figcaption>
+</figure>
+<p>&#160;</p>
+<figure class="image"><img alt="East wall of the Huntley Gallery" class="" height="720" src="img/installation-photos/js_wrhr2.jpg" width="540"/>
+<figcaption><span>Installation View, East Wall,&#160;</span><i>Women's Rights Are Human Rights</i><em>,<span>&#160;</span></em><span>Feb. 20 to Summer 2025.</span></figcaption>
+</figure>
+<p>&#160;</p>
+<p>&#160;</p>
+<figure class="image"><img alt="Front Entrance of Huntley Gallery" class="" height="971" src="img/installation-photos/js_wrhr3.jpg" width="720"/>
+<figcaption><span>Installation View, Front Entrance,&#160;</span><i>Women's Rights Are Human Rights</i><em>,<span>&#160;</span></em><span>Feb. 20 to Summer 2025.</span></figcaption>
+</figure>
+<p>&#160;</p>
+<p>&#160;</p>
+<figure class="image"><img alt="Rear Gallery view." height="720" src="img/installation-photos/js_wrhr4.jpg" width="540"/>
+<figcaption><span>Installation View, Gallery Rear,&#160;</span><i>Women's Rights Are Human Rights</i><em>,<span>&#160;</span></em><span>Feb. 20 to Summer 2025.</span></figcaption>
+</figure>
+<p>&#160;</p>
+<p>&#160;</p>
+<figure class="image"><img alt="Title Wall backside." height="720" src="img/installation-photos/js_wrhr5.jpg" width="960"/>
+<figcaption><span>Installation View, Title Wall Rear,&#160;</span><i>Women's Rights Are Human Rights</i><em>,<span>&#160;</span></em><span>Feb. 20 to Summer 2025.</span></figcaption>
+</figure>
+<p>&#160;</p>
+<p>&#160;</p>
+<figure class="image"><img alt="Side of Title Wall" height="720" src="img/installation-photos/js_wrhr6.jpg" width="960"/>
+<figcaption><span>Installation View, East Wall with Title Wall side,&#160;</span><i>Women's Rights Are Human Rights</i><em>,<span>&#160;</span></em><span>Feb. 20 to Summer 2025.</span></figcaption>
+</figure>
+<p>&#160;</p>
+<p>&#160;</p>
+<figure class="image"><img alt="West wall of galllery." height="720" src="img/installation-photos/js_wrhr8.jpg" width="540"/>
+<figcaption><span>Installation View, West Wall,&#160;</span><i>Women's Rights Are Human Rights</i><em>,<span>&#160;</span></em><span>Feb. 20 to Summer 2025.</span></figcaption>
+</figure>
+<p>&#160;</p>
+<p>&#160;</p>
+<figure class="image"><img alt="Panorama view of Gallery" height="327" src="img/installation-photos/js_wrhr7.jpg" width="1280"/>
+<figcaption><span>Installation View, Panoramic Shot of Gallery,&#160;</span><i>Women's Rights Are Human Rights</i><em>,<span>&#160;</span></em><span>Feb. 20 to Summer 2025.</span></figcaption>
+</figure>
+<p>&#160;</p> 
+                                
+                </div>
+            
+                        
+                        
+                            </div>
+        
+    </div>
+    
+    </section>
+   
+   
+  
+    
+
+</div>
+</div>
+</main>
+</div>
+
+		
+    <div lang="en">
+
+
+                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                 
+<style>
+     @media screen and (min-width: 992px) {
+    .mini-footer .footer__socials-buttons {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}
+
+.mini-footer .button1__transducer {
+    font-size: 12px;
+    letter-spacing: .5px;
+}
+
+.mini-footer .button {
+	margin-top: 0;
+    padding: 8px 20px 8px 20px;
+
+}
+.mini-footer .footer-line {
+    border-top: thin solid #a4d65e;
+    margin-top: 39px;
+    padding-top: 15px;
+}
+ </style>
+<footer class="footer mini-footer">
+    <div class="footer__rip-wrapper">
+        <img class="footer__rip" alt="" src="/common/green-and-gold/assets/images/green-rip.svg" alt="Ripped green paper." />
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-2">
+                <div class="footer__logo-wrapper">
+                    <a href="/" aria-label="CPP Logo">
+                        <img class="footer__logo" src="/common/green-and-gold/assets/logos/cpp_primary_1c_gold_rgb.png" alt="Cal Poly Pomona logo, building with a palm tree." />
+                    </a>
+                </div>
+            </div>
+            <div class="col-12 col-lg-6 offset-lg-4">
+                <div class="footer__socials">
+                    <div class="footer__socials-buttons">
+                        <a class="button button__secondary button1__transducer" href="/apply/">Apply</a>
+                        <a class="button button__secondary button1__transducer" href="https://maps.cpp.edu/">Maps</a>
+                        <a class="button button__secondary button1__transducer" href="/outreach/tours.shtml">Visit</a>
+                        <a class="button button__secondary button1__transducer" href="/contact.shtml">Contact Us</a>
+                    </div>
+                    <div class="footer__socials-icons">
+                        <a href="https://www.instagram.com/calpolypomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram opens a new window" />
+                        </a>
+                        <a href="https://www.linkedin.com/school/cal-poly-pomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn opens a new window" />
+                        </a>
+                        <a href="https://www.youtube.com/user/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="YouTube opens a new window" />
+                        </a>
+                        <a href="https://www.facebook.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook opens a new window" />
+                        </a>
+                        <a href="https://twitter.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X opens a new window" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 footer-line">
+                <div class="footer__errata">
+                    <p class="footer__copyright" style="line-height: 1.8em">Copyright ©2025 California State Polytechnic University, Pomona.  All Rights Reserved 
+                        
+                        <br />A campus of 
+                        
+                        <a class="footer__errata-link" style="display: inline" href="https://www.calstate.edu/">The California State University</a>.
+                    
+                    </p>
+                    <div class="footer__errata-links">
+                        <a class="footer__errata-link" href="https://www.cpp.edu/website-feedback.shtml">Feedback</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/privacy.shtml">Privacy</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/accessibility.shtml">Accessibility</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/file-viewers.shtml">Document Readers</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer__gradient-bottom"></div>
+</footer>
+
+
+<script   src="https://code.jquery.com/jquery-3.2.1.min.js"   integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="   crossorigin="anonymous">
+</script><script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script src="https://www.cpp.edu/common/green-and-gold/assets/js/cpp-legacy.js" ></script>
+<script src="https://www.cpp.edu/common/2018/assets/js/tabs.js" ></script>
+<script src="/common/green-and-gold/assets/js/nav.js"></script>
+
+
+</div>
+    
+		
+		
+	</body>
+</html>

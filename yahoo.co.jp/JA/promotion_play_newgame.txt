@@ -1,0 +1,335 @@
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="完全無料の「かんたんゲーム」に新作ゲームが登場！暇つぶしに最適なすぐに遊べるHTML5ゲームを続々紹介！">
+  <meta name="keywords" content="暇つぶし,パズル,完全無料,新作ゲーム,Yahoo!ゲーム">
+  <meta property="og:site_name" content="かんたんゲーム新作ゲーム紹介！：Yahoo!ゲーム">
+  <meta property="og:url" content="https://games.yahoo.co.jp/promotion/play/newgame/">
+  <meta property="og:type" content="article">
+  <meta property="og:image" content="https://s.yimg.jp/images/games/promotion/play/bn/bn_fb3.png">
+  <meta property="og:locale" content="ja_JP">
+  <title>完全無料！かんたんゲームに新作登場！：Yahoo!ゲーム</title>
+  <link rel="stylesheet" href="	https://s.yimg.jp/images/games/promotion/play/pc/css/2.0.8/newgame.css">
+  <script src="https://s.yimg.jp/images/games/3.0/lib/jquery-1.9.1_1.min.js" type="text/javascript"></script>
+</head>
+<body>
+
+<script defer src="https://s.yimg.jp/images/templa/mhdemg/v2/templa.min.js"></script>
+<script>
+    window.addEventListener('DOMContentLoaded', function () {
+        if (typeof YAHOO !== 'undefined' && typeof YAHOO.JP !== 'undefined' && typeof YAHOO.JP.templa.EMG !== 'undefined' && typeof YAHOO.JP.templa.EMG.load !== 'undefined') {
+            YAHOO.JP.templa.EMG.load({"device_id":"pc"});
+        }
+    }, false);
+</script>
+<div id="TEMPLA_EMG"></div>
+
+<div class="wrapper">
+	<div class="wrapper-header">
+		<div class="msthd">
+			<div class="w950">
+				<div class="logo"><a href="https://games.yahoo.co.jp/"><img src="https://s.yimg.jp/c/logo/f/2.0/games_w_28_2x.png" alt="Yahoo!ゲーム" width="191" height="34"></a></div>
+                <a href="https://www.yahoo.co.jp/"><span class="topLink">Yahoo! JAPAN</span></a>
+				<ul class="socialButton">
+                <li><a href="https://twitter.com/intent/tweet?url=https://games.yahoo.co.jp/promotion/play/newgame/&text=「かんたんゲーム」に新作ゲームが登場！暇つぶしに最適なすぐに遊べるHTML5ゲームを続々紹介！完全無料ーYahoo! ゲーム" data-href="https://twitter.com/intent/tweet?url=https://games.yahoo.co.jp/promotion/play/newgame/"  onclick="window.open(this.href,'TWwindow','width=650,height=450,menubar=no,toolbar=no,scrollbars=yes');return false;" title="Xでシェア"><img src="https://s.yimg.jp/images/games/smartphone/img/share_btn/X.png" width="45" height="45" alt="ツイート"></a></li>
+                <li><a href="http://www.facebook.com/sharer.php?u=https://games.yahoo.co.jp/promotion/play/newgame/" rel="nofollow" onclick="window.open(this.href, 'FBwindow', 'width=650, height=450, menubar=no, toolbar=no, scrollbars=yes'); return false;" target="_blank"><img src="https://s.yimg.jp/images/games/smartphone/img/share_btn/Facebook.png" width="45" height="45" alt="シェア"></a></li>
+				</ul>
+			</div>
+	</div>
+	
+		<div class="contents">
+			<div class="header">
+				<div class="badge--free">完全無料</div>
+				<div class="badge--500">500種類以上！</div>
+				<h1 class="header__title">
+					ゲームの新作が続々追加！
+				</h1>
+				<div id="toplst">
+				<ul class="header__gameList gameList hide">
+					<li class="gameList__item gameList__item--pickup">
+						<a href="http://yahoo-jp.portal.connectedgamestore.com/game?gameId=0001-jewel_academ" target="_blank"><img src="https://s.yimg.jp/images/games/3.0/play/thum/400_400/0001-jewel_academ.jpg" alt=""></a>
+					</li>
+					<li class="gameList__item gameList__item--pickup">
+						<a href="http://yahoo-jp.portal.connectedgamestore.com/game?gameId=0026-bubble" target="_blank"><img src="https://s.yimg.jp/images/games/3.0/play/thum/400_400/0026-bubble.jpg" alt=""></a>
+					</li>
+					<li class="gameList__item gameList__item--pickup">
+						<a href="http://yahoo-jp.portal.connectedgamestore.com/game?gameId=0001-class_solit" target="_blank"><img src="https://s.yimg.jp/images/games/3.0/play/thum/400_400/0001-class_solit.jpg" alt=""></a>
+					</li>
+					<li class="gameList__item gameList__item--pickup">
+						<a href="http://yahoo-jp.portal.connectedgamestore.com/game?gameId=0120-10x10" target="_blank"><img src="https://s.yimg.jp/images/games/3.0/play/thum/400_400/0120-10x10.jpg" aｌt=""></a>
+					</li>
+					<li class="gameList__item gameList__item--pickup">
+						<a href="http://minigame.aeriagames.jp/games/top/ae-tpgs-022" target="_blank"><img src="https://s.yimg.jp/images/games/3.0/play/thum/400_400/ae-tpgs-022.jpg" alt=""></a>
+					</li>
+				</ul>
+				</div>
+				<div class="baloon baloon--1"></div>
+				<div class="baloon baloon--2"></div>
+			</div>
+            <p class="suptext suptext--header">※画像をクリック、またはタップすると外部サイトに移動します</p>
+		</div>
+
+	</div>
+	<div class="wrapper-body">
+		<div class="contents">
+			<div id="newlst">            
+			<div class="category category--new new">
+				<h2 class="category__title category__title--new">新作ゲーム</h2>
+                <p class="suptext">(外部リンク)</p>
+				<a href="https://games.yahoo.co.jp/play/" class="more">もっと見る</a>
+				<ul class="category__gameList gameList">
+		<li class="gameList__item">
+						<a href="https://minigame.aeriagames.jp/games/top/ae-soft-334" target="_blank">
+							<img src="https://s.yimg.jp/images/games/3.0/play/thum/400_400/ae-soft-334.jpg" alt="">
+							<span class="gameList__title">バブルシューターAC</span>
+						</a>
+					</li>
+		<li class="gameList__item">
+						<a href="https://yjgames.gamedistribution.com/game/gd-garden-tales-4" target="_blank">
+							<img src="https://s.yimg.jp/images/games/3.0/play/thum/400_400_2/e27f5122f42b44239f4bb2a90feeed06.jpg" alt="">
+							<span class="gameList__title">ガーデンテイルズ4</span>
+						</a>
+					</li>
+		<li class="gameList__item">
+						<a href="https://yjgames.gamedistribution.com/game/gd-tropical-merge" target="_blank">
+							<img src="https://s.yimg.jp/images/games/3.0/play/thum/400_400_2/4eafc18cbceb45ed884f6c5d70df3963.jpg" alt="">
+							<span class="gameList__title">トロピカルマージ</span>
+						</a>
+					</li>
+		<li class="gameList__item">
+						<a href="https://yjgames.gamedistribution.com/game/gd-match-adventure" target="_blank">
+							<img src="https://s.yimg.jp/images/games/3.0/play/thum/400_400_2/ae01511546424286a44b667b60478b79.jpg" alt="">
+							<span class="gameList__title">マッチアドベンチャー</span>
+						</a>
+					</li>
+		<li class="gameList__item">
+						<a href="http://ycp.synk-casualgames.com/game/?gameId=sy-s166-donutsparty" target="_blank">
+							<img src="https://s.yimg.jp/images/games/3.0/play/thum/400_400/sy-s166-donutsparty.jpg" alt="">
+							<span class="gameList__title">ドーナツパーティ</span>
+						</a>
+					</li>
+		<li class="gameList__item">
+						<a href="https://minigame.aeriagames.jp/games/top/ae-soft-333" target="_blank">
+							<img src="https://s.yimg.jp/images/games/3.0/play/thum/400_400/ae-soft-333.jpg" alt="">
+							<span class="gameList__title">トイマッチ</span>
+						</a>
+					</li>
+		<li class="gameList__item">
+						<a href="https://minigame.aeriagames.jp/games/top/ae-tpgs-562" target="_blank">
+							<img src="https://s.yimg.jp/images/games/3.0/play/thum/400_400_2/ae-tpgs-562.jpg" alt="">
+							<span class="gameList__title">バブルシューターすいか</span>
+						</a>
+					</li>
+		<li class="gameList__item">
+						<a href="https://minigame.aeriagames.jp/games/top/ae-tpgs-566" target="_blank">
+							<img src="https://s.yimg.jp/images/games/3.0/play/thum/400_400_2/ae-tpgs-566.jpg" alt="">
+							<span class="gameList__title">クジラのパズル</span>
+						</a>
+					</li>					
+		<li class="gameList__item">
+						<a href="https://minigame.aeriagames.jp/games/top/ae-tpgs-058" target="_blank">
+							<img src="https://s.yimg.jp/images/games/3.0/play/thum/400_400/ae-tpgs-058.jpg" alt="">
+							<span class="gameList__title">スパイダー・ソリティア</span>
+						</a>
+					</li>
+         <li class="gameList__item">
+						<a href="https://minigame.aeriagames.jp/games/top/ae-soft-331" target="_blank">
+							<img src="https://s.yimg.jp/images/games/3.0/play/thum/400_400/ae-soft-331.jpg" alt="">
+							<span class="gameList__title">プールパーティ</span>
+						</a>
+					</li>
+         <li class="gameList__item">
+						<a href="https://minigame.aeriagames.jp/games/top/ae-soft-323" target="_blank">
+							<img src="https://s.yimg.jp/images/games/3.0/play/thum/400_400/ae-soft-323.jpg" alt="">
+							<span class="gameList__title">ガーデンテイルズ</span>
+						</a>
+					</li>
+         <li class="gameList__item">
+						<a href="https://yjgames.gamedistribution.com/game/gd-solitaire-mahjong-classic" target="_blank">
+							<img src="https://s.yimg.jp/images/games/3.0/play/thum/400_400_2/a2ed848eaa814bb3889b0924023f97f8.jpg" alt="">
+							<span class="gameList__title">ソリティア麻雀クラシック</span>
+						</a>
+					</li>
+               　</ul>
+               </div>
+			</div>
+			<div id="prlst">
+			<div class="category category--recommend recommend">
+				<h2 class="category__title category__title--recommend">人気のおすすめゲーム</h2>
+                <p class="suptext">(外部リンク)</p>
+				<ul class="category__gameList gameList">
+                    <li class="gameList__item">
+						<a href="http://yahoo-jp.portal.connectedgamestore.com/game?gameId=0001-j_o_arabia " target="_blank">
+							<img src="https://s.yimg.jp/images/games/3.0/play/thum/400_400/0001-j_o_arabia.jpg" alt="">
+							<span class="gameList__title">アラビアンジュエル</span>
+						</a>
+					</li>
+					<li class="gameList__item">
+						<a href="http://yahoo-jp.portal.connectedgamestore.com/game?gameId=0120-1010plus" target="_blank">
+							<img src="https://s.yimg.jp/images/games/3.0/play/thum/400_400/0120-1010plus.jpg" alt="">
+							<span class="gameList__title">10×10ブロックパズル</span>
+						</a>
+					</li>
+					<li class="gameList__item">
+						<a href="http://yahoo-jp.portal.connectedgamestore.com/game?gameId=0001-daily_sudoku" target="_blank">
+							<img src="https://s.yimg.jp/images/games/3.0/play/thum/400_400/0001-daily_sudoku.jpg" alt="">
+							<span class="gameList__title">毎日ナンプレ！</span>
+						</a>
+					</li>
+					<li class="gameList__item">
+						<a href="https://minigame.aeriagames.jp/games/top/ae-soft-323" target="_blank">
+							<img src="https://s.yimg.jp/images/games/3.0/play/thum/400_400/ae-soft-323.jpg" alt="">
+							<span class="gameList__title">ガーデンテイルズ</span>
+						</a>
+					</li>
+				</ul>
+			</div>
+			</div>
+        <div id="catlst">
+			<div class="category category--brain brain">
+				<h3 class="category__title category__title--brain">脳トレ系</h3>
+                <p class="suptext">(外部リンク)</p>
+				<ul class="category__gameList gameList">
+					<li class="gameList__item">
+						<a href="http://yahoo-jp.portal.connectedgamestore.com/game?gameId=0120-wood_blocks" target="_blank">
+							<img src="https://s.yimg.jp/images/games/3.0/play/thum/400_400/0120-wood_blocks.jpg" alt="">
+							<span class="gameList__title">森の10x10！</span>
+						</a>
+					</li>
+					<li class="gameList__item">
+						<a href="http://yahoo-jp.portal.connectedgamestore.com/game?gameId=0026-pyramid_jewe" target="_blank">
+							<img src="https://s.yimg.jp/images/games/3.0/play/thum/400_400/0026-pyramid_jewe.jpg" alt="">
+							<span class="gameList__title">ジュエルくらっしゅ。</span>
+						</a>
+					</li>
+				</ul>
+			</div>
+			<div class="category category--hansya hansya">
+				<h3 class="category__title category__title--hansya">反射神経</h3>
+                <p class="suptext">(外部リンク)</p>
+				<ul class="category__gameList gameList">
+					<li class="gameList__item">
+						<a href="http://yahoo-jp.portal.connectedgamestore.com/game?gameId=0173-panelore" target="_blank">
+							<img src="https://s.yimg.jp/images/games/3.0/play/thum/400_400/0173-panelore.jpg" alt="">
+							<span class="gameList__title">昭和ブロック</span>
+						</a>
+					</li>
+					<li class="gameList__item">
+						<a href="https://y.honkakuha.success-games.net/game/su-60-sankaku/" target="_blank">
+							<img src="https://s.yimg.jp/images/games/3.0/play/thum/400_400/su-60-sankaku.jpg" alt="">
+							<span class="gameList__title">色が少しちがう三角を押す</span>
+						</a>
+					</li>
+				</ul>
+			</div>
+			<div class="category category--party party">
+				<h3 class="category__title category__title--party">じっくり</h3>
+                <p class="suptext">(外部リンク)</p>
+				<ul class="category__gameList gameList">
+					<li class="gameList__item">
+						<a href="http://yahoo-jp.portal.connectedgamestore.com/game?gameId=0097-tingly_solit" target="_blank">
+							<img src="https://s.yimg.jp/images/games/3.0/play/thum/400_400/0097-tingly_solit.jpg" alt="">
+							<span class="gameList__title">トランプ国ソリティア</span>
+						</a>
+					</li>
+					<li class="gameList__item">
+						<a href="http://minigame.aeriagames.jp/games/top/ae-tpgs-034" target="_blank">
+							<img src="https://s.yimg.jp/images/games/3.0/play/thum/400_400/ae-tpgs-034.jpg" alt="">
+							<span class="gameList__title">ラッキーダブル</span>
+						</a>
+					</li>
+				</ul>
+			</div>
+			<div class="category category--ladies ladies">
+				<h3 class="category__title category__title--ladies">女性に人気</h3>
+                <p class="suptext">(外部リンク)</p>
+				<ul class="category__gameList gameList">
+					<li class="gameList__item">
+						<a href="https://minigame.aeriagames.jp/games/top/ae-soft-329" target="_blank">
+							<img src="https://s.yimg.jp/images/games/3.0/play/thum/400_400/ae-soft-329.jpg" alt="">
+							<span class="gameList__title">キャンディ天国</span>
+						</a>
+					</li>
+					<li class="gameList__item">
+						<a href="http://yahoo-jp.portal.connectedgamestore.com/game?gameId=0097-fluffy_cuddl" target="_blank">
+							<img src="https://s.yimg.jp/images/games/3.0/play/thum/400_400/0097-fluffy_cuddl.jpg" alt="">
+							<span class="gameList__title">つみつみペット</span>
+						</a>
+					</li>
+				</ul>
+			</div>
+        </div>
+		</div>
+        <div id="btmply">
+		<div class="button"><a href="https://games.yahoo.co.jp/play/" target="_blank">今すぐ無料で遊ぶ</a></div>
+		</div>
+		<div class="attention">スマートフォン、タブレットでも遊べます！</div>
+	</div>
+	<div id="footlnk">
+	<div class="wrapper-footer">
+		<div class="contents">
+			<div class="ygame">
+			</div>
+		</div>
+	</div>
+	</div>
+	<div id="footer">
+	<div class="footer">
+		<div class="contents">
+			<div class="before"></div>
+			<div class="after"></div>
+			<p class="links">
+			<a href="https://www.yahoo.co.jp/" data-cl_cl_index="1">Yahoo! JAPAN</a>
+			| <a href="https://games.yahoo.co.jp/" data-cl_cl_index="2">Yahoo!ゲーム</a>
+			| <a href="https://games.yahoo.co.jp/play/" data-cl_cl_index="3">かんたんゲーム</a>
+			</p>
+			<address>
+			<a href="https://www.lycorp.co.jp/ja/company/privacypolicy/" data-cl_cl_index="4">プライバシーポリシー</a>
+			- <a href="https://privacy.lycorp.co.jp/ja/" data-cl_cl_index="5">プライバシーセンター</a>
+			- <a href="https://www.lycorp.co.jp/ja/company/terms/" data-cl_cl_index="6">利用規約</a>
+			- <a href="https://support.yahoo-net.jp/PccGames/s/" data-cl_cl_index="7">ヘルプ・お問い合わせ</a>
+			</address>
+			<p class="copyright">
+			<small>&copy; LY Corporation</small>
+			</p>
+		</div>
+	</div>
+	</div>
+	
+</div>
+<script>
+$(function(){
+	var pickup_array = $(".gameList__item--pickup");
+	var n = pickup_array.length;
+	for(var i = n - 1; i > 0; i--) {
+		var j = Math.floor(Math.random() * (i + 1));
+		var tmp = pickup_array[i];
+		pickup_array[i] = pickup_array[j];
+		pickup_array[j] = tmp;
+		$(".header__gameList").append(pickup_array[i]);
+	}
+	
+	var pickupImage = $(pickup_array[0]).find("img");
+	var src = pickupImage.attr("src");
+	src = src.split("400_400/")[1];
+	pickupImage.one("load", function() {
+        $(".header__gameList").removeClass("hide");
+    }).attr("src" ,"https://s.yimg.jp/images/games/3.0/play/thum/400_180/"+src);
+	
+});
+</script>
+
+<script src="https://s.yimg.jp/images/ds/cl/ds-custom-logger-1.1.0.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+  var conf = {
+    target_modules:["toplst","newlst","prlst","catlst","btmply","footlnk","footer"],
+    keys:{service:'games',pagetype:'list',conttype:'promoplay',status:'login',apptype:'web',opttype:'pc'},
+  }
+  var customLogger = (new DSCustomLogger.CustomLogger(conf)).initCustomLoggerCore();
+</script>
+
+</body>
+</html>
+

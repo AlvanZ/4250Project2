@@ -1,0 +1,850 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+		<title>
+			Girl Boss
+		</title>
+		<!-- Required meta tags -->
+		<meta charset="utf-8"/>
+		<meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
+		<meta content="Advancement" property="cludo:category"/>
+<meta content="2021-11-10T16:15Z" property="date"/>
+<link href="https://www.cpp.edu/cppmag/the-confidence-to-persist/girl-boss.shtml" rel="canonical"/>
+		
+		
+		
+    <div lang="en">
+
+
+                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                <script src="https://cdn.levelaccess.net/accessjs/YW1wX2NwcDExMDM/access.js"></script>
+<script>// <![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSKJRNV');
+// ]]></script>
+<link href="/common/green-and-gold/assets/icons/gg-favicon.svg" rel="icon" type="image/svg+xml"/> <link crossorigin="anonymous" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" rel="stylesheet"/>
+<script crossorigin="anonymous" defer="defer" integrity="sha384-FW78RPcSpi13vjx77nPWQIrQbNSLkPBopb0qGzLCxD2x4Kr6FA8V05C/6cpgkKPL" src="https://pro.fontawesome.com/releases/v5.10.1/js/all.js"></script>
+<link href="https://www.cpp.edu/common/2018/assets/css/cpp-base-styles.css" rel="stylesheet"/> <link href="https://www.cpp.edu/common/2018/assets/css/cpp-extended-styles.css" rel="stylesheet"/> <link href="https://use.typekit.net/fia5dle.css" rel="stylesheet"/> <link href="/common/green-and-gold/assets/css/cpp-fonts.css" rel="stylesheet"/> <link href="/common/green-and-gold/assets/css/gg-header-footer.css" rel="stylesheet"/>
+
+</div>
+    
+		
+		
+	</head>
+	<body>
+		
+		 
+<header class="nav fixed">
+    <nav class="container">
+        <ul class="row nav__main" id="mainNavMenu">
+            <li id="main-logo" class="col-6 col-lg-3 nav__logo">
+                <a href="/" aria-label="Cal Poly Pomona Home" tabindex="0">
+                    <div class="nav__logo--horizontal">
+                        <img src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png" alt="Cal Poly Pomona Logo" />
+                    </div>
+                </a>
+            </li>
+            <li class="nav__links col-6" id="head-links">
+             <a class="nav__link nav__link--desktop col-1" href="/commencement/" tabindex="0">
+                    <svg
+                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 6px;
+    width: auto;
+">
+                        <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                        <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#005030"></path>
+                    </svg>
+                    <span class="sr-only">commencement</span>
+                </a>
+                <a class="nav__link nav__link--desktop" href="/apply/" tabindex="0">apply</a>
+                <a class="nav__link nav__link--desktop" href="/outreach/tours.shtml" tabindex="0">visit</a>
+                <a class="nav__link nav__link--desktop" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="0">info</a>
+                <a class="nav__link nav__link--desktop" href="/giving/" tabindex="0">give</a>
+                <a class="nav__link nav__link--desktop" href="https://my.cpp.edu" tabindex="0">mycpp</a>
+                <button id="search-open" class="nav__search" aria-expanded="false" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/search-dark-green.svg" alt="Search" />
+                </button>
+                <button class="nav__menu" id="menuButton" aria-expanded="false" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/menu.svg" alt="menu" />
+                </button>
+            </li>
+        </ul>
+    </nav>
+</header>
+<header id="search-header" style="display:none">
+    <div class="row">
+        <div class="col-md-6"></div>
+        <div id="searchbox" class="col-md-6">
+            <div id="search-slide">
+                <label for="#gsc-i-id1" class="sr-only">Search</label>
+                <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+                <div class="gcse-searchbox-only" data-resultsurl="https://www.cpp.edu/search.shtml"></div>
+                <button class="nav__menu col-1" id="search-close" aria-expanded="false" tabindex="0" aria-label="Menu icon">
+                    <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close icon">
+                    </button>
+                </div>
+            </div>
+            <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+            <style>
+
+     .gstl_50 gssb_c {
+         position:fixed !important;
+         }
+       #search-close img {
+         width: auto !important;
+       }
+
+       #searchbox {
+         height: 93px;
+         overflow: hidden;
+       }
+
+       #search-header {
+         position: fixed;
+         height: 100px;
+         width: 100%;
+         height: 93px;
+         z-index: 99999;
+         top: 0;
+       }
+
+       #gsc-i-id1 {
+         height: 40px;
+         width: 70%;
+         border-radius: 4px;
+         border: none;
+         padding: 15px;
+       }
+
+       #search-submit {
+         margin: 15px;
+       }
+
+       #search-close {
+         width: 23px;
+         height: 21px;
+         position: absolute;
+         top: 32px;
+       }
+
+       #search-slide {
+         width: 0px;
+         right: -100%;
+         padding: 20px 15px;
+         position: relative;
+         background: #005030;
+         height: 100%;
+         transition: all .5s ease 0s
+       }
+
+       #search-slide.slideup {
+         right: 0;
+         width: 100%;
+         position: relative;
+       }
+
+       @media screen and (max-width:991px) {
+         #search-slide {
+           height: 77px !important;
+           padding: 12px 10px;
+         }
+       }
+
+       @media screen and (max-width:767px) {
+         #search-header {
+           position: relative !important;
+         }
+
+         #search-slide {
+           text-align: center !important;
+         }
+       }
+
+     .gsc-search-button-v2 svg {
+    width: auto;
+    height: 25px;
+    position: relative;
+    top: 8px;
+}
+
+       .gsc-search-button-v2,
+       .gsc-search-button-v2:hover,
+       .gsc-search-button-v2:focus {
+         border: none !important;
+         background: none !important;
+       }
+
+       form.gsc-search-box {
+         font-size: 13px;
+         margin-top: 0;
+         margin-right: 0;
+         margin-bottom: 4px;
+         margin-left: 0;
+         width: 100%;
+         display: inline-block;
+       }
+
+       #___gcse_0 {
+         width: 70%;
+         display: inline-block;
+       }
+
+       table.gsc-search-box td.gsc-input {
+         padding-right: 0;
+       }
+
+       #gsc-i-id1 {
+         width: 100%;
+         padding: 0px;
+         border: none;
+         margin: -0.0625em 0px 0px;
+         height: 40px !important;
+         background: rgb(255, 255, 255);
+         outline: none;
+         font-size: 20px;
+         font-weight: 200;
+       }
+
+       .gstl_50.gssb_c {
+         z-index: 99999;
+       }
+
+       .gsq_a {
+         font-weight: 200;
+         font-size: 18px;
+         padding: 2px;
+       }
+
+       .gssb_a img {
+         display: none;
+       }
+
+       .side-nav__links--small-bottom {
+           margin-left:-15px;
+       }
+       .nav__links .nav__links--mobile {
+           margin-top: 50px;
+            margin-bottom: -50px;
+            margin-left: 50px
+       }
+       .nav__link--mobile {
+        	padding:0px;
+        }
+     /*   .side-nav__container, .side-nav__container--small {
+          
+            padding-left: 50px;
+        }*/
+        .side-nav__container--small-bottom {
+           padding-left: 35px;
+        }
+         @media screen and (max-width:991px) {
+             .nav__links--mobile {
+                 display:flex;
+             }
+         }
+          @media screen and (min-width:992px) {
+             .nav__links--mobile {
+                 display:none !important;
+             }
+          }
+         .nav__link--mobile {
+             color: #ffb81c;
+         }
+       </style>
+        </div>
+    </header>
+    <section class="side-nav" id="sideNavOverlay">
+        <header class="side-nav__overlay relative">
+            <nav class="container">
+                <ul class="row nav__overlay" id="sideNavMenu">
+                    <li class="nav__logo col-12 col-md-10 col-lg-3" id="navLogoOverlay">
+                        <a href="/" aria-label="Cal Poly Pomona Home" tabindex="-1">
+                            <img src="/common/green-and-gold/assets/logos/cpp_horizontal_1c_gold_rgb.png" alt="Cal Poly Pomona Logo" />
+                        </a>
+                    </li>
+                    <div class="nav__overlay--right col-12 col-lg-9">
+                        <li class="nav__links nav__links--desktop col-12 col-lg-6">
+                             <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 6px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                            <a class="nav__link nav__link--mobile" href="/apply/" tabindex="-1">apply</a>
+                            <a class="nav__link nav__link--mobile" href="/outreach/tours.shtml" tabindex="-1">visit</a>
+                            <a class="nav__link nav__link--mobile" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="-1">info</a>
+                            <a class="nav__link nav__link--mobile" href="/giving/" tabindex="-1">give</a>
+                            <a class="nav__link nav__link--mobile" href="https://my.cpp.edu" tabindex="-1">mycpp</a>
+                        </li>
+                        <li class="nav__icons">
+                            <button id="search-open-green" class="nav__search" aria-expanded="false" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/search-white.svg" alt="Search" />
+                            </button>
+                            <button class="nav__close" id="closeButton" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close menu" />
+                            </button>
+                        </li>
+                    </div>
+                </ul>
+            </nav>
+        </header>
+        
+            <div class="mobile_overlay_nav nav__links nav__links--mobile col-12 col-lg-6">
+                 <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 6px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                <a class="nav__link nav__link--mobile" href="/apply/" tabindex="0">apply </a>
+                <a class="nav__link nav__link--mobile" href="/outreach/tours.shtml" tabindex="0">visit </a>
+                <a class="nav__link nav__link--mobile" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="0">info </a>
+                <a class="nav__link nav__link--mobile" href="/giving/" tabindex="0">give </a>
+                <a class="nav__link nav__link--mobile" href="https://my.cpp.edu" tabindex="0">mycpp </a>
+            </div>
+       
+        <nav class="container side-nav__container">
+            <ul class="row side-nav__links">
+                <li id="home-button" class="side-nav__link">
+                    <a class="h3__proxima" href="/" tabindex="-1" aria-label="Cal Poly Pomona Home page">Home</a>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--0">
+                    <button class="h3__proxima" id="0" aria-expanded="false" tabindex="-1" aria-label="Link">
+                        <span>about</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--1">
+                    <button class="h3__proxima" id="1" aria-expanded="false" tabindex="-1" aria-label="Admissions & Aid">
+                        <span>admissions &amp; aid</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--2">
+                    <button class="h3__proxima" id="2" aria-expanded="false" tabindex="-1" aria-label="academics">
+                        <span>academics</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--3">
+                    <button class="h3__proxima" id="3" aria-expanded="false" tabindex="-1" aria-label="life at CPP">
+                        <span>life at CPP</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small">
+            <ul class="row">
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="https://broncoathletics.com/" tabindex="-1">athletics</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/alumni/" tabindex="-1">alumni</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/news/" tabindex="-1">news &amp; events</a>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small-bottom">
+            <ul class="col-12 col-lg-7 side-nav__links--small-bottom">
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/prospective-student-gateway/" tabindex="-1">future students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/student-gateway/" tabindex="-1">current students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/family/" tabindex="-1">families</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/faculty-staff-gateway/" tabindex="-1">faculty &amp; staff</a>
+                </li>
+            </ul>
+            <ul class="col-12 col-lg-5 social-icons">
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.instagram.com/calpolypomona/" aria-label="Instagram" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.linkedin.com/school/cal-poly-pomona/" aria-label="LinkedIn " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.youtube.com/user/calpolypomona" aria-label="Youtube " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="Youtube" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.facebook.com/calpolypomona" aria-label="Facebook " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://twitter.com/calpolypomona" aria-label="X (Twitter)" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X" />
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </section>
+		                                                                                                                                                        																										                                                            															    		            
+
+
+            
+
+    <header title="CPP Magazine">
+
+
+
+      
+        
+    <custom/> 
+
+                <section id="jumbotron">
+        <img alt="Lauren Gutierrez Girl Boss " src="../img/20fall-cppmag-hero-girl-boss.jpg"/>
+    </section>
+        
+                         <div id="dept-title">
+                            CPP Magazine
+                    </div>
+    </header>
+
+                 
+    
+
+
+    <main class="container-fluid flex-grow">
+
+            <div class="row">
+        <div class="col-12 col-md-4 col-lg-3">
+            <nav class="navbar navbar-expand-md navbar-light">
+        
+
+        <button aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler navbar-toggler-right" data-target="#navbarSupportedContent" data-toggle="collapse" id="site-menu-expand-button" type="button">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">   
+            <ul class="nav nav-pills left-nav" id="site-nav">
+                                <li id="li-1">
+                    <a class="nav-link" data-parent="#site-nav" href="/cppmag/the-confidence-to-persist/index.shtml">Home</a>    
+                </li>
+                
+                                                                                                                                    
+                    
+                    
+                                                
+                                                                                                                                                                
+                    
+                    
+                                                
+                                                    <li id="li-2">
+                                <a class="nav-link" data-parent="#site-nav" href="/cppmag/the-confidence-to-persist/presidents-message.shtml">President's Message</a>    
+                            </li>
+                                                                                                                                                                                            
+                    
+                    
+                                                
+                                                    <li id="li-3">
+                                <a class="nav-link" data-parent="#site-nav" href="/cppmag/the-confidence-to-persist/thats-socalpoly.shtml">That's SoCalPoly</a>    
+                            </li>
+                                                                                                                                                                                            
+                    
+                    
+                                                
+                                                    <li id="li-4">
+                                <a class="nav-link" data-parent="#site-nav" href="/cppmag/the-confidence-to-persist/broncos-at-work.shtml">Broncos at Work</a>    
+                            </li>
+                                                                                                                                                                                            
+                    
+                    
+                                                
+                                                    <li id="li-5">
+                                <a class="nav-link" data-parent="#site-nav" href="/cppmag/the-confidence-to-persist/outdoor-education.shtml">Outdoor Education In The Time of COVID-19</a>    
+                            </li>
+                                                                                                                                                                                            
+                    
+                    
+                                                
+                                                    <li id="li-6">
+                                <a class="nav-link" data-parent="#site-nav" href="/cppmag/the-confidence-to-persist/confidence-to-persist.shtml">The Confidence to Persist</a>    
+                            </li>
+                                                                                                                                                                                            
+                    
+                    
+                                                
+                                                    <li id="li-7">
+                                <a class="nav-link" data-parent="#site-nav" href="/cppmag/the-confidence-to-persist/overcoming-obstacles.shtml">Overcoming Obstacles</a>    
+                            </li>
+                                                                                                                                                                                            
+                    
+                    
+                                                
+                                                    <li id="li-8">
+                                <a class="nav-link" data-parent="#site-nav" href="/cppmag/the-confidence-to-persist/united-with-differences.shtml">United with Differences</a>    
+                            </li>
+                                                                                                                                                                                            
+                    
+                    
+                                                
+                                                    <li id="li-9">
+                                <a class="nav-link" data-parent="#site-nav" href="/cppmag/the-confidence-to-persist/bridging-the-gap.shtml">Bridging the Gap</a>    
+                            </li>
+                                                                                                                                                                                            
+                    
+                    
+                                                
+                                                    <li id="li-10">
+                                <a class="nav-link" data-parent="#site-nav" href="/cppmag/the-confidence-to-persist/solving-for-equity.shtml">Solving for Equity</a>    
+                            </li>
+                                                                                                                                                                                            
+                    
+                    
+                                                
+                                                    <li id="li-11">
+                                <a class="nav-link" data-parent="#site-nav" href="/cppmag/the-confidence-to-persist/leadership-from-the-ground-up.shtml">Leadership From The Ground Up</a>    
+                            </li>
+                                                                                                                                                                                            
+                    
+                    
+                                                
+                                                    <li id="li-12">
+                                <a class="nav-link" data-parent="#site-nav" href="/cppmag/the-confidence-to-persist/against-the-odds.shtml">Against The Odds</a>    
+                            </li>
+                                                                                                                                                                                            
+                    
+                    
+                                                
+                                                    <li id="li-13">
+                                <a class="nav-link" data-parent="#site-nav" href="/cppmag/the-confidence-to-persist/geiger-counter-for-student-success.shtml">A Geiger Counter for Student Success</a>    
+                            </li>
+                                                                                                                                                                                            
+                    
+                    
+                                                
+                                                                                                                                                                
+                    
+                    
+                                                
+                                                                                                                                                                
+                    
+                    
+                                                
+                                                    <li id="li-14">
+                                <a class="nav-link" data-parent="#site-nav" href="/cppmag/the-confidence-to-persist/girl-boss.shtml">Girl Boss</a>    
+                            </li>
+                                                                                                                                                                                            
+                    
+                    
+                                                
+                                                    <li id="li-15">
+                                <a class="nav-link" data-parent="#site-nav" href="/cppmag/the-confidence-to-persist/fiscal-year-fundraising.shtml">Fiscal Year Fundraising Update</a>    
+                            </li>
+                                                                                                                                                                                            
+                    
+                    
+                                                
+                                                    <li id="li-16">
+                                <a class="nav-link" data-parent="#site-nav" href="/cppmag/the-confidence-to-persist/planning-for-the-future.shtml">Planning for the Future</a>    
+                            </li>
+                                                                                                                                                                                            
+                    
+                    
+                                                
+                                                                                                                                                                
+                    
+                    
+                                                
+                                                    <li id="li-17">
+                                <a class="nav-link" data-parent="#site-nav" href="/cppmag/the-confidence-to-persist/past-issues.shtml">Past Issues</a>    
+                            </li>
+                                                                                                    </ul>
+        </div>
+    </nav>
+        </div>
+                        <div class="col-12 col-md-8 col-lg-6" id="main">
+                                      <h1 class="cpp-h1">Girl Boss</h1>
+            
+
+
+    
+                                            
+                                    <section class="text-images" id="s0">
+                                
+                                                        
+        
+               
+                           
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                            <h2>23-Year-Old CEO and Engineer Has A Vision To End Human Suffering</h2>
+<p>By Robyn Norwood</p>
+<p><strong>Isabel Gutierrez</strong> turned in her last final exam for her bachelor&#8217;s degree and walked out of the <a href="https://www.cpp.edu/engineering/index.shtml">College of Engineering</a>&#8217;s Building 9 on a warm December afternoon. An hour or so later, she was already at work in the Arcadia office of <strong>Vistendo</strong>, the digital medical technology startup she founded and heads.<br/><br/>Surrounded by bags of first-aid gear, a 3D printer and sophisticated optical equipment, Gutierrez pulled out a laptop dotted with stickers of a VW bus, a California avocado and, most appropriately, one that says, &#8220;Girl Boss.&#8221; She had new hires to make for a part-time software engineer and a computer-aided design intern as she and her team prepare to launch a portable device as early as spring 2021. <br/><br/>The device will help quickly assess an array of injuries including concussions and heat strokes on site, whether they happen on a youth soccer field or in a military conflict.<br/><br/>Vistendo &#8212; Latin for &#8216;to see within&#8217; &#8212; already has patents pending, seasoned entrepreneurs and inventors as partners, and outside investors. Gutierrez (&#8217;19, mechanical engineering) has been awarded a $250,000 Small Business Innovation Research grant from the <strong>U.S. Defense Health Agency</strong> to fund the development of her portable system to be used to detect traumatic brain injury symptoms in U.S. troops and veterans. If her project advances to Phase II of the grant program &#8212; designed to support development of technology that serves the needs of the federal government and also has potential for private-sector commercialization &#8212; over $1 million more awaits.</p>
+<p>Traumatic brain injuries are sometimes called the invisible wounds of war, with the Department of Defense&#8217;s count at more than 400,000 of these injuries worldwide since 2000. But brain injuries aren&#8217;t limited to military conflicts. The NFL, NCAA and youth sports organizations also are heavily invested in the concussion issue, with&#160;more than a quarter-million emergency room visits for brain injuries related to sports and recreation each year.<br/><br/>A great idea like Gutierrez&#8217;s is one thing. Moving it forward is a much more complex endeavor. Her mentor <strong>Mariappan &#8220;Dr. Jawa&#8221; Jawaharlal</strong>, former Cal Poly Pomona <a href="https://www.cpp.edu/engineering/me/graduate-program/index.shtml">mechanical engineering</a> professor and an experienced entrepreneur, is suitably impressed.<br/><br/> &#8220;My other friends who applied and who got this money had Ph.D.s and three or four years of experience, and they got this after two or three rejections,&#8221; says Jawaharlal, who is now an associate dean in the College of Engineering &amp; Computer Science at Sacramento State. &#8220;Whereas this young woman who hadn&#8217;t finished four years of undergraduate gets a quarter-million dollars. In a way, I&#8217;m not surprised though. I&#8217;m very proud of her.&#8221;</p>
+<p><img alt="Soccer Field at Cal Poly Pomona" class="" height="600" src="../img/soccer-field3.jpg" width="1920"/></p>
+<h2>A Diagnosis Hits Home</h2>
+<p>The idea came to Gutierrez like so many ideas do: A problem had been percolating in her mind for years.<br/><br/>Like many Southern California youngsters, she grew up playing soccer, and in perhaps an even more dedicated &#8220;f&#250;tbol&#8221; family than most. Her father, Roman, is from Spain, and her mother, Karina, is from Ecuador. Gutierrez played competitively for more than 10 years before a potential college career was derailed her junior year in high school when a hamstring injury went undiagnosed before developing into a more serious tear. One of her younger sisters, Sara, suffered an even more unsettling injury &#8212; an undiagnosed concussion after she was struck in the head by a ball.<br/><br/>&#8220;We didn&#8217;t really think anything of it,&#8221; Gutierrez says. &#8220;She was complaining of headaches. You get hit by the ball, that&#8217;s going to happen. And it wasn&#8217;t actually until she took a PSAT where she scored such a low score that had she not even studied, she would have gotten much higher that we were like, &#8216;Ok, there has to be something wrong here.&#8217; That&#8217;s when we took her to a doctor.&#8221;<br/><br/>It was then, several weeks after the injury, that the family learned Sara had suffered a concussion.<br/><br/>&#8220;It&#8217;s super scary to think that she spent that much time without a diagnosis, because there&#8217;s something called Second Impact Syndrome,&#8221; Gutierrez says. &#8220;When you get a concussion and it goes undiagnosed and then you get hit again, you can actually die. That&#8217;s all it takes, because your brain doesn&#8217;t have time to heal between each hit. Had she been hit again, it could have been life-ending.&#8221;<br/><br/>Those experiences combined with Gutierrez&#8217;s student job as an operation attendant and later building manager at the <a href="https://asi.cpp.edu/campusrec/">BRIC</a> (Bronco Recreation and Intramural Complex) planted the seeds for innovation.<br/><br/>&#8220;We responded to numerous incidents with college students at intramurals and inside the gym as well. What I found from that is there are no tools to help you to detect symptoms that are happening with injuries such as concussions or heat strokes or even broken bones or torn muscles. There&#8217;s really nothing there to see inside. If you&#8217;re bleeding out, it&#8217;s very obvious. Call 9-1-1. But most of the injuries &#8212; especially sports-related injuries &#8212; have been all on the inside and then once they get severe enough, then they&#8217;ll start to exhibit on the outside. <br/><br/>&#8220;That&#8217;s really where I saw a tool was needed to help detect symptoms in youth athletes and help them get the help they need as quickly as possible.&#8221;<br/><br/>Until the device and smartphone app launch in 2021, Gutierrez isn&#8217;t free to disclose many details of how they work, but she did reveal that it is smaller than a loaf of bread &#8212; more like a water bottle or a sort of medical cell phone &#8212; and it&#160;can take 24 objective medical measurements in 15 seconds. The information can then be used by an athletic trainer on the field to help manage athlete health. A big part of the innovation is that the portable device can quickly put a medical professional&#8217;s eyes somewhere they are not: on a field of play or a field of battle. <br/><br/>In a clever venture that provides both field-testing for the device prototypes and another income stream, Vistendo introduced a V-Aid Service, which provides certified, insured and professionally equipped first-responders or athletic trainers for youth athletic teams. Team parents pitch in to cover the cost, which Vistendo targets at $4 to $6 per player. <br/><br/>&#8220;It costs less than paying the referees to keep your child safe,&#8221; says Gutierrez.</p>
+<h2>The Good Kind of Stubborn</h2>
+<p><img alt="Isabel Gutierrez smiles while at a table with her laptop." class="image-left-medium" height="441" src="../img/gutierrez-girl-boss.jpg" width="299"/>Painfully shy before she arrived at Cal Poly Pomona in 2014, Gutierrez is now a study in understated poise and self-assurance, with subtle but unmistakable charisma. Whether it was in her role as president of the campus chapter of the <strong>American Society of Mechanical Engineers</strong> &#8212; working with mentor Professor <strong>Amir Rezaei</strong> to organize both on-campus events and the regional engineering competition E-Fest &#8212; or going into local schools to promote the annual <a href="https://www.cpp.edu/engineering/real/robot-rally.shtml"><strong>Robot Rally</strong></a>, Gutierrez has a magnetism about her. For the culminating Robot Rally event, she recruited volunteers and served as the emcee, Jawaharlal says.<br/><br/>Gutierrez is front-and-center in Vistendo&#8217;s pitches to investors too, but she also has impressive and accomplished partners. <br/><br/>Vistendo&#8217;s chief technical officer has a degree in applied physics from Caltech, a master&#8217;s in electrical engineering from UC Santa Barbara, and more than 100 patents to his name. &#8220;Roman,&#8221; as Gutierrez refers to him in conversation, is also her father. The company&#8217;s chief operations officer is <strong>Tony Tang</strong>, who has undergraduate degrees in physics and applied math from UC Berkeley and a Ph.D. in electrical engineering from the University of Illinois at Urbana-Champaign. <strong>Roman Gutierrez</strong> and Tang first met at the Jet Propulsion Laboratory in Pasadena in the early 1990s and became successful entrepreneurs together working in the early days of cell phone cameras &#8212; long enough ago that some people thought adding a camera to a phone was a pointless gimmick.<br/><br/>Their experience balances Gutierrez&#8217;s youth, but her vision for the company &#8212; &#8220;ending human suffering&#8221; &#8212; leads the way.</p>
+<p>&#8220;She&#8217;s the chief fundraiser,&#8221; Roman Gutierrez says.</p>
+<p>Tang calls her &#8220;an evangelist.&#8221;<br/><br/>&#8220;She&#8217;s a very enthusiastic person, very smart and very &#8212; not stubborn &#8212; but very persistent,&#8221; Tang says.<br/>Roman laughs. &#8220;The good kind of stubborn,&#8221; he adds. With their track record as inventors and entrepreneurs, the two men come up with lots of their own ideas. People also bring ideas to them.<br/><br/>&#8220;We always try and shoot them down as quickly as we can,&#8221; Roman Gutierrez says. &#8220;Tony will shoot down what I come up with and I will try to shoot down what he comes up with. And then sometimes, you know, &#8216;OK, I can&#8217;t shoot it down. But we need to look at this.&#8217; You ask all the tough questions and then you try and go find the answers. And if the answers come back positive, you say, &#8216;This one makes sense.&#8217;&#8221;<br/><br/>That&#8217;s what happened when they heard Isabel Gutierrez&#8217;s idea. Soon, she was cold-calling &#8212; or cold emailing &#8212; researchers at institutions such as USC, Emory and Johns Hopkins.<br/><br/>&#8220;When I first started this, I delved straight into articles and journals all about different types of injuries &#8212; concussions, pain, heat strokes and all that. Then I would take the people that wrote these articles and I made a huge list and just every day sent a couple emails, seeing if someone would reply. Slowly I got emails back and then I talked to them about it and then, after hearing what I had to say, they were pretty interested in it. So, they jumped on board and they advised me. I also have doctors from England, USC and other top hospitals around the world. That was all cold calling. I&#8217;m not in the medical field, I don&#8217;t know anyone, so let&#8217;s just go for it.&#8221; <br/><br/>As the technology began to come together, there were other challenges. The device had to be portable, for one thing. Lugging a suitcase-sized device onto a sports field or field of battle wouldn&#8217;t do. And it had to be weatherproof. <br/><br/>Tinkering with prototypes and small changes was where Gutierrez&#8217;s experience with 3D printing came in handy. Besides using it in her coursework, she had taught 3D printing to youth up to age 18 in iD Tech summer camps on Caltech&#8217;s campus. <br/><br/>&#8220;3D printing is huge,&#8221; she says. &#8220;Without it, it&#8217;s just a nightmare to go through the prototype because&#160;you have to go to these big manufacturers and say, &#8216;I just want one,&#8217; and they say, &#8216;Well, our minimum order is 500,&#8217; and I say, &#8216;No, I just want one because it may not even work!&#8217;<br/><br/>&#8220;So, 3D printing allows us to say, &#8216;OK, let&#8217;s change this,&#8217; and then a few hours later, try it. It&#8217;s pretty cheap, and it&#8217;s so much easier than how it was before, and it really allows you to go through so many iterations that would have taken years and so much money.&#8221;</p>
+<p>Before the device goes to market, Vistendo will need clearance from the federal Food and Drug Administration, which regulates medical devices. <br/><br/>Gutierrez recently entered into a services agreement with the BIOS Division of the <strong>Johns Hopkins University School of Medicine</strong> to advise Vistendo on the strategy to achieve FDA clearance.</p>
+<h2>Learning and Doing</h2>
+<p>Gutierrez learned a lot at Cal Poly Pomona. And she is definitely doing. &#8220;I came here and I absolutely fell in love with &#8216;Learn by Doing,&#8217;&#8221; she says. &#8220;That&#8217;s what completely sold me. I&#8217;m a hands-on learner. That&#8217;s how I&#8217;ve always learned. When they said, &#8216;Every class has a lab,&#8217; and we would apply it directly to a project, that for me was just like, &#8216;Oh my gosh, this is my school.&#8217;&#8221;<br/><br/>It&#8217;s no surprise that Gutierrez also found talent among Cal Poly Pomona students and alumni, recruiting engineers and kinesiology majors to help. <br/><br/>&#8220;I love that they have that hands-on experience, and they&#8217;ve done a ton of projects that are very similar to a start-up environment,&#8221; she says.<br/><br/>The university&#8217;s learn-through-discovery environment allowed Gutierrez to marry her love of technology, sports and business, says <strong>Yao Olive Li</strong>, associate professor and director of the campus&#8217;<a href="https://www.cpp.edu/i-corps/index.shtml"><strong> I-Corps</strong></a>, a federally funded program that guides students through the commercialization process. In 2019, Gutierrez joined the second cohort, and in October 2020, she was the guest speaker at a Zoom meeting with the fifth cohort.<br/><br/>&#8220;She is an exemplary Cal Poly Pomona graduate from our learn-by-doing model and she also represents minority groups such as female engineering students of Hispanic origin,&#8221; Li says. &#8220;We cheer for her achievements since she graduated from CPP&#8217;s NSF I-Corps Site program.&#8221;<br/><br/>Jawaharlal also is rooting for his mentee to succeed.He says a newly minted mechanical engineer with Gutierrez&#8217;s technical and personal skills probably could command a job in the low six figures fresh out of college, or even on the low end, in the $70,000 to $80,000 range. <br/><br/>Instead, at 23, the little girl who loved Legos so much her father suggested a career in engineering is already the &#8220;Girl Boss&#8221; at Vistendo, a company she incorporated at 21. <br/><br/>&#8220;I&#8217;m a big believer in &#8216;Just do it,&#8217;&#8221; Gutierrez says. &#8220;A lot of people are stopped by fear or stress. I always say, &#8216;Go ahead and do it.&#8217; If it goes well, you&#8217;ve done it. If not, you&#8217;ve learned. Why not just go try it?&#8221;</p>
+            </section>
+                            
+                  
+       
+	
+	
+ 
+         
+    
+
+        
+    </div>
+        <aside class="col-lg-3 col-md offset-md-4 offset-lg-0 offset-0 col-12">
+                                                    <div>
+                  
+                                
+                        
+        
+               
+                           
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                            <img alt="Thumbnail of Girl Boss Story PDF." class="" height="319" src="../img/20fall-cppmag-girlboss.jpg" width="500"/>
+                
+                                    <a class="btn btn-primary" href="https://www.cpp.edu/cppmag/pdf/20fall-cpp-mag-girl-boss.pdf">Download PDF</a>
+                                </div>
+                        </aside>
+</div>
+</main>
+
+		
+    <div lang="en">
+
+
+                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                 
+<style>
+     @media screen and (min-width: 992px) {
+    .mini-footer .footer__socials-buttons {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}
+
+.mini-footer .button1__transducer {
+    font-size: 12px;
+    letter-spacing: .5px;
+}
+
+.mini-footer .button {
+	margin-top: 0;
+    padding: 8px 20px 8px 20px;
+
+}
+.mini-footer .footer-line {
+    border-top: thin solid #a4d65e;
+    margin-top: 39px;
+    padding-top: 15px;
+}
+ </style>
+<footer class="footer mini-footer">
+    <div class="footer__rip-wrapper">
+        <img class="footer__rip" alt="" src="/common/green-and-gold/assets/images/green-rip.svg" alt="Ripped green paper." />
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-2">
+                <div class="footer__logo-wrapper">
+                    <a href="/" aria-label="CPP Logo">
+                        <img class="footer__logo" src="/common/green-and-gold/assets/logos/cpp_primary_1c_gold_rgb.png" alt="Cal Poly Pomona logo, building with a palm tree." />
+                    </a>
+                </div>
+            </div>
+            <div class="col-12 col-lg-6 offset-lg-4">
+                <div class="footer__socials">
+                    <div class="footer__socials-buttons">
+                        <a class="button button__secondary button1__transducer" href="/apply/">Apply</a>
+                        <a class="button button__secondary button1__transducer" href="https://maps.cpp.edu/">Maps</a>
+                        <a class="button button__secondary button1__transducer" href="/outreach/tours.shtml">Visit</a>
+                        <a class="button button__secondary button1__transducer" href="/contact.shtml">Contact Us</a>
+                    </div>
+                    <div class="footer__socials-icons">
+                        <a href="https://www.instagram.com/calpolypomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram opens a new window" />
+                        </a>
+                        <a href="https://www.linkedin.com/school/cal-poly-pomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn opens a new window" />
+                        </a>
+                        <a href="https://www.youtube.com/user/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="YouTube opens a new window" />
+                        </a>
+                        <a href="https://www.facebook.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook opens a new window" />
+                        </a>
+                        <a href="https://twitter.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X opens a new window" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 footer-line">
+                <div class="footer__errata">
+                    <p class="footer__copyright" style="line-height: 1.8em">Copyright ©2025 California State Polytechnic University, Pomona.  All Rights Reserved 
+                        
+                        <br />A campus of 
+                        
+                        <a class="footer__errata-link" style="display: inline" href="https://www.calstate.edu/">The California State University</a>.
+                    
+                    </p>
+                    <div class="footer__errata-links">
+                        <a class="footer__errata-link" href="https://www.cpp.edu/website-feedback.shtml">Feedback</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/privacy.shtml">Privacy</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/accessibility.shtml">Accessibility</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/file-viewers.shtml">Document Readers</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer__gradient-bottom"></div>
+</footer>
+
+
+<script   src="https://code.jquery.com/jquery-3.2.1.min.js"   integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="   crossorigin="anonymous">
+</script><script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script src="https://www.cpp.edu/common/green-and-gold/assets/js/cpp-legacy.js" ></script>
+<script src="https://www.cpp.edu/common/2018/assets/js/tabs.js" ></script>
+<script src="/common/green-and-gold/assets/js/nav.js"></script>
+
+
+</div>
+    
+		
+		
+	</body>
+</html>

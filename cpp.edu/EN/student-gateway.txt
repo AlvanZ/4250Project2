@@ -1,0 +1,1429 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+    <head>
+        <meta charset="UTF-8"/>
+        <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+        <meta content="ie=edge" http-equiv="X-UA-Compatible"/>
+        <title>
+            Current Student Resources and Services at Cal Poly Pomona
+        </title>
+        <meta content="Current Students" name="keywords"/>
+        <meta content="Find links to tools, resources, offices, and services designed to support current CPP students in achieving their academic success and personal wellbeing." name="description"/>
+        
+            <script src="https://cdn.levelaccess.net/accessjs/YW1wX2NwcDExMDM/access.js"></script>
+<script>// <![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSKJRNV');
+// ]]></script>
+<link rel="icon" href="/common/green-and-gold/assets/icons/gg-favicon.svg"  type="image/svg+xml" />
+<link rel="icon" href="/common/green-and-gold/assets/icons/gg-favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/index.css" />
+<link rel="stylesheet" href="https://use.typekit.net/fia5dle.css" />
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/cpp-fonts.css" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+<script src="/common/green-and-gold/assets/js/accordion.js"></script>
+<script crossorigin="anonymous" defer="defer" integrity="sha384-FW78RPcSpi13vjx77nPWQIrQbNSLkPBopb0qGzLCxD2x4Kr6FA8V05C/6cpgkKPL" src="https://pro.fontawesome.com/releases/v5.10.1/js/all.js"></script>
+<script src="/common/green-and-gold/assets/js/modal.js"></script>
+<script src="/common/green-and-gold/assets/js/fontawesome/v6.0x/sharp-light.js" crossorigin="anonymous" type="text/javascript"></script>
+<script src="/common/green-and-gold/assets/js/fontawesome/v6.0x/sharp-others.js" crossorigin="anonymous" type="text/javascript"></script>
+<!-- Swiper Library -->
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/swiper-bundle.min.css" />
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/swiper-carousel.css" />
+<script src="/common/green-and-gold/assets/js/swiper-bundle.min.js"></script>
+<script src="/common/green-and-gold/assets/js/carousel-cards-swiper.js"></script>
+
+    </head>
+    <body>
+        <a class="skip-to-content-link" href="#main">Skip to content</a>
+             <header class="nav fixed">
+    <nav class="container">
+        <ul class="row nav__main" id="mainNavMenu">
+            <li id="main-logo" class="col-6 col-lg-3 nav__logo">
+                <a href="/" aria-label="Cal Poly Pomona Home" tabindex="0">
+                    <div class="nav__logo--horizontal">
+                        <img src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png" alt="Cal Poly Pomona Logo" />
+                    </div>
+                </a>
+            </li>
+            <!-- department header hidden by default-->
+            <li id="dept-header-desktop" class="col-sm-5 col-md-6 nav__logo desktop d-none">
+                <a href="/" aria-label="Cal Poly Pomona Home" tabindex="0">
+                    <div class="nav__logo--stacked">
+                        <img src="/common/green-and-gold/assets/logos/cpp_primary_2c_green_cmyk.png" alt="Cal Poly Pomona Logo">
+                        </div>
+                    </a>
+                    <div class="divider"></div>
+                    <div id="split-header" class="nav__division col-lg-6">
+                        <div id="large-name"></div>
+                        <div style="display:none" id="sub-name"></div>
+                    </div>
+                </div>
+            </li>
+            <li class="nav__links col-2" id="head-links">
+                <a class="nav__link nav__link--desktop col-1" href="/commencement/" tabindex="0">
+                    <svg
+                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 1px;
+    width: auto;
+">
+                        <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                        <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#005030"></path>
+                    </svg>
+                    <span class="sr-only">commencement</span>
+                </a>
+                <a class="nav__link nav__link--desktop col-1" href="/apply/" tabindex="0">apply</a>
+                <a class="nav__link nav__link--desktop col-1" href="/outreach/tours.shtml" tabindex="0">visit</a>
+                <a class="nav__link nav__link--desktop col-1" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="0">info</a>
+                <a class="nav__link nav__link--desktop col-1" href="/giving/" tabindex="0">give</a>
+                <a class="nav__link nav__link--desktop col-1" href="https://my.cpp.edu" tabindex="0">mycpp</a>
+                <button id="search-open" class="nav__search col-1" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/search-dark-green.svg" alt="Open search box" />
+                </button>
+                <button class="nav__menu col-1" id="menuButton" aria-expanded="false" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/menu.svg" alt="menu" />
+                </button>
+            </li>
+        </ul>
+    </nav>
+</header>
+<header id="search-header" style="display:none">
+    <div class="row">
+        <div class="col-md-6"></div>
+        <div id="searchbox" class="col-md-6">
+            <div id="search-slide">
+                <label for="#gsc-i-id1" class="sr-only">Search</label>
+                <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+                <div class="gcse-searchbox-only" data-resultsurl="https://www.cpp.edu/search.shtml"></div>
+                <button class="nav__menu col-1" id="search-close" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close search menu">
+                    </button>
+                </div>
+            </div>
+            <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+            <script>
+       $("#search-open").click(function() {
+         $("#search-header").show();
+         $("#search-slide").addClass("slideup");
+         $("#gsc-i-id1").focus();
+         $('#search-close').focusout(function() {
+           $("#search-header").hide();
+           $("#search-slide").removeClass("slideup");
+           $("#search-open").focus();
+         })
+       });
+       $("#search-close").click(function() {
+         $("#search-header").hide();
+         $("#search-slide").removeClass("slideup");
+         $("#search-open").focus();
+       });
+     </script>
+            <style>
+       .gstl_50 gssb_c {
+         position: fixed !important;
+       }
+
+       #searchbox {
+         height: 93px;
+         overflow: hidden;
+       }
+
+       #search-header {
+         position: fixed;
+         height: 100px;
+         width: 100%;
+         height: 93px;
+         z-index: 99999;
+         top: 0;
+       }
+
+       #gsc-i-id1 {
+         height: 40px;
+         width: 70%;
+         border-radius: 4px;
+         border: none;
+         padding: 15px;
+       }
+
+       #search-submit {
+         margin: 15px;
+       }
+
+       #search-close {
+         width: 23px;
+         height: 21px;
+         position: absolute;
+         top: 32px;
+       }
+
+       #search-slide {
+         width: 0px;
+         right: -100%;
+         padding: 20px 15px;
+         position: relative;
+         background: #005030;
+         height: 100%;
+         transition: all .5s ease 0s
+       }
+
+       #search-slide.slideup {
+         right: 0;
+         width: 100%;
+         position: relative;
+       }
+
+       @media screen and (max-width:991px) {
+         #search-slide {
+           height: 77px !important;
+           padding: 12px 10px;
+         }
+       }
+
+       @media screen and (max-width:767px) {
+         #search-header {
+           position: relative !important;
+         }
+
+         #search-slide {
+           text-align: center !important;
+         }
+       }
+
+       .gsc-search-button-v2 svg {
+         width: auto;
+         height: 21px;
+       }
+
+       .gsc-search-button-v2,
+       .gsc-search-button-v2:hover,
+       .gsc-search-button-v2:focus {
+         border: none !important;
+         background: none !important;
+       }
+
+       form.gsc-search-box {
+         font-size: 13px;
+         margin-top: 0;
+         margin-right: 0;
+         margin-bottom: 4px;
+         margin-left: 0;
+         width: 100%;
+         display: inline-block;
+       }
+
+       #___gcse_0 {
+         width: 70%;
+         display: inline-block;
+       }
+
+       table.gsc-search-box td.gsc-input {
+         padding-right: 0;
+       }
+
+       #gsc-i-id1 {
+         width: 100%;
+         padding: 0px;
+         border: none;
+         margin: -0.0625em 0px 0px;
+         height: 40px !important;
+         background: rgb(255, 255, 255);
+         outline: none;
+         font-size: 20px;
+         font-weight: 200;
+       }
+
+       .gstl_50.gssb_c {
+         z-index: 99999;
+       }
+
+       .gsq_a {
+         font-weight: 200;
+         font-size: 18px;
+         padding: 2px;
+       }
+
+       .gssb_a img {
+         display: none;
+       }
+     </style>
+        </div>
+    </header>
+    <section class="side-nav" id="sideNavOverlay">
+        <header class="side-nav__overlay relative">
+            <nav class="container">
+                <ul class="row nav__overlay" id="sideNavMenu">
+                    <li class="nav__logo col-12 col-md-10 col-lg-3" id="navLogoOverlay">
+                        <a href="/" aria-label="Cal Poly Pomona Home" tabindex="-1">
+                            <img src="/common/green-and-gold/assets/logos/cpp_horizontal_1c_gold_rgb.png" alt="Cal Poly Pomona Logo" />
+                        </a>
+                    </li>
+                    <div class="nav__overlay--right col-12 col-lg-9">
+                        <li class="nav__links nav__links--desktop col-12 col-lg-6">
+                            <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 1px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/apply/" tabindex="-1">apply</a>
+                            <a class="nav__link nav__link--mobile col-1" href="/outreach/tours.shtml" tabindex="-1">visit</a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="-1">info</a>
+                            <a class="nav__link nav__link--mobile col-1" href="/giving/" tabindex="-1">give</a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://my.cpp.edu" tabindex="-1">mycpp</a>
+                        </li>
+                        <li class="nav__icons col-1">
+                            <button id="search-open-green" class="nav__search col-1" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/search-white.svg" alt="Open search box" />
+                            </button>
+                            <button class="nav__close col-1" id="closeButton" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close menu" />
+                            </button>
+                        </li>
+                        <li class="nav__links nav__links--mobile col-12 col-lg-6">
+                            <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 1px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/apply/" tabindex="-1">apply </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/outreach/tours.shtml" tabindex="-1">visit </a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="-1">info </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/giving/" tabindex="-1">give </a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://my.cpp.edu" tabindex="-1">mycpp </a>
+                        </li>
+                    </div>
+                </ul>
+            </nav>
+        </header>
+        <nav class="container side-nav__container">
+            <ul class="row side-nav__links">
+                <li class="side-nav__link col-12">
+                    <a class="h3__proxima" href="/" tabindex="-1" aria-label="Cal Poly Pomona Home page">Home</a>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--0">
+                    <button class="h3__proxima" id="0" aria-expanded="false" tabindex="-1" aria-label="About">
+                        <span>about</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--1">
+                    <button class="h3__proxima" id="1" aria-expanded="false" tabindex="-1" aria-label="Admissions & Aid">
+                        <span>admissions &amp; aid</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--2">
+                    <button class="h3__proxima" id="2" aria-expanded="false" tabindex="-1" aria-label="Academics">
+                        <span>academics</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--3">
+                    <button class="h3__proxima" id="3" aria-expanded="false" tabindex="-1" aria-label="Life at CPP">
+                        <span>life at CPP</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small">
+            <ul class="row">
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="https://broncoathletics.com/" tabindex="-1">athletics</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/alumni/" tabindex="-1">alumni</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/news/" tabindex="-1">news &amp; events</a>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small-bottom">
+            <ul class="col-12 col-lg-6 side-nav__links--small-bottom">
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/prospective-student-gateway/" tabindex="-1">future students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/student-gateway/" tabindex="-1">current students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/family/" tabindex="-1">families</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/faculty-staff-gateway/" tabindex="-1">faculty &amp; staff</a>
+                </li>
+            </ul>
+            <ul class="col-12 col-lg-6 social-icons">
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.instagram.com/calpolypomona/" aria-label="Instagram" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.linkedin.com/school/cal-poly-pomona/" aria-label="LinkedIn " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.youtube.com/user/calpolypomona" aria-label="Youtube " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="Youtube" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.facebook.com/calpolypomona" aria-label="Facebook " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://twitter.com/calpolypomona" aria-label="X (Twitter)" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X" />
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </section>
+    <script src="/common/green-and-gold/assets/js/nav.js"></script>
+
+            
+    
+
+
+
+
+
+  
+    
+
+  
+
+
+  
+
+
+                   
+                           <code></code>
+           
+                            
+<div class="cqw-wrapper" id="main">
+
+        
+        
+    <div class="organism-spacer spacer__margin-bottom--small">
+            <section class="hero-gateway">
+                <div class="hero-gateway__gradient-topper"></div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12 col-lg-7">
+                            <div class="hero-gateway__kicker kicker__transducer">Cal Poly Pomona</div>
+                            <h1 class="hero-gateway__header h1__proxima">Current Students</h1>
+                            <p class="hero-gateway__copy body2">Links to resources, offices and services that support Cal Poly Pomona students.</p>
+                            
+                            <div class="hero-gateway__buttons hero-gateway__buttons--desktop">
+                                                            </div>
+                            
+                        </div>
+                        <div class="col-12 col-lg-5">
+                            <div class="hero-gateway__image-wrapper">
+                                <img alt="Students Smile up at the camera from the SSB" class="hero-gateway__image" src="img/philanthropy-foundation-students.jpg"/>
+                            </div>
+                        </div>
+                        <div class="col-12 col-lg-7">
+                            
+                            <div class="hero-gateway__buttons hero-gateway__buttons--mobile">
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    
+    
+        
+    <script src="/common/green-and-gold/assets/js/small-cards-mobile-view.js" type="text/javascript"></script>
+    
+            
+        
+          
+    <div class="organism-spacer spacer__padding-bottom--large">
+        <section class="content-carousel content-carousel--default">
+            <div class="container">
+                <div class="row">
+                    <section class="small-card-grid small-card-grid--desktop">
+                        <div class="small-card-grid__wrapper row">
+                                                    <header class="small-card-grid__header">
+                              <h2 class="h4__transducer col-8 sr-only">Quick Links</h2>
+                                                          </header>
+                                                    
+                            
+                            
+                                                                            
+                                                        
+                                                        
+                      
+                            <div class="small-card-grid__card col-lg-4">
+                                <a aria-label="Email Launch Outlook (opens in new window)" class="small-card bar--magenta--with-arrow bar--thin" href="https://outlook.office365.com/cpp.edu" target="_blank">
+                                                                        <div class="small-card__image-wrapper">
+                                        <img alt="Outlook" class="small-card__image" src="img/1top_cards.png"/>
+                                    </div>
+                                    <div class="small-card__content">
+                                        <h2 class="small-card__header kicker__transducer small-card__header--magenta">Email</h2>
+                                        <p class="small-card__copy h5__proxima">Launch Outlook</p>
+                                    </div>
+                                </a>
+                            </div>
+                    
+                                                    
+                                                        
+                                                        
+                      
+                            <div class="small-card-grid__card col-lg-4">
+                                <a aria-label="myCPP Launch myCPP (opens in new window)" class="small-card bar--magenta--with-arrow bar--thin" href="http://my.cpp.edu/" target="_blank">
+                                                                        <div class="small-card__image-wrapper">
+                                        <img alt="Testing" class="small-card__image" src="img/2top_cards.png"/>
+                                    </div>
+                                    <div class="small-card__content">
+                                        <h2 class="small-card__header kicker__transducer small-card__header--magenta">myCPP</h2>
+                                        <p class="small-card__copy h5__proxima">Launch myCPP</p>
+                                    </div>
+                                </a>
+                            </div>
+                    
+                                                    
+                                                        
+                                                        
+                      
+                            <div class="small-card-grid__card col-lg-4">
+                                <a aria-label="Canvas Login to Canvas (opens in new window)" class="small-card bar--magenta--with-arrow bar--thin" href="https://canvas.cpp.edu/" target="_blank">
+                                                                        <div class="small-card__image-wrapper">
+                                        <img alt="Login" class="small-card__image" src="img/3top_cards.png"/>
+                                    </div>
+                                    <div class="small-card__content">
+                                        <h2 class="small-card__header kicker__transducer small-card__header--magenta">Canvas</h2>
+                                        <p class="small-card__copy h5__proxima">Login to Canvas</p>
+                                    </div>
+                                </a>
+                            </div>
+                    
+                                                </div>
+                    </section>
+                    
+                                        <div class="content-carousel__header default mobile-only">
+                        <h2 class="h4__transducer col-lg-6 sr-only">upcoming application deadlines</h2>
+                        <div class="content-carousel__controls-wrapper">
+                            <div class="content-carousel__cta cta--desktop">
+                                <a class="button button__primary--light-green button1__transducer" href="/">all application deadlines</a>
+                            </div>
+                            <div class="content-carousel__controls">
+                                <button aria-disabled="true" aria-label="Previous slide" class="carousel-prev--1" data-bs-slide="prev" data-bs-target="#contentCarousel--1" type="button">
+                                    <span class="visually-hidden">Previous</span>
+                                </button>
+                                <div aria-live="polite" class="carousel-tracker body3" id="carousel-tracker--1">1 / 3</div>
+                                <button aria-disabled="false" aria-label="Next slide" class="carousel-next carousel-next--1" data-bs-slide="next" data-bs-target="#contentCarousel--1" type="button">
+                                    <span class="visually-hidden">Next</span>
+                                </button>
+                                <div aria-live="assertive" class="sr-only" id="carousel-notification"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div aria-live="polite" class="carousel mobile-only" data-bs-ride="false" id="contentCarousel--1">
+                        <div class="carousel-inner">
+                            
+                                                                                                            
+                                                        
+                                                        
+                                                        
+                            
+                                                                                                                   
+                            <div class="carousel-item active" role="group">
+                                <div class="carousel__card">
+                                    <a aria-label="Email Launch Outlook" class="small-card bar--magenta--with-arrow bar--thin" href="https://outlook.office365.com/cpp.edu" target="_blank">
+                                                                                <div class="small-card__image-wrapper">
+                                            <img alt="Outlook" class="small-card__image" src="img/1top_cards.png"/>
+                                        </div>
+                                        <div class="small-card__content">
+                                            <h3 class="small-card__header kicker__transducer small-card__header--magenta">Email</h3>
+                                            <p class="small-card__copy h5__proxima">Launch Outlook</p>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            
+                                                    
+                                                        
+                                                        
+                                                        
+                            
+                                                                                     
+                            <div class="carousel-item " role="group">
+                                <div class="carousel__card">
+                                    <a aria-label="myCPP Launch myCPP" class="small-card bar--magenta--with-arrow bar--thin" href="http://my.cpp.edu/" target="_blank">
+                                                                                <div class="small-card__image-wrapper">
+                                            <img alt="Testing" class="small-card__image" src="img/2top_cards.png"/>
+                                        </div>
+                                        <div class="small-card__content">
+                                            <h3 class="small-card__header kicker__transducer small-card__header--magenta">myCPP</h3>
+                                            <p class="small-card__copy h5__proxima">Launch myCPP</p>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            
+                                                    
+                                                        
+                                                        
+                                                        
+                            
+                                                                                     
+                            <div class="carousel-item " role="group">
+                                <div class="carousel__card">
+                                    <a aria-label="Canvas Login to Canvas" class="small-card bar--magenta--with-arrow bar--thin" href="https://canvas.cpp.edu/" target="_blank">
+                                                                                <div class="small-card__image-wrapper">
+                                            <img alt="Login" class="small-card__image" src="img/3top_cards.png"/>
+                                        </div>
+                                        <div class="small-card__content">
+                                            <h3 class="small-card__header kicker__transducer small-card__header--magenta">Canvas</h3>
+                                            <p class="small-card__copy h5__proxima">Login to Canvas</p>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            
+                                                      
+                        </div>
+                    </div>
+                                                                            </div>
+            </div>
+
+        </section>
+        
+    </div>      
+        
+        
+            
+             <div class="organism-spacer spacer__padding-bottom--large">
+          <section class="text-list">
+            
+        
+
+         <div class="container">
+                <div class="row">
+                    <div class="text-list__wrapper">
+                    
+                                            
+                        
+        
+            
+        <header class="text-list__header header-align--center">
+            <h2 class="h1__proxima col-lg-6">General and Academic Resources</h2>
+        </header>
+        
+    
+                    
+                                            <div class="text-list__cta-grid row">
+                            
+                                                                                        
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Academic Program Search (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/programs/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Academic Program Search</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Academic Calendar (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/studentsuccess/calendar/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Academic Calendar</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Ask Billy (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://cpp.service-now.com/askbilly" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Ask Billy</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Bronco Advising Center (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/studentsuccess/bronco-advising-center/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Bronco Advising Center</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Colleges and Departments (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/academics/colleges-departments.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Colleges and Departments</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Financial Aid and Scholarships (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/financial-aid/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Financial Aid and Scholarships</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Learning Resource Center (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/lrc/" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Learning Resource Center</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Military and Veterans (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/veterans/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Military and Veterans</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Office of Admissions (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/admissions/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Office of Admissions</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Office of Academic Innovation (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/ai/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Office of Academic Innovation</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Registrar's Office (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/registrar/" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Registrar's Office</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Student Success Central (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/studentsuccess/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Student Success Central</p>
+                    </a>
+    </div>
+    
+                                
+                                                          
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+    
+    
+            
+             <div class="organism-spacer spacer__padding-bottom--large">
+          <section class="text-list">
+            
+        
+
+         <div class="container">
+                <div class="row">
+                    <div class="text-list__wrapper">
+                    
+                                            
+                        
+        
+            
+        <header class="text-list__header header-align--center">
+            <h2 class="h1__proxima col-lg-6">Campus Services</h2>
+        </header>
+        
+    
+                    
+                                            <div class="text-list__cta-grid row">
+                            
+                                                                                        
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Associated Students, Inc. (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://asi.cpp.edu/" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Associated Students, Inc.</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Bronco Bookstore (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.broncobookstore.com/" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Bronco Bookstore</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Bronco Student Center (BSC) (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://asi.cpp.edu/facilities/bsc/" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Bronco Student Center (BSC)</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Children's Center (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://asi.cpp.edu/services/child-care/children-center/" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Children's Center</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Career Center (Jobs and Careers) (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://careercenter.cpp.edu/" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Career Center (Jobs and Careers)</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Cultural and Identity Centers (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/tree/" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Cultural and Identity Centers</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Foothill Transit Class Pass (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/transportation/classpass.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Foothill Transit Class Pass</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="International Students (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/international/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">International Students</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="On-Campus Jobs (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://cpp.joinhandshake.com/login" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">On-Campus Jobs</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Parking and Transportation (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/parking/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Parking and Transportation</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Student Conduct and Integrity (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/studentconduct" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Student Conduct and Integrity</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Student Support and Equity Programs (EOP, Undocumented Students, Renaissance Scholars) (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/ssep" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Student Support and Equity Programs (EOP, Undocumented Students, Renaissance Scholars)</p>
+                    </a>
+    </div>
+    
+                                
+                                                          
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+    
+        
+             
+<div class="organism-spacer spacer__padding-bottom--large" style="--mobileMarginBottomOverride: 60px;">
+
+  <section class="image-text" id="content-section-1">
+    <div class="container">
+      <div class="image-text__wrapper image-text__wrapper--left">
+        <div class="col-12 col-md-8 col-lg-5 image-text__grid image-text__grid--gold" style="background-image:url('/common/green-and-gold/assets/images/white-grid.png')">
+          <div class="image-text__img">
+            <img alt="Library interior with students studying" src="img/canto-library-studying.jpg"/>
+          </div>
+        </div>
+        <div class="image-text__content">
+          <div class="image-text__copy col-12 col-md-8 col-lg-6 image-text__copy--dark-green image-text__copy--regular">
+                          <h2 class="kicker__transducer">Here to Help</h2>
+                                                                    <h3 class="h3__proxima">University Library</h3>
+                                <p class="body2">From subject matter help to a tech lending program, the University Library is a home away from home for students, serving as an important connection to the community.</p>
+                                              
+                          <div class="image-text__cta">
+                                                                  <a class="button button1__transducer button__secondary" href="                                                          https://www.cpp.edu/library/index.shtml      ">See Library Services</a>                      
+                                </div>
+                      </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+    
+        
+
+                            
+        <div class="organism-spacer spacer__padding-bottom--large">
+    
+                    <div class="container">
+                                     <div class="row">
+                <header class="green-card-grid__header">
+                    <div class="green-card-grid__copy">
+                       <h2 class="h4__transducer">Student Activities</h2>
+                    </div>
+                    
+                                    </header>
+             </div>
+             
+                        
+              
+                             
+                <div class="green-card-grid__wrapper row">
+                                                                   
+                                                <div class="col-12 col-md-6 col-lg-4">
+                        
+                                                    <a class="card card__image card__link card--dark-green bar--green--with-arrow col-lg-4" href="                                                          https://asi.cpp.edu/      ">
+                                 
+                                                        <div class="card__img">
+                                    <img alt="Students painting during an ASI event" src="img/3activities.png"/>
+                                </div>
+                                <div class="card__content">
+                                                                             <h3 class="h5__proxima">Associated Students, Inc.</h3>
+                                                                                                        </div>
+                            </a>
+                        </div>
+                                                  
+                                                <div class="col-12 col-md-6 col-lg-4">
+                        
+                                                    <a class="card card__image card__link card--dark-green bar--green--with-arrow col-lg-4" href="                                                          https://www.cpp.edu/blc/student-leaders/club-org-toolkit.shtml      ">
+                                 
+                                                        <div class="card__img">
+                                    <img alt="club fair" src="img/2activities.png"/>
+                                </div>
+                                <div class="card__content">
+                                                                             <h3 class="h5__proxima">Clubs and Organizations</h3>
+                                                                                                        </div>
+                            </a>
+                        </div>
+                                                  
+                                                <div class="col-12 col-md-6 col-lg-4">
+                        
+                                                    <a class="card card__image card__link card--dark-green bar--green--with-arrow col-lg-4" href="                                                          https://www.cpp.edu/blc/students/fsl.shtml      ">
+                                 
+                                                        <div class="card__img">
+                                    <img alt="Fraternity at an event with billy bronco" src="img/1activities.png"/>
+                                </div>
+                                <div class="card__content">
+                                                                             <h3 class="h5__proxima">Greek Life</h3>
+                                                                                                        </div>
+                            </a>
+                        </div>
+                                         </div>
+                
+                          
+                          
+                            </div>
+                                      
+                                    
+                         
+                      </div>
+          
+            
+        
+            
+             <div class="organism-spacer spacer__padding-bottom--large">
+          <section class="text-list">
+            
+        
+
+         <div class="container">
+                <div class="row">
+                    <div class="text-list__wrapper">
+                    
+                                            
+                        
+            
+                  
+              
+        <header class="text-list__header header-align--left">
+            <h2 class="h4__transducer col-lg-6">Around Campus</h2>
+        </header>
+
+        
+    
+                    
+                                            <div class="text-list__cta-grid row">
+                            
+                                                                                        
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Division of Student Affairs (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/student-affairs/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Division of Student Affairs</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Dining Services (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.foundation.cpp.edu/dining/" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Dining Services</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Farm Store (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/farmstore/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Farm Store</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Games Room, Etc. (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://asi.cpp.edu/facilities/bsc/bsc-info/" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Games Room, Etc.</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Rose Float (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.rosefloat.org/" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Rose Float</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Poly Pantry Food Pantry (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://app.pantrysoft.com/login/calpoly" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Poly Pantry Food Pantry</p>
+                    </a>
+    </div>
+    
+                                
+                                                          
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+    
+    
+            
+             <div class="organism-spacer spacer__padding-bottom--large">
+          <section class="text-list">
+            
+        
+
+         <div class="container">
+                <div class="row">
+                    <div class="text-list__wrapper">
+                    
+                                            
+                        
+            
+                  
+              
+        <header class="text-list__header header-align--left">
+            <h2 class="h4__transducer col-lg-6">Wellbeing and Support</h2>
+        </header>
+
+        
+    
+                    
+                                            <div class="text-list__cta-grid row">
+                            
+                                                                                        
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Bronco Recreation and Intramural Center (BRIC) (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://asi.cpp.edu/facilities/bric/bric-info/" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Bronco Recreation and Intramural Center (BRIC)</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Campus Safety Plan (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/campus-safety-plan.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Campus Safety Plan</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Counseling and Psychological Services (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/caps/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Counseling and Psychological Services</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Open Recreation (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://asi.cpp.edu/activities/open-rec/" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Open Recreation</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Student Health Services (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/health/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Student Health Services</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Update Your Emergency Contact (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/registrar/student-record/update-personal-information.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Update Your Emergency Contact</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="University Housing Services (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/housing/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">University Housing Services</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="University Village (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://cppvillage.com/" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">University Village</p>
+                    </a>
+    </div>
+    
+                                
+                                                          
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+    
+        
+        
+        
+    <style>
+        a.card__image-cta:focus {
+            outline: 3px solid #005030;
+            border: solid 2px #fff;
+            border-radius: 5px;
+        }
+    </style>
+    
+    <div class="organism-spacer spacer__background-color--eggshell spacer__padding-bottom--large">
+        <section class="three-up__cta-card">
+            <div class="container">
+                <div class="header__wrapper">
+                    <img alt="" class="cta-card__svg" src="https://www.cpp.edu/common//green-and-gold/assets/images/vertical-line-circle.svg"/>
+                    <header class="header">
+                        <h2 class="h1__proxima">Additional Resources</h2>
+                    </header>
+                </div>
+                <div class="row">
+                    
+                                      
+                                    
+                    
+                    <div class="col-12 col-sm-10 col-md-8 col-lg-4">
+                        <a class="card card__image-cta bar--magenta--with-arrow col-lg-4" href="https://cpp.service-now.com/ehelp" target="_blank" title="opens a new window">
+                            <div class="card__button">
+                                <div class="button button__primary--yellow button1__transducer">Submit eHelp Request - IT</div>
+                            </div>
+                            <div class="card__img"> <img alt="" src="../img/cpp_bitmap_business_both_300dpi_v2.jpg"/></div>
+                        </a>
+                    </div>
+                    
+                  
+                                    
+                    
+                    <div class="col-12 col-sm-10 col-md-8 col-lg-4">
+                        <a class="card card__image-cta bar--magenta--with-arrow col-lg-4" href="https://www.cpp.edu/canvas/index.shtml" target="_blank" title="opens a new window">
+                            <div class="card__button">
+                                <div class="button button__primary--yellow button1__transducer">CPP Canvas Community</div>
+                            </div>
+                            <div class="card__img"> <img alt="" src="../img/cpp_bitmap_horses_both_300dpi1.jpg"/></div>
+                        </a>
+                    </div>
+                    
+                                      
+                                    </div>
+            </div>
+        </section>
+    </div>
+        <style>
+    .footer__rip-wrapper {
+        background: #f2eee8;
+    }
+    </style>
+    
+</div>
+
+
+         
+<style>
+     @media screen and (min-width: 992px) {
+    .mini-footer .footer__socials-buttons {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}
+
+.mini-footer .button1__transducer {
+    font-size: 12px;
+    letter-spacing: .5px;
+}
+
+.mini-footer .button {
+	margin-top: 0;
+    padding: 8px 20px 8px 20px;
+
+}
+.mini-footer .footer-line {
+    border-top: thin solid #a4d65e;
+    margin-top: 39px;
+    padding-top: 15px;
+}
+ </style>
+<footer class="footer mini-footer">
+    <div class="footer__rip-wrapper">
+        <img class="footer__rip" alt="" src="/common/green-and-gold/assets/images/green-rip.svg" alt="Ripped green paper." />
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-2">
+                <div class="footer__logo-wrapper">
+                    <a href="/" aria-label="CPP Logo">
+                        <img class="footer__logo" src="/common/green-and-gold/assets/logos/cpp_primary_1c_gold_rgb.png" alt="Cal Poly Pomona logo, building with a palm tree." />
+                    </a>
+                </div>
+            </div>
+            <div class="col-12 col-lg-6 offset-lg-4">
+                <div class="footer__socials">
+                    <div class="footer__socials-buttons">
+                        <a class="button button__secondary button1__transducer" href="/apply/">Apply</a>
+                        <a class="button button__secondary button1__transducer" href="https://maps.cpp.edu/">Maps</a>
+                        <a class="button button__secondary button1__transducer" href="/outreach/tours.shtml">Visit</a>
+                        <a class="button button__secondary button1__transducer" href="/contact.shtml">Contact Us</a>
+                    </div>
+                    <div class="footer__socials-icons">
+                        <a href="https://www.instagram.com/calpolypomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram opens a new window" />
+                        </a>
+                        <a href="https://www.linkedin.com/school/cal-poly-pomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn opens a new window" />
+                        </a>
+                        <a href="https://www.youtube.com/user/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="YouTube opens a new window" />
+                        </a>
+                        <a href="https://www.facebook.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook opens a new window" />
+                        </a>
+                        <a href="https://twitter.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X opens a new window" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 footer-line">
+                <div class="footer__errata">
+                    <p class="footer__copyright" style="line-height: 1.8em">Copyright ©2025 California State Polytechnic University, Pomona.  All Rights Reserved 
+                        
+                        <br />A campus of 
+                        
+                        <a class="footer__errata-link" style="display: inline" href="https://www.calstate.edu/">The California State University</a>.
+                    
+                    </p>
+                    <div class="footer__errata-links">
+                        <a class="footer__errata-link" href="https://www.cpp.edu/website-feedback.shtml">Feedback</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/privacy.shtml">Privacy</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/accessibility.shtml">Accessibility</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/file-viewers.shtml">Document Readers</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer__gradient-bottom"></div>
+</footer>
+
+
+    </body>
+</html>

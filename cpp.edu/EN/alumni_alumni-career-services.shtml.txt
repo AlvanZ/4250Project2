@@ -1,0 +1,1198 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+		<title>
+			Alumni Resources
+		</title>
+		<!-- Required meta tags -->
+		<meta charset="utf-8"/>
+		<meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
+		<meta content="Advancement" property="cludo:category"/>
+<meta content="2024-11-22T15:49Z" property="date"/>
+<link href="https://www.cpp.edu/alumni/alumni-career-services.shtml" rel="canonical"/>
+		
+		<meta content="Alumni Resources" name="description"/>
+		
+    <div lang="en">
+
+
+                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                <script src="https://cdn.levelaccess.net/accessjs/YW1wX2NwcDExMDM/access.js"></script>
+<script>// <![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSKJRNV');
+// ]]></script>
+<link href="/common/green-and-gold/assets/icons/gg-favicon.svg" rel="icon" type="image/svg+xml"/> <link crossorigin="anonymous" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" rel="stylesheet"/>
+<script crossorigin="anonymous" defer="defer" integrity="sha384-FW78RPcSpi13vjx77nPWQIrQbNSLkPBopb0qGzLCxD2x4Kr6FA8V05C/6cpgkKPL" src="https://pro.fontawesome.com/releases/v5.10.1/js/all.js"></script>
+<link href="https://www.cpp.edu/common/2018/assets/css/cpp-base-styles.css" rel="stylesheet"/> <link href="https://www.cpp.edu/common/2018/assets/css/cpp-extended-styles.css" rel="stylesheet"/> <link href="https://use.typekit.net/fia5dle.css" rel="stylesheet"/> <link href="/common/green-and-gold/assets/css/cpp-fonts.css" rel="stylesheet"/> <link href="/common/green-and-gold/assets/css/gg-header-footer.css" rel="stylesheet"/>
+
+</div>
+    
+		
+		
+	</head>
+	<body>
+		
+		 
+<header class="nav fixed">
+    <nav class="container">
+        <ul class="row nav__main" id="mainNavMenu">
+            <li id="main-logo" class="col-6 col-lg-3 nav__logo">
+                <a href="/" aria-label="Cal Poly Pomona Home" tabindex="0">
+                    <div class="nav__logo--horizontal">
+                        <img src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png" alt="Cal Poly Pomona Logo" />
+                    </div>
+                </a>
+            </li>
+            <li class="nav__links col-6" id="head-links">
+             <a class="nav__link nav__link--desktop col-1" href="/commencement/" tabindex="0">
+                    <svg
+                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 6px;
+    width: auto;
+">
+                        <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                        <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#005030"></path>
+                    </svg>
+                    <span class="sr-only">commencement</span>
+                </a>
+                <a class="nav__link nav__link--desktop" href="/apply/" tabindex="0">apply</a>
+                <a class="nav__link nav__link--desktop" href="/outreach/tours.shtml" tabindex="0">visit</a>
+                <a class="nav__link nav__link--desktop" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="0">info</a>
+                <a class="nav__link nav__link--desktop" href="/giving/" tabindex="0">give</a>
+                <a class="nav__link nav__link--desktop" href="https://my.cpp.edu" tabindex="0">mycpp</a>
+                <button id="search-open" class="nav__search" aria-expanded="false" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/search-dark-green.svg" alt="Search" />
+                </button>
+                <button class="nav__menu" id="menuButton" aria-expanded="false" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/menu.svg" alt="menu" />
+                </button>
+            </li>
+        </ul>
+    </nav>
+</header>
+<header id="search-header" style="display:none">
+    <div class="row">
+        <div class="col-md-6"></div>
+        <div id="searchbox" class="col-md-6">
+            <div id="search-slide">
+                <label for="#gsc-i-id1" class="sr-only">Search</label>
+                <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+                <div class="gcse-searchbox-only" data-resultsurl="https://www.cpp.edu/search.shtml"></div>
+                <button class="nav__menu col-1" id="search-close" aria-expanded="false" tabindex="0" aria-label="Menu icon">
+                    <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close icon">
+                    </button>
+                </div>
+            </div>
+            <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+            <style>
+
+     .gstl_50 gssb_c {
+         position:fixed !important;
+         }
+       #search-close img {
+         width: auto !important;
+       }
+
+       #searchbox {
+         height: 93px;
+         overflow: hidden;
+       }
+
+       #search-header {
+         position: fixed;
+         height: 100px;
+         width: 100%;
+         height: 93px;
+         z-index: 99999;
+         top: 0;
+       }
+
+       #gsc-i-id1 {
+         height: 40px;
+         width: 70%;
+         border-radius: 4px;
+         border: none;
+         padding: 15px;
+       }
+
+       #search-submit {
+         margin: 15px;
+       }
+
+       #search-close {
+         width: 23px;
+         height: 21px;
+         position: absolute;
+         top: 32px;
+       }
+
+       #search-slide {
+         width: 0px;
+         right: -100%;
+         padding: 20px 15px;
+         position: relative;
+         background: #005030;
+         height: 100%;
+         transition: all .5s ease 0s
+       }
+
+       #search-slide.slideup {
+         right: 0;
+         width: 100%;
+         position: relative;
+       }
+
+       @media screen and (max-width:991px) {
+         #search-slide {
+           height: 77px !important;
+           padding: 12px 10px;
+         }
+       }
+
+       @media screen and (max-width:767px) {
+         #search-header {
+           position: relative !important;
+         }
+
+         #search-slide {
+           text-align: center !important;
+         }
+       }
+
+     .gsc-search-button-v2 svg {
+    width: auto;
+    height: 25px;
+    position: relative;
+    top: 8px;
+}
+
+       .gsc-search-button-v2,
+       .gsc-search-button-v2:hover,
+       .gsc-search-button-v2:focus {
+         border: none !important;
+         background: none !important;
+       }
+
+       form.gsc-search-box {
+         font-size: 13px;
+         margin-top: 0;
+         margin-right: 0;
+         margin-bottom: 4px;
+         margin-left: 0;
+         width: 100%;
+         display: inline-block;
+       }
+
+       #___gcse_0 {
+         width: 70%;
+         display: inline-block;
+       }
+
+       table.gsc-search-box td.gsc-input {
+         padding-right: 0;
+       }
+
+       #gsc-i-id1 {
+         width: 100%;
+         padding: 0px;
+         border: none;
+         margin: -0.0625em 0px 0px;
+         height: 40px !important;
+         background: rgb(255, 255, 255);
+         outline: none;
+         font-size: 20px;
+         font-weight: 200;
+       }
+
+       .gstl_50.gssb_c {
+         z-index: 99999;
+       }
+
+       .gsq_a {
+         font-weight: 200;
+         font-size: 18px;
+         padding: 2px;
+       }
+
+       .gssb_a img {
+         display: none;
+       }
+
+       .side-nav__links--small-bottom {
+           margin-left:-15px;
+       }
+       .nav__links .nav__links--mobile {
+           margin-top: 50px;
+            margin-bottom: -50px;
+            margin-left: 50px
+       }
+       .nav__link--mobile {
+        	padding:0px;
+        }
+     /*   .side-nav__container, .side-nav__container--small {
+          
+            padding-left: 50px;
+        }*/
+        .side-nav__container--small-bottom {
+           padding-left: 35px;
+        }
+         @media screen and (max-width:991px) {
+             .nav__links--mobile {
+                 display:flex;
+             }
+         }
+          @media screen and (min-width:992px) {
+             .nav__links--mobile {
+                 display:none !important;
+             }
+          }
+         .nav__link--mobile {
+             color: #ffb81c;
+         }
+       </style>
+        </div>
+    </header>
+    <section class="side-nav" id="sideNavOverlay">
+        <header class="side-nav__overlay relative">
+            <nav class="container">
+                <ul class="row nav__overlay" id="sideNavMenu">
+                    <li class="nav__logo col-12 col-md-10 col-lg-3" id="navLogoOverlay">
+                        <a href="/" aria-label="Cal Poly Pomona Home" tabindex="-1">
+                            <img src="/common/green-and-gold/assets/logos/cpp_horizontal_1c_gold_rgb.png" alt="Cal Poly Pomona Logo" />
+                        </a>
+                    </li>
+                    <div class="nav__overlay--right col-12 col-lg-9">
+                        <li class="nav__links nav__links--desktop col-12 col-lg-6">
+                             <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 6px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                            <a class="nav__link nav__link--mobile" href="/apply/" tabindex="-1">apply</a>
+                            <a class="nav__link nav__link--mobile" href="/outreach/tours.shtml" tabindex="-1">visit</a>
+                            <a class="nav__link nav__link--mobile" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="-1">info</a>
+                            <a class="nav__link nav__link--mobile" href="/giving/" tabindex="-1">give</a>
+                            <a class="nav__link nav__link--mobile" href="https://my.cpp.edu" tabindex="-1">mycpp</a>
+                        </li>
+                        <li class="nav__icons">
+                            <button id="search-open-green" class="nav__search" aria-expanded="false" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/search-white.svg" alt="Search" />
+                            </button>
+                            <button class="nav__close" id="closeButton" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close menu" />
+                            </button>
+                        </li>
+                    </div>
+                </ul>
+            </nav>
+        </header>
+        
+            <div class="mobile_overlay_nav nav__links nav__links--mobile col-12 col-lg-6">
+                 <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 6px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                <a class="nav__link nav__link--mobile" href="/apply/" tabindex="0">apply </a>
+                <a class="nav__link nav__link--mobile" href="/outreach/tours.shtml" tabindex="0">visit </a>
+                <a class="nav__link nav__link--mobile" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="0">info </a>
+                <a class="nav__link nav__link--mobile" href="/giving/" tabindex="0">give </a>
+                <a class="nav__link nav__link--mobile" href="https://my.cpp.edu" tabindex="0">mycpp </a>
+            </div>
+       
+        <nav class="container side-nav__container">
+            <ul class="row side-nav__links">
+                <li id="home-button" class="side-nav__link">
+                    <a class="h3__proxima" href="/" tabindex="-1" aria-label="Cal Poly Pomona Home page">Home</a>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--0">
+                    <button class="h3__proxima" id="0" aria-expanded="false" tabindex="-1" aria-label="Link">
+                        <span>about</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--1">
+                    <button class="h3__proxima" id="1" aria-expanded="false" tabindex="-1" aria-label="Admissions & Aid">
+                        <span>admissions &amp; aid</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--2">
+                    <button class="h3__proxima" id="2" aria-expanded="false" tabindex="-1" aria-label="academics">
+                        <span>academics</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--3">
+                    <button class="h3__proxima" id="3" aria-expanded="false" tabindex="-1" aria-label="life at CPP">
+                        <span>life at CPP</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small">
+            <ul class="row">
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="https://broncoathletics.com/" tabindex="-1">athletics</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/alumni/" tabindex="-1">alumni</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/news/" tabindex="-1">news &amp; events</a>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small-bottom">
+            <ul class="col-12 col-lg-7 side-nav__links--small-bottom">
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/prospective-student-gateway/" tabindex="-1">future students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/student-gateway/" tabindex="-1">current students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/family/" tabindex="-1">families</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/faculty-staff-gateway/" tabindex="-1">faculty &amp; staff</a>
+                </li>
+            </ul>
+            <ul class="col-12 col-lg-5 social-icons">
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.instagram.com/calpolypomona/" aria-label="Instagram" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.linkedin.com/school/cal-poly-pomona/" aria-label="LinkedIn " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.youtube.com/user/calpolypomona" aria-label="Youtube " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="Youtube" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.facebook.com/calpolypomona" aria-label="Facebook " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://twitter.com/calpolypomona" aria-label="X (Twitter)" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X" />
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </section>
+		                                                                                                                                                        																										                                                            															    		                                            
+
+
+            
+
+    <header title="Alumni and External Relations">
+                              <nav class="navbar navbar-expand-xl navbar-light" id="college-nav"><a class="navbar-brand college-brand" href="/&#126;alumni/index.shtml">Alumni and External Relations</a> <button aria-controls="college-toggle" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler navbar-toggler-right" data-target="#college-toggle" data-toggle="collapse" type="button"> <span class="navbar-toggler-icon"></span> </button>
+<div class="collapse navbar-collapse college-nav" id="college-toggle">
+<ul class="navbar-nav ml-auto mt-2 mt-lg-0">
+<li class="nav-item dropdown"><a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">About Us</a>
+<div class="dropdown-menu"><a class="dropdown-item" href="https://www.cpp.edu/alumni/about.shtml">Alumni Association</a> <a class="dropdown-item" href="https://www.cpp.edu/alumni/vision-and-purpose.shtml">Vision and Purpose</a> <a class="dropdown-item" href="https://www.cpp.edu/alumni/board.shtml">Board of Directors</a> <a class="dropdown-item" href="https://www.cpp.edu/alumni/member-benefits.shtml">Member Benefits</a> <a class="dropdown-item" href="https://www.cpp.edu/alumni/faqs.shtml">FAQs</a></div>
+</li>
+<li class="nav-item dropdown"><a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">Chapters</a>
+<div class="dropdown-menu"><a class="dropdown-item" href="https://www.cpp.edu/alumni/chapters/index.shtml">About Chapters</a> <a class="dropdown-item" href="https://www.cpp.edu/alumni/chapters/asi.shtml">Associated Students, Inc. (ASI) Alumni Chapter</a> <a class="dropdown-item" href="https://www.cpp.edu/alumni/chapters/black.shtml">Black Alumni and Friends</a> <a class="dropdown-item" href="https://www.cpp.edu/alumni/chapters/business.shtml">Business Alumni Chapter</a> <a class="dropdown-item" href="https://www.cpp.edu/alumni/chapters/collins.shtml">Collins Alumni Society</a> <a class="dropdown-item" href="https://www.cpp.edu/alumni/chapters/agalumni.shtml">Huntley Alumni Chapter</a> <a class="dropdown-item" href="https://www.cpp.edu/alumni/chapters/latino.shtml">Latin Alumni Network</a> <a class="dropdown-item" href="https://www.cpp.edu/alumni/chapters/pilipino_chapter.shtml">Pilipino Alumni Chapter</a> <a class="dropdown-item" href="https://www.cpp.edu/alumni/chapters/rose-float.shtml">Rose Float Alumni Chapter</a> <a class="dropdown-item" href="https://www.cpp.edu/alumni/chapters/urp.shtml">Urban and Regional Planning Chapter</a> <a class="dropdown-item" href="https://www.cpp.edu/alumni/chapters/regional.shtml">Regional Networks</a></div>
+</li>
+<li class="nav-item dropdown"><a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">Outstanding Alumni</a>
+<div class="dropdown-menu"><a class="dropdown-item" href="https://www.cpp.edu/alumni/outstanding-alumni/index.shtml">Distinguished Alumni</a> <a class="dropdown-item" href="https://www.cpp.edu/alumni/outstanding-alumni/about-distinguished.shtml">- About the Awards</a> <a class="dropdown-item" href="https://www.cpp.edu/alumni/outstanding-alumni/distinguishedalumnigala.shtml">- Alumni Awards Gala</a> <a class="dropdown-item" href="https://www.cpp.edu/alumni/outstanding-alumni/2022-recipients.shtml">- 2022 Recipients</a> <a class="dropdown-item" href="https://www.cpp.edu/alumni/outstanding-alumni/past-recipients.shtml">- Past Recipients</a></div>
+</li>
+<li class="nav-item"><a class="nav-link" href="https://www.cpp.edu/alumni/student-outreach/index.shtml">Student Outreach</a></li>
+<li class="nav-item dropdown"><a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">Get Involved</a>
+<div class="dropdown-menu"><a class="dropdown-item" href="https://www.cpp.edu/alumni/get-involved/index.shtml">Ways to Get Involved</a> <a class="dropdown-item" href="https://www.cpp.edu/alumni/get-involved/professor.shtml">- Professor for a Day</a> <a class="dropdown-item" href="https://www.cpp.edu/alumni/get-involved/dining.shtml">- Dining with Broncos</a> <a class="dropdown-item" href="https://www.cpp.edu/alumni/get-involved/mentoring.shtml">- Bronco Mentoring Program</a></div>
+</li>
+<li class="nav-item"><a class="nav-link" href="https://www.cpp.edu/alumni/events.shtml">Events</a></li>
+<li class="nav-item"><a class="nav-link" href="https://www.cpp.edu/alumni/contact.shtml">Contact Us</a></li>
+</ul>
+</div>
+</nav>
+              
+
+
+      
+        
+    <custom/> 
+
+    
+        </header>
+
+    
+
+
+    <main class="container flex-grow">
+
+    <div class="row">
+                <div class="col-12" id="main"> 
+                         <h1 class="cpp-h1">Alumni Resources</h1>
+            
+
+
+    
+                                            
+                                    <section class="text-images" id="s0">
+                                
+                                                        
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                            <h4>Learn How The Alumni Office Can Support You!</h4>
+<p>Cal Poly Pomona&#8217;s Office of Alumni and External Relations is dedicated to facilitating engagement with our growing alumni community. We offer support in outreach for surveys, accreditation, announcements, newsletters, social media and event coordination.</p>
+<p>Our team collaborates consistently with campus partners, including student groups, department chairs, development offices, and chapter leaders to enhance alumni engagement effectively. The following information outlines our available resources and collaboration opportunities. For additional assistance, please contact us at: alumni@cpp.edu</p>
+            </section>
+                            
+                  
+       
+	
+	
+ 
+         
+    
+
+    
+                    
+                  
+       
+	
+	
+ 
+               
+                <section class="row align-top landing-page">
+                                                                  
+        
+        
+                                <div class="col-md-4 lp-image order-1">
+                        <!-- using role="presenation" for image per https://www.w3.org/TR/wai-aria-1.1/#presentation -->
+            <img alt="" class="featurette-image img-fluid mx-auto" role="presentation" src="hostevents.png"/>
+                      </div>
+                  <div class="col-md-8 landing-group-left primary-green order-2">
+                              <h2 class="featurette-heading">Hosting Alumni Events</h2> 
+                        <p class="lead">
+                                        
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                            <p>Every year we collect and report information on how alumni are volunteering, engaging and attending events on campus. If your department, club or organization is hosting an event, it is imperative that you provide the alumni office with information about their visit. There are several ways we can also help make your event successful:</p>
+<p>1. Provide parking permits for alumni</p>
+<p>2. Provide alumni gifts to alumni speakers, volunteers, etc.</p>
+<p>4. Assist in identifying alumni speakers/volunteers for your event.</p>
+<p>5. Promote your event to a targeted alumni audience</p>
+<p>6. Setup registration platform and invites to assist with collecting registrations for your event.</p>
+<p>Please note that a minimum of 8 weeks&#8217; notice for event planning is recommended so that we have time to send out communication, request parking, etc.</p></p>
+                                             
+                      </div>
+                </section>
+              
+                <section class="row align-top landing-page">
+                                                                  
+        
+        
+                                <div class="col-md-4 lp-image order-1">
+                        <!-- using role="presenation" for image per https://www.w3.org/TR/wai-aria-1.1/#presentation -->
+            <img alt="" class="featurette-image img-fluid mx-auto" role="presentation" src="communicate.jpg"/>
+                      </div>
+                  <div class="col-md-8 landing-group-left primary-yellow order-2">
+                              <h2 class="featurette-heading">Communication</h2> 
+                        <p class="lead">
+                                        
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                            <p>All alumni communication must be reviewed and sent through the Alumni &amp; External Relations Office. As a 501c3, alumni privacy, data security, and adherence to the CA Privacy Laws are a priority. We do not provide data lists to anyone outside of our office. We would be happy to send out communication for on campus partners, departments, colleges, cultural centers, etc.</p>
+<p>Steps to send out communication to alumni-</p>
+<p>1. Fill out the data request form. Request takes up to 10 business days for the alumni office to receive the data. 2. Send content to the Office of Alumni &amp; External Relations ebarron@cpp.edu or alumni@cpp.edu and schedule a send date to be placed on the communication calendar. A communication calendar ensures that we do not send competing messages on the same day. This avoids alumni receiving excessive amount of email.</p>
+<p>3. Once reviewed, our team will send you a test email for final approval.</p>
+<p>4. Email message will be sent out by our office.</p>
+<p>5. Reporting information such as how many received, opened and clicked on the message available upon request.</p>
+<p>Please keep in mind that all requests are subject to approval. Some messages may be better suited for PolyAlumni newsletter and/or social media posts.</p></p>
+                                             
+                      </div>
+                </section>
+              
+                <section class="row align-top landing-page">
+                                                                  
+        
+        
+                                <div class="col-md-4 lp-image order-1">
+                        <!-- using role="presenation" for image per https://www.w3.org/TR/wai-aria-1.1/#presentation -->
+            <img alt="" class="featurette-image img-fluid mx-auto" role="presentation" src="polyalum_sub.png"/>
+                      </div>
+                  <div class="col-md-8 landing-group-left primary-blue order-2">
+                              <h2 class="featurette-heading">PolyAlumni Submissions</h2> 
+                        <p class="lead">
+                                        
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                            <span>PolyAlumni is on our virtual newsletter sent out nine times per year. Please email&#160;</span><strong>ebarron@cpp.edu</strong><span>&#160;to inquire about including your submission in an upcoming newsletter. Submissions are due the first week of each month.</span></p>
+                                             
+                      </div>
+                </section>
+              
+                <section class="row align-top landing-page">
+                                                                  
+        
+        
+                                <div class="col-md-4 lp-image order-1">
+                        <!-- using role="presenation" for image per https://www.w3.org/TR/wai-aria-1.1/#presentation -->
+            <img alt="" class="featurette-image img-fluid mx-auto" role="presentation" src="socialmedia.png"/>
+                      </div>
+                  <div class="col-md-8 landing-group-left accent-tan order-2">
+                              <h2 class="featurette-heading">Social Media</h2> 
+                        <p class="lead">
+                                        
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                            <p>If you would like us to post your event or repost your work feel free to tag/mention @CPPAlumni. Our Alumni account is active on Facebook (3k+) and Instagram (3k+).</p>
+<p>Mobile App: The Cal Poly Pomona Alumni app is free and available for download on the App Store.</p></p>
+                                             
+                      </div>
+                </section>
+              
+                <section class="row align-top landing-page">
+                                                                  
+        
+        
+                                <div class="col-md-4 lp-image order-1">
+                        <!-- using role="presenation" for image per https://www.w3.org/TR/wai-aria-1.1/#presentation -->
+            <img alt="" class="featurette-image img-fluid mx-auto" role="presentation" src="alumni_data.png"/>
+                      </div>
+                  <div class="col-md-8 landing-group-left secondary-green order-2">
+                              <h2 class="featurette-heading">Update Alumni Data</h2> 
+                        <p class="lead">
+                                        
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                            <span>It is important for us to stay engaged with our alumni community and keep you informed of upcoming programs/events and volunteer opportunities. The&#160;</span><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=HqZLFuw5XU-J_6ofAKUhtJECOSP5PC1MpfS8SCIiToZUODE2WFJaUkkxR0FERjA1U1JaNUxPU1VFMiQlQCN0PWcu"><strong>Alumni Information Update form</strong></a><span>&#160;can be completed whenever there is a change in address or email. If you are an on campus representative and communicate regularly with alumni, please encourage them to keep their information up to date by submitting the<strong>&#160;</strong></span><strong><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=HqZLFuw5XU-J_6ofAKUhtJECOSP5PC1MpfS8SCIiToZUODE2WFJaUkkxR0FERjA1U1JaNUxPU1VFMiQlQCN0PWcu">info update form.</a></strong></p>
+                                             
+                      </div>
+                </section>
+              
+                <section class="row align-top landing-page">
+                                                                  
+        
+        
+                                <div class="col-md-4 lp-image order-1">
+                        <!-- using role="presenation" for image per https://www.w3.org/TR/wai-aria-1.1/#presentation -->
+            <img alt="" class="featurette-image img-fluid mx-auto" role="presentation" src="alumni_volunteer.jpg"/>
+                      </div>
+                  <div class="col-md-8 landing-group-left primary-yellow order-2">
+                              <h2 class="featurette-heading">Alumni Volunteers</h2> 
+                        <p class="lead">
+                                        
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                            <p><span data-contrast="auto">We rely on alumni volunteers in many ways. The breadth of wisdom and expertise from alumni enriches students learning experiences and provides excitement and confidence for future alumni. We couldn&#8217;t do it without you!&#160;</span><span data-ccp-props="{}">&#160;</span></p>
+<p><span></span><span data-contrast="auto">Alumni volunteers are expected to respect, uphold, and support the vision, mission and strategic initiatives of Cal Poly Pomona and the Alumni Association.&#160;</span><a href="https://www.cpp.edu/alumni/volunteer-guidelines.shtml"><span data-contrast="none">Click here</span></a><span data-contrast="auto">&#160;for more information about volunteer guidelines and expectations.&#160;</span><span data-ccp-props="{}">&#160;</span></p></p>
+                                             
+                      </div>
+                </section>
+               
+    
+
+    
+                    
+                  
+        
+                 
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                 
+    	
+            
+                       <section aria-labelledby="qa-h2-2" class="mt-4">
+        <h2 id="qa-h2-2">Additional Alumni Resources</h2>
+                        <div class="accordion" id="accordion-2">
+                                    
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading1">
+                <h3 class="m-0">
+                    <button aria-controls="collapse2-1" aria-expanded="false" class="btn btn-link" data-target="#collapse2-1" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  Post a Job or Search for a Job at No Cost
+                    </button>
+                </h3>
+            </div>
+                            <div aria-labelledby="heading1" class="collapse " data-parent="#accordion-2" id="collapse2-1">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                <p>There are over 13,000 part time, full time and internships posted on Handshake.&#160; Alumni can post jobs and search for jobs at no cost. Please contact Alexis Lopez <a href="mailto:alexisl@cpp.edu">alexisl@cpp.edu</a> to access Handshake.</p>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                            
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading2">
+                <h3 class="m-0">
+                    <button aria-controls="collapse2-2" aria-expanded="false" class="btn btn-link" data-target="#collapse2-2" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  Career Center Resources
+                    </button>
+                </h3>
+            </div>
+                            <div aria-labelledby="heading2" class="collapse " data-parent="#accordion-2" id="collapse2-2">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                From resume help to building your LinkedIn profile, the Cal Poly Pomona Career Center can help!&#160; View past workshops and be part of future workshops.&#160; There is no cost to participate. Visit the <a href="https://careercenter.cpp.edu/">Career Center website</a>&#160;<span style="color: #000000; font-family: var(--secondary-font);">for more information.</span>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                            
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading3">
+                <h3 class="m-0">
+                    <button aria-controls="collapse2-3" aria-expanded="false" class="btn btn-link" data-target="#collapse2-3" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  Become or Search for an Alumni Mentor
+                    </button>
+                </h3>
+            </div>
+                            <div aria-labelledby="heading3" class="collapse " data-parent="#accordion-2" id="collapse2-3">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                <p>Are you a seasoned professional looking to share your insight about your field with students and recent alumni? Or perhaps you are switching careers and want advice from alumni who have made a similar change. Maybe you are a recent graduate and want to know how to best leverage your degree to get your dream job. Join the CPP Bronco Mentoring Network to connect with fellow Broncos and mentor students! <a href="https://cpp.peoplegrove.com/v2/">Join the CPP Bronco Mentoring Network</a>.</p>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                            
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading4">
+                <h3 class="m-0">
+                    <button aria-controls="collapse2-4" aria-expanded="false" class="btn btn-link" data-target="#collapse2-4" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  Career Coaching for Alumni
+                    </button>
+                </h3>
+            </div>
+                            <div aria-labelledby="heading4" class="collapse " data-parent="#accordion-2" id="collapse2-4">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                <span>Managing unexpected career transitions or needing support within an existing job are complicated and hard to do on your own. The Cal Poly Pomona Alumni Association has partnered with ClearlyNext to help you navigate your life choices. Designed to help you find fulfillment in life, your job or a new career, you can elevate your skills to the next level. ClearlyNext provides personalized, affordable, one-on-one coaching exclusively for all Cal Poly Pomona alumni. <a href="https://clearlynext.com/partner/cal-poly/">Learn more about career coaching.</a></span>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                            
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading5">
+                <h3 class="m-0">
+                    <button aria-controls="collapse2-5" aria-expanded="false" class="btn btn-link" data-target="#collapse2-5" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  Have an idea for future workshops, webinars, or trainings?
+                    </button>
+                </h3>
+            </div>
+                            <div aria-labelledby="heading5" class="collapse " data-parent="#accordion-2" id="collapse2-5">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                <h2><span style="font-size: 12pt; color: #000000;">Have ideas for future workshops, webinars or trainings? Are you able to help facilitate? Contact &#160;alumni@cpp.edu and let us know how you can help fellow alumni looking for a new career opportunities and students who are entering the workforce. More than ever we want to hear from you. #BroncosHelpingBroncos</span></h2>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                    </div>   
+            </section>
+           
+	
+	
+ 
+         
+    
+
+</div>
+</div>
+</main>
+
+		
+    <div lang="en">
+
+
+                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                 
+<style>
+     @media screen and (min-width: 992px) {
+    .mini-footer .footer__socials-buttons {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}
+
+.mini-footer .button1__transducer {
+    font-size: 12px;
+    letter-spacing: .5px;
+}
+
+.mini-footer .button {
+	margin-top: 0;
+    padding: 8px 20px 8px 20px;
+
+}
+.mini-footer .footer-line {
+    border-top: thin solid #a4d65e;
+    margin-top: 39px;
+    padding-top: 15px;
+}
+ </style>
+<footer class="footer mini-footer">
+    <div class="footer__rip-wrapper">
+        <img class="footer__rip" alt="" src="/common/green-and-gold/assets/images/green-rip.svg" alt="Ripped green paper." />
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-2">
+                <div class="footer__logo-wrapper">
+                    <a href="/" aria-label="CPP Logo">
+                        <img class="footer__logo" src="/common/green-and-gold/assets/logos/cpp_primary_1c_gold_rgb.png" alt="Cal Poly Pomona logo, building with a palm tree." />
+                    </a>
+                </div>
+            </div>
+            <div class="col-12 col-lg-6 offset-lg-4">
+                <div class="footer__socials">
+                    <div class="footer__socials-buttons">
+                        <a class="button button__secondary button1__transducer" href="/apply/">Apply</a>
+                        <a class="button button__secondary button1__transducer" href="https://maps.cpp.edu/">Maps</a>
+                        <a class="button button__secondary button1__transducer" href="/outreach/tours.shtml">Visit</a>
+                        <a class="button button__secondary button1__transducer" href="/contact.shtml">Contact Us</a>
+                    </div>
+                    <div class="footer__socials-icons">
+                        <a href="https://www.instagram.com/calpolypomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram opens a new window" />
+                        </a>
+                        <a href="https://www.linkedin.com/school/cal-poly-pomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn opens a new window" />
+                        </a>
+                        <a href="https://www.youtube.com/user/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="YouTube opens a new window" />
+                        </a>
+                        <a href="https://www.facebook.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook opens a new window" />
+                        </a>
+                        <a href="https://twitter.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X opens a new window" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 footer-line">
+                <div class="footer__errata">
+                    <p class="footer__copyright" style="line-height: 1.8em">Copyright ©2025 California State Polytechnic University, Pomona.  All Rights Reserved 
+                        
+                        <br />A campus of 
+                        
+                        <a class="footer__errata-link" style="display: inline" href="https://www.calstate.edu/">The California State University</a>.
+                    
+                    </p>
+                    <div class="footer__errata-links">
+                        <a class="footer__errata-link" href="https://www.cpp.edu/website-feedback.shtml">Feedback</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/privacy.shtml">Privacy</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/accessibility.shtml">Accessibility</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/file-viewers.shtml">Document Readers</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer__gradient-bottom"></div>
+</footer>
+
+
+<script   src="https://code.jquery.com/jquery-3.2.1.min.js"   integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="   crossorigin="anonymous">
+</script><script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script src="https://www.cpp.edu/common/green-and-gold/assets/js/cpp-legacy.js" ></script>
+<script src="https://www.cpp.edu/common/2018/assets/js/tabs.js" ></script>
+<script src="/common/green-and-gold/assets/js/nav.js"></script>
+
+
+</div>
+    
+		
+		
+	</body>
+</html>

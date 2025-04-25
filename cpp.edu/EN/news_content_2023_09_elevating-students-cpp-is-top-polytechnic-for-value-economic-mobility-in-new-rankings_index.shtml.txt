@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<!-- Required meta tags -->
+		<meta charset="utf-8"/>
+		<meta content="width=device-width, initial-scale=1" name="viewport"/>
+		<title>
+			Elevating Students: CPP is Top Polytechnic for Value, Economic Mobility in New Rankings
+		</title>
+		
+		<meta content="Cal Poly Pomona is ranked No. 2 Top Public School in the West and No. 3 among Best Regional Universities West in the U.S. News &amp; World Report's 2024 U.S. Best Colleges ranking. Nearly 1,500 four-year bachelor's degree-granting institutions were evaluated. The university also tied for No. 4  among Top Performers on Social Mobility -…" name="description"/>
+		<title>Elevating Students: CPP is Top Polytechnic for Value, Economic Mobility in New Rankings</title>
+
+<meta property="og:title" content="Elevating Students: CPP is Top Polytechnic for Value, Economic Mobility in New Rankings" />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="https://www.cpp.edu/news/img/news/2023/09/23ceis-grad_482.jpg" />
+<meta property="og:url" content="https://www.cpp.edu/news/content/2023/09/elevating-students-cpp-is-top-polytechnic-for-value-economic-mobility-in-new-rankings/index.shtml" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:domain" content="cpp.edu" />
+<meta property="twitter:url" content="https://www.cpp.edu/news/content/2023/09/elevating-students-cpp-is-top-polytechnic-for-value-economic-mobility-in-new-rankings/index.shtml" />
+<meta name="twitter:title" content="Elevating Students: CPP is Top Polytechnic for Value, Economic Mobility in New Rankings" />
+<meta name="twitter:image" content="https://www.cpp.edu/news/img/news/2023/09/23ceis-grad_482.jpg" />
+<meta name="twitter:image:alt" content="A graduate celebrating during Commencement" />
+
+
+  <PageMap>
+    <DataObject type="thumbnail">
+      <Attribute name="src" value="https://www.cpp.edu/news/img/news/2023/09/23ceis-grad_482.jpg"/>
+      <Attribute name="width" value="150"/>
+      <Attribute name="height" value="120"/>
+    </DataObject>
+  </PageMap>
+<meta name="thumbnail" content="https://www.cpp.edu/news/img/news/2023/09/23ceis-grad_482.jpg" />
+
+
+
+		<!-- Google Tag Manager -->
+		
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSKJRNV');</script>
+
+		<!-- End Google Tag Manager -->
+		<!-- Bootstrap CSS -->
+		<link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" rel="stylesheet"/>
+		<link href="/news/inc/template/news.css" rel="stylesheet"/>
+		<script crossorigin="anonymous" defer="defer" integrity="sha384-FW78RPcSpi13vjx77nPWQIrQbNSLkPBopb0qGzLCxD2x4Kr6FA8V05C/6cpgkKPL" src="https://pro.fontawesome.com/releases/v5.10.1/js/all.js"></script>
+	</head>
+	<body>
+		<!-- Google Tag Manager (noscript) -->
+		<noscript>
+			<iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-PSKJRNV" style="display:none;visibility:hidden" width="0"></iframe>
+		</noscript>
+		<!-- End Google Tag Manager (noscript) -->
+		<div id="alert">
+</div>
+<div id="printheader">
+	<img class="w-100" src="/news/img/print-header.png" alt="print header, cpp news" />
+</div>
+<header id="wacheader">
+	<div id="newsgreenbar">
+		<h1>
+			<a href="/news/index.shtml"><span class="cppwhitetxt">CPP</span>
+			<span class="newsyellowtxt">NEWS</span></a>
+		</h1>
+	</div>
+	<div class="row d-flex align-items-center" id="newsgraybar">
+	    <div class="col-sm-3" id="cpp-logo">
+		<a href="https://www.cpp.edu">
+			<img id="cpplogo" src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png" alt="cal poly pomona">
+			</a>
+		</div>
+			<nav class="col-sm-6" id="newsnav">
+				<ul>
+					<li>
+						<a href="/news/all-news.shtml">News</a>
+					</li>
+					<li>
+						<a href="/news/social-media-directory.shtml">Social Media</a>
+					</li>
+					<li>
+						<a href="/news/for-the-media.shtml">For the Media</a>
+					</li>
+				</ul>
+			</nav>
+			<div class="col-sm-3" id="search">
+				<form action="/news/search.shtml" autocomplete="off" id="search-form" method="GET">
+					<label class="sr-only" for="searchbox">Search Box</label>
+					<input id="searchbox" name="q" type="text" placeholder="Search" />
+					<label class="sr-only" for="submit">Submit</label>
+					<button id="submit" name="submit" type="submit">
+						<svg fill="#008345" height="18" viewbox="0 0 13 13" width="18">
+							<title>search</title>
+							<path d="m4.8495 7.8226c0.82666 0 1.5262-0.29146 2.0985-0.87438 0.57232-0.58292 0.86378-1.2877 0.87438-2.1144 0.010599-0.82666-0.28086-1.5262-0.87438-2.0985-0.59352-0.57232-1.293-0.86378-2.0985-0.87438-0.8055-0.010599-1.5103 0.28086-2.1144 0.87438-0.60414 0.59352-0.8956 1.293-0.87438 2.0985 0.021197 0.8055 0.31266 1.5103 0.87438 2.1144 0.56172 0.60414 1.2665 0.8956 2.1144 0.87438zm4.4695 0.2115 3.681 3.6819-1.259 1.284-3.6817-3.7 0.0019784-0.69479-0.090043-0.098846c-0.87973 0.76087-1.92 1.1413-3.1207 1.1413-1.3553 0-2.5025-0.46363-3.4417-1.3909s-1.4088-2.0686-1.4088-3.4239c0-1.3553 0.4696-2.4966 1.4088-3.4239 0.9392-0.92727 2.0864-1.3969 3.4417-1.4088 1.3553-0.011889 2.4906 0.45771 3.406 1.4088 0.9154 0.95107 1.379 2.0924 1.3909 3.4239 0 1.2126-0.38043 2.2588-1.1413 3.1385l0.098834 0.090049z"></path>
+						</svg>
+					</button>
+				</form>
+			</div>
+		</div>
+	</header>
+		<div id="main">
+			
+
+
+
+
+                                 <article class="container">
+    <h1>Elevating Students: CPP is Top Polytechnic for Value, Economic Mobility in New Rankings</h1>
+       
+    
+ 
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                      <ul class="tags">
+        
+        <li class="StudentSuccess"><a href="/news/all-news.shtml?category=20">Student Success</a></li>
+                   
+                <li class="EquityDiversityInclusion"><a href="/news/all-news.shtml?category=13">Equity, Diversity & Inclusion</a></li>
+                        
+    </ul>
+    <p class="byline">September 05, 2023 | Cynthia Peters</p>
+   
+         
+    <aside class="share">
+       <h2>Share</h2>
+       <ul>
+           <li>
+              <a title="copy article link to clipboard" onclick="copyLink();return false;" href="#"><i class="far fa-link" style="color: #31814b;"></i></a>
+           </li>
+          <li>
+            <a title="share this article on facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.cpp.edu/news/content/2023/09/elevating-students-cpp-is-top-polytechnic-for-value-economic-mobility-in-new-rankings/index.shtml"><i class="fab fa-facebook" style="color: #31814b;"></i></a>
+          </li> 
+           <li>
+             <a title="share this article on twitter" href="https://twitter.com/intent/tweet?text=https://www.cpp.edu/news/content/2023/09/elevating-students-cpp-is-top-polytechnic-for-value-economic-mobility-in-new-rankings/index.shtml">
+                <svg style="color: #31814b;" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-twitter-x" viewBox="0 0 16 16">
+  <path d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865z"/>
+</svg>
+           </a>
+          </li> 
+            <li>
+          
+            <a title="share this article on linked in" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.cpp.edu/news/content/2023/09/elevating-students-cpp-is-top-polytechnic-for-value-economic-mobility-in-new-rankings/index.shtml"><i class="fab fa-linkedin-in" style="color: #31814b;"></i></a>
+             
+          </li> 
+        <li>
+            <a href="mailto:?subject=Check out this article from Cal Poly Pomona News&amp;body=Check out this article - Elevating Students: CPP is Top Polytechnic for Value, Economic Mobility in New Rankings, https://www.cpp.edu/news/content/2023/09/elevating-students-cpp-is-top-polytechnic-for-value-economic-mobility-in-new-rankings/index.shtml" title="Share by Email"><i class="fas fa-envelope" style="color: #31814b;"></i></a>
+          </li> 
+            <li>
+            <a href="#" onclick="window.print();return false;" title="Print this article"><i class="fas fa-print" style="color: #31814b;"></i></a>
+          </li> 
+       </ul>
+   </aside>
+   
+   <img alt="A graduate celebrating during Commencement" class="top-image" src="/news/img/news/2023/09/23ceis-grad_482.jpg"/>
+         
+         <div>
+                
+    <div class="entry-content">
+<p>Cal Poly Pomona is the highest-ranked polytechnic university in two new rankings for value and helping students improve their socioeconomic status.</p>
+<p>The university was the top polytechnic university and No. 14 in the West on Washington Monthly&#8217;s &#8220;<a href="https://washingtonmonthly.com/2023-college-guide/best-bang-for-the-buck-rankings-west-1/">2023 Best Bang for the Buck Rankings: West</a>&#8221; list. The publication weighed each institution&#8217;s graduation rate for all students, percentage of students with Pell Grants and student loans, net price, racial/ethnic and gender composition of the student body, and how well each institution serves a large number of students from low and middle-income families. The median earnings of alumni 10 years after entering college was listed as $65,569.</p>
+<p>Cal Poly Pomona is also the highest-ranking polytechnic university on the nonprofit Third Way &#8220;<a href="https://www.thirdway.org/report/2023-economic-mobility-index">2023 Economic Mobility Index</a>&#8221; ranking. The EMI data table showed CPP at No. 30 in the nation.</p>
+<p>The Third Way analysis focused on &#8220;institutions that offer strong return on investment for students with the greatest financial need &#8212; providing real economic mobility&#8230;. [They help] students not only access college, but also get across the finish line.&#8221;</p>
+<p>At Cal Poly Pomona, over 70 percent of undergraduate Broncos receive some form of financial aid to assist them on their path to success. During the 2022-23 academic year, $246 million was awarded to students through a variety of financial aid programs including grants, loans, scholarships, fellowships, veterans&#8217; aid, and work study. In general, an undergraduate student who qualifies for financial aid will have their tuition fees fully covered by grant aid if their family&#8217;s total income is less&#160;than $80,000.&#160;&#160;</p>
+</div> 
+         </div>
+           <div id="sitetags">
+    <h2>Tags </h2>
+    <ul>
+                   <li><a href="/news/all-news.shtml?tag=best regional universities">best regional universities</a></li>
+                   <li><a href="/news/all-news.shtml?tag=Best Regional Universities West">Best Regional Universities West</a></li>
+                   <li><a href="/news/all-news.shtml?tag=college rankings">college rankings</a></li>
+                   <li><a href="/news/all-news.shtml?tag=Pell Grants">Pell Grants</a></li>
+                   <li><a href="/news/all-news.shtml?tag=ranking">ranking</a></li>
+                   <li><a href="/news/all-news.shtml?tag=rankings">rankings</a></li>
+                   <li><a href="/news/all-news.shtml?tag=social mobility">social mobility</a></li>
+                   <li><a href="/news/all-news.shtml?tag=Top Performers in Social Mobility">Top Performers in Social Mobility</a></li>
+                   <li><a href="/news/all-news.shtml?tag=undergraduate degree">undergraduate degree</a></li>
+                   <li><a href="/news/all-news.shtml?tag=US News &amp; World Report">US News &amp; World Report</a></li>
+            </ul>
+</div>         
+</article>
+
+
+
+
+		</div>
+		<footer>
+			<section class="container" id="bottom-nav">
+	<div class="row">
+		<div class="card col-md-3 news-card">
+			<div class="card-body">
+				<h2 class="card-title">News</h2>
+				<ul>
+					<li>
+						<a class="card-link" href="/news/all-news.shtml">View All News</a>
+					</li>
+						<li>
+						<a class="card-link" href="/news/browse-by-topic.shtml">Browse by Topic</a>
+					</li>
+						<li>
+						<a class="card-link" href="https://www.cpp.edu/stratcomm/cpp-news-and-stories.shtml">Submit a Story Idea</a>
+					</li>
+				</ul>
+				
+		
+			</div>
+		</div>
+		<div class="card social-card col-md-3">
+			<div class="card-body">
+				<h2 class="card-title">Social Media</h2>
+				<ul>
+					<li>
+						<a class="card-link" href="/news/social-media-directory.shtml">Social Media Directory</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="card press-card col-md-3">
+			<div class="card-body">
+				<h2 class="card-title">For the Media</h2>
+				<ul>
+					<li>
+						<a class="card-link" href="/news/for-the-media.shtml">Media Relations</a>
+					</li>
+					<li>
+						<a class="card-link" href="https://experts.cpp.edu/" target="_blank">Experts Database 
+                            <svg title="Opens in new window"
+										xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-box-arrow-up-right" viewBox="0 0 16 16">
+										<path fill-rule="evenodd" d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5"/>
+										<path fill-rule="evenodd" d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0z"/>
+									</svg>
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+				<div class="card publications-card col-md-3">
+					<div class="card-body">
+						<h2 class="card-title">Publications</h2>
+						<ul>
+							<li>
+								<a class="card-link" href="https://www.cpp.edu/cppmag/" target="_blank" >CPP Magazine 
+									<svg title="Opens in new window"
+										xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-box-arrow-up-right" viewBox="0 0 16 16">
+										<path fill-rule="evenodd" d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5"/>
+										<path fill-rule="evenodd" d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0z"/>
+									</svg>
+								</a>
+							</li>
+							<li>
+								<a class="card-link" href="https://broncomag.cpp.edu/"  target="_blank">Bronco Digital Magazine 
+        											<svg title="Opens in new window"
+												xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-box-arrow-up-right" viewBox="0 0 16 16">
+												<path fill-rule="evenodd" d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5"/>
+												<path fill-rule="evenodd" d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0z"/>
+											</svg>
+										</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section>
+				<footer class="container-fluid">
+					<div class="row">
+						<img class="footer-logo" src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png" alt="calpoly pomona">
+							<p class="footer-address">3801 W. TEMPLE AVE. POMONA, CA 91768</p>
+					  
+    							<ul id="footer-social">
+                                  <li>
+                                    <a href="https://www.facebook.com/calpolypomona"><i class="fab fa-facebook"></i><span class="sr-only">Facebook</span></a>
+                                  </li>
+                                   <li>
+                                    <a href="https://www.instagram.com/calpolypomona"><i class="fab fa-instagram"></i><span class="sr-only">Instagram</span></a>
+                                  </li> 
+                                   <li>
+                                    <a href="https://www.youtube.com/user/calpolypomona"><i class="fab fa-youtube-square"></i><span class="sr-only">Youtube</span></a>
+                                  </li> 
+                                   <li>
+                                    <a href="https://www.twitter.com/calpolypomona">
+                                    <svg style="margin-top: -5px;" xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-twitter-x" viewBox="0 0 16 16">
+  <path d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865z"/>
+</svg>    
+                                    <span class="sr-only">Twitter</span></a>
+                                  </li> 
+                                    <li>
+                                    <a href="https://www.linkedin.com/edu/school?id=17815"><i class="fab fa-linkedin-in"></i><span class="sr-only">Linked In</span></a>
+                                  </li> 
+                               </ul>
+                           
+							<p class="footer-bottom"><a href="https://www.cpp.edu/stratcomm/">CPP News is managed by the Department of Strategic Communications.</a></p>
+						</div>
+					</footer>
+<script>
+    
+    function copyLink(copyText) {
+          // Select the text field
+          copyText = window.location.href;
+          navigator.clipboard.writeText(copyText);
+          // Alert the copied text
+          alert("Copied the article link: " + copyText);
+}
+</script>
+
+		</footer>
+		<script crossorigin="anonymous" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" type="text/javascript"></script>
+		<script crossorigin="anonymous" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+		<script src="/news/_files/js/functions.js" type="text/javascript"></script>
+	</body>
+</html>

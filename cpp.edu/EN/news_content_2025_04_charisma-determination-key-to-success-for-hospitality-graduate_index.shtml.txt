@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<!-- Required meta tags -->
+		<meta charset="utf-8"/>
+		<meta content="width=device-width, initial-scale=1" name="viewport"/>
+		<title>
+			Charisma, Determination Key to Success for Hospitality Graduate
+		</title>
+		
+		
+		<title>Charisma, Determination Key to Success for Hospitality Graduate</title>
+<!--  Essential META Tags -->
+<meta content="Charisma, Determination Key to Success for Hospitality Graduate" property="og:title"/>
+<meta content="article" property="og:type"/>
+<meta content="https://www.cpp.edu/news/img/news/2025/04/ryan-guzman.jpg" property="og:image"/>
+<meta content="https://www.cpp.edu/news/content/2025/04/charisma-determination-key-to-success-for-hospitality-graduate/index.shtml" property="og:url"/>
+<!-- Twitter Meta Tags -->
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="cpp.edu" property="twitter:domain"/>
+<meta content="ttps://www.cpp.edu/news/content/2025/04/charisma-determination-key-to-success-for-hospitality-graduate/index.shtml" property="twitter:url"/>
+<meta content="Charisma, Determination Key to Success for Hospitality Graduate" name="twitter:title"/>
+<meta content="https://www.cpp.edu/news/img/news/2025/04/ryan-guzman.jpg" name="twitter:image"/>
+<meta content="Ryan Perez" name="twitter:image:alt"/>
+<!-- Google search thumbnail -->
+
+  <PageMap>
+    <DataObject type="thumbnail">
+      <Attribute name="src" value="https://www.cpp.edu/news/img/news/2025/04/ryan-guzman.jpg"/>
+      <Attribute name="width" value="150"/>
+      <Attribute name="height" value="120"/>
+    </DataObject>
+  </PageMap>
+
+
+<meta content="https://www.cpp.edu/news/img/news/2025/04/ryan-guzman.jpg" name="thumbnail"/>
+		<!-- Google Tag Manager -->
+		
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSKJRNV');</script>
+
+		<!-- End Google Tag Manager -->
+		<!-- Bootstrap CSS -->
+		<link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" rel="stylesheet"/>
+		<link href="/news/inc/template/news.css" rel="stylesheet"/>
+		<script crossorigin="anonymous" defer="defer" integrity="sha384-FW78RPcSpi13vjx77nPWQIrQbNSLkPBopb0qGzLCxD2x4Kr6FA8V05C/6cpgkKPL" src="https://pro.fontawesome.com/releases/v5.10.1/js/all.js"></script>
+	</head>
+	<body>
+		<!-- Google Tag Manager (noscript) -->
+		<noscript>
+			<iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-PSKJRNV" style="display:none;visibility:hidden" width="0"></iframe>
+		</noscript>
+		<!-- End Google Tag Manager (noscript) -->
+		<div id="alert">
+</div>
+<div id="printheader">
+	<img class="w-100" src="/news/img/print-header.png" alt="print header, cpp news" />
+</div>
+<header id="wacheader">
+	<div id="newsgreenbar">
+		<h1>
+			<a href="/news/index.shtml"><span class="cppwhitetxt">CPP</span>
+			<span class="newsyellowtxt">NEWS</span></a>
+		</h1>
+	</div>
+	<div class="row d-flex align-items-center" id="newsgraybar">
+	    <div class="col-sm-3" id="cpp-logo">
+		<a href="https://www.cpp.edu">
+			<img id="cpplogo" src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png" alt="cal poly pomona">
+			</a>
+		</div>
+			<nav class="col-sm-6" id="newsnav">
+				<ul>
+					<li>
+						<a href="/news/all-news.shtml">News</a>
+					</li>
+					<li>
+						<a href="/news/social-media-directory.shtml">Social Media</a>
+					</li>
+					<li>
+						<a href="/news/for-the-media.shtml">For the Media</a>
+					</li>
+				</ul>
+			</nav>
+			<div class="col-sm-3" id="search">
+				<form action="/news/search.shtml" autocomplete="off" id="search-form" method="GET">
+					<label class="sr-only" for="searchbox">Search Box</label>
+					<input id="searchbox" name="q" type="text" placeholder="Search" />
+					<label class="sr-only" for="submit">Submit</label>
+					<button id="submit" name="submit" type="submit">
+						<svg fill="#008345" height="18" viewbox="0 0 13 13" width="18">
+							<title>search</title>
+							<path d="m4.8495 7.8226c0.82666 0 1.5262-0.29146 2.0985-0.87438 0.57232-0.58292 0.86378-1.2877 0.87438-2.1144 0.010599-0.82666-0.28086-1.5262-0.87438-2.0985-0.59352-0.57232-1.293-0.86378-2.0985-0.87438-0.8055-0.010599-1.5103 0.28086-2.1144 0.87438-0.60414 0.59352-0.8956 1.293-0.87438 2.0985 0.021197 0.8055 0.31266 1.5103 0.87438 2.1144 0.56172 0.60414 1.2665 0.8956 2.1144 0.87438zm4.4695 0.2115 3.681 3.6819-1.259 1.284-3.6817-3.7 0.0019784-0.69479-0.090043-0.098846c-0.87973 0.76087-1.92 1.1413-3.1207 1.1413-1.3553 0-2.5025-0.46363-3.4417-1.3909s-1.4088-2.0686-1.4088-3.4239c0-1.3553 0.4696-2.4966 1.4088-3.4239 0.9392-0.92727 2.0864-1.3969 3.4417-1.4088 1.3553-0.011889 2.4906 0.45771 3.406 1.4088 0.9154 0.95107 1.379 2.0924 1.3909 3.4239 0 1.2126-0.38043 2.2588-1.1413 3.1385l0.098834 0.090049z"></path>
+						</svg>
+					</button>
+				</form>
+			</div>
+		</div>
+	</header>
+		<div id="main">
+			
+
+    <article class="container">
+    <h1>Charisma, Determination Key to Success for Hospitality Graduate</h1>
+        
+     
+                                                                                                                                                                                                                                                                                                                                                                                                                                                      <ul class="tags">
+        
+        <li class="StudentSuccess"><a href="/news/all-news.shtml?category=20">Student Success</a></li>
+        
+                   
+                <li class="TheCollinsCollegeofHospitalityManagement"><a href="/news/all-news.shtml?category=8">The Collins College of Hospitality Management</a></li>
+                        
+    </ul>
+    <p class="byline">April 21, 2025 | <a href="/news/all-news.shtml?author=Ana Cerna Martinez">ana cerna martinez</a></p>
+   <aside class="share">
+       <h2>Share</h2>
+       <ul>
+           <li>
+              <a href="#" onclick="copyLink();return false;" title="copy article link to clipboard"><i class="far fa-link" style="color: #31814b;"></i></a>
+           </li>
+          <li>
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.cpp.edu/news/content/2025/04/charisma-determination-key-to-success-for-hospitality-graduate/index.shtml" title="share this article on facebook"><i class="fab fa-facebook" style="color: #31814b;"></i></a>
+          </li> 
+           <li>
+            <a href="https://twitter.com/intent/tweet?text=https://www.cpp.edu/news/content/2025/04/charisma-determination-key-to-success-for-hospitality-graduate/index.shtml" title="share this article on twitter">
+                <svg xmlns="http://www.w3.org/2000/svg" class="bi bi-twitter-x" fill="currentColor" height="16" style="color: #31814b;" viewBox="0 0 16 16" width="16">
+  <path d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865z"/>
+</svg>
+           </a>
+          </li> 
+            <li>
+                
+            <a title="share this article on linked in" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.cpp.edu/news/content/2025/04/charisma-determination-key-to-success-for-hospitality-graduate/index.shtml"><i class="fab fa-linkedin-in" style="color: #31814b;"></i></a>
+                
+          </li> 
+        <li>
+            <a href="mailto:?subject=Check out this article from Cal Poly Pomona News&amp;body=Check out this article - Charisma, Determination Key to Success for Hospitality Graduate, https://www.cpp.edu/news/content/2025/04/charisma-determination-key-to-success-for-hospitality-graduate/index.shtml" title="Share by Email"><i class="fas fa-envelope" style="color: #31814b;"></i></a>
+          </li> 
+            <li>
+            <a href="#" onclick="window.print();return false;" title="Print this article"><i class="fas fa-print" style="color: #31814b;"></i></a>
+          </li> 
+       </ul>
+   </aside>
+                        <figure class="top-figure">
+                                 <img alt="Ryan Perez" class="w-100" src="../../../../img/news/2025/04/ryan-guzman.jpg"/>
+                               
+                <figcaption>
+                    
+                </figcaption>
+            </figure>
+        
+                   
+    
+   
+    
+    
+                    <p>Ryan Perez utilizes his strong presence and a voice that resonates to lead his team at Hyatt Regency, ensuring that every hotel guest enjoys an experience that is as &#160;seamless and stress-free as possible.</p>
+<p>The <a href="https://www.cpp.edu/collins/">hospitality</a> senior has a natural charisma and easy flow when it comes to getting things done, but those qualities did not come to him overnight.</p>
+<p>As a C student and marching band kid in high school, Perez mainly kept to himself and didn&#8217;t have much to say.</p>
+<p>&#8220;He was very quiet, and he was afraid to talk to people,&#8221; said older sister Janine, Delgadillo &#8220;And then, in the last six or eight years, he just started coming out of his shell and being more confident in who he is.&#8221;</p>
+<p>Perez, who credits his life experiences and time at Cal Poly Pomona with helping him grow and will graduate on May 16, got his first job working for his sister as a cashier at her fitness equipment business.</p>
+<p>Perez and his sister have a 12-year age gap, and Delgadillo encouraged him to try new things growing up. She recalls a specific memory of Perez driving the company truck.</p>
+<p>&#8220;Ryan was afraid to take a chance. We had a truck, but Ryan didn&#8217;t know how to drive,&#8221; she said. &#8220;So, my husband was teaching him. He didn&#8217;t like it, but experiences like that would help him overcome his fear. That&#8217;s why my husband would encourage him to figure things out. Later, in a tough situation, Ryan needed to figure it out&#8212;and that&#8217;s exactly what he did.&#8221;</p>
+<p>These early experiences helped Perez to grow into the man he is today.</p>
+<p>Delgadillo came to trust Perez to handle any obstacle that arose.</p>
+<p>&#8220;He was very hands-on with building fitness equipment and making smart decisions when we were in a bad situation or if a customer wanted to return the product or had an issue with a product,&#8221; Delgadillo said. &#8220;Ryan knew how to handle the situation, so when I would send him out with a crew, I wouldn&#8217;t have to worry about the job not getting done.&#8221;</p>
+<h2>Finding His Path</h2>
+<p>Perez graduated high school in 2005 and took a gap year before enrolling at Mt. San Antonio College.</p>
+<p>The first-generation college student was unsure about his direction. He didn&#8217;t know whether to pursue photography or become a firefighter. Two years later, he <span>dropped out.</span></p>
+<p><span>During his time away from his studies, Perez worked as a service advisor for Honda, greeting customers, scheduling appointments and explaining repairs. At Honda, he had the right skills for customer service, but not the passion. </span></p>
+<p><span>The COVID-19 pandemic was an eye-opener for Perez, who&#160; realized he needed to make a change. He decided to go back to school, determined that this time around, he would take the necessary steps to earn his bachelor&#8217;s degree, a feat that would make him a first.</span></p>
+<p>&#8220;I'm the youngest of the family,&#8221; Perez said. &#8220;My three other siblings attended junior college but never went further. This would be a great accomplishment for my family.&#8221;</p>
+<p>Perez returned to Mt. SAC at 32 to start what he considered his official college journey, &#160;</p>
+<p>Committed to a photography major, Perez decided to attend an introductory hospitality class after a <span>friend suggested he might enjoy the field.</span> That introductory course ignited his passion for hospitality, and he longed to learn more. Perez applied to transfer to CPP in the spring of 2023.</p>
+<p>His counselor at Mt. SAC wrote his letter of recommendation. His strong work ethic and educational passion set him apart, and he was admitted to CPP.</p>
+<p>Once at CPP, Perez rose academically, earning high grades in his classes and receiving $15,000 in scholarships. He was also active on campus.</p>
+<p>&#8220;I got extremely involved, got my name out there, met all the professors, and my interest and passion for hospitality have kept growing since then,&#8221; Perez said.</p>
+<p>He has served as a Collins College student ambassador.</p>
+<p>In this role, Perez meets with the college&#8217;s board of advisors and donors and helps showcase CPP&#8217;s world-renowned hospitality program by giving tours and participating in conferences. Perez also works with prospective students.&#160;</p>
+<p>&#8220;As a Collins College ambassador, I strive to motivate and inspire individuals who are in my position to succeed and achieve their goals,&#8221; Perez said.</p>
+<p>He fondly recalls memorable moments while on duty.</p>
+<p>&#8220;Someone was sitting in the front row, in the seat that I was in years before, and she had that same optimism, the same passion that I had,&#8221; Perez said. &#8220;And I was able to reach out to her and to share my knowledge. Being able to reach out to someone like that and instilling the passion to get into the industry made it all worthwhile.&#8221;</p>
+<p>Perez advises people overwhelmed by trying to find their path and balance school with other priorities not to be discouraged and to work at their own pace. Having been in and out of college, Perez said he understands and sympathizes with other students.</p>
+<h2>Become by Parenting</h2>
+<p>Another life experience served as motivation for Perez to work harder in his pursuit of a college degree &#8212; becoming a dad a year into his return to college.</p>
+<p>&#8220;Being a student-parent helps me strive to improve because I'm doing it not just for myself, but also for future generations,&#8221; Perez said.</p>
+<p>He recalls college his daughter&#8217;s school, where she pridefully rocked CPP Swag.</p>
+<p>&#8220;I got her a little shirt that says, &#8216;proud daughter of a Cal Poly student.&#8217; She wears the shirt with pride during college days at her school. It&#8217;s a way of showing the importance of higher education to younger generations,&#8221; Perez said.</p>
+<p>&#8220;And higher education is something that I never thought I would have attained. I thought that school wasn't for me. I took a long break and came back and found the right passion and career path for me and couldn't be happier.&#8221;</p>
+<p>Balancing being a student-parent wasn&#8217;t an easy task but with his motivation and drive, Perez perfected his time management skills.</p>
+<p>He advises other parents struggling to balance life to look into online classes and resources on campus such as the <a href="https://asi.cpp.edu/services/child-care/children-center/">Child Care Center</a>.</p>
+<h2>A Bright Future</h2>
+<p>When Perez crosses the Commencement stage, he will have not only achieve a hard-fought goal he set years ago, he will also walk into a future that is shining brightly.</p>
+<p>After graduation, he will be promoted to manager at <a href="https://about.hyatt.com/">Hyatt Regency</a> in Orange County.</p>
+<p>The hotel has over 65,000 square feet of space, including conference rooms, 55 meeting rooms, 656 bedrooms, 240 suites, and amenities such as pools, restaurants, and banquet spaces. &#160;</p>
+<p>Perez stumbled into a job at the Hyatt Regency while on a tour as part of the <a href="https://linktr.ee/cpphrdp?utm_source=linktree_profile_share&amp;ltsid=b0cbf76a-0836-41c8-9c45-3eb5af4c58f4">Hotels, Resorts, and Destination Professionals</a> (HRDP) club, now a national society. This was one of many luxury property tours the club took, including Waldorf Astoria, Fairmont and Century Plaza.</p>
+<p>Perez started off as a 90-day summer intern in 2023, working at the front desk as a room controller, host, and eventually got hired as a full-time host.</p>
+<p>&#8220;If it weren't for The Collins College and their amazing outreach with career exploration, I definitely wouldn't be hired,&#8221; Perez said. &#8220;I wouldn't have these opportunities to excel in the hospitality industry.&#8221;</p>
+<p>In his current role, Perez handles everything from checking guests in and out of the hotel to routing credit card information to company files to overseeing revenue management. He talents and abilities have earned him the opportunity to train new hires and manage their onboarding.</p>
+<p>As this was his first job in the hospitality field, Perez had to overcome some challenges. Working with different target markets, such as Disney families, leisure travel, business, and conventions, Perez had to adjust to their needs and handle complaints.</p>
+<p>&#8220;I enjoy it because I find ways to learn from them to improve myself. I think of it is a challenge,&#8221; Perez said. &#8220;During guest complaints, everyone asks me, &#8216;how are you so calm? I would have snapped, and I would have yelled at them back.&#8217; I tell them this is something I want to do long-term, so I have to learn from these experiences, take what I learned to the next complaint, and know how to handle it."</p>
+<p>Perez attributes his overall success in the hospitality industry to one specific quality &#8211; his charisma.</p>
+<p>&#8220;Learning the electronic aspect of it, learning property management system, and the computer portion of hospitality all come pretty easily,&#8221; Perez said, &#8220;but personality, you cannot teach that.&#8221;</p>
+<p>To learn more about The Collins College of Hospitality Management, visit <a href="https://www.cpp.edu/collins/index.shtml">cpp.edu/Collins</a>.</p> 
+    
+                                 
+            
+    
+    
+         
+<div id="sitetags">
+    <h2>Tags </h2>
+    <ul>
+                   <li><a href="/news/all-news.shtml?tag=THE COLLINS COLLEGE OF HOSPITALITY MANAGEMENT">THE COLLINS COLLEGE OF HOSPITALITY MANAGEMENT</a></li>
+                   <li><a href="/news/all-news.shtml?tag=Ryan Perez">Ryan Perez</a></li>
+                   <li><a href="/news/all-news.shtml?tag=Collins College Ambassador">Collins College Ambassador</a></li>
+                   <li><a href="/news/all-news.shtml?tag=Class of 2025">Class of 2025</a></li>
+                   <li><a href="/news/all-news.shtml?tag=commencement">commencement</a></li>
+                   <li><a href="/news/all-news.shtml?tag=2025 commencement">2025 commencement</a></li>
+                   <li><a href="/news/all-news.shtml?tag=Hyatt Regency">Hyatt Regency</a></li>
+                   <li><a href="/news/all-news.shtml?tag=first-gen">first-gen</a></li>
+                   <li><a href="/news/all-news.shtml?tag=students">students</a></li>
+            </ul>
+</div>         
+</article>
+
+
+
+
+		</div>
+		<footer>
+			<section class="container" id="bottom-nav">
+	<div class="row">
+		<div class="card col-md-3 news-card">
+			<div class="card-body">
+				<h2 class="card-title">News</h2>
+				<ul>
+					<li>
+						<a class="card-link" href="/news/all-news.shtml">View All News</a>
+					</li>
+						<li>
+						<a class="card-link" href="/news/browse-by-topic.shtml">Browse by Topic</a>
+					</li>
+						<li>
+						<a class="card-link" href="https://www.cpp.edu/stratcomm/cpp-news-and-stories.shtml">Submit a Story Idea</a>
+					</li>
+				</ul>
+				
+		
+			</div>
+		</div>
+		<div class="card social-card col-md-3">
+			<div class="card-body">
+				<h2 class="card-title">Social Media</h2>
+				<ul>
+					<li>
+						<a class="card-link" href="/news/social-media-directory.shtml">Social Media Directory</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="card press-card col-md-3">
+			<div class="card-body">
+				<h2 class="card-title">For the Media</h2>
+				<ul>
+					<li>
+						<a class="card-link" href="/news/for-the-media.shtml">Media Relations</a>
+					</li>
+					<li>
+						<a class="card-link" href="https://experts.cpp.edu/" target="_blank">Experts Database 
+                            <svg title="Opens in new window"
+										xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-box-arrow-up-right" viewBox="0 0 16 16">
+										<path fill-rule="evenodd" d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5"/>
+										<path fill-rule="evenodd" d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0z"/>
+									</svg>
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+				<div class="card publications-card col-md-3">
+					<div class="card-body">
+						<h2 class="card-title">Publications</h2>
+						<ul>
+							<li>
+								<a class="card-link" href="https://www.cpp.edu/cppmag/" target="_blank" >CPP Magazine 
+									<svg title="Opens in new window"
+										xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-box-arrow-up-right" viewBox="0 0 16 16">
+										<path fill-rule="evenodd" d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5"/>
+										<path fill-rule="evenodd" d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0z"/>
+									</svg>
+								</a>
+							</li>
+							<li>
+								<a class="card-link" href="https://broncomag.cpp.edu/"  target="_blank">Bronco Digital Magazine 
+        											<svg title="Opens in new window"
+												xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-box-arrow-up-right" viewBox="0 0 16 16">
+												<path fill-rule="evenodd" d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5"/>
+												<path fill-rule="evenodd" d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0z"/>
+											</svg>
+										</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section>
+				<footer class="container-fluid">
+					<div class="row">
+						<img class="footer-logo" src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png" alt="calpoly pomona">
+							<p class="footer-address">3801 W. TEMPLE AVE. POMONA, CA 91768</p>
+					  
+    							<ul id="footer-social">
+                                  <li>
+                                    <a href="https://www.facebook.com/calpolypomona"><i class="fab fa-facebook"></i><span class="sr-only">Facebook</span></a>
+                                  </li>
+                                   <li>
+                                    <a href="https://www.instagram.com/calpolypomona"><i class="fab fa-instagram"></i><span class="sr-only">Instagram</span></a>
+                                  </li> 
+                                   <li>
+                                    <a href="https://www.youtube.com/user/calpolypomona"><i class="fab fa-youtube-square"></i><span class="sr-only">Youtube</span></a>
+                                  </li> 
+                                   <li>
+                                    <a href="https://www.twitter.com/calpolypomona">
+                                    <svg style="margin-top: -5px;" xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-twitter-x" viewBox="0 0 16 16">
+  <path d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865z"/>
+</svg>    
+                                    <span class="sr-only">Twitter</span></a>
+                                  </li> 
+                                    <li>
+                                    <a href="https://www.linkedin.com/edu/school?id=17815"><i class="fab fa-linkedin-in"></i><span class="sr-only">Linked In</span></a>
+                                  </li> 
+                               </ul>
+                           
+							<p class="footer-bottom"><a href="https://www.cpp.edu/stratcomm/">CPP News is managed by the Department of Strategic Communications.</a></p>
+						</div>
+					</footer>
+<script>
+    
+    function copyLink(copyText) {
+          // Select the text field
+          copyText = window.location.href;
+          navigator.clipboard.writeText(copyText);
+          // Alert the copied text
+          alert("Copied the article link: " + copyText);
+}
+</script>
+
+		</footer>
+		<script crossorigin="anonymous" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" type="text/javascript"></script>
+		<script crossorigin="anonymous" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+		<script src="/news/_files/js/functions.js" type="text/javascript"></script>
+	</body>
+</html>

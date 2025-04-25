@@ -1,0 +1,578 @@
+<!DOCTYPE html>
+<html lang="ja" ng-app="newshack">
+<head>
+<script>
+var TLDataContext = {
+ual : {
+pageview : {
+opttype : 'pc',
+content_id : '',
+id_type : '',
+nopv : 'false',
+mtestid : '',
+ss_join_id : '',
+ss_join_id_type : '',
+hierarchy_id : '2080461728'
+}
+}
+};
+</script>
+<script async src="https://s.yimg.jp/images/ds/managed/1/managed-ual.min.js?tk=5ae7ece4-3b93-4890-8f24-ce16ddd756ed&service=news"></script>
+<meta charset="UTF-8">
+<title>news HACK by Yahoo!ニュース</title>
+<meta name="keywords" content="オウンドメディア,ニュース,ヤフー,スタッフブログ">
+<meta property="og:image" content="https://s.yimg.jp/images/jpnews/cre/owned_media/v2/all/images/ogp_600x315.png">
+<meta name="twitter:title" content="news HACK by Yahoo!ニュース">
+<meta name="twitter:image" content="https://s.yimg.jp/images/jpnews/cre/owned_media/v2/all/images/ogp_600x315.png">
+<meta name="description" content="Yahoo!ニュースが運営するオウンドメディア。Yahoo!ニュースのサービスの裏側や戦略、データを現場から発信します。メディア業界のキーマンや注目事例も取材。編集とテクノロジーの融合など、ニュースの新しい届け方を考えます。">
+<meta name="twitter:description" content="Yahoo!ニュースが運営するオウンドメディア。Yahoo!ニュースのサービスの裏側や戦略、データを現場から発信します。メディア業界のキーマンや注目事例も取材。編集とテクノロジーの融合など、ニュースの新しい届け方を考えます。">
+<meta property="og:site_name" content="news HACK by Yahoo!ニュース">
+<meta property="og:locale" content="ja_JP">
+<meta property="fb:app_id" content="276725822409153">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@YahooNewsTopics">
+<meta name="twitter:app:id:iphone" content="407906756">
+<meta name="twitter:app:name:iphone" content="Yahoo!ニュース">
+<meta name="twitter:app:url:iphone" content="yjtrend://l/top/">
+<meta name="twitter:app:id:googleplay" content="jp.co.yahoo.android.news">
+<meta name="twitter:app:name:googleplay" content="Yahoo!ニュース">
+<meta name="twitter:app:url:googleplay" content="yjnews://l/top/">
+<meta name="twitter:app:country" content="jp">
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="https://news.yahoo.co.jp/newshack/rss.xml">
+<link rel="stylesheet" href="https://s.yimg.jp/images/jpnews/cre/owned_media/v2/pc/css/newshack_pc_v2.2.css" media="all">
+<script src="https://s.yimg.jp/images/jpnews/cre/owned_media/v2/js/angular.js"></script>
+<script src="https://s.yimg.jp/images/jpnews/js/tpc/angular-resource.min.js"></script>
+<script src="https://s.yimg.jp/l/jquery/3.5.1/jquery.min.js"></script>
+<!-- YA -->
+<script async src="https://s.yimg.jp/images/ds/yas/ya-1.3.0.min.js"></script>
+<script>
+window.yacmds = window.yacmds || [];
+window.ya = window.ya || function(){yacmds.push(arguments)};
+ya('init', 'a31ba73f247a4ec1adf0f4e53b4a96f3', '56d92888-85b6-40cd-a57a-1db69dd8e503');
+ya('hit', 'pageview,webPerformance');
+</script>
+</head>
+<body>
+<div id="wrapper">
+<div id="header">
+<div class="nhHeader">
+<div class="inner">
+<div class="ttl"><a href="/newshack/" data-ylk="slk:nh"><img src="https://s.yimg.jp/images/jpnews/cre/owned_media/v2/pc/images/nh_logo.png" width="212" height="36" alt="news HACK"></a></div>
+<div class="nhFollow">
+<ul>
+<li class="nhAbout"><a href="/newshack/about.html"><img src="https://s.yimg.jp/images/news-cms/newshack/images/icon_info.png" width="19" height="19" alt="newsHACKとは" />news HACKとは</a></li>
+<li class="nhFollowTw"><a href="https://twitter.com/YahooNewsTopics" data-ylk="slk:twitter"><img src="https://s.yimg.jp/images/news-cms/common/dist/images/common/sns_x_circle.png" width="27" height="27" alt="公式X（旧Twitter）"></a></li>
+<li class="ynTop"><a href="https://news.yahoo.co.jp/" data-ylk="slk:newstop">Yahoo!ニュース</a></li>
+</ul>
+</div>
+</div>
+<!--/.inner-->
+<!--/.nhFollow-->
+<div class="nhNavi def" id="navi">
+<ul>
+<li class="top curent"><a href="/newshack/" data-ylk="slk:top">Top</a></li>
+<li class="inside"><a href="/newshack/inside/" data-ylk="slk:inside">Inside</a></li>
+<li class="media"><a href="/newshack/media_watch/" data-ylk="slk:mw">Media watch</a></li>
+<li class="pro"><a href="/newshack/professional/" data-ylk="slk:pro">Professional</a></li>
+<li class="tec"><a href="/newshack/technology/" data-ylk="slk:tech">Technology</a></li>
+<li class="info"><a href="/newshack/information/" data-ylk="slk:info">Information</a></li>
+</ul>
+</div>
+<!--/.nhNavi--><!--/#navi for ult-->
+</div>
+<!--/.nhHeader-->
+<div id="button">
+<a href="#top" class="nhPageTop" data-ylk="slk:pagetop"><span>ページ上部に戻る</span></a>
+</div><!--#button for ult-->
+</div><!--/#header-->
+<div id="contents">
+<div id="contentsBody">
+<div class="emg"><script defer src="https://s.yimg.jp/images/templa/mhdemg/v2/templa.min.js"></script>
+<script>
+    window.addEventListener('DOMContentLoaded', function () {
+        if (typeof YAHOO !== 'undefined' && typeof YAHOO.JP !== 'undefined' && typeof YAHOO.JP.templa.EMG !== 'undefined' && typeof YAHOO.JP.templa.EMG.load !== 'undefined') {
+            YAHOO.JP.templa.EMG.load({"device_id":"pc"});
+        }
+    }, false);
+</script>
+<div id="TEMPLA_EMG"></div></div>
+<noscript>
+<div class="alertBox">
+<div class="alert">
+<i></i><p>現在<em>JavaScriptが無効</em>になっています。<br>news HACK by Yahoo! ニュースのすべての機能を利用するためには、JavaScriptの設定を有効にしてください。<br>JavaScriptの設定を変更する方法は<a href="https://support.yahoo-net.jp/noscript">こちら</a>。</p>
+</div>
+</div>
+<style type="text/css">
+.ang { display: none; }
+</style>
+</noscript>
+<div id="main">
+<div id="flash">
+<div class="nhPicup">
+<a href="https://news.yahoo.co.jp/newshack/information/aidigest_20250423.html"  data-ylk="slk:card">
+<div class="thumb"><img src="https://s.yimg.jp/images/news-cms/newshack/info/AIdigest_20250423/AIdigest_main.png"></div>
+<dl>
+<dt>新機能「AIトピ」の提供を開始しました</dt>
+<dd><span class="cate info">Information</span><span class="date">2025.04.23</span></dd>
+</dl>
+</a>
+</div>
+<!--/.nhPicup-->
+<div class="nhListLsize">
+<ul>
+<li class="left"><a href="https://news.yahoo.co.jp/newshack/inside/bestexpert2025_20250321.html" data-ylk="slk:card">
+<div class="thumb"><img src="https://s.yimg.jp/images/news-cms/newshack/article/bestexpert2025_20250321/bestexpert2025_ogp.png"></div>
+<dl>
+<dt>Yahoo!ニュースで発信する専門家&クリエイターの頂点が決定「ベスト エキスパート 2025」授賞式レポート</dt>
+<dd><span class="cate inside">Inside</span><span class="date">2025.03.21</span></dd>
+</dl>
+</a></li>
+<li class="right"><a href="https://news.yahoo.co.jp/newshack/media_watch/trustandsafety_8.html" data-ylk="slk:card">
+<div class="thumb"><img src="https://s.yimg.jp/images/news-cms/newshack/article/trustandsafety_8/ogp.png"></div>
+<dl>
+<dt>「自分のバイアスを認識し、相手側の理屈に立って考えたい」――感情的分極化の時代を生きる</dt>
+<dd><span class="cate media">Media Watch</span><span class="date">2025.03.12</span></dd>
+</dl>
+</a></li>
+</ul>
+</div>
+<!--./nhListLsize-->
+</div><!--/flash for ult-->
+</div><!--/#main-->
+<div id="sub">
+<div class="nhSpBox3" id="spbox">
+<ul>
+<li><a href="" data-ylk="slk:imgtxt"><span class="thumb"><img src=""></span>
+<span class="ttl"></span></a>
+</ul>
+</div><!--/#spbox for ult-->
+<div class="nhSubInfo" id="info">
+<h3>Information</h3>
+<ul>
+<li><a href="https://news.yahoo.co.jp/newshack/information/aidigest_20250423.html" data-ylk="slk:title">
+<span class="ttl">新機能「AIトピ」の提供を開始しました</span><span class="date">2025.04.23</span></a>
+</li>
+<li><a href="https://news.yahoo.co.jp/newshack/information/comment_policy_20250401.html" data-ylk="slk:title">
+<span class="ttl">Yahoo!ニュース コメントポリシーを改定しました</span><span class="date">2025.04.01</span></a>
+</li>
+</ul>
+</div>
+<!--/.nhSubInfo--><!--/#info for ult-->
+<div class="nhSubMostread" id="mostread">
+<h3>Most Read</h3>
+<ul>
+<li><a href="https://news.yahoo.co.jp/newshack/inside/bestexpert2025_20250321.html" data-ylk="slk:title">
+<span class="thumb"><img src="https://s.yimg.jp/images/news-cms/newshack/article/bestexpert2025_20250321/bestexpert2025_ogp.png"></span>
+<span class="ttl">Yahoo!ニュースで発信する専門家&クリエイターの頂点が決定「ベスト エキスパート 2025」授賞式レポート</span><div class="date"><span class="cate inside">Inside</span>2025.03.21</div></a>
+</li>
+<li><a href="https://news.yahoo.co.jp/newshack/media_watch/trustandsafety_8.html" data-ylk="slk:title">
+<span class="thumb"><img src="https://s.yimg.jp/images/news-cms/newshack/article/trustandsafety_8/ogp.png"></span>
+<span class="ttl">「自分のバイアスを認識し、相手側の理屈に立って考えたい」――感情的分極化の時代を生きる</span><div class="date"><span class="cate media">Media Watch</span>2025.03.12</div></a>
+</li>
+<li><a href="https://news.yahoo.co.jp/newshack/inside/comment_20250306.html" data-ylk="slk:title">
+<span class="thumb"><img src="https://s.yimg.jp/images/news-cms/newshack/article/comment_20250306/comment_20250306_ogp.jpg"></span>
+<span class="ttl">表現見直しAI「コメント添削モデル」導入後の変化をどう見るのか——山口真一・国際大准教授</span><div class="date"><span class="cate inside">Inside</span>2025.03.06</div></a>
+</li>
+</ul>
+</div><!--/#mostread for ult-->
+<!--/.nhSubRank-->
+<div class="nhSubArchive">
+<form>
+<select onchange="location.href=value;">
+<option>月別アーカイブ</option>
+<option value="https://news.yahoo.co.jp/newshack/2025/04/">2025/04</option>
+<option value="https://news.yahoo.co.jp/newshack/2025/03/">2025/03</option>
+<option value="https://news.yahoo.co.jp/newshack/2025/02/">2025/02</option>
+<option value="https://news.yahoo.co.jp/newshack/2025/01/">2025/01</option>
+<option value="https://news.yahoo.co.jp/newshack/2024/12/">2024/12</option>
+<option value="https://news.yahoo.co.jp/newshack/2024/11/">2024/11</option>
+<option value="https://news.yahoo.co.jp/newshack/2024/10/">2024/10</option>
+<option value="https://news.yahoo.co.jp/newshack/2024/09/">2024/09</option>
+<option value="https://news.yahoo.co.jp/newshack/2024/08/">2024/08</option>
+<option value="https://news.yahoo.co.jp/newshack/2024/07/">2024/07</option>
+<option value="https://news.yahoo.co.jp/newshack/2024/06/">2024/06</option>
+<option value="https://news.yahoo.co.jp/newshack/2024/04/">2024/04</option>
+<option value="https://news.yahoo.co.jp/newshack/2024/03/">2024/03</option>
+<option value="https://news.yahoo.co.jp/newshack/2024/02/">2024/02</option>
+<option value="https://news.yahoo.co.jp/newshack/2024/01/">2024/01</option>
+<option value="https://news.yahoo.co.jp/newshack/2023/12/">2023/12</option>
+<option value="https://news.yahoo.co.jp/newshack/2023/11/">2023/11</option>
+<option value="https://news.yahoo.co.jp/newshack/2023/10/">2023/10</option>
+<option value="https://news.yahoo.co.jp/newshack/2023/09/">2023/09</option>
+<option value="https://news.yahoo.co.jp/newshack/2023/08/">2023/08</option>
+<option value="https://news.yahoo.co.jp/newshack/2023/07/">2023/07</option>
+<option value="https://news.yahoo.co.jp/newshack/2023/06/">2023/06</option>
+<option value="https://news.yahoo.co.jp/newshack/2023/05/">2023/05</option>
+<option value="https://news.yahoo.co.jp/newshack/2023/04/">2023/04</option>
+<option value="https://news.yahoo.co.jp/newshack/2023/03/">2023/03</option>
+<option value="https://news.yahoo.co.jp/newshack/2023/02/">2023/02</option>
+<option value="https://news.yahoo.co.jp/newshack/2023/01/">2023/01</option>
+<option value="https://news.yahoo.co.jp/newshack/2022/12/">2022/12</option>
+<option value="https://news.yahoo.co.jp/newshack/2022/11/">2022/11</option>
+<option value="https://news.yahoo.co.jp/newshack/2022/10/">2022/10</option>
+<option value="https://news.yahoo.co.jp/newshack/2022/09/">2022/09</option>
+<option value="https://news.yahoo.co.jp/newshack/2022/08/">2022/08</option>
+<option value="https://news.yahoo.co.jp/newshack/2022/07/">2022/07</option>
+<option value="https://news.yahoo.co.jp/newshack/2022/06/">2022/06</option>
+<option value="https://news.yahoo.co.jp/newshack/2022/04/">2022/04</option>
+<option value="https://news.yahoo.co.jp/newshack/2022/03/">2022/03</option>
+<option value="https://news.yahoo.co.jp/newshack/2022/02/">2022/02</option>
+<option value="https://news.yahoo.co.jp/newshack/2022/01/">2022/01</option>
+<option value="https://news.yahoo.co.jp/newshack/2021/12/">2021/12</option>
+<option value="https://news.yahoo.co.jp/newshack/2021/11/">2021/11</option>
+<option value="https://news.yahoo.co.jp/newshack/2021/10/">2021/10</option>
+<option value="https://news.yahoo.co.jp/newshack/2021/09/">2021/09</option>
+<option value="https://news.yahoo.co.jp/newshack/2021/08/">2021/08</option>
+<option value="https://news.yahoo.co.jp/newshack/2021/07/">2021/07</option>
+<option value="https://news.yahoo.co.jp/newshack/2021/06/">2021/06</option>
+<option value="https://news.yahoo.co.jp/newshack/2021/04/">2021/04</option>
+<option value="https://news.yahoo.co.jp/newshack/2021/03/">2021/03</option>
+<option value="https://news.yahoo.co.jp/newshack/2021/02/">2021/02</option>
+<option value="https://news.yahoo.co.jp/newshack/2020/12/">2020/12</option>
+<option value="https://news.yahoo.co.jp/newshack/2020/11/">2020/11</option>
+<option value="https://news.yahoo.co.jp/newshack/2020/10/">2020/10</option>
+<option value="https://news.yahoo.co.jp/newshack/2020/09/">2020/09</option>
+<option value="https://news.yahoo.co.jp/newshack/2020/08/">2020/08</option>
+<option value="https://news.yahoo.co.jp/newshack/2020/07/">2020/07</option>
+<option value="https://news.yahoo.co.jp/newshack/2020/06/">2020/06</option>
+<option value="https://news.yahoo.co.jp/newshack/2020/05/">2020/05</option>
+<option value="https://news.yahoo.co.jp/newshack/2020/04/">2020/04</option>
+<option value="https://news.yahoo.co.jp/newshack/2020/03/">2020/03</option>
+<option value="https://news.yahoo.co.jp/newshack/2020/02/">2020/02</option>
+<option value="https://news.yahoo.co.jp/newshack/2020/01/">2020/01</option>
+<option value="https://news.yahoo.co.jp/newshack/2019/12/">2019/12</option>
+<option value="https://news.yahoo.co.jp/newshack/2019/11/">2019/11</option>
+<option value="https://news.yahoo.co.jp/newshack/2019/10/">2019/10</option>
+<option value="https://news.yahoo.co.jp/newshack/2019/09/">2019/09</option>
+<option value="https://news.yahoo.co.jp/newshack/2019/08/">2019/08</option>
+<option value="https://news.yahoo.co.jp/newshack/2019/07/">2019/07</option>
+<option value="https://news.yahoo.co.jp/newshack/2019/06/">2019/06</option>
+<option value="https://news.yahoo.co.jp/newshack/2019/05/">2019/05</option>
+<option value="https://news.yahoo.co.jp/newshack/2019/04/">2019/04</option>
+<option value="https://news.yahoo.co.jp/newshack/2019/03/">2019/03</option>
+<option value="https://news.yahoo.co.jp/newshack/2019/02/">2019/02</option>
+<option value="https://news.yahoo.co.jp/newshack/2019/01/">2019/01</option>
+<option value="https://news.yahoo.co.jp/newshack/2018/12/">2018/12</option>
+<option value="https://news.yahoo.co.jp/newshack/2018/11/">2018/11</option>
+<option value="https://news.yahoo.co.jp/newshack/2018/10/">2018/10</option>
+<option value="https://news.yahoo.co.jp/newshack/2018/09/">2018/09</option>
+<option value="https://news.yahoo.co.jp/newshack/2018/08/">2018/08</option>
+<option value="https://news.yahoo.co.jp/newshack/2018/07/">2018/07</option>
+<option value="https://news.yahoo.co.jp/newshack/2018/06/">2018/06</option>
+<option value="https://news.yahoo.co.jp/newshack/2018/05/">2018/05</option>
+<option value="https://news.yahoo.co.jp/newshack/2018/04/">2018/04</option>
+<option value="https://news.yahoo.co.jp/newshack/2018/03/">2018/03</option>
+<option value="https://news.yahoo.co.jp/newshack/2018/02/">2018/02</option>
+<option value="https://news.yahoo.co.jp/newshack/2018/01/">2018/01</option>
+<option value="https://news.yahoo.co.jp/newshack/2017/12/">2017/12</option>
+<option value="https://news.yahoo.co.jp/newshack/2017/11/">2017/11</option>
+<option value="https://news.yahoo.co.jp/newshack/2017/10/">2017/10</option>
+<option value="https://news.yahoo.co.jp/newshack/2017/09/">2017/09</option>
+<option value="https://news.yahoo.co.jp/newshack/2017/08/">2017/08</option>
+<option value="https://news.yahoo.co.jp/newshack/2017/07/">2017/07</option>
+<option value="https://news.yahoo.co.jp/newshack/2017/06/">2017/06</option>
+<option value="https://news.yahoo.co.jp/newshack/2017/05/">2017/05</option>
+<option value="https://news.yahoo.co.jp/newshack/2017/04/">2017/04</option>
+<option value="https://news.yahoo.co.jp/newshack/2017/03/">2017/03</option>
+<option value="https://news.yahoo.co.jp/newshack/2017/02/">2017/02</option>
+<option value="https://news.yahoo.co.jp/newshack/2017/01/">2017/01</option>
+<option value="https://news.yahoo.co.jp/newshack/2016/12/">2016/12</option>
+<option value="https://news.yahoo.co.jp/newshack/2016/11/">2016/11</option>
+<option value="https://news.yahoo.co.jp/newshack/2016/10/">2016/10</option>
+<option value="https://news.yahoo.co.jp/newshack/2016/09/">2016/09</option>
+<option value="https://news.yahoo.co.jp/newshack/2016/08/">2016/08</option>
+<option value="https://news.yahoo.co.jp/newshack/2016/07/">2016/07</option>
+<option value="https://news.yahoo.co.jp/newshack/2016/06/">2016/06</option>
+<option value="https://news.yahoo.co.jp/newshack/2016/05/">2016/05</option>
+<option value="https://news.yahoo.co.jp/newshack/2016/04/">2016/04</option>
+<option value="https://news.yahoo.co.jp/newshack/2016/03/">2016/03</option>
+<option value="https://news.yahoo.co.jp/newshack/2016/02/">2016/02</option>
+<option value="https://news.yahoo.co.jp/newshack/2016/01/">2016/01</option>
+<option value="https://news.yahoo.co.jp/newshack/2015/12/">2015/12</option>
+<option value="https://news.yahoo.co.jp/newshack/2015/11/">2015/11</option>
+<option value="https://news.yahoo.co.jp/newshack/2015/10/">2015/10</option>
+<option value="https://news.yahoo.co.jp/newshack/2015/09/">2015/09</option>
+<option value="https://news.yahoo.co.jp/newshack/2015/08/">2015/08</option>
+<option value="https://news.yahoo.co.jp/newshack/2015/07/">2015/07</option>
+<option value="https://news.yahoo.co.jp/newshack/2015/06/">2015/06</option>
+<option value="https://news.yahoo.co.jp/newshack/2015/05/">2015/05</option>
+<option value="https://news.yahoo.co.jp/newshack/2015/04/">2015/04</option>
+<option value="https://news.yahoo.co.jp/newshack/2015/03/">2015/03</option>
+<option value="https://news.yahoo.co.jp/newshack/2015/02/">2015/02</option>
+<option value="https://news.yahoo.co.jp/newshack/2015/01/">2015/01</option>
+<option value="https://news.yahoo.co.jp/newshack/2014/12/">2014/12</option>
+<option value="https://news.yahoo.co.jp/newshack/2014/11/">2014/11</option>
+</select>
+</form>
+</div>
+<!--/.nhAbout--><!--/#aboutnh for ult-->
+</div><!--/#sub-->
+</div><!--/#contentsBody-->
+<div id="contentsBodylist">
+<div class="nhList" ng-controller="listController" id="article">
+<ul>
+<li><a href="https://news.yahoo.co.jp/newshack/inside/wararchive_20250307.html" data-ylk="slk:card;">
+<div class="thumb"><img src="https://s.yimg.jp/images/news-cms/newshack/wararchive_ogp.png"></div>
+<dl>
+<dt>戦後80年、デジタルの力で次の世代へ　「未来に残す　戦争の記憶」の取り組み</dt>
+<dd><span class="cate inside">Inside</span><span class="date">2025.03.07</span></dd>
+</dl>
+</a></li>
+<li><a href="https://news.yahoo.co.jp/newshack/inside/comment_20250306.html" data-ylk="slk:card;">
+<div class="thumb"><img src="https://s.yimg.jp/images/news-cms/newshack/article/comment_20250306/comment_20250306_ogp.jpg"></div>
+<dl>
+<dt>表現見直しAI「コメント添削モデル」導入後の変化をどう見るのか——山口真一・国際大准教授</dt>
+<dd><span class="cate inside">Inside</span><span class="date">2025.03.06</span></dd>
+</dl>
+</a></li>
+<li class="last"><a href="https://news.yahoo.co.jp/newshack/media_watch/news_AI_20250221.html" data-ylk="slk:card;">
+<div class="thumb"><img src="https://s.yimg.jp/images/news-cms/newshack/article/news_AI_20250221/news_AI_ogp.jpg"></div>
+<dl>
+<dt>ニュースのAI活用「大切なのはどう使うか」——東京大・鳥海不二夫教授と考える、共存のビジョン</dt>
+<dd><span class="cate media">Media Watch</span><span class="date">2025.02.21</span></dd>
+</dl>
+</a></li>
+</ul>
+<ul>
+<li><a href="https://news.yahoo.co.jp/newshack/media_watch/globalelections_20241227.html" data-ylk="slk:card;">
+<div class="thumb"><img src="https://s.yimg.jp/images/news-cms/newshack/article/globalelections_20241227/ogp2.png"></div>
+<dl>
+<dt>2024年「選挙イヤー」――偽・誤情報はどこまで影響を及ぼしたのか？　香港大学・鍛治本正人教授に聞く</dt>
+<dd><span class="cate media">Media Watch</span><span class="date">2024.12.27</span></dd>
+</dl>
+</a></li>
+<li><a href="https://news.yahoo.co.jp/newshack/newshack/senkyo2024_20241226.html" data-ylk="slk:card;">
+<div class="thumb"><img src="https://s.yimg.jp/images/news-cms/newshack/article/senkyo2024_20241226/senkyo2024_ogp.png"></div>
+<dl>
+<dt>読売新聞社とYahoo!ニュースの担当者が振り返る——2024年衆議院選挙「インターネット情勢調査」</dt>
+<dd><span class="cate media">Media Watch</span><span class="date">2024.12.26</span></dd>
+</dl>
+</a></li>
+<li class="last"><a href="https://news.yahoo.co.jp/newshack/inside/kenshin2024_20241108.html" data-ylk="slk:card;">
+<div class="thumb"><img src="https://s.yimg.jp/images/news-cms/newshack/article/kenshin2024_20241108/kenshin2024_ogp.png"></div>
+<dl>
+<dt>LINEヤフーと朝日新聞社のプロジェクトマネージャーに聞いた——「ニュース健診2024」制作の舞台裏</dt>
+<dd><span class="cate inside">Inside</span><span class="date">2024.11.08</span></dd>
+</dl>
+</a></li>
+</ul>
+<ul>
+<li><a href="https://news.yahoo.co.jp/newshack/media_watch/euthanasia_20241004.html" data-ylk="slk:card;">
+<div class="thumb"><img src="https://s.yimg.jp/images/news-cms/newshack/article/euthanasia_20241004/euthanasia_ogp.jpg"></div>
+<dl>
+<dt>「一人ひとりの生きた証しを伝えたい」——TBS西村記者はなぜ安楽死を追うのか</dt>
+<dd><span class="cate media">Media Watch</span><span class="date">2024.10.04</span></dd>
+</dl>
+</a></li>
+<li><a href="https://news.yahoo.co.jp/newshack/media_watch/US_presidential_election_20240905.html" data-ylk="slk:card;">
+<div class="thumb"><img src="https://s.yimg.jp/images/news-cms/newshack/article/US_presidential_election_20240905/ogp.png"></div>
+<dl>
+<dt>キーワードは「分断」「急展開」――平和博さんが語る2024年アメリカ大統領選と情報空間</dt>
+<dd><span class="cate media">Media Watch</span><span class="date">2024.09.05</span></dd>
+</dl>
+</a></li>
+<li class="last"><a href="https://news.yahoo.co.jp/newshack/media_watch/news_comment20240830.html" data-ylk="slk:card;">
+<div class="thumb"><img src="https://s.yimg.jp/images/news-cms/newshack/article/takashi_saito_20240830/takashi_saito_ogp.jpg"></div>
+<dl>
+<dt>コメント欄を眺めることで、世の中の空気感を知ることができる――教育学者・齋藤孝さんに聞く</dt>
+<dd><span class="cate media">Media Watch</span><span class="date">2024.08.30</span></dd>
+</dl>
+</a></li>
+</ul>
+<ul>
+<li><a href="https://news.yahoo.co.jp/newshack/inside/disaster_20240829.html" data-ylk="slk:card;">
+<div class="thumb"><img src="https://s.yimg.jp/images/news-cms/newshack/article/disaster_20240829/ogp.png"></div>
+<dl>
+<dt>ユーザーの投稿から防災へ――SNSの情報を有事に役立てるスペクティとの取り組み</dt>
+<dd><span class="cate inside">Inside</span><span class="date">2024.08.29</span></dd>
+</dl>
+</a></li>
+<li><a href="https://news.yahoo.co.jp/newshack/media_watch/fakenewsapproach20240628.html" data-ylk="slk:card;">
+<div class="thumb"><img src="https://s.yimg.jp/images/news-cms/newshack/article/fakenewsapproach20240628/fakenewsapproach_ogp.jpg"></div>
+<dl>
+<dt>偽・誤情報は「何」を壊すのか――山口真一・国際大GLOCOM准教授に聞く</dt>
+<dd><span class="cate media">Media Watch</span><span class="date">2024.06.28</span></dd>
+</dl>
+</a></li>
+<li class="last"><a href="https://news.yahoo.co.jp/newshack/media_watch/trustandsafety_7.html" data-ylk="slk:card;">
+<div class="thumb"><img src="https://s.yimg.jp/images/news-cms/newshack/article/trustandsafety_7/trustandsafety_7_ogp.png"></div>
+<dl>
+<dt>メディアリテラシーの向上は「手を洗うこと」に似ている</dt>
+<dd><span class="cate media">Media Watch</span><span class="date">2024.06.18</span></dd>
+</dl>
+</a></li>
+</ul>
+<ul ng-repeat="articles in list | limitTo: view" on-finish-render ng-cloak class="ang">
+<li ng-repeat="article in articles" ng-attr-class="{{$last &amp;&amp; 'last'}}">
+<a href="{{article.url}}"  data-ylk="slk:card">
+<div class="thumb" ng-if="article.image"><img ng-src="{{article.image}}"></div>
+<dl>
+<dt>{{article.title}}</dt>
+<dd><span class="cate {{article.cate_class}}">{{article.category}}</span><span class="date">{{article.date}}</span></dd>
+</dl>
+</a>
+</li>
+</ul>
+<div class="nhMoreBtn" ng-if="more"><span><a href="" class="btn" ng-click="getMore()" data-ylk="slk:more" data-nofollow="on">Load More Articles</a></span></div>
+<input type="hidden" id="list_row" value="5">
+<input type="hidden" id="category" value="newshack">
+</div>
+<!--/.nhList-->
+<div class="nhBnr" id="special">
+<ul style="display: flex; justify-content: center;">
+<li><a href="https://news.yahoo.co.jp/special/lookback2024/"><img src="https://s.yimg.jp/images/news-cms/feature/visualize/2024/lookback2024/600x120.jpg" width="300" height="60"></a></li>
+</ul>
+</div>
+<!--/.hnBnr--><!--/#special for ult-->
+</div><!--/#contentsBodylist-->
+</div><!--/#contents-->
+<script type="text/javascript">
+var app = angular.module('newshack', ['ngResource']);
+app.factory('articleList', function($resource) {
+return $resource (
+'/newshack/:category/more.json',
+{category: '@category'}
+);
+});
+app.controller('listController', ['$scope', '$http', '$log', 'articleList', function ($scope, $http, $log, articleList) {
+$scope.listRow = parseInt($('#list_row').val());
+$scope.listColumn = 3;
+$scope.list = [];
+$scope.page = 1;
+$scope.view = 0;
+$scope.more = true;
+$scope.ctg = $('#category').val();
+$scope.wHeight = 0;
+$scope.getMore = function() {
+$scope.wHeight = $(window).scrollTop();
+articleList.get({category: $scope.ctg}).$promise.then(function(result) {
+var data = result.data;
+var cnt = data.length;
+var list = [];
+var tmplist = [];
+angular.forEach(data, function(value, key) {
+if (key >= ($scope.listRow * $scope.listColumn)) {
+tmplist.push(value);
+if ((key % $scope.listColumn) == ($scope.listColumn-1)) {
+// 各行の末尾
+list.push(tmplist);
+tmplist = [];
+} else if ((key +1) == cnt) {
+// 全ての記事の最後
+list.push(tmplist);
+tmplist = [];
+}
+}
+});
+$scope.list = list;
+$scope.view = $scope.listRow * $scope.page ;
+var showCnt = $scope.listRow * $scope.listColumn * ($scope.page + 1);
+if (cnt <= showCnt) {
+$scope.more = false;
+}
+$scope.page++;
+});
+}
+$scope.$on('ngRepeatFinished', function(ngRepeatFinishedEvent) {
+$log.info('dispHeight: ' + $scope.wHeight);
+$(window).scrollTop($scope.wHeight);
+});
+}]);
+app.directive('onFinishRender', function ($timeout) {
+return {
+restrict: 'A',
+link: function (scope, element, attr) {
+if (scope.$last === true) {
+$timeout(function () {
+scope.$emit('ngRepeatFinished');
+});
+}
+}
+}
+});
+</script>
+<div id="footer">
+<address>
+<div class="yjChviewWrap" id="footer">
+<div class="yjLink"><a href="https://news.yahoo.co.jp/" data-ylk="slk:newstop">Yahoo!ニュース</a>｜<a href="https://www.yahoo.co.jp/" data-ylk="slk:yjtop">Yahoo! JAPAN</a></div>
+</div><!-- /.yjChviewWrap --><!-/#footer-->
+<a href="https://www.lycorp.co.jp/ja/company/privacypolicy/" rel="nofollow">プライバシーポリシー</a> -
+<a href="https://privacy.lycorp.co.jp/ja/" rel="nofollow">プライバシーセンター</a> -
+<a href="https://www.lycorp.co.jp/ja/company/terms/" rel="nofollow">利用規約</a> -
+<a href="https://www.lycorp.co.jp/ja/company/mediastatement/" rel="nofollow">メディアステートメント</a> -
+<a href="https://support.yahoo-net.jp/PccNews/s/" rel="nofollow">ヘルプ・お問い合わせ</a><br>
+&copy; LY Corporation</address>
+</div><!--/#footer-->
+</div><!--/#wrapper-->
+<script src="https://s.yimg.jp/l/jquery/3.5.1/jquery.min.js"></script>
+<script>
+//underline
+var p = 0;
+var pp = 1;
+$(document).ready( function(){
+$('span','.nhNavi').animate({
+'width': $(".curent").position().left + $(".curent").width()
+}
+,0);
+});
+setInterval(function(){
+p+=pp;
+if (p == 2) {
+$('span','.nhNavi').animate({
+'width': $(".curent").position().left + $(".curent").width()
+}
+,150);
+}
+},350);
+$('.select','.nhNavi').hover(function(){
+p = 0;
+pp = 0;
+$('span','.nhNavi').animate({
+'width': $(this).position().left + $(this).width()
+}
+,150);
+});
+$('.select','.nhNavi').mouseleave(function(){
+pp = 1;
+});
+$(window).resize(function() {
+$('span','.nhNavi').animate({
+'width': $(".curent").position().left + $(".curent").width()
+}
+,150);
+});
+//ヘッダー
+$(function() {
+var $win = $(window),
+$header = $(".nhHeader"),
+animationClass = 'nhZoomHead';
+$win.on('load scroll', function() {
+var value = $(this).scrollTop();
+if ( value > 100 ) {
+$header.addClass(animationClass);
+} else {
+$header.removeClass(animationClass);
+}
+});
+});
+//ページトップ  
+$(document).ready(function(){
+var topBtn = $('.nhPageTop');
+topBtn.hide();
+$(window).scroll(function(){
+if($(this).scrollTop() > 120){
+topBtn.fadeIn();
+}else{
+topBtn.fadeOut();
+}
+});
+topBtn.click(function () {
+$('body,html').animate({
+scrollTop: 0
+},500);
+return false;
+});
+});
+</script>
+</body>
+</html>

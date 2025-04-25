@@ -1,0 +1,612 @@
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <!-- favicon.twig -->
+<link rel="apple-touch-icon" sizes="180x180" href="//d2jv02qf7xgjwx.cloudfront.net/apps/common/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="//d2jv02qf7xgjwx.cloudfront.net/apps/common/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="//d2jv02qf7xgjwx.cloudfront.net/apps/common/favicon/favicon-16x16.png">
+<link rel="manifest" href="//d2jv02qf7xgjwx.cloudfront.net/apps/common/favicon/site.webmanifest">
+<link rel="mask-icon" href="//d2jv02qf7xgjwx.cloudfront.net/apps/common/favicon/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="//d2jv02qf7xgjwx.cloudfront.net/apps/common/favicon/favicon.ico">
+<meta name="msapplication-TileColor" content="#ffc40d">
+<meta name="msapplication-config" content="//d2jv02qf7xgjwx.cloudfront.net/apps/common/favicon/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+<!-- !favicon.twig -->
+<title>YouTube Tutorial Videos - Research Tutorials - Guides at California State Polytechnic University, Pomona</title><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="robots" content="noarchive" /><!-- favicon.twig -->
+<link rel="apple-touch-icon" sizes="180x180" href="//d2jv02qf7xgjwx.cloudfront.net/apps/common/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="//d2jv02qf7xgjwx.cloudfront.net/apps/common/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="//d2jv02qf7xgjwx.cloudfront.net/apps/common/favicon/favicon-16x16.png">
+<link rel="manifest" href="//d2jv02qf7xgjwx.cloudfront.net/apps/common/favicon/site.webmanifest">
+<link rel="mask-icon" href="//d2jv02qf7xgjwx.cloudfront.net/apps/common/favicon/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="//d2jv02qf7xgjwx.cloudfront.net/apps/common/favicon/favicon.ico">
+<meta name="msapplication-TileColor" content="#ffc40d">
+<meta name="msapplication-config" content="//d2jv02qf7xgjwx.cloudfront.net/apps/common/favicon/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+<!-- !favicon.twig -->
+<!-- public_metadata.twig -->
+
+    <!-- auto generated dublin core metadata -->
+    <meta name="DC.Title" content="Guides: Research Tutorials: YouTube Tutorial Videos"/>
+    <meta name="DC.Creator" content="Shonn Haren"/>
+    <meta name="DC.Subject" content=""/>
+    <meta name="DC.Description" content="The master list for accessing the online tutorials created by the Cal Poly Pomona University Library."/>
+    <meta name="DC.Publishers" content="California State Polytechnic University, Pomona"/>
+    <meta name="DC.Rights" content="Copyright California State Polytechnic University, Pomona 2025"/>
+    <meta name="DC.Language" content="en"/>
+    <meta name="DC.Identifier" content="https://libguides.library.cpp.edu/researchtutorials/youtubevideotutorials"/>
+    <meta name="DC.Date.Created" content="Oct 17, 2019"/>
+    <meta name="DC.Date.Modified" content="Mar 5, 2025"/>
+    <meta property="og:title" content="Guides: Research Tutorials: YouTube Tutorial Videos">
+<meta property="og:description" content="The master list for accessing the online tutorials created by the Cal Poly Pomona University Library.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://libguides.library.cpp.edu/researchtutorials/youtubevideotutorials">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@springshare">
+<link rel="stylesheet" href="https://static-assets-us.libguides.com/web/jquery/css/jquery-ui.min.css?2691" /><link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"/>
+<link rel="stylesheet" type="text/css" href="https://static-assets-us.libguides.com/web/slick-1.8.1/slick/slick.css"><link rel="stylesheet" type="text/css" href="https://static-assets-us.libguides.com/web/slick-1.8.1/slick/slick-theme.css"><link rel="stylesheet" href="https://static-assets-us.libguides.com/web/css3.17.1/lg-public.min.css" /><script type="text/javascript" src="https://static-assets-us.libguides.com/web/jquery/js/1.12.4_jquery.min.js"></script><script>
+                    jQuery(document).ready(function () {
+                     jQuery(".dropdown-toggle").on("click",function(e){
+                        jQuery(this).siblings("ul.s-lg-subtab-ul.dropdown-menu").toggle();
+                       })
+                     });
+             </script>    <script src="//code.jquery.com/ui/1.13.2/jquery-ui.min.js"></script>
+    <script>
+        jQuery.ui ||
+        document.write('<script src="https://static-assets-us.libguides.com/web/jquery/js/jquery-ui.min.js?2691">\x3C/script>');
+    </script>
+<script type="text/javascript" src="https://static-assets-us.libguides.com/web/js3.17.1/lg-public.min.js"></script><style>/** bootstrap_tab_css.twig **/
+#s-lg-tabs-container .nav-tabs > li > a,
+#s-lg-tabs-container .nav-tabs > li > button,
+#s-lg-tabs-container .nav-pills > li > a,
+#s-lg-tabs-container .nav-pills > li > button {
+    border: 1px solid transparent; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px;
+    background-color: #003252;
+    color: #ffffcc;
+    font-weight: bold;
+    padding: 4px 15px;
+}
+
+#s-lg-tabs-container .nav-tabs {
+    border-bottom: 0;
+}
+
+#s-lg-tabs-container .nav-tabs > li#s-lg-admin-tab-add > a {
+    -webkit-border-radius: 4px 4px 0 0;
+    -moz-border-radius: 4px 4px 0 0;
+    border-radius: 4px 4px 0 0;
+}
+
+#s-lg-tabs-container .nav-tabs > li > a:hover,
+#s-lg-tabs-container .nav-tabs > li > button:hover,
+#s-lg-tabs-container .nav-pills > li > a:hover,
+#s-lg-tabs-container .nav-pills > li > button:hover {
+    border: 1px solid transparent; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px;
+    background-color: #01426a;
+    color: #ffffff;
+}
+
+#s-lg-tabs-container .nav-tabs > .active > a,
+#s-lg-tabs-container .nav-tabs > .active > button,
+#s-lg-tabs-container .nav-pills > .active > a,
+#s-lg-tabs-container .nav-pills > .active > button {
+    color: #ffffff;
+    cursor: default;
+    background-color: #01426a;
+    border: 1px solid transparent; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px;
+    border-bottom-color: transparent;
+    font-weight: bold;
+}
+
+#s-lg-tabs-container .nav-tabs > .active > .s-lg-subtab-ul > .active > a,
+#s-lg-tabs-container .nav-tabs > .active > .s-lg-subtab-ul > .active > button {
+    color: #ffffff;
+    cursor: default;
+    background-color: #01426a;
+    border-bottom-color: transparent;
+}
+
+#s-lg-tabs-container .nav-tabs > .active > a:hover,
+#s-lg-tabs-container .nav-pills > .active > a:hover,
+#s-lg-tabs-container .nav-tabs > .active > button:hover,
+#s-lg-tabs-container .nav-pills > .active > button:hover {
+    color: #ffffff;
+    cursor: pointer;
+    background-color: #01426a;
+    border: 1px solid transparent; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px;
+    border-bottom-color: transparent;
+    font-weight: bold;
+}
+
+#s-lg-tabs-container .nav .dropdown-toggle .caret {
+    border-top-color: #e1e1e1;
+}
+
+#s-lg-tabs-container .nav-tabs button.dropdown-toggle .caret {
+    margin-left: 2px;
+    margin-top: -3px;
+}
+
+#s-lg-tabs-container .nav-tabs > li > a.s-lg-tab-drop {
+    border-radius: 0 4px 4px 0;
+    padding: 4px 6px 4px 3px;
+    border-left: 1px solid transparent;
+}
+
+#s-lg-tabs-container .nav-tabs > li > button.s-lg-tab-drop {
+    border-radius: 0 4px 4px 0;
+    padding: 4px 6px 0px 3px;
+    border-left: 1px solid transparent;
+    margin-right: 2px;
+}
+
+#s-lg-tabs-container .nav-tabs > li > a.s-lg-tab-drop:hover {
+    border-radius: 0 4px 4px 0;
+    border-left: 1px solid #bbb;
+    padding: 4px 6px 4px 3px;
+}
+
+#s-lg-tabs-container .nav-tabs > li > button.s-lg-tab-drop:hover {
+    border-radius: 0 4px 4px 0;
+    border-left: 1px solid #bbb;
+    padding: 4px 6px 0px 3px;
+}
+
+#s-lg-tabs-container .nav-tabs > li > a.s-lg-tab-top-link,
+#s-lg-tabs-container .nav-tabs > li > a.s-lg-tab-top-link:hover,
+#s-lg-tabs-container .nav-tabs > li > button.s-lg-tab-top-link,
+#s-lg-tabs-container .nav-tabs > li > button.s-lg-tab-top-link:hover {
+    border-radius: 4px;
+    font-weight: bold;
+    padding: 4px 5px 4px 10px;
+}
+
+.nav-tabs > li > a.s-lg-tab-top-link,
+.nav-tabs > li > button.s-lg-tab-top-link {
+    margin-right: 0px;
+}
+
+#s-lg-tabs-container .nav-pills > li > a.s-lg-tab-drop,
+#s-lg-tabs-container .nav-pills > li > button.s-lg-tab-drop {
+    border-radius: 0 4px 4px 0;
+    padding: 4px 8px 4px 8px;
+    border-left: 1px solid transparent;
+    position: absolute;
+    right: 0;
+}
+
+#s-lg-tabs-container .nav-pills > li > a.s-lg-tab-drop:hover,
+#s-lg-tabs-container .nav-pills > li > button.s-lg-tab-drop:hover {
+    border-radius: 0 4px 4px 0;
+    border-left: 1px solid #bbb;
+    padding: 4px 8px 4px 8px;
+}
+
+#s-lg-tabs-container .nav-pills > li > a.s-lg-tab-top-link,
+#s-lg-tabs-container .nav-pills > li > a.s-lg-tab-top-link:hover,
+#s-lg-tabs-container .nav-pills > li > button.s-lg-tab-top-link,
+#s-lg-tabs-container .nav-pills > li > button.s-lg-tab-top-link:hover {
+    width: 100%;
+    float: left;
+    border-radius: 4px;
+    font-weight: bold;
+    padding: 4px 15px 4px 15px;
+}
+
+/** !bootstrap_tab_css.twig **/
+ .s-lib-box {border-color: #cccccc;
+                border-width: 1px;
+                box-shadow: 0 8px 6px -6px #AAAAAA;
+                border-radius: 4px 4px 4px 4px;
+                background-color: #fff;
+            }
+            .s-lib-box-std .s-lib-box-title {background-color: #01426a; background-image: none;color: #ffffff;
+                border-bottom: 1px solid #cccccc;
+            }
+            .s-lib-box .s-lib-box-title {background-color: #01426a; background-image: none;color: #ffffff;
+                border-bottom: 1px solid #cccccc;
+                border-radius: 3px 3px 0px 0px;
+            }
+            .s-lib-box .s-lg-box-footer {
+                border-radius: 0px 0px 3px 3px;
+            }</style><script>
+	function searchPrimo() {
+		document.getElementById("primoQuery").value = "any,contains," + document.getElementById("primoQueryTemp").value.replace(/[,]/g, " ");
+		document.forms["searchForm"].submit();
+	}
+</script>
+<style>
+body {
+margin: 0;
+padding-left: 0;
+padding-right: 0;
+font-size: 15px;
+font-family: sans-serif;
+}
+
+/* Changing basic link color for contrast */
+
+.s-lg-tab-content  a {
+color: #2449b7 !important;
+}
+
+.s-lg-boxnav > li > a  {
+color: #2449b7 !important;
+}
+
+.s-lib-box-content a {
+color: #2449b7 !important;
+}
+
+a.btn.btn-info.s-lg-hp-btn-section {
+color: #FFF !important;
+}
+
+a.label-info {
+color: #fff !important;
+}
+
+/*******************/
+.s-lib-box .s-lib-box-title {
+font-size: 16px;
+}
+.s-lib-box-content p, .s-lib-box-content a {
+font-size: 15px;
+font-family: sans-serif;
+}
+#cpp-logobar {
+width: 100%;
+top: 0;
+background-color: rgba(244, 244, 244, 0.9);
+transition: background-color .7s;
+height: 60px;
+line-height: 60px;
+padding-left: 15px;
+}
+
+.align-middle {
+vertical-align: middle !important;
+}
+
+#cpp-logo-octo {
+left: -25px;
+top:-15px;
+position: relative;
+height: 90px;
+}
+
+#cpp-libguides {
+margin-bottom: 0px;
+}
+
+#cpp-links > li > a {
+font-size: 16px;
+color: #464a4c;
+}
+
+#cpp-links a:hover, #cpp-links a:focus {
+text-decoration: underline;
+}
+
+div#cpp-search {
+background-color: #01426a;
+font-size: 16px;
+margin-top: 0px;
+padding-top: 15px;
+padding-bottom: 10px;
+}
+
+
+div#cpp-search a {
+color: #FFF;
+}
+
+img#onesearch {
+margin-top: -5px;
+margin-left: 15px;
+}
+
+#cpp-form {
+margin-top: 12px;
+margin-right: 5px;
+}
+
+input#primoQueryTemp {
+margin-left: 10px;
+}
+div.search-xtra {
+margin-top: 17px;
+}
+
+#cpp-lib-footer {
+background-color: #01426a;
+font-size: 1.45em;
+color: #FFF;
+font-weight: bold;
+}
+#cpp-lib-footer a {
+color: #ffb500;
+}
+#cpp-lib-footer a:hover, #cpp-lib-footer a:focus {
+color: #fff;
+text-decoration: underline:
+}
+#contact-info {
+padding-top: 20px;
+padding-bottom: 20px;
+}
+.lib-icon {
+margin-top: 15px;
+}
+
+/*changing default trial flag look */
+.s-lg-az-result-badge-trial{
+color: #FFffff;
+background-color: #794b0b
+}
+
+/* Made Librarian name larger in profile box */
+.s-lib-profile-name {
+font-size: 1.6em;
+}
+
+/* Make breadcrumb links larger */
+#s-lib-admin-bc .breadcrumb, #s-lib-bc .breadcrumb {
+font-size: 12px;
+}
+</style><script>
+    var springStats = springStats || {};
+    springStats.saConfig = springStats.saConfig || {
+        site_id: 1071,
+        tracking_parameters: {"_st_guide_id":976887,"_st_page_id":7063216,"_st_site_id":1071},
+        tracking_server_host: "libguides-proc.springyaws.com"
+    };
+</script>
+<script  src="https://static-assets-us.libguides.com/web/js/sa.min.js?3116"></script>
+<script>
+			springSpace.Common = springSpace.Common || { };
+			springSpace.Common.constant = {
+					PROCESSING: {
+						ACTION_DISPLAY_POLL: 159
+					}
+			};
+			springSpace.Common.baseURL = "https://libguides.library.cpp.edu/";
+			
+			handleScroll=function() {
+                if (false) {
+					var target_elt = "#s-lg-page-section-7063216";
+					jQuery("html, body").animate({ scrollTop: jQuery(target_elt).offset().top }, 750);
+					if (jQuery(this).scrollTop() > 220) {
+						jQuery("#s-lib-scroll-top").fadeIn(750);
+					}
+				}
+			}
+	   </script>
+        <script>
+            // Enable tooltips.
+            jQuery(function () {
+                try {
+                    springSpace.UI.initPopOvers();
+                    jQuery(".az-bs-tooltip").tooltip();
+                } catch (e) { }
+            });
+        jQuery(document).ready(function () {
+            springSpace.springTrack.trackPage({_st_type_id: '1',_st_group_id: '6644',_st_guide_id: '976887',_st_page_id: '7063216'});
+        });
+            jQuery(document).ready(function() {
+                handleScroll();
+            });
+        </script></head>
+<body class="s-lg-guide-body">
+<a id="s-lg-public-skiplink" class="alert-info" href="#s-lg-guide-main">Skip to Main Content</a><div class="cpp-logobar-min" id="cpp-logobar">
+	  <div class="mr-auto">
+		<a class="logo align-middle" href="https://www.cpp.edu/index.shtml" id="cpp-header-logo-link"> <img alt="Cal Poly Pomona with Octagon" id="cpp-logo-octo" src="https://libapps.s3.amazonaws.com/customers/1060/images/cpp-octo-web.png"> </a>
+	  </div>
+	</div>
+	<nav class="navbar navbar-default" style="background-color: #fff;" id="cpp-libguides">
+  <div class="container-fluid">
+	<div class="navbar-header">
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+		<span class="sr-only">Toggle navigation</span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+	  </button>
+	  <a class="navbar-brand" href="https://www.cpp.edu/library/index.shtml" id="brand">
+		<img class="img-responsive" alt="University Library" src="https://libapps.s3.amazonaws.com/customers/1060/images/library-justus-small.png" id="logo-img">
+	  </a>
+	</div>
+	<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+	  <ul class="nav navbar-nav navbar-right" id="cpp-links">
+		<li><a href="https://www.cpp.edu/library/library-research-help.shtml">Research Help</a></li>
+		<li><a href="https://www.cpp.edu/library/library-services.shtml">Services</a></li>
+                <li><a href="https://www.cpp.edu/library/library-spaces-tech.shtml">Spaces &amp; Tech</a></li>
+		<li><a href="https://www.cpp.edu/library/library-about.shtml">About</a></li>
+		<li><a href="https://www.cpp.edu/library/about/support-library/giving.shtml">Give to the Library</a></li>
+	  </ul>
+	</div>
+  </div>
+</nav> <!-- navigation -->
+<div class="container-fluid" id="cpp-search">
+<div class="row">
+  <div class="col-lg-6 col-md-6 12col-sm-12 col-xs-12">
+		<form class="form-horizontal" action="https://csu-cpp.primo.exlibrisgroup.com/discovery/search" enctype="application/x-www-form-urlencoded; charset=utf-8" id="simple" method="get" name="searchForm" onsubmit="searchPrimo()" target="_self">
+	  <div class="form-group" id="cpp-form">
+			<img src="https://libapps.s3.amazonaws.com/customers/1060/images/pomona175.png" class="img-responsive pull-left" alt="OneSearch logo" id="onesearch">
+		<div class="input-group">
+                <!-- Customizable Parameters -->
+                <input type="hidden" name="vid" value="01CALS_PUP:01CALS_PUP" />
+                <input type="hidden" name="tab" value="Everything" />
+                <input type="hidden" name="search_scope" value="Everything" />
+                <input type="hidden" name="lang" value="en" />
+                <!-- Fixed parameters -->
+                <input type="hidden" name="query" id="primoQuery" />
+		  <input class="form-control" id="primoQueryTemp" name="primoQueryTemp" placeholder="Search for books, articles, and more" title="Search CPP Library for books, articles, and more" type="text" />
+		  <!-- Search Button -->
+		<span class="input-group-btn">
+		<button class="btn btn-default" type="button" onclick="searchPrimo()">Go!</button>
+	  </span>
+		</div>
+	  </div>
+	</form>
+  </div>
+  <div class="col-lg-2 col-md-2 col-sm-4 col-xs-12 text-center search-xtra"><a href="https://csu-cpp.primo.exlibrisgroup.com/discovery/search?vid=01CALS_PUP:01CALS_PUP&lang=en&mode=advanced">Advanced Search</a></div>
+  <div class="col-lg-2 col-md-2 col-sm-4 col-xs-12 text-center search-xtra"><a href="https://reserves.calstate.edu/pomona/">Course Reserves</a></div>
+  <div class="col-lg-2 col-md-2 col-sm-4 col-xs-12 text-center search-xtra"><a href="https://csu-cpp.primo.exlibrisgroup.com/discovery/account?vid=01CALS_PUP:01CALS_PUP">My Library Account</a></div>
+</div>
+</div><div id="s-lg-guide-header" class="container s-lib-header s-lib-side-borders">
+    <nav id="s-lib-bc" aria-label="breadcrumb">
+        <ol id="s-lib-bc-list" class="breadcrumb"><li id="s-lib-bc-customer" class="breadcrumb-item"><a href="http://www.cpp.edu/library">University Library</a></li><li id="s-lib-bc-site" class="breadcrumb-item"><a href="https://libguides.library.cpp.edu/">Guides</a></li><li id="s-lib-bc-group" class="breadcrumb-item"><a href="https://libguides.library.cpp.edu?group_id=6644">Research Guides</a></li><li id="s-lib-bc-guide" class="breadcrumb-item"><a href="https://libguides.library.cpp.edu/researchtutorials">Research Tutorials</a></li><li id="s-lib-bc-page" class="active breadcrumb-item">YouTube Tutorial Videos</li></ol>    </nav>
+    <div class="pull-right">
+        <div id="s-lg-guide-header-search">
+            <div id="s-lg-guide-search-box">
+                    <form role="search" id="s-lg-guide-search-form" action="https://libguides.library.cpp.edu/srch.php"
+                    method="GET">
+                        <div class="input-group input-group-sm">
+                            <input type="text" id="s-lg-guide-search-terms" name="q" class="form-control" 
+                            maxlength="260" placeholder="Search this Guide">
+                            <label class="sr-only" for="s-lg-guide-search-terms">Search this Guide</label><input type="hidden" name="guide_id" value="976887" /><span class="input-group-btn"><button class="btn btn-default" type="submit">SEARCH</button></span></div></form></div>        </div>
+            </div>
+    <div id="s-lg-guide-header-info">
+        <h1 id="s-lg-guide-name">Research Tutorials</h1>
+        <div id="s-lg-guide-desc-container">
+            <span id="s-lg-guide-description">The master list for accessing the online tutorials created by the Cal Poly Pomona University Library.</span>
+        </div>
+    </div>
+</div>
+<div id="s-lg-guide-tabs-title-bar" class="container s-lib-side-borders"></div>
+<div id="s-lg-side-nav-content" class="container s-lib-side-borders pad-top-med">
+    <div class="row">
+        <div class="col-md-3 s-lg-tabs-side pad-bottom-med">
+            <div id="s-lg-tabs-container">
+                <div id="s-lg-guide-tabs" role="navigation" aria-label="Guide Pages">
+                    <ul class="nav nav-pills nav-stacked split-button-nav">
+                        <li class="active"><a title="" class="active" href="https://libguides.library.cpp.edu/researchtutorials/youtubevideotutorials" ><span>YouTube Tutorial Videos</span></a></li><li class=""><a title="" class="" href="https://libguides.library.cpp.edu/libraryskills" ><span>Library Skills Tutorials</span></a></li><li class=""><a title="" class="" href="https://libguides.library.cpp.edu/research101"  target="_blank" ><span>Research 101 Tutorials</span> <i class="fa fa-fw fa-external-link " title="This link opens in a new window"><span class="sr-only">This link opens in a new window</span></i></a></li><li class=""><a title="" class="" href="https://libguides.library.cpp.edu/citationtutorials"  target="_blank" ><span>Citation Tutorials</span> <i class="fa fa-fw fa-external-link " title="This link opens in a new window"><span class="sr-only">This link opens in a new window</span></i></a></li>                    </ul>
+                    <div class="s-lg-row margin-top-med"><div id="s-lg-col-0"><div class="s-lg-col-boxes"><div id="s-lg-box-wrapper-28116524" class="s-lg-box-wrapper-28116524"><div id="s-lg-box-23962370-container" class="s-lib-box-container">
+						<div id="s-lg-box-23962370" class="s-lib-box s-lib-box-std">
+							<h2 class="s-lib-box-title">Citation Tutorial Videos</h2><div id="s-lg-box-collapse-23962370" >
+								<div class="s-lib-box-content">
+									<div class=""><ul id="s-lg-link-list-57268831" class="s-lg-link-list s-lg-link-list-2"><li class=""><div id="s-lg-content-54643243" class=""><span><a href="https://youtu.be/sHI0KjYVBao" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '54643243',_st_inc_return: this});">Finding Information to Construct Citations</a></span></div></li><li class=""><div id="s-lg-content-54643260" class=""><span><a href="https://youtu.be/7CwsGxpsul4?si=qg23ZXkLa-y49ylg" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '54643260',_st_inc_return: this});">Anatomy of an APA Article Citation</a></span></div></li><li class=""><div id="s-lg-content-54643269" class=""><span><a href="https://youtu.be/VqCGN7YlpT0?si=-bYv_YnX6tioBIjL" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '54643269',_st_inc_return: this});">Anatomy of an APA Book Citation</a></span></div></li><li class=""><div id="s-lg-content-54643287" class=""><span><a href="https://youtu.be/WvOMAgUfD5w?si=Y-Ef9N0tH5HVBsHk" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '54643287',_st_inc_return: this});">In-Text Citations: APA Style</a></span></div></li><li class=""><div id="s-lg-content-54643383" class=""><span><a href="https://youtu.be/WgB-d424kG0?si=LQUKngQICc-QoI-4" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '54643383',_st_inc_return: this});">Anatomy of a Chicago Style Article Citation</a></span></div></li><li class=""><div id="s-lg-content-54643395" class=""><span><a href="https://youtu.be/CdRHuTW2VLE?si=ysJSoJ4DH4ZMUmya" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '54643395',_st_inc_return: this});">Anatomy of a Chicago Style Book Citation</a></span></div></li><li class=""><div id="s-lg-content-54643413" class=""><span><a href="https://youtu.be/CReo9_oQIwg?si=FPAttj3nGMRVYhpw" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '54643413',_st_inc_return: this});">Footnotes: Chicago Manual of Style</a></span></div></li><li class=""><div id="s-lg-content-54643461" class=""><span><a href="https://youtu.be/AOAhzZIhGJw" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '54643461',_st_inc_return: this});">Chicago Author-Date Style: The Basics</a></span></div></li><li class=""><div id="s-lg-content-54643471" class=""><span><a href="https://youtu.be/P_FIxm_Dd1I" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '54643471',_st_inc_return: this});">In-Text Citation: Chicago Author-Date Style</a></span></div></li><li class=""><div id="s-lg-content-54643487" class=""><span><a href="https://youtu.be/3_HwfQgf5ls?si=Y1kPIA0QWJM_lwe3" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '54643487',_st_inc_return: this});">Anatomy of an MLA Article Citation</a></span></div></li><li class=""><div id="s-lg-content-54643493" class=""><span><a href="https://youtu.be/ckE7TQR8gwY?si=hTLmxDvK0kB1UpQl" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '54643493',_st_inc_return: this});">Anatomy of an MLA Book Citation</a></span></div></li><li class=""><div id="s-lg-content-54643511" class=""><span><a href="https://youtu.be/o4DppjX3ARk" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '54643511',_st_inc_return: this});">In-Text Citation: MLA Citation</a></span></div></li><li class=""><div id="s-lg-content-79500531" class=""><span><a href="https://youtu.be/j1BNTZF--eQ?si=585vG_0TvUVbgg04" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '79500531',_st_inc_return: this});">Citing Online Sources</a></span></div></li></ul></div>
+								</div>
+								
+							</div>
+						</div>
+					</div></div></div></div></div>                </div>
+            </div>
+        </div>
+        <div class="col-md-9">
+            <div class="s-lg-tab-content">
+                <div id="s-lg-guide-main" class="tab-pane active" tabindex="-1">
+                    <div class="row s-lg-row"><div id="s-lg-col-1" class="col-md-12"><div class="s-lg-col-boxes"><div id="s-lg-box-wrapper-35508028" class="s-lg-box-wrapper-35508028"><div id="s-lg-box-29285990-container" class="s-lib-box-container">
+						<div id="s-lg-box-29285990" class="s-lib-box s-lib-box-std">
+							<h2 class="s-lib-box-title">Links to YouTube Tutorial Videos</h2><div id="s-lg-box-collapse-29285990" >
+								<div class="s-lib-box-content">
+									
+			<div id="s-lg-content-68230564" class="  clearfix">
+				<h3><span style="font-size:12px;"><strong>Research 101 Tutorial Videos (Without Assessments)</strong></span></h3>
+
+		   </div><div class=""><ul id="s-lg-link-list-70693840" class="s-lg-link-list s-lg-link-list-2"><li class=""><div id="s-lg-content-68230565" class=""><span><a href="https://youtu.be/VijUoD0jJNY" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '68230565',_st_inc_return: this});">Research 101 Part 1: Finding a Topic</a></span><div id="s-lg-link-desc-68230565" class="s-lg-link-desc">In this first installment of the Research 101 series, we discuss what research is, and describe the 3 criteria for developing a research topic into a research question: Specificity, Complexity and Answerability.</div></div></li><li class=""><div id="s-lg-content-68230566" class=""><span><a href="https://youtu.be/2m2u9qyWoBU" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '68230566',_st_inc_return: this});">Research 101 Part 2: Information Types</a></span><div id="s-lg-link-desc-68230566" class="s-lg-link-desc">In this module we will be discussing how changes in technology have changed the way we record and share information and consider how information can be sorted by source type and intended audience</div></div></li><li class=""><div id="s-lg-content-68230567" class=""><span><a href="https://youtu.be/DqpxhAFopCQ?si=VLftEKEr8Qm-pZU6" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '68230567',_st_inc_return: this});">Research 101 Part 3: Finding Information</a></span><div id="s-lg-link-desc-68230567" class="s-lg-link-desc">In this module we will cover the various different tools you can use to find specific types of information and discuss some basic techniques you can use to query a variety of databases, catalogs and repositories.</div></div></li><li class=""><div id="s-lg-content-68230568" class=""><span><a href="https://youtu.be/7HdGORThroo" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '68230568',_st_inc_return: this});">Research 101 Part 4: Evaluating Sources</a></span><div id="s-lg-link-desc-68230568" class="s-lg-link-desc">In Part 4 of our Research 101 Series we'll use the CRAAP test to discuss the criteria for determining whether a source is trustworthy.</div></div></li><li class=""><div id="s-lg-content-68230569" class=""><span><a href="https://youtu.be/GIV79TDKWR8" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '68230569',_st_inc_return: this});">Research 101 Part 5: Citing & Using Information</a></span><div id="s-lg-link-desc-68230569" class="s-lg-link-desc">In this installment of the Research 101 series, we will discuss plagiarism, why we cite, different citation styles, and how to incorporate outside information into your work.</div></div></li><li class=""><div id="s-lg-content-68230570" class=""><span><a href="https://youtu.be/m1eOPsiHTs8" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '68230570',_st_inc_return: this});">Research 101, Part 6: Scholarship is a Conversation</a></span><div id="s-lg-link-desc-68230570" class="s-lg-link-desc">In this episode we will conclude this series by talking about how the research we do forms a small part in a great conversation between scholars, linking backward for generations.</div></div></li></ul></div>
+			<div id="s-lg-content-68230573" class="  clearfix">
+				<h3><span style="font-size:12px;"><strong>Using Library Resources</strong></span></h3>
+
+		   </div><div class=""><ul id="s-lg-link-list-70693849" class="s-lg-link-list s-lg-link-list-2"><li class=""><div id="s-lg-content-68230574" class=""><span><a href="https://youtu.be/nm6HbFYkO1o" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '68230574',_st_inc_return: this});">Finding Books using OneSearch</a></span><div id="s-lg-link-desc-68230574" class="s-lg-link-desc">This brief tutorial will show you how to find books at the Cal Poly Pomona University Library using OneSearch, our library search engine.  This tutorial covers searching in OneSearch, refining your search, using the catalog record to find a physical book, and accessing ebooks using OneSearch.</div></div></li><li class=""><div id="s-lg-content-68230575" class=""><span><a href="https://youtu.be/ZYcThqReiPs" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '68230575',_st_inc_return: this});">Accessing E-Books</a></span><div id="s-lg-link-desc-68230575" class="s-lg-link-desc">This tutorial will show you how to use OneSearch, the University Library's internal search engine, to search for and access e-books.</div></div></li><li class=""><div id="s-lg-content-68230576" class=""><span><a href="https://youtu.be/TphFHJ_2-c4" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '68230576',_st_inc_return: this});">Finding Articles using OneSearch</a></span><div id="s-lg-link-desc-68230576" class="s-lg-link-desc">This brief tutorial walks you through the process of searching for articles in OneSearch, the Cal Poly Pomona University Library's search engine.  The article goes through refining your results and accessing full text of the articles.</div></div></li><li class=""><div id="s-lg-content-68230577" class=""><span><a href="https://youtu.be/5OXsf6LN-vw" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '68230577',_st_inc_return: this});">Finding Articles using JSTOR</a></span><div id="s-lg-link-desc-68230577" class="s-lg-link-desc">A brief tutorial showing you how to access, search and retrieve articles from JSTOR (without getting buried in results).</div></div></li><li class=""><div id="s-lg-content-68230578" class=""><span><a href="https://youtu.be/Xac_5fCKaa0" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '68230578',_st_inc_return: this});">Finding Articles using PsycINFO</a></span><div id="s-lg-link-desc-68230578" class="s-lg-link-desc">This tutorial explains how to access, search and retrieve articles from the PsycINFO database.</div></div></li><li class=""><div id="s-lg-content-70429039" class=""><span><a href="https://youtu.be/HliQkjaxj5c" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '70429039',_st_inc_return: this});">Finding Psychology Articles using PubMed</a></span><div id="s-lg-link-desc-70429039" class="s-lg-link-desc">This brief tutorial will help you access PubMed, query the database for psychology articles and download them.</div></div></li><li class=""><div id="s-lg-content-68230579" class=""><span><a href="https://youtu.be/9Dj5WW-YiBs" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '68230579',_st_inc_return: this});">How to find articles using Compendex</a></span><div id="s-lg-link-desc-68230579" class="s-lg-link-desc">How to use the Engineering database Compendex to find articles</div></div></li><li class=""><div id="s-lg-content-68230580" class=""><span><a href="https://youtu.be/mrikpjXDYEM" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '68230580',_st_inc_return: this});">Newspaper Tutorial</a></span><div id="s-lg-link-desc-68230580" class="s-lg-link-desc">This tutorial goes over the basics of newspaper research, and outlines things to keep in mind when searching newspapers in any database, such as:  When did the event occur? Would the paper in question cover that event?  And finally, due to editorial slant, how might the paper in question cover that event?</div></div></li><li class=""><div id="s-lg-content-68230581" class=""><span><a href="https://youtu.be/bjaLyqrDEz8" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '68230581',_st_inc_return: this});">Simply Analytics Tutorial</a></span><div id="s-lg-link-desc-68230581" class="s-lg-link-desc">This brief tutorial will help you access Simply Analytics, create a map and download that map from the database.</div></div></li><li class=""><div id="s-lg-content-68230582" class=""><span><a href="https://youtu.be/9pyMFoSuayg" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '68230582',_st_inc_return: this});">Using Interlibrary Loan</a></span><div id="s-lg-link-desc-68230582" class="s-lg-link-desc">This brief video explains what our Interlibrary Loan service is, and demonstrates how to request items via interlibrary loan and access them when they have arrived.</div></div></li><li class=""><div id="s-lg-content-68230583" class=""><span><a href="https://youtu.be/XZq9N54tiM8" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '68230583',_st_inc_return: this});">Master's Thesis/Project Formatting Guidelines</a></span><div id="s-lg-link-desc-68230583" class="s-lg-link-desc">This is a brief overview of our Thesis & Projects and Submission workshops.  For more detailed information please visit our in person workshops.</div></div></li><li class=""><div id="s-lg-content-68230584" class=""><span><a href="https://youtu.be/4iFHHD229h8" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '68230584',_st_inc_return: this});">Finding Articles using Project Muse</a></span><div id="s-lg-link-desc-68230584" class="s-lg-link-desc">This brief tutorial will show you how to access, search for articles, filter results and retrieve sources using Project Muse, a multi-subject database focused on the Arts and Humanities.</div></div></li><li class=""><div id="s-lg-content-68230585" class=""><span><a href="https://youtu.be/layK8GV-9ZQ" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '68230585',_st_inc_return: this});">Finding Articles Using Education Research Complete</a></span><div id="s-lg-link-desc-68230585" class="s-lg-link-desc">This brief tutorial will show you how to access, search for articles, filter results and retrieve articles from the Education Research Complete Database.</div></div></li><li class=""><div id="s-lg-content-68230586" class=""><span><a href="https://youtu.be/WemSW66CqG4" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '68230586',_st_inc_return: this});">Finding Sources using the ERIC Database</a></span><div id="s-lg-link-desc-68230586" class="s-lg-link-desc">This brief tutorial will show you how to access, search for sources, filter results and retrieve both articles and reports from the ERIC education database.</div></div></li><li class=""><div id="s-lg-content-68230587" class=""><span><a href="https://youtu.be/y7byuzCFhTI" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '68230587',_st_inc_return: this});">Accessing Library Resources through Google Scholar</a></span><div id="s-lg-link-desc-68230587" class="s-lg-link-desc">This tutorial will show you how to use settings in Google Scholar to be able to access materials in our library using this online search tool.</div></div></li><li class=""><div id="s-lg-content-68230588" class=""><span><a href="https://youtu.be/Oryp3UZFnok" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '68230588',_st_inc_return: this});">Finding Articles Using MLA International Bibliography</a></span><div id="s-lg-link-desc-68230588" class="s-lg-link-desc">This tutorial covers accessing the MLA International Bibliography database, how to search for articles and how to access articles unavailable in that database.</div></div></li><li class=""><div id="s-lg-content-68230589" class=""><span><a href="https://youtu.be/Xt7jzXevYIg" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '68230589',_st_inc_return: this});">Saving Search Results in an Ebsco Database</a></span><div id="s-lg-link-desc-68230589" class="s-lg-link-desc">In this tutorial, we're going to explore how to create a free EBSCOhost account to save your work in any EBSCO database, and how to use that account to save search results so you can access them later.</div></div></li><li class=""><div id="s-lg-content-68230590" class=""><span><a href="https://youtu.be/4-WxIeuBNdA" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '68230590',_st_inc_return: this});">Creating an APA Bibliography from Search Results in PsycINFO</a></span><div id="s-lg-link-desc-68230590" class="s-lg-link-desc">In this tutorial we will be demonstrating how to use the email function in your EBSCO account folder to create an APA bibliography from your PsycINFO search results.</div></div></li><li class=""><div id="s-lg-content-70802709" class=""><span><a href="https://youtu.be/n0eS_5EA8lY" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '70802709',_st_inc_return: this});">Finding Sources Using PhilPapers</a></span><div id="s-lg-link-desc-70802709" class="s-lg-link-desc">This tutorial will show you how to search the PhilPapers database for articles and how to download them.</div></div></li><li class=""><div id="s-lg-content-68230591" class=""><span><a href="https://youtu.be/oe7iIKftUE0" onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: '2',_st_content_id: '68230591',_st_inc_return: this});">Saving Search Results in a ProQuest Database</a></span><div id="s-lg-link-desc-68230591" class="s-lg-link-desc">In this tutorial, we're going to explore how to create a free ProQuest account to save your work in any ProQuest database, and how to use that account to save search results so you can access them later.</div></div></li></ul></div>
+								</div>
+								
+							</div>
+						</div>
+					</div></div></div></div></div>                </div>
+            </div>
+            <ul id="s-lg-page-prevnext" class="pager s-lib-hide"><li class="previous"></li><li class="next"><a href="https://libguides.library.cpp.edu/researchtutorials/libraryskillstutorials"><strong>Next:</strong> Library Skills Tutorials &gt;&gt;</a></li></ul>        </div>
+    </div>
+</div>
+<div id="s-lib-footer-public"
+     class="s-lib-footer footer container s-lib-side-borders">
+    <div id="s-lg-guide-header-meta" class="pad-top-sm pad-left-med clearfix">
+        <ul id="s-lg-guide-header-attributes" class="">
+            <li id="s-lg-guide-header-updated" class="s-lg-h-separator">
+                <span class="s-lg-guide-label">Last Updated:</span> <span class="s-lg-text-greyout">Mar 5, 2025 2:41 PM</span>            </li>
+            <li id="s-lg-guide-header-url" class="s-lg-h-separator">
+                <span class="s-lg-guide-label">URL:</span> <span class="s-lg-text-greyout">https://libguides.library.cpp.edu/researchtutorials</span>            </li>
+            <li id="s-lg-guide-print-url">
+                <a href="javascript: window.print();"><i class="fa fa-print" aria-hidden="true" title="Print Page"></i> Print Page</a>            </li>
+        </ul>
+        <div id="s-lib-footer-login-link" class="pull-right pad-right-med">
+            <a href="https://cpp.libapps.com/libapps/login.php?site_id=1071&target64=L2xpYmd1aWRlcy9hZG1pbl9jLnBocD9nPTk3Njg4NyZwPTcwNjMyMTY=">Login to LibApps</a>        </div>
+    </div>
+    <div class="pad-bottom-sm clearfix">
+        <div id="s-lib-footer-support-link" class="pull-right pad-right-med">
+                    </div>
+        <div id="s-lg-guide-header-subjects" class="pad-top-sm pad-left-med pad-right-med pull-left">
+                    </div>
+        <div id="s-lg-guide-header-tags" class="pad-top-sm pad-left-med">
+                    </div>
+    </div>
+</div>
+<!-- scroll_top.twig -->
+<div id="s-lib-scroll-top">
+    <a href="javascript:void(0);" onclick="jQuery('body').focus();" title="Back to Top"
+       aria-label="Back to Top">
+        <span class="fa-stack fa-lg" aria-hidden="true">
+            <i class="fa fa-square-o fa-stack-2x"></i>
+            <i class="fa fa-angle-double-up fa-stack-1x" style="position:relative; bottom:2px;"></i>
+        </span>
+    </a>
+</div>
+<!-- !scroll_top.twig -->
+<div id="s-lib-alert" title=""><div id="s-lib-alert-content"></div></div>
+<!-- CPP Footer -->
+  <footer>
+  
+<div class="container-fluid" id="cpp-lib-footer">
+	<div class="row text-center" id="contact-info">
+		<div class="col-xs-12  col-sm-6 col-md-6 col-lg-4 align-self-center">
+			<span class="font-weight-bold">University Library
+				<br />
+		  <a href="https://www.cpp.edu/maps/?id=1130#!m/276533">Building 15</a>
+			</span>
+		</div>
+		<div class="col-xs-12  col-sm-6 col-md-6 col-lg-4 align-self-center">
+			<span class="font-weight-bold">
+				<a href="mailto:library@cpp.edu">library@cpp.edu</a>
+				<br />
+		  909-869-3074
+			</span>
+		</div>
+		<div class="col-xs-3 col-sm-3 col-md-3 col-lg-1 align-self-center lib-icon">
+			<span>
+				<a href="http://twitter.com/cpplibrary">
+					<img src="https://libapps.s3.amazonaws.com/customers/1060/images/twitter-logo.png" alt="twitter logo" width="32" />
+				</a>
+			</span>
+		</div>
+		<div class="col-xs-3 col-sm-3 col-md-3 col-lg-1 align-self-center lib-icon">
+			<span>
+				<a href="http://www.facebook.com/pages/Pomona-CA/Cal-Poly-Pomona-University-Library/13632547215">
+					<img src="https://libapps.s3.amazonaws.com/customers/1060/images/facebook-logo.png" alt="facebook logo" width="32" />
+				</a>
+			</span>
+		</div>
+		<div class="col-xs-3 col-sm-3 col-md-3 col-lg-1 align-self-center lib-icon">
+			<span>
+				<a href="http://www.youtube.com/user/TheCPPLibrary">
+					<img src="https://libapps.s3.amazonaws.com/customers/1060/images/youtube-logo.png" alt="youtube logo" width="32" />
+				</a>
+			</span>
+		</div>
+		<div class="col-xs-3 col-sm-3 col-md-3 col-lg-1 align-self-center lib-icon">
+			<span>
+				<a href="https://www.instagram.com/cpplibrary/">
+					<img src="https://libapps.s3.amazonaws.com/customers/1060/images/instagram-logo.png" alt="instagram logo" width="32" />
+				</a>
+			</span>
+		</div>
+	</div>
+</div>
+ 
+
+</footer>
+
+	<!-- End CPP Footer -->
+<!-- BEGIN: Analytics code --><script>  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');  ga('create', 'UA-18522228-1', 'auto');  ga('send', 'pageview');</script><!-- END: Analytics code --></body>
+</html>

@@ -1,0 +1,1782 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+    <head>
+        <meta charset="UTF-8"/>
+        <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+        <meta content="ie=edge" http-equiv="X-UA-Compatible"/>
+        <title>
+            The Cal Poly Pomona Difference | Learn by Doing &amp; Become by Doing
+        </title>
+        
+        <meta content="Discover CPP’s hands-on learning, rich heritage, and vibrant campus. Explore a diverse community of over 27,000 students, shaped by innovation and W.K. Kellogg’s legacy of Arabian horses and educational excellence." name="description"/>
+        
+            <script src="https://cdn.levelaccess.net/accessjs/YW1wX2NwcDExMDM/access.js"></script>
+<script>// <![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSKJRNV');
+// ]]></script>
+<link rel="icon" href="/common/green-and-gold/assets/icons/gg-favicon.svg"  type="image/svg+xml" />
+<link rel="icon" href="/common/green-and-gold/assets/icons/gg-favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/index.css" />
+<link rel="stylesheet" href="https://use.typekit.net/fia5dle.css" />
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/cpp-fonts.css" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+<script src="/common/green-and-gold/assets/js/accordion.js"></script>
+<script crossorigin="anonymous" defer="defer" integrity="sha384-FW78RPcSpi13vjx77nPWQIrQbNSLkPBopb0qGzLCxD2x4Kr6FA8V05C/6cpgkKPL" src="https://pro.fontawesome.com/releases/v5.10.1/js/all.js"></script>
+<script src="/common/green-and-gold/assets/js/modal.js"></script>
+<script src="/common/green-and-gold/assets/js/fontawesome/v6.0x/sharp-light.js" crossorigin="anonymous" type="text/javascript"></script>
+<script src="/common/green-and-gold/assets/js/fontawesome/v6.0x/sharp-others.js" crossorigin="anonymous" type="text/javascript"></script>
+<!-- Swiper Library -->
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/swiper-bundle.min.css" />
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/swiper-carousel.css" />
+<script src="/common/green-and-gold/assets/js/swiper-bundle.min.js"></script>
+<script src="/common/green-and-gold/assets/js/carousel-cards-swiper.js"></script>
+
+    </head>
+    <body>
+        <a class="skip-to-content-link" href="#main">Skip to content</a>
+             <header class="nav fixed">
+    <nav class="container">
+        <ul class="row nav__main" id="mainNavMenu">
+            <li id="main-logo" class="col-6 col-lg-3 nav__logo">
+                <a href="/" aria-label="Cal Poly Pomona Home" tabindex="0">
+                    <div class="nav__logo--horizontal">
+                        <img src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png" alt="Cal Poly Pomona Logo" />
+                    </div>
+                </a>
+            </li>
+            <!-- department header hidden by default-->
+            <li id="dept-header-desktop" class="col-sm-5 col-md-6 nav__logo desktop d-none">
+                <a href="/" aria-label="Cal Poly Pomona Home" tabindex="0">
+                    <div class="nav__logo--stacked">
+                        <img src="/common/green-and-gold/assets/logos/cpp_primary_2c_green_cmyk.png" alt="Cal Poly Pomona Logo">
+                        </div>
+                    </a>
+                    <div class="divider"></div>
+                    <div id="split-header" class="nav__division col-lg-6">
+                        <div id="large-name"></div>
+                        <div style="display:none" id="sub-name"></div>
+                    </div>
+                </div>
+            </li>
+            <li class="nav__links col-2" id="head-links">
+                <a class="nav__link nav__link--desktop col-1" href="/commencement/" tabindex="0">
+                    <svg
+                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 1px;
+    width: auto;
+">
+                        <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                        <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#005030"></path>
+                    </svg>
+                    <span class="sr-only">commencement</span>
+                </a>
+                <a class="nav__link nav__link--desktop col-1" href="/apply/" tabindex="0">apply</a>
+                <a class="nav__link nav__link--desktop col-1" href="/outreach/tours.shtml" tabindex="0">visit</a>
+                <a class="nav__link nav__link--desktop col-1" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="0">info</a>
+                <a class="nav__link nav__link--desktop col-1" href="/giving/" tabindex="0">give</a>
+                <a class="nav__link nav__link--desktop col-1" href="https://my.cpp.edu" tabindex="0">mycpp</a>
+                <button id="search-open" class="nav__search col-1" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/search-dark-green.svg" alt="Open search box" />
+                </button>
+                <button class="nav__menu col-1" id="menuButton" aria-expanded="false" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/menu.svg" alt="menu" />
+                </button>
+            </li>
+        </ul>
+    </nav>
+</header>
+<header id="search-header" style="display:none">
+    <div class="row">
+        <div class="col-md-6"></div>
+        <div id="searchbox" class="col-md-6">
+            <div id="search-slide">
+                <label for="#gsc-i-id1" class="sr-only">Search</label>
+                <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+                <div class="gcse-searchbox-only" data-resultsurl="https://www.cpp.edu/search.shtml"></div>
+                <button class="nav__menu col-1" id="search-close" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close search menu">
+                    </button>
+                </div>
+            </div>
+            <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+            <script>
+       $("#search-open").click(function() {
+         $("#search-header").show();
+         $("#search-slide").addClass("slideup");
+         $("#gsc-i-id1").focus();
+         $('#search-close').focusout(function() {
+           $("#search-header").hide();
+           $("#search-slide").removeClass("slideup");
+           $("#search-open").focus();
+         })
+       });
+       $("#search-close").click(function() {
+         $("#search-header").hide();
+         $("#search-slide").removeClass("slideup");
+         $("#search-open").focus();
+       });
+     </script>
+            <style>
+       .gstl_50 gssb_c {
+         position: fixed !important;
+       }
+
+       #searchbox {
+         height: 93px;
+         overflow: hidden;
+       }
+
+       #search-header {
+         position: fixed;
+         height: 100px;
+         width: 100%;
+         height: 93px;
+         z-index: 99999;
+         top: 0;
+       }
+
+       #gsc-i-id1 {
+         height: 40px;
+         width: 70%;
+         border-radius: 4px;
+         border: none;
+         padding: 15px;
+       }
+
+       #search-submit {
+         margin: 15px;
+       }
+
+       #search-close {
+         width: 23px;
+         height: 21px;
+         position: absolute;
+         top: 32px;
+       }
+
+       #search-slide {
+         width: 0px;
+         right: -100%;
+         padding: 20px 15px;
+         position: relative;
+         background: #005030;
+         height: 100%;
+         transition: all .5s ease 0s
+       }
+
+       #search-slide.slideup {
+         right: 0;
+         width: 100%;
+         position: relative;
+       }
+
+       @media screen and (max-width:991px) {
+         #search-slide {
+           height: 77px !important;
+           padding: 12px 10px;
+         }
+       }
+
+       @media screen and (max-width:767px) {
+         #search-header {
+           position: relative !important;
+         }
+
+         #search-slide {
+           text-align: center !important;
+         }
+       }
+
+       .gsc-search-button-v2 svg {
+         width: auto;
+         height: 21px;
+       }
+
+       .gsc-search-button-v2,
+       .gsc-search-button-v2:hover,
+       .gsc-search-button-v2:focus {
+         border: none !important;
+         background: none !important;
+       }
+
+       form.gsc-search-box {
+         font-size: 13px;
+         margin-top: 0;
+         margin-right: 0;
+         margin-bottom: 4px;
+         margin-left: 0;
+         width: 100%;
+         display: inline-block;
+       }
+
+       #___gcse_0 {
+         width: 70%;
+         display: inline-block;
+       }
+
+       table.gsc-search-box td.gsc-input {
+         padding-right: 0;
+       }
+
+       #gsc-i-id1 {
+         width: 100%;
+         padding: 0px;
+         border: none;
+         margin: -0.0625em 0px 0px;
+         height: 40px !important;
+         background: rgb(255, 255, 255);
+         outline: none;
+         font-size: 20px;
+         font-weight: 200;
+       }
+
+       .gstl_50.gssb_c {
+         z-index: 99999;
+       }
+
+       .gsq_a {
+         font-weight: 200;
+         font-size: 18px;
+         padding: 2px;
+       }
+
+       .gssb_a img {
+         display: none;
+       }
+     </style>
+        </div>
+    </header>
+    <section class="side-nav" id="sideNavOverlay">
+        <header class="side-nav__overlay relative">
+            <nav class="container">
+                <ul class="row nav__overlay" id="sideNavMenu">
+                    <li class="nav__logo col-12 col-md-10 col-lg-3" id="navLogoOverlay">
+                        <a href="/" aria-label="Cal Poly Pomona Home" tabindex="-1">
+                            <img src="/common/green-and-gold/assets/logos/cpp_horizontal_1c_gold_rgb.png" alt="Cal Poly Pomona Logo" />
+                        </a>
+                    </li>
+                    <div class="nav__overlay--right col-12 col-lg-9">
+                        <li class="nav__links nav__links--desktop col-12 col-lg-6">
+                            <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 1px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/apply/" tabindex="-1">apply</a>
+                            <a class="nav__link nav__link--mobile col-1" href="/outreach/tours.shtml" tabindex="-1">visit</a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="-1">info</a>
+                            <a class="nav__link nav__link--mobile col-1" href="/giving/" tabindex="-1">give</a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://my.cpp.edu" tabindex="-1">mycpp</a>
+                        </li>
+                        <li class="nav__icons col-1">
+                            <button id="search-open-green" class="nav__search col-1" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/search-white.svg" alt="Open search box" />
+                            </button>
+                            <button class="nav__close col-1" id="closeButton" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close menu" />
+                            </button>
+                        </li>
+                        <li class="nav__links nav__links--mobile col-12 col-lg-6">
+                            <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 1px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/apply/" tabindex="-1">apply </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/outreach/tours.shtml" tabindex="-1">visit </a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="-1">info </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/giving/" tabindex="-1">give </a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://my.cpp.edu" tabindex="-1">mycpp </a>
+                        </li>
+                    </div>
+                </ul>
+            </nav>
+        </header>
+        <nav class="container side-nav__container">
+            <ul class="row side-nav__links">
+                <li class="side-nav__link col-12">
+                    <a class="h3__proxima" href="/" tabindex="-1" aria-label="Cal Poly Pomona Home page">Home</a>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--0">
+                    <button class="h3__proxima" id="0" aria-expanded="false" tabindex="-1" aria-label="About">
+                        <span>about</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--1">
+                    <button class="h3__proxima" id="1" aria-expanded="false" tabindex="-1" aria-label="Admissions & Aid">
+                        <span>admissions &amp; aid</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--2">
+                    <button class="h3__proxima" id="2" aria-expanded="false" tabindex="-1" aria-label="Academics">
+                        <span>academics</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--3">
+                    <button class="h3__proxima" id="3" aria-expanded="false" tabindex="-1" aria-label="Life at CPP">
+                        <span>life at CPP</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small">
+            <ul class="row">
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="https://broncoathletics.com/" tabindex="-1">athletics</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/alumni/" tabindex="-1">alumni</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/news/" tabindex="-1">news &amp; events</a>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small-bottom">
+            <ul class="col-12 col-lg-6 side-nav__links--small-bottom">
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/prospective-student-gateway/" tabindex="-1">future students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/student-gateway/" tabindex="-1">current students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/family/" tabindex="-1">families</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/faculty-staff-gateway/" tabindex="-1">faculty &amp; staff</a>
+                </li>
+            </ul>
+            <ul class="col-12 col-lg-6 social-icons">
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.instagram.com/calpolypomona/" aria-label="Instagram" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.linkedin.com/school/cal-poly-pomona/" aria-label="LinkedIn " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.youtube.com/user/calpolypomona" aria-label="Youtube " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="Youtube" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.facebook.com/calpolypomona" aria-label="Facebook " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://twitter.com/calpolypomona" aria-label="X (Twitter)" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X" />
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </section>
+    <script src="/common/green-and-gold/assets/js/nav.js"></script>
+
+            
+    
+
+
+
+  
+
+   
+
+
+  
+
+  
+            
+    
+                    
+    
+    
+    
+       
+
+
+                 
+
+<header class="sub-nav">
+<nav class="container">
+    <ul class="row sub-nav__links">
+
+           <li class="sub-nav__link ">
+            <a class="button__proxima sub-nav__link--default" href="                                                  /aboutcpp/index.shtml      " tabindex="0">The Cal Poly Pomona Difference</a>
+        </li>
+        
+
+
+           <li class="sub-nav__link ">
+            <a class="button__proxima sub-nav__link--default" href="                                                  /aboutcpp/polyx.shtml      " tabindex="0">The CPP Polytechnic Experience</a>
+        </li>
+        
+
+
+           <li class="sub-nav__link ">
+            <a class="button__proxima sub-nav__link--default" href="                                                  /aboutcpp/become-by-doing.shtml      " tabindex="0">Become by Doing</a>
+        </li>
+        
+
+
+           <li class="sub-nav__link ">
+            <a class="button__proxima sub-nav__link--default" href="                                                  /aboutcpp/rankings.shtml      " tabindex="0">Our Rankings</a>
+        </li>
+        
+
+
+           <li class="sub-nav__link ">
+            <a class="button__proxima sub-nav__link--default" href="                                                  /aboutcpp/visitor-information/index.shtml      " tabindex="0">Visit Us</a>
+        </li>
+        
+
+
+           <li class="sub-nav__link ">
+            <a class="button__proxima sub-nav__link--default" href="                                                  /aboutcpp/news-and-media.shtml      " tabindex="0">News and Media</a>
+        </li>
+        
+
+
+           <li class="sub-nav__link ">
+            <a class="button__proxima sub-nav__link--default" href="                                                  /aboutcpp/administration.shtml      " tabindex="0">Administration</a>
+        </li>
+        
+
+
+           <li class="sub-nav__link ">
+            <a class="button__proxima sub-nav__link--default" href="                                                  /aboutcpp/heritage.shtml      " tabindex="0">Our Heritage</a>
+        </li>
+        
+
+</ul>
+
+<div class="row sub-nav__division-menu">
+    <div class="sub-nav__division"></div>
+        <div class="col-4 menu-button">
+        <button aria-expanded="false" aria-label="Site Menu" class="button button__primary--yellow-green button__proxima" data-dropdown-id="dropdownMenuBtn" id="dropdownMenuBtn">Menu
+             <span class="icon chevron">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" height="12" viewBox="0 0 19 12" width="19">
+            <g id="Atom / Icon / Expand Arrow / Small">
+            <path d="M2 2L9.5 9L17 2" id="Vector 2" stroke="none" stroke-width="3"/>
+            </g>
+            </svg>
+            </span>
+        </button>
+    </div>
+    <div class="sub-nav__dropdown hidden" id="dropdownMenu">
+       
+                       
+             <li class="sub-nav__link">
+    <a class="button__proxima" href="                                                  /aboutcpp/index.shtml      " tabindex="0">The Cal Poly Pomona Difference</a>
+  </li>
+      
+
+        
+
+
+             <li class="sub-nav__link">
+    <a class="button__proxima" href="                                                  /aboutcpp/polyx.shtml      " tabindex="0">The CPP Polytechnic Experience</a>
+  </li>
+      
+
+        
+
+
+             <li class="sub-nav__link">
+    <a class="button__proxima" href="                                                  /aboutcpp/become-by-doing.shtml      " tabindex="0">Become by Doing</a>
+  </li>
+      
+
+        
+
+
+             <li class="sub-nav__link">
+    <a class="button__proxima" href="                                                  /aboutcpp/rankings.shtml      " tabindex="0">Our Rankings</a>
+  </li>
+      
+
+        
+
+
+             <li class="sub-nav__link">
+    <a class="button__proxima" href="                                                  /aboutcpp/visitor-information/index.shtml      " tabindex="0">Visit Us</a>
+  </li>
+      
+
+        
+
+
+             <li class="sub-nav__link">
+    <a class="button__proxima" href="                                                  /aboutcpp/news-and-media.shtml      " tabindex="0">News and Media</a>
+  </li>
+      
+
+        
+
+
+             <li class="sub-nav__link">
+    <a class="button__proxima" href="                                                  /aboutcpp/administration.shtml      " tabindex="0">Administration</a>
+  </li>
+      
+
+        
+
+
+             <li class="sub-nav__link">
+    <a class="button__proxima" href="                                                  /aboutcpp/heritage.shtml      " tabindex="0">Our Heritage</a>
+  </li>
+      
+
+        
+
+
+    </div>
+</div>
+
+
+
+
+</nav>
+<script type="text/javascript">
+
+    $(".button").attr("data-dropdown-id", "dropdownMenuBtn").on("click", function(event) {
+        var dropdownMenu = $("#dropdownMenu");
+        var nestedDropdownMenus = $(".sub-nav__nested-dropdown");
+        
+        if ($(this).attr("aria-expanded") === "false") {
+            $(this).attr("aria-expanded", "true");
+        } else {
+            $(this).attr("aria-expanded", "false");
+        }
+
+        toggleDropdown(dropdownMenu);;
+        
+        // close all nested dropdown menus if open
+        nestedDropdownMenus.each(function() {
+            if ($(this).hasClass("show")) {
+                $(this).removeClass("show");
+                $(this).addClass("hidden");
+            }
+        })
+    })
+    $(".sub-nav__nested-button").on("click", function(event) {
+        var currentButtonId = $(this).attr("id")
+        var nestedDropdownMenu = $(`#nestedDropdownMenu--${currentButtonId}`)
+        $(this).find(".chevron").toggleClass("active");
+
+        if ($(this).attr("aria-expanded") === "false") {
+            $(this).attr("aria-expanded", "true");
+        } else {
+            $(this).attr("aria-expanded", "false");
+        }
+
+        toggleDropdown(nestedDropdownMenu);
+    })
+    function toggleDropdown(menu) {
+        if (menu.hasClass("hidden")) {
+            menu.removeClass("hidden");
+            menu.addClass("show");
+              $(document).on('keydown', function(event) {
+                   if (event.key == "Escape") {
+                        var dropdownMenu = $("#dropdownMenu");
+                        var nestedDropdownMenus = $(".sub-nav__nested-dropdown");  
+                         $(".button").attr("data-dropdown-id", "dropdownMenuBtn").attr("aria-expanded", "false");
+                        nestedDropdownMenus.each(function() {
+                                if ($(".button").attr("data-dropdown-id", "dropdownMenuBtn").hasClass("show")) {
+                                    $(".button").attr("data-dropdown-id", "dropdownMenuBtn").removeClass("show");
+                                    $(".button").attr("data-dropdown-id", "dropdownMenuBtn").addClass("hidden");
+                                }
+                            }) 
+                          menu.removeClass("show");
+                        menu.addClass("hidden");
+               }});
+        } else {
+            menu.removeClass("show");
+            menu.addClass("hidden");
+        }
+    }
+
+</script>
+</header>
+
+                   
+                           <code></code>
+           
+                            
+<div class="cqw-wrapper" id="main">
+     
+
+<div class="organism-spacer">
+  <section class="hero-subdomain">
+    <img alt="Two carpentry students work on a project with wood." class="hero-subdomain__image-accent" src="img/24la-carpentry2.jpg"/>
+    <div class="container">
+      <div class="row">
+        <div class="col-12 col-lg-6">
+          <h1 class="hero-subdomain__header h2__proxima">The Cal Poly Pomona Difference</h1>
+        </div>
+        <div class="col-12 col-lg-5 offset-lg-1">
+          <div class="hero-subdomain__image-wrapper">
+            <img alt="A graduate smiles and hugs her family" class="hero-subdomain__image" src="img/23sci-grad_5.jpg"/>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+
+
+
+      
+            
+                
+                    
+                        
+                                   
+                            <div class="organism-spacer cta-green-card__header spacer__padding-top--small spacer__padding-bottom--small">
+                                <section class="standard-text body2 cta-green-card" id="content-section-1">
+                        <div class="container">
+                            <div class="row">
+                               
+                                     <header class="cta-green-card__header text-start col-12 col-sm-8">
+                                                                        <h2 class="h4__proxima">Here, you become by doing.</h2>
+                                                                </header>
+                            </div>
+                            <div class="row">
+                                <div class="body2 text-start col-12 col-sm-8"><p>Cal Poly Pomona is the #1 polytechnic university for diversity and economic mobility, where we help anyone who dreams of success achieve it. Here, our students don&#8217;t just learn by doing. They become by doing. That&#8217;s why Cal Poly Pomona is where careers begin, mentorship thrives, and leaders learn to lead.</p>
+<div class="video-container"><iframe allow="autoplay *; fullscreen *; encrypted-media *" allowfullscreen="allowfullscreen" class="kmsembed" frameborder="0" height="700" id="kmsembed-1_ilyrhxpp" mozallowfullscreen="mozallowfullscreen" referrerpolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" src="https://streaming.cpp.edu/embed/secure/iframe/entryId/1_ilyrhxpp/uiConfId/52359092/st/0" title="CPP_Anthem_Longform_16x9" webkitallowfullscreen="webkitallowfullscreen" width="982"></iframe></div></div>  
+                            </div>
+                       </div>
+                    </section>
+                </div>
+                                           
+        
+    
+    
+     
+                                 
+        
+                
+    <div class="organism-spacer spacer__padding-top--small spacer__padding-bottom--small">
+    <section class="stat-grid stat-grid--dark-green">
+   <div class="container">
+       <h2 class="sr-only">Rankings</h2>
+      <div class="row">
+                
+                     <div class="col-12 col-sm-6 col-lg-4">
+                <section class="stat-card stat-card--dark-green">
+                                   <h3 class="stat1 stat-card__value">#1</h3>
+                
+               <h4 class="h6__proxima stat-card__label">Polytechnic University for Diversity &amp; Economic Mobility</h4>
+               <p class="body3 stat-card__copy">The Wall Street Journal, 2025; CollegeNET, 2024; Diverse: Issues in Higher Education, 2024 </p>
+             </section>        
+        </div>
+            
+                     <div class="col-12 col-sm-6 col-lg-4">
+                <section class="stat-card stat-card--dark-green">
+                                   <h3 class="stat1 stat-card__value">#2</h3>
+                
+               <h4 class="h6__proxima stat-card__label">Top Public College in the West</h4>
+               <p class="body3 stat-card__copy">U.S. News &amp; World Report, 2025</p>
+             </section>        
+        </div>
+            
+                     <div class="col-12 col-sm-6 col-lg-4">
+                <section class="stat-card stat-card--dark-green">
+                                   <h3 class="stat1 stat-card__value">#21</h3>
+                
+               <h4 class="h6__proxima stat-card__label">Best Colleges in America</h4>
+               <p class="body3 stat-card__copy">The Wall Street Journal, 2025</p>
+             </section>        
+        </div>
+        
+      </div>
+   </div>
+</section>    
+
+ </div>
+    
+    
+    
+     
+                                 
+                
+
+                            
+        <div class="organism-spacer spacer__padding-top--medium spacer__padding-bottom--medium spacer__background-color--eggshell spacer__mobile-padding-top--override spacer__mobile-padding-bottom--override">
+    
+                    <div class="container">
+                                     <div class="row">
+                <header class="green-card-grid__header">
+                    <div class="green-card-grid__copy">
+                       <h2 class="h4__transducer">Our Students</h2>
+                    </div>
+                    
+                                    </header>
+             </div>
+             
+                        
+              
+                          
+                             
+                <div class="green-card-grid__wrapper row">
+                                                            
+                                                       
+                                                <div class="col-12 col-md-6 col-lg-4">
+                                                      <a class="card card__image card__link card--dark-green bar--green--with-arrow col-lg-4" href="                                                          https://www.cpp.edu/data/dashboards/fall-term-characteristics.shtml      ">
+                                 
+                                                          <div class="card__img">
+                                    <img alt="CLASS students celebrate during commencement." src="img/24class-two-grad_67.jpg"/>
+                                </div>
+                                <div class="card__content">
+                                                                      <h3 class="h5__proxima">27,196 Total Students</h3>
+                                                                  
+                                                                      <p class="body2">Learn about our diverse student body.</p>
+                                                                  </div>
+                            </a>
+                        </div>
+                                               
+                                                       
+                                                <div class="col-12 col-md-6 col-lg-4">
+                                                      <a class="card card__image card__link card--dark-green bar--green--with-arrow col-lg-4" href="                                                          https://www.cpp.edu/studentsuccess/oss/i-am-first/index.shtml      ">
+                                 
+                                                          <div class="card__img">
+                                    <img alt="Two students hold CPP swag" src="img/23first-gen-week-kickoff-cookies.jpg"/>
+                                </div>
+                                <div class="card__content">
+                                                                      <h3 class="h5__proxima">55% First Generation</h3>
+                                                                  
+                                                                  </div>
+                            </a>
+                        </div>
+                                               
+                                                       
+                                                <div class="col-12 col-md-6 col-lg-4">
+                                                      <a class="card card__image card__link card--dark-green bar--green--with-arrow col-lg-4" href="                                                          https://www.cpp.edu/financial-aid/index.shtml      ">
+                                 
+                                                          <div class="card__img">
+                                    <img alt="Advisor speaks with a female and male student during orientation" src="img/24orientation-mares.jpg"/>
+                                </div>
+                                <div class="card__content">
+                                                                      <h3 class="h5__proxima">70% Receive Financial Aid</h3>
+                                                                  
+                                                                  </div>
+                            </a>
+                        </div>
+                                           </div>
+                
+                          
+                            </div>
+                                      
+                                    
+                         
+                      </div>
+          
+        
+    
+    
+     
+            
+                
+                    
+                        
+                                   
+                            <div class="organism-spacer cta-green-card__header center spacer__padding-top--small spacer__padding-bottom--small">
+                                <section class="standard-text body2 cta-green-card" id="content-section-2">
+                        <div class="container">
+                            <div class="row">
+                               
+                                     <header class="cta-green-card__header center text-center col-12 col-sm-8 col-md-5">
+                                                                    <h2 class="kicker__transducer">Our Philosophy</h2>
+                                    <h3 class="h5__proxima">Learn by Doing</h3>
+                                                                </header>
+                            </div>
+                            <div class="row">
+                                <div class="body2 text-center col-12 col-sm-8 col-md-5"><p>At Cal Poly Pomona, learning is so much more than classrooms and lectures. Here you dive in and apply your classroom learnings in active, hands-on experiences that address real-life challenges.</p>
+<p><strong>This is the CPP Polytechnic Experience (</strong><strong>PolyX</strong><strong>). </strong></p>
+<p>Consider it your professional onboarding for career success.&#160;</p>
+<p><a class="button button1__transducer button__primary--light-green" href="polyx.shtml" style="color: #005030;">Learn About PolyX</a></p></div>  
+                            </div>
+                       </div>
+                    </section>
+                </div>
+                                           
+        
+    
+    
+     
+                                                     
+                        
+                      
+            <style>
+  <!--
+  @media (max-width: 767px) {
+    #cardCarousel3 .carousel-inner .card-carousel-item>div {
+      display: none;
+    }
+
+    #cardCarousel3 .carousel-inner .carousel-item>div:first-child {
+      display: block;
+    }
+   
+  }
+  
+  #cardCarousel3 .carousel-inner .carousel-item.active,
+  #cardCarousel3 .carousel-inner .carousel-item-next,
+  #cardCarousel3 .carousel-inner .carousel-item-prev {
+    display: flex;
+  }
+
+  /* medium and up screens */
+  @media (min-width: 768px) {
+
+    #cardCarousel3 .carousel-inner .carousel-item-end.active,
+    #cardCarousel3 .carousel-inner .carousel-item-next {
+      transform: translateX(33%);
+    }
+
+    #cardCarousel3 .carousel-inner .carousel-item-start.active,
+    #cardCarousel3 .carousel-inner .carousel-item-prev {
+      transform: translateX(-33%);
+    }
+  }
+
+  #cardCarousel3 .carousel-inner .carousel-item-end,
+  #cardCarousel3 .carousel-inner .carousel-item-start {
+    transform: translateX(0);
+  }
+
+  #cardCarousel3 .carousel-indicators {
+    bottom: 60px !important;
+  }
+
+  .card-carousel .carousel-item {
+    gap: 20px;
+    padding-top: 20px;
+    height: 100% !important;
+  }
+  -->
+</style>
+ 
+
+         
+      <div class="organism-spacer spacer__padding-top--small spacer__padding-bottom--small">
+                  <div class="container">
+                     <div class="row">
+                      <div class="content-carousel content-carousel--default">
+                                                                            <div class="content-carousel__header default ">
+                                <h2 class="h4__transducer col-lg-6">Why Choose CPP?</h2>
+                                               
+                          <div class="content-carousel content-carousel__controls-wrapper d-flex justify-content-end">
+                              
+                                                           <div class="content-carousel content-carousel__controls">
+                              <button aria-disabled="false" aria-label="Previous slide" class="carousel-prev--2" data-bs-slide="prev" data-bs-target="#cardCarousel3" style="opacity: 1;" type="button">
+                                <span class="visually-hidden">Previous </span>
+                              </button>
+                              <div aria-live="polite" class="carousel-tracker body3">
+                                <div id="cardCarouselNum3"></div>
+                              </div>
+                              <button aria-disabled="false" aria-label="Next slide" class="carousel-next carousel-next--2" data-bs-slide="next" data-bs-target="#cardCarousel3" style="opacity: 1;" type="button">
+                                <span class="visually-hidden">Next </span>
+                              </button>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    <div class="card-carousel cutoff carousel slide" data-bs-interval="false" id="cardCarousel3">
+                        <div class="carousel-inner" role="listbox">        
+        
+                                                        
+                                
+                                                                                                      
+                                <div class="card-carousel-item carousel-item active dept-card col-12" role="group">
+                                  <div class="carousel__card col-12 col-md-4">
+                                                                        <a class="bright-green-card bar--dark-green-inverse-2" href="polyx.shtml">
+                                      <div class="bright-green-card__image-wrapper">
+                                        <img alt="Two students work on a drone" class="bright-green-card__image" src="img/24drone-flight-sherman8.jpg"/>
+                                      </div>
+                                      <h3 class="bright-green-card__header h3__proxima">The CPP Polytechnic Experience</h3>
+                                    </a>
+                                  </div>
+                                </div>
+                                
+                                
+                                                        
+                                
+                                                                                                      
+                                <div class="card-carousel-item carousel-item dept-card col-12" role="group">
+                                  <div class="carousel__card col-12 col-md-4">
+                                                                        <a class="bright-green-card bar--dark-green-inverse-2" href="https://collegescorecard.ed.gov/school?110529-California-State-Polytechnic-University-Pomona">
+                                      <div class="bright-green-card__image-wrapper">
+                                        <img alt="Two student hold up scholarship certificates with their parents." class="bright-green-card__image" src="img/24mep-wise-scholarship-silguero.jpg"/>
+                                      </div>
+                                      <h3 class="bright-green-card__header h3__proxima">Great Value</h3>
+                                    </a>
+                                  </div>
+                                </div>
+                                
+                                
+                                                        
+                                
+                                                                                                      
+                                <div class="card-carousel-item carousel-item dept-card col-12" role="group">
+                                  <div class="carousel__card col-12 col-md-4">
+                                                                        <a class="bright-green-card bar--dark-green-inverse-2" href="https://www.cpp.edu/student-affairs/topics/diversity.shtml">
+                                      <div class="bright-green-card__image-wrapper">
+                                        <img alt="A group of faculty and staff members smile for a group photo" class="bright-green-card__image" src="img/inclusive-0072.jpg"/>
+                                      </div>
+                                      <h3 class="bright-green-card__header h3__proxima">Diverse Campus</h3>
+                                    </a>
+                                  </div>
+                                </div>
+                                
+                                
+                                                        
+                                
+                                                                                                      
+                                <div class="card-carousel-item carousel-item dept-card col-12" role="group">
+                                  <div class="carousel__card col-12 col-md-4">
+                                                                        <a class="bright-green-card bar--dark-green-inverse-2" href="https://www.cpp.edu/news/content/2023/09/elevating-students-cpp-is-top-polytechnic-for-value-economic-mobility-in-new-rankings/index.shtml">
+                                      <div class="bright-green-card__image-wrapper">
+                                        <img alt="A female graduate celebrates at the commencement stage" class="bright-green-card__image" src="img/23ceis-grad_48.jpg"/>
+                                      </div>
+                                      <h3 class="bright-green-card__header h3__proxima">Brighter Financial Futures</h3>
+                                    </a>
+                                  </div>
+                                </div>
+                                
+                                
+                                                        
+                                
+                                                                                                      
+                                <div class="card-carousel-item carousel-item dept-card col-12" role="group">
+                                  <div class="carousel__card col-12 col-md-4">
+                                                                        <a class="bright-green-card bar--dark-green-inverse-2" href="https://www-test.cpp.edu/academics/index.shtml">
+                                      <div class="bright-green-card__image-wrapper">
+                                        <img alt="Professor Dewald lectures on the first day of fall semester." class="bright-green-card__image" src="img/24first-day-dewald7.jpg"/>
+                                      </div>
+                                      <h3 class="bright-green-card__header h3__proxima">100 + Academic Programs</h3>
+                                    </a>
+                                  </div>
+                                </div>
+                                
+                                
+                                                        
+                                
+                                                                                                      
+                                <div class="card-carousel-item carousel-item dept-card col-12" role="group">
+                                  <div class="carousel__card col-12 col-md-4">
+                                                                        <a class="bright-green-card bar--dark-green-inverse-2" href="visitor-information/location.shtml">
+                                      <div class="bright-green-card__image-wrapper">
+                                        <img alt="A female and male student walk along the rose garden on campus." class="bright-green-card__image" src="img/18rose-garden-stroll2.jpg"/>
+                                      </div>
+                                      <h3 class="bright-green-card__header h3__proxima">Sunny SoCal Location</h3>
+                                    </a>
+                                  </div>
+                                </div>
+                                
+                                
+                                                       </div>
+                </div>
+            </div>
+        </div>
+    </div>
+  
+           <script>
+        let items3 = document.querySelectorAll('#cardCarousel3 .card-carousel-item')
+        var cardHeight = 0;
+    var cardMaxHeight = 0;
+      items3.forEach((el) => {
+   
+
+    if( $(el).css('display') == 'flex') {
+          cardHeight = el.offsetHeight;
+    } else {
+        $(el).addClass('active');
+       cardHeight = el.offsetHeight;
+       $(el).removeClass('active');
+    }
+      if(cardHeight > cardMaxHeight) {
+        cardMaxHeight = cardHeight;
+      }
+        const minPerSlide = 3
+        let next = el.nextElementSibling
+        for (var i = 1; i < minPerSlide; i++) {
+          if (!next) {
+            // wrap carousel by using first child
+            console.log(next);
+            next = items3[0]
+          }
+          let cloneChild = next.cloneNode(true)
+          el.appendChild(cloneChild.children[0])
+          next = next.nextElementSibling
+        }
+      }) 
+    console.log("Max Card Height " + cardMaxHeight);
+    $('#cardCarousel3 .card-carousel-item').height(cardMaxHeight);
+    $('#cardCarousel3 .card-carousel-item .carousel__card').height(cardMaxHeight);
+    var totalItems3 = $('#cardCarousel3 .carousel-item').length;
+    $('#cardCarouselNum3').html(totalItems3);
+   
+    var slide3 = $('#cardCarousel3 .carousel-item.active').index() + 1; 
+    var slideTitle3 = $('#cardCarousel3 .carousel-item.active h3').html(); 
+    $('#cardCarouselNum3').html('<span class="sr-only">Slide</span> ' + slide3 + ' /' + totalItems3 + ' <span class="sr-only">Title:' + slideTitle3 + '</span>');
+    
+       $('#cardCarousel3').on('slid.bs.carousel', function() {
+            slide3 = $('#cardCarousel3 .carousel-item.active').index() + 1; 
+            slideTitle3 = $('#cardCarousel3 .carousel-item.active h3').html(); 
+            $('#cardCarouselNum3').html('<span class="sr-only">Slide</span> ' + slide3 + ' /' + totalItems3 + ' <span class="sr-only">Title:' + slideTitle3 + '</span>');
+          })
+ 
+   
+   
+</script>
+           
+           
+ 
+     
+        
+        
+    
+    
+     
+                      
+
+<div class="organism-spacer spacer__padding-top--small spacer__padding-bottom--small">
+  <section class="image-cta-lockup image-cta-lockup--eggshell" id="content-section-4">
+       <div class="linework">
+            
+      <img alt="" class="linework--mobile" src="https://www.cpp.edu/common//green-and-gold/assets/images/linework-combo-offset-green-mobile.svg"/>
+      <img alt="" class="linework--desktop" src="https://www.cpp.edu/common//green-and-gold/assets/images/linework-combo-offset-green.svg"/>
+    </div>
+        <div class="container">
+      <div class="row">
+        <div class="image-cta-lockup__content col-lg-6">
+          <header class="image-cta-lockup__header">
+                          <h2 class="kicker__transducer">Our Heritage </h2>
+              <h3 class="h2__proxima">The Kellogg Connection</h3>
+                        <p class="body2">Discover Cal Poly Pomona’s rich legacy and its connection to cereal company magnate W.K. Kellogg and his Arabian horses.
+</p>
+          </header>
+                                      <div class="image-cta-lockup__cta">
+                                                                  <a class="button button__primary--light-green button1__transducer" href="heritage.shtml">EXPLORE CPP HISTORY</a>                      
+                                </div>
+                        </div>
+        <div class="col-lg-6">
+          <div class="image-cta-lockup__img">
+            <img alt="Female rider and her Arabian horse." src="img/arabian-horse-jumping-edwards.jpg"/>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+                            
+        
+    
+    
+     
+                                                     
+                        
+                      
+            <style>
+  <!--
+  @media (max-width: 767px) {
+    #cardCarousel5 .carousel-inner .card-carousel-item>div {
+      display: none;
+    }
+
+    #cardCarousel5 .carousel-inner .carousel-item>div:first-child {
+      display: block;
+    }
+   
+  }
+  
+  #cardCarousel5 .carousel-inner .carousel-item.active,
+  #cardCarousel5 .carousel-inner .carousel-item-next,
+  #cardCarousel5 .carousel-inner .carousel-item-prev {
+    display: flex;
+  }
+
+  /* medium and up screens */
+  @media (min-width: 768px) {
+
+    #cardCarousel5 .carousel-inner .carousel-item-end.active,
+    #cardCarousel5 .carousel-inner .carousel-item-next {
+      transform: translateX(33%);
+    }
+
+    #cardCarousel5 .carousel-inner .carousel-item-start.active,
+    #cardCarousel5 .carousel-inner .carousel-item-prev {
+      transform: translateX(-33%);
+    }
+  }
+
+  #cardCarousel5 .carousel-inner .carousel-item-end,
+  #cardCarousel5 .carousel-inner .carousel-item-start {
+    transform: translateX(0);
+  }
+
+  #cardCarousel5 .carousel-indicators {
+    bottom: 60px !important;
+  }
+
+  .card-carousel .carousel-item {
+    gap: 20px;
+    padding-top: 20px;
+    height: 100% !important;
+  }
+  -->
+</style>
+         
+      <div class="organism-spacer spacer__padding-top--small spacer__padding-bottom--small">
+                  <div class="container">
+                     <div class="row">
+                      <div class="content-carousel content-carousel--default">
+                                                                       <div class="content-carousel__header default ">
+                                <h2 class="h4__transducer col-lg-6">CPP and Our Community</h2>
+                                              
+     
+                          <div class="content-carousel content-carousel__controls-wrapper d-flex justify-content-end">
+                          <div class="content-carousel content-carousel__controls">
+                              <button aria-disabled="false" aria-label="Previous slide" class="carousel-prev--2" data-bs-slide="prev" data-bs-target="#cardCarousel5" style="opacity: 1;" type="button">
+                                <span class="visually-hidden">Previous </span>
+                              </button>
+                              <div aria-live="polite" class="carousel-tracker body3">
+                                <div id="cardCarouselNum5"></div>
+                              </div>
+                              <button aria-disabled="false" aria-label="Next slide" class="carousel-next carousel-next--2" data-bs-slide="next" data-bs-target="#cardCarousel5" style="opacity: 1;" type="button">
+                                <span class="visually-hidden">Next </span>
+                              </button>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                     
+                    <div class="card-carousel cutoff carousel slide" data-bs-interval="false" id="cardCarousel5">
+                        <div class="carousel-inner" role="listbox">        
+        
+                                                                                                                              
+                                <div class="card-carousel-item carousel-item  dept-card active col-12" role="group">
+                                  <div class="carousel__card col-12 col-md-4">
+                                     <a class="card card__open card__open--link bar--magenta--with-arrow bar--thin" href="https://www.calstate.edu/impact">
+                                    
+                                      <div class="card__open-img">
+                                        <img alt="Aerial View of the SSB" class="bright-green-card__image" src="img/23ssb4.jpg"/>
+                                      </div>
+                                        <div class="card__open-content">
+                                            <h3 class="h6__proxima">Economic Impact</h3>
+                                                                                            <p class="body2 image-card-text">Read about our impact on greater L.A. and the Inland Empire.</p>
+                                                                                    </div>
+                                    </a>
+                                  </div>
+                                </div>
+                                
+                                
+                                                                                                                              
+                                <div class="card-carousel-item carousel-item dept-card col-12" role="group">
+                                  <div class="carousel__card col-12 col-md-4">
+                                     <a class="card card__open card__open--link bar--magenta--with-arrow bar--thin" href="https://www.cpp.edu/wkkelloggarabianhorsecenter/index.shtml">
+                                    
+                                      <div class="card__open-img">
+                                        <img alt="Sunday Horse Show rider and Arabian Horse" class="bright-green-card__image" src="img/19-first-horse-show-ludde3.jpg"/>
+                                      </div>
+                                        <div class="card__open-content">
+                                            <h3 class="h6__proxima">W.K. Kellogg Arabian Horse Center</h3>
+                                                                                            <p class="body2 image-card-text">Learn about our award-winning Arabian horse breeding and public Sunday Shows.
+</p>
+                                                                                    </div>
+                                    </a>
+                                  </div>
+                                </div>
+                                
+                                
+                                                                                                                              
+                                <div class="card-carousel-item carousel-item dept-card col-12" role="group">
+                                  <div class="carousel__card col-12 col-md-4">
+                                     <a class="card card__open card__open--link bar--magenta--with-arrow bar--thin" href="https://broncoathletics.com/">
+                                    
+                                      <div class="card__open-img">
+                                        <img alt="Women's Soccer Champions holding up number 1 finger" class="bright-green-card__image" src="img/24wosoc-vs-minn-st.jpg"/>
+                                      </div>
+                                        <div class="card__open-content">
+                                            <h3 class="h6__proxima">Athletics</h3>
+                                                                                            <p class="body2 image-card-text">Come cheer on our champion Division II Broncos.</p>
+                                                                                    </div>
+                                    </a>
+                                  </div>
+                                </div>
+                                
+                                
+                                                                                                                              
+                                <div class="card-carousel-item carousel-item dept-card col-12" role="group">
+                                  <div class="carousel__card col-12 col-md-4">
+                                     <a class="card card__open card__open--link bar--magenta--with-arrow bar--thin" href="https://www.cpp.edu/pumpkinfestival/index.shtml">
+                                    
+                                      <div class="card__open-img">
+                                        <img alt="Two you girls running along the pumpkin patch" class="bright-green-card__image" src="img/22pumpkin-fest-lee8.jpg"/>
+                                      </div>
+                                        <div class="card__open-content">
+                                            <h3 class="h6__proxima">Pumpkin Fest</h3>
+                                                                                            <p class="body2 image-card-text">Get tickets early to enjoy our popular fall festival.</p>
+                                                                                    </div>
+                                    </a>
+                                  </div>
+                                </div>
+                                
+                                
+                                                                                                                              
+                                <div class="card-carousel-item carousel-item dept-card col-12" role="group">
+                                  <div class="carousel__card col-12 col-md-4">
+                                     <a class="card card__open card__open--link bar--magenta--with-arrow bar--thin" href="https://www.rosefloat.org/">
+                                    
+                                      <div class="card__open-img">
+                                        <img alt="Student places roses on the float during Deco Week." class="bright-green-card__image" src="img/24rose-float-judging-deco2.jpg"/>
+                                      </div>
+                                        <div class="card__open-content">
+                                            <h3 class="h6__proxima">Rose Float</h3>
+                                                                                            <p class="body2 image-card-text">Look for our student-built Rose Float in the annual Rose Parade.
+</p>
+                                                                                    </div>
+                                    </a>
+                                  </div>
+                                </div>
+                                
+                                
+                                                                                                                              
+                                <div class="card-carousel-item carousel-item dept-card col-12" role="group">
+                                  <div class="carousel__card col-12 col-md-4">
+                                     <a class="card card__open card__open--link bar--magenta--with-arrow bar--thin" href="https://www.cpp.edu/farmstore/index.shtml">
+                                    
+                                      <div class="card__open-img">
+                                        <img alt="Farm Store student arranges Kale" class="bright-green-card__image" src="img/farm-store-kale.jpg"/>
+                                      </div>
+                                        <div class="card__open-content">
+                                            <h3 class="h6__proxima">Farm Store</h3>
+                                                                                            <p class="body2 image-card-text">Shop for student-grown produce, plants, specialty items and more.
+</p>
+                                                                                    </div>
+                                    </a>
+                                  </div>
+                                </div>
+                                
+                                
+                                                                                                                              
+                                <div class="card-carousel-item carousel-item dept-card col-12" role="group">
+                                  <div class="carousel__card col-12 col-md-4">
+                                     <a class="card card__open card__open--link bar--magenta--with-arrow bar--thin" href="https://www.cpp.edu/thehub/index.shtml">
+                                    
+                                      <div class="card__open-img">
+                                        <img alt="Ribbon cutting for the Community Innovation Hub" class="bright-green-card__image" src="img/24community-innovation-hub-group.jpg"/>
+                                      </div>
+                                        <div class="card__open-content">
+                                            <h3 class="h6__proxima">Community Innovation Hub</h3>
+                                                                                            <p class="body2 image-card-text">Find training, equipment and workspace to support your entrepreneurial and small business needs.
+</p>
+                                                                                    </div>
+                                    </a>
+                                  </div>
+                                </div>
+                                
+                                
+                                                                                                                              
+                                <div class="card-carousel-item carousel-item dept-card col-12" role="group">
+                                  <div class="carousel__card col-12 col-md-4">
+                                     <a class="card card__open card__open--link bar--magenta--with-arrow bar--thin" href="https://www.cpp.edu/rkr/index.shtml">
+                                    
+                                      <div class="card__open-img">
+                                        <img alt="Two students show a plated meal at the RKR" class="bright-green-card__image" src="img/22rkr-tanimoto4.jpg"/>
+                                      </div>
+                                        <div class="card__open-content">
+                                            <h3 class="h6__proxima">The Restaurant at Kellogg Ranch</h3>
+                                                                                            <p class="body2 image-card-text">Dine at our award-winning, student-run restaurant.
+</p>
+                                                                                    </div>
+                                    </a>
+                                  </div>
+                                </div>
+                                
+                                
+                                                      </div>
+                </div>
+            </div>
+        </div>
+    </div>
+  
+           <script>
+        let items5 = document.querySelectorAll('#cardCarousel5 .card-carousel-item')
+        
+         var cardHeight = 0;
+    var cardMaxHeight = 0;
+      items5.forEach((el) => {
+      
+       if( $(el).css('display') == 'flex') {
+          cardHeight = el.offsetHeight;
+    } else {
+        $(el).addClass('active');
+       cardHeight = el.offsetHeight;
+       $(el).removeClass('active');
+    }
+      if(cardHeight > cardMaxHeight) {
+        cardMaxHeight = cardHeight;
+      }
+        const minPerSlide = 3
+        let next = el.nextElementSibling
+        for (var i = 1; i < minPerSlide; i++) {
+          if (!next) {
+            // wrap carousel by using first child
+            console.log(next);
+            next = items5[0]
+          }
+          let cloneChild = next.cloneNode(true)
+          el.appendChild(cloneChild.children[0])
+          next = next.nextElementSibling
+        }
+      }) 
+            console.log("Max Card Height " + cardMaxHeight);
+    $('#cardCarousel5 .card-carousel-item').height(cardMaxHeight);
+    $('#cardCarousel5 .card-carousel-item .carousel__card').height(cardMaxHeight);
+    var totalItems5 = $('#cardCarousel5 .carousel-item').length;
+    $('#cardCarouselNum5').html(totalItems5);
+   
+    var slide5 = $('#cardCarousel5 .carousel-item.active').index() + 1; 
+    var slideTitle5 = $('#cardCarousel5 .carousel-item.active h3').html(); 
+    $('#cardCarouselNum5').html('<span class="sr-only">Slide</span> ' + slide5 + ' /' + totalItems5 + ' <span class="sr-only">Title:' + slideTitle5 + '</span>');
+    
+       $('#cardCarousel5').on('slid.bs.carousel', function() {
+            slide5 = $('#cardCarousel5 .carousel-item.active').index() + 1; 
+            slideTitle5 = $('#cardCarousel5 .carousel-item.active h3').html(); 
+            $('#cardCarouselNum5').html('<span class="sr-only">Slide</span> ' + slide5 + ' /' + totalItems5 + ' <span class="sr-only">Title:' + slideTitle5 + '</span>');
+          })
+ 
+   
+   
+</script>
+           
+           
+ 
+ 
+
+     
+        
+        
+    
+    
+     
+                         
+            
+             <div class="organism-spacer spacer__padding-top--small spacer__padding-bottom--small">
+          <section class="text-list">
+            
+        
+
+         <div class="container">
+                <div class="row">
+                    <div class="text-list__wrapper">
+                    
+                                            
+                        
+            
+                  
+              
+        <header class="text-list__header header-align--left">
+            <h2 class="h4__transducer col-lg-6">Additional Information</h2>
+        </header>
+
+        
+    
+                    
+                                            <div class="text-list__cta-grid row">
+                            
+                                                                                        
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Office of the President (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/president/" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Office of the President</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Strategic Plan (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/strategicplan/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Strategic Plan</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Administration (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="administration.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Administration</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Mission, Vision, &amp; Values (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/aboutcpp/calpolypomona-overview/mission-and-values.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Mission, Vision, &amp; Values</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="CPP Philanthropic Foundation (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/philanthropy/governance/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">CPP Philanthropic Foundation</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="The California State University (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.calstate.edu/" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">The California State University</p>
+                    </a>
+    </div>
+    
+                                
+                                                          
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+    
+                    
+        
+    
+    
+
+ 
+    
+        
+    <style>
+        a.card__image-cta:focus {
+            outline: 3px solid #005030;
+            border: solid 2px #fff;
+            border-radius: 5px;
+        }
+    </style>
+    
+    <div class="organism-spacer spacer__background-color--eggshell  spacer__margin-top--medium spacer__padding-bottom--medium">
+        <section class="three-up__cta-card">
+            <div class="container">
+                <div class="header__wrapper">
+                    <img alt="" class="cta-card__svg" src="https://www.cpp.edu/common//green-and-gold/assets/images/vertical-line-circle.svg"/>
+                    <header class="header">
+                        <h2 class="h1__proxima">Engage With Us</h2>
+                    </header>
+                </div>
+                <div class="row">
+                    
+                                      
+                                    
+                    
+                    <div class="col-12 col-sm-10 col-md-8 col-lg-4">
+                        <a class="card card__image-cta bar--magenta--with-arrow col-lg-4" href="https://www.cpp.edu/apply/index.shtml" target="_blank" title="opens a new window">
+                            <div class="card__button">
+                                <div class="button button__primary--yellow button1__transducer">APPLY</div>
+                            </div>
+                            <div class="card__img"> <img alt="" src="img/cpp_bitmap_statue_both_web.jpg"/></div>
+                        </a>
+                    </div>
+                    
+                  
+                                    
+                    
+                    <div class="col-12 col-sm-10 col-md-8 col-lg-4">
+                        <a class="card card__image-cta bar--magenta--with-arrow col-lg-4" href="https://www.cpp.edu/giving/index.shtml" target="_blank" title="opens a new window">
+                            <div class="card__button">
+                                <div class="button button__primary--yellow button1__transducer">GIVE</div>
+                            </div>
+                            <div class="card__img"> <img alt="" src="img/cpp_bitmap_nature_both_web.jpg"/></div>
+                        </a>
+                    </div>
+                    
+                                      
+                                    </div>
+            </div>
+        </section>
+    </div>
+        <style>
+    .footer__rip-wrapper {
+        background: #f2eee8;
+    }
+    </style>
+ 
+ 
+ 
+ 
+ 
+ 
+</div>
+
+         <footer class="footer">
+                                        <div class="footer__rip-wrapper">
+                                            <img class="footer__rip" alt="" src="/common/green-and-gold/assets/images/green-rip.svg" alt="Ripped green paper." />
+                                        </div>
+                                        <div class="container">
+                                            <div class="row">
+                                                <div class="col-12 col-lg-4">
+                                                    <div class="footer__logo-wrapper">
+                                                        <a href="/" aria-label="CPP Logo">
+                                                            <img class="footer__logo" src="/common/green-and-gold/assets/logos/cpp_primary_1c_gold_rgb.png" alt="Cal Poly Pomona logo, building with a palm tree." />
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <div class="col-12 col-lg-4 offset-lg-4">
+                                                    <div class="footer__socials">
+                                                        <div class="footer__socials-buttons">
+                                                            <a class="button button__secondary button1__transducer" href="/apply/">Apply</a>
+                                                            <a class="button button__secondary button1__transducer" href="https://maps.cpp.edu/">Maps</a>
+                                                            <a class="button button__secondary button1__transducer" href="/outreach/tours.shtml">Visit</a>
+                                                            <a class="button button__secondary button1__transducer" href="/contact.shtml">Contact Us</a>
+                                                        </div>
+                                                        <div class="footer__socials-icons">
+                                                            <a href="https://www.instagram.com/calpolypomona/" target="_blank">
+                                                                
+                                                                <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram opens a new window" />
+                                                            </a>
+                                                            <a href="https://www.linkedin.com/school/cal-poly-pomona/" target="_blank">
+                                                                
+                                                                <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn opens a new window" />
+                                                            </a>
+                                                            <a href="https://www.youtube.com/user/calpolypomona" target="_blank">
+                                                                
+                                                                <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="YouTube opens a new window" />
+                                                            </a>
+                                                            <a href="https://www.facebook.com/calpolypomona" target="_blank">
+                                                                
+                                                                <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook opens a new window" />
+                                                            </a>
+                                                            <a href="https://twitter.com/calpolypomona" target="_blank">
+                                                                
+                                                                <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X opens a new window" />
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-12">
+                                                    <div class="footer__quicklinks">
+                                                        <div class="footer__quicklinks-inner">
+                                                            <a class="footer__quicklinks-link" href="/prospective-student-gateway/">Future Students</a>
+                                                            <span class="footer__quicklinks-divider">|</span>
+                                                            <a class="footer__quicklinks-link" href="/student-gateway/">Current Students</a>
+                                                            <span class="footer__quicklinks-divider">|</span>
+                                                            <a class="footer__quicklinks-link" href="/alumni/">Alumni</a>
+                                                            <span class="footer__quicklinks-divider">|</span>
+                                                            <a class="footer__quicklinks-link" href="/family/">Families</a>
+                                                            <span class="footer__quicklinks-divider">|</span>
+                                                            <a class="footer__quicklinks-link" href="/faculty-staff-gateway/">Faculty &amp; Staff</a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-12 col-lg-3">
+                                                    <div>
+                <div>
+                    <h2 class="footer__accordion-tab-label kicker__transducer">Colleges</h2>
+                    <div class="footer__tab-content">
+                        <div class="footer__tab-links">
+                            <a class="footer__tab-link body3" href="https://www.cpp.edu/agri/">Don B. Huntley College of Agriculture</a>
+                            <a class="footer__tab-link body3" href="https://www.cpp.edu/cba/">College of Business Administration</a>
+                            <a class="footer__tab-link body3" href="https://www.cpp.edu/cba/graduate-business-programs/">Singelyn Graduate School of Business</a>
+                            <a class="footer__tab-link body3" href="https://www.cpp.edu/ceis/">College of Education and Integrative Studies</a>
+                            <a class="footer__tab-link body3" href="https://www.cpp.edu/engineering/">College of Engineering</a>
+                            <a class="footer__tab-link body3" href="https://www.cpp.edu/env/">College of Environmental Design</a>
+                            <a class="footer__tab-link body3" href="https://www.cpp.edu/collins/">The Collins College of Hospitality Management</a>
+                            <a class="footer__tab-link body3" href="https://www.cpp.edu/class/">College of Letters, Arts, and Social Sciences</a>
+                            <a class="footer__tab-link body3" href="https://www.cpp.edu/cpge/">College of Professional and Global Education</a>
+                            <a class="footer__tab-link body3" href="https://www.cpp.edu/sci/">College of Science</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-12 col-lg-3">
+            <div>
+                <div>
+                    <h2 class="footer__accordion-tab-label kicker__transducer">Administration</h2>
+                    <div class="footer__tab-content">
+                        <div class="footer__tab-links">
+                            <a class="footer__tab-link body3" href="http://www.cpp.edu/president/">President's Office</a>
+                            <a class="footer__tab-link body3" href="http://www.cpp.edu/academic-affairs/index.shtml">Academic Affairs</a>
+                            <a class="footer__tab-link body3" href="http://www.cpp.edu/admin-affairs/index.shtml">Administrative Affairs</a>
+                            <a class="footer__tab-link body3" href="http://www.cpp.edu/student-affairs/index.shtml">Student Affairs</a>
+                            <a class="footer__tab-link body3" href="http://www.cpp.edu/it/index.shtml">Information Technology</a>
+                            <a class="footer__tab-link body3" href="https://www.cpp.edu/giving/index.shtml">University Advancement</a>
+                            <a class="footer__tab-link body3" href="https://www.cpp.edu/philanthropy/">CPP Philanthropic Foundation</a>
+                            <a class="footer__tab-link body3" href="http://asi.cpp.edu/">Associated Students Incorporated</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-12 col-lg-3">
+            <div>
+                <div>
+                    <h2 class="footer__accordion-tab-label kicker__transducer">Resources</h2>
+                    <div class="footer__tab-content">
+                        <div class="footer__tab-links">
+                            <a class="footer__tab-link body3" href="https://catalog.cpp.edu/">University Catalog</a>
+                            <a class="footer__tab-link body3" href="https://www.cpp.edu/academic-manual">Academic Manual</a>
+                            <a class="footer__tab-link body3" href="https://www.cpp.edu/library/index.shtml">Library</a>
+                            <a class="footer__tab-link body3" href="https://apps.cpp.edu/bronco411/search/">Directory</a>
+                            <a class="footer__tab-link body3" href="https://www.cpp.edu/events/">Calendar</a>
+                            <a class="footer__tab-link body3" href="https://www.cpp.edu/alpha-index/index.shtml">A-Z Index</a>
+                            <a class="footer__tab-link body3" href="https://polycentric.cpp.edu">News</a>
+                            <a class="footer__tab-link body3" href="https://maps.cpp.edu/">Maps &amp; Directions</a>
+                            <a class="footer__tab-link body3" href="https://www.cpp.edu/jobs/index.shtml">Jobs</a>
+                            <a class="footer__tab-link body3" href="https://www.cpp.edu/stratcomm/media-relations.shtml">For the Media</a>
+                            <a class="footer__tab-link body3" href="https://www.cpp.edu/ssep/uss-home.shtml">Info for Undocumented Community</a>
+                            <a class="footer__tab-link body3" href="https://www.cpp.edu/studentparents/">Parenting Student Support</a>
+                            <a class="footer__tab-link body3" href="https://cpp.service-now.com/ehelp?id=kb_article&sys_id=0d5b564287f2e9d04f5098e73cbb35ca">Learn about MyCPP</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-12 col-lg-3">
+            <div>
+                <div>
+                    <h2 class="footer__accordion-tab-label kicker__transducer">Campus Safety</h2>
+                    <div class="footer__tab-content">
+                        <div class="footer__tab-links">
+                            <a class="footer__tab-link body3" href="https://www.cpp.edu/annual-security-report.shtml">Annual Security Report</a>
+                            <a class="footer__tab-link body3" href="https://www.cpp.edu/campus-safety-plan.shtml">Campus Safety Plan</a>
+                            <a class="footer__tab-link body3" href="https://www.cpp.edu/em/">Safety &amp; Emergency Info</a>
+                            <a class="footer__tab-link body3" href="https://www.cpp.edu/officeofequity/index.shtml">Title IX</a>
+                            <a class="footer__tab-link body3" href="https://www.calstate.edu/systemwide-campus-safety-security/Documents/Annual_SWReport_Hatecrimes_2023.pdf">Systemwide Hate Crimes Report (PDF)</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div>
+                    <h2 class="footer__accordion-tab-label kicker__transducer">Athletics</h2>
+                    <div class="footer__tab-content">
+                        <div class="footer__tab-links">
+                            <a class="footer__tab-link body3" href="https://broncoathletics.com/">Bronco Athletics</a>
+                            <a class="footer__tab-link body3" href="https://broncoathletics.com/calendar.aspx">Schedule</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+                                                <div class="col-12">
+                                                    <div class="footer__errata">
+                                                        <p class="footer__copyright" style="line-height: 1.8em">Copyright ©2025 California State Polytechnic University, Pomona.  All Rights Reserved <br />A campus of <a class="footer__errata-link" style="display: inline" href="https://www.calstate.edu/">The California State University</a>.</p>
+                                                        <div class="footer__errata-links">
+                                                            <a class="footer__errata-link" href="https://www.cpp.edu/website-feedback.shtml">Feedback</a>
+                                                            <a class="footer__errata-link" href="https://www.cpp.edu/privacy.shtml">Privacy</a>
+                                                            <a class="footer__errata-link" href="https://www.cpp.edu/accessibility.shtml">Accessibility</a>
+                                                            <a class="footer__errata-link" href="https://www.cpp.edu/file-viewers.shtml">Document Readers</a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="footer__gradient-bottom"></div>
+                                    </footer>
+
+
+    </body>
+</html>

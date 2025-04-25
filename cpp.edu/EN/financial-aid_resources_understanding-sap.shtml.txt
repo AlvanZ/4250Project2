@@ -1,0 +1,1843 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+    <head>
+        <meta charset="UTF-8"/>
+        <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+        <meta content="ie=edge" http-equiv="X-UA-Compatible"/>
+        <title>
+            
+        </title>
+        
+        
+        
+            <script src="https://cdn.levelaccess.net/accessjs/YW1wX2NwcDExMDM/access.js"></script>
+<script>// <![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSKJRNV');
+// ]]></script>
+<link rel="icon" href="/common/green-and-gold/assets/icons/gg-favicon.svg"  type="image/svg+xml" />
+<link rel="icon" href="/common/green-and-gold/assets/icons/gg-favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/index.css" />
+<link rel="stylesheet" href="https://use.typekit.net/fia5dle.css" />
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/cpp-fonts.css" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+<script src="/common/green-and-gold/assets/js/accordion.js"></script>
+<script crossorigin="anonymous" defer="defer" integrity="sha384-FW78RPcSpi13vjx77nPWQIrQbNSLkPBopb0qGzLCxD2x4Kr6FA8V05C/6cpgkKPL" src="https://pro.fontawesome.com/releases/v5.10.1/js/all.js"></script>
+<script src="/common/green-and-gold/assets/js/modal.js"></script>
+<script src="/common/green-and-gold/assets/js/fontawesome/v6.0x/sharp-light.js" crossorigin="anonymous" type="text/javascript"></script>
+<script src="/common/green-and-gold/assets/js/fontawesome/v6.0x/sharp-others.js" crossorigin="anonymous" type="text/javascript"></script>
+<!-- Swiper Library -->
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/swiper-bundle.min.css" />
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/swiper-carousel.css" />
+<script src="/common/green-and-gold/assets/js/swiper-bundle.min.js"></script>
+<script src="/common/green-and-gold/assets/js/carousel-cards-swiper.js"></script>
+
+    </head>
+    <body>
+        <a class="skip-to-content-link" href="#main">Skip to content</a>
+             <header class="nav fixed">
+    <nav class="container">
+        <ul class="row nav__main" id="mainNavMenu">
+            <li id="main-logo" class="col-6 col-lg-3 nav__logo">
+                <a href="/" aria-label="Cal Poly Pomona Home" tabindex="0">
+                    <div class="nav__logo--horizontal">
+                        <img src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png" alt="Cal Poly Pomona Logo" />
+                    </div>
+                </a>
+            </li>
+            <!-- department header hidden by default-->
+            <li id="dept-header-desktop" class="col-sm-5 col-md-6 nav__logo desktop d-none">
+                <a href="/" aria-label="Cal Poly Pomona Home" tabindex="0">
+                    <div class="nav__logo--stacked">
+                        <img src="/common/green-and-gold/assets/logos/cpp_primary_2c_green_cmyk.png" alt="Cal Poly Pomona Logo">
+                        </div>
+                    </a>
+                    <div class="divider"></div>
+                    <div id="split-header" class="nav__division col-lg-6">
+                        <div id="large-name"></div>
+                        <div style="display:none" id="sub-name"></div>
+                    </div>
+                </div>
+            </li>
+            <li class="nav__links col-2" id="head-links">
+                <a class="nav__link nav__link--desktop col-1" href="/commencement/" tabindex="0">
+                    <svg
+                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 1px;
+    width: auto;
+">
+                        <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                        <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#005030"></path>
+                    </svg>
+                    <span class="sr-only">commencement</span>
+                </a>
+                <a class="nav__link nav__link--desktop col-1" href="/apply/" tabindex="0">apply</a>
+                <a class="nav__link nav__link--desktop col-1" href="/outreach/tours.shtml" tabindex="0">visit</a>
+                <a class="nav__link nav__link--desktop col-1" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="0">info</a>
+                <a class="nav__link nav__link--desktop col-1" href="/giving/" tabindex="0">give</a>
+                <a class="nav__link nav__link--desktop col-1" href="https://my.cpp.edu" tabindex="0">mycpp</a>
+                <button id="search-open" class="nav__search col-1" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/search-dark-green.svg" alt="Open search box" />
+                </button>
+                <button class="nav__menu col-1" id="menuButton" aria-expanded="false" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/menu.svg" alt="menu" />
+                </button>
+            </li>
+        </ul>
+    </nav>
+</header>
+<header id="search-header" style="display:none">
+    <div class="row">
+        <div class="col-md-6"></div>
+        <div id="searchbox" class="col-md-6">
+            <div id="search-slide">
+                <label for="#gsc-i-id1" class="sr-only">Search</label>
+                <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+                <div class="gcse-searchbox-only" data-resultsurl="https://www.cpp.edu/search.shtml"></div>
+                <button class="nav__menu col-1" id="search-close" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close search menu">
+                    </button>
+                </div>
+            </div>
+            <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+            <script>
+       $("#search-open").click(function() {
+         $("#search-header").show();
+         $("#search-slide").addClass("slideup");
+         $("#gsc-i-id1").focus();
+         $('#search-close').focusout(function() {
+           $("#search-header").hide();
+           $("#search-slide").removeClass("slideup");
+           $("#search-open").focus();
+         })
+       });
+       $("#search-close").click(function() {
+         $("#search-header").hide();
+         $("#search-slide").removeClass("slideup");
+         $("#search-open").focus();
+       });
+     </script>
+            <style>
+       .gstl_50 gssb_c {
+         position: fixed !important;
+       }
+
+       #searchbox {
+         height: 93px;
+         overflow: hidden;
+       }
+
+       #search-header {
+         position: fixed;
+         height: 100px;
+         width: 100%;
+         height: 93px;
+         z-index: 99999;
+         top: 0;
+       }
+
+       #gsc-i-id1 {
+         height: 40px;
+         width: 70%;
+         border-radius: 4px;
+         border: none;
+         padding: 15px;
+       }
+
+       #search-submit {
+         margin: 15px;
+       }
+
+       #search-close {
+         width: 23px;
+         height: 21px;
+         position: absolute;
+         top: 32px;
+       }
+
+       #search-slide {
+         width: 0px;
+         right: -100%;
+         padding: 20px 15px;
+         position: relative;
+         background: #005030;
+         height: 100%;
+         transition: all .5s ease 0s
+       }
+
+       #search-slide.slideup {
+         right: 0;
+         width: 100%;
+         position: relative;
+       }
+
+       @media screen and (max-width:991px) {
+         #search-slide {
+           height: 77px !important;
+           padding: 12px 10px;
+         }
+       }
+
+       @media screen and (max-width:767px) {
+         #search-header {
+           position: relative !important;
+         }
+
+         #search-slide {
+           text-align: center !important;
+         }
+       }
+
+       .gsc-search-button-v2 svg {
+         width: auto;
+         height: 21px;
+       }
+
+       .gsc-search-button-v2,
+       .gsc-search-button-v2:hover,
+       .gsc-search-button-v2:focus {
+         border: none !important;
+         background: none !important;
+       }
+
+       form.gsc-search-box {
+         font-size: 13px;
+         margin-top: 0;
+         margin-right: 0;
+         margin-bottom: 4px;
+         margin-left: 0;
+         width: 100%;
+         display: inline-block;
+       }
+
+       #___gcse_0 {
+         width: 70%;
+         display: inline-block;
+       }
+
+       table.gsc-search-box td.gsc-input {
+         padding-right: 0;
+       }
+
+       #gsc-i-id1 {
+         width: 100%;
+         padding: 0px;
+         border: none;
+         margin: -0.0625em 0px 0px;
+         height: 40px !important;
+         background: rgb(255, 255, 255);
+         outline: none;
+         font-size: 20px;
+         font-weight: 200;
+       }
+
+       .gstl_50.gssb_c {
+         z-index: 99999;
+       }
+
+       .gsq_a {
+         font-weight: 200;
+         font-size: 18px;
+         padding: 2px;
+       }
+
+       .gssb_a img {
+         display: none;
+       }
+     </style>
+        </div>
+    </header>
+    <section class="side-nav" id="sideNavOverlay">
+        <header class="side-nav__overlay relative">
+            <nav class="container">
+                <ul class="row nav__overlay" id="sideNavMenu">
+                    <li class="nav__logo col-12 col-md-10 col-lg-3" id="navLogoOverlay">
+                        <a href="/" aria-label="Cal Poly Pomona Home" tabindex="-1">
+                            <img src="/common/green-and-gold/assets/logos/cpp_horizontal_1c_gold_rgb.png" alt="Cal Poly Pomona Logo" />
+                        </a>
+                    </li>
+                    <div class="nav__overlay--right col-12 col-lg-9">
+                        <li class="nav__links nav__links--desktop col-12 col-lg-6">
+                            <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 1px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/apply/" tabindex="-1">apply</a>
+                            <a class="nav__link nav__link--mobile col-1" href="/outreach/tours.shtml" tabindex="-1">visit</a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="-1">info</a>
+                            <a class="nav__link nav__link--mobile col-1" href="/giving/" tabindex="-1">give</a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://my.cpp.edu" tabindex="-1">mycpp</a>
+                        </li>
+                        <li class="nav__icons col-1">
+                            <button id="search-open-green" class="nav__search col-1" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/search-white.svg" alt="Open search box" />
+                            </button>
+                            <button class="nav__close col-1" id="closeButton" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close menu" />
+                            </button>
+                        </li>
+                        <li class="nav__links nav__links--mobile col-12 col-lg-6">
+                            <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 1px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/apply/" tabindex="-1">apply </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/outreach/tours.shtml" tabindex="-1">visit </a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="-1">info </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/giving/" tabindex="-1">give </a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://my.cpp.edu" tabindex="-1">mycpp </a>
+                        </li>
+                    </div>
+                </ul>
+            </nav>
+        </header>
+        <nav class="container side-nav__container">
+            <ul class="row side-nav__links">
+                <li class="side-nav__link col-12">
+                    <a class="h3__proxima" href="/" tabindex="-1" aria-label="Cal Poly Pomona Home page">Home</a>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--0">
+                    <button class="h3__proxima" id="0" aria-expanded="false" tabindex="-1" aria-label="About">
+                        <span>about</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--1">
+                    <button class="h3__proxima" id="1" aria-expanded="false" tabindex="-1" aria-label="Admissions & Aid">
+                        <span>admissions &amp; aid</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--2">
+                    <button class="h3__proxima" id="2" aria-expanded="false" tabindex="-1" aria-label="Academics">
+                        <span>academics</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--3">
+                    <button class="h3__proxima" id="3" aria-expanded="false" tabindex="-1" aria-label="Life at CPP">
+                        <span>life at CPP</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small">
+            <ul class="row">
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="https://broncoathletics.com/" tabindex="-1">athletics</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/alumni/" tabindex="-1">alumni</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/news/" tabindex="-1">news &amp; events</a>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small-bottom">
+            <ul class="col-12 col-lg-6 side-nav__links--small-bottom">
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/prospective-student-gateway/" tabindex="-1">future students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/student-gateway/" tabindex="-1">current students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/family/" tabindex="-1">families</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/faculty-staff-gateway/" tabindex="-1">faculty &amp; staff</a>
+                </li>
+            </ul>
+            <ul class="col-12 col-lg-6 social-icons">
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.instagram.com/calpolypomona/" aria-label="Instagram" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.linkedin.com/school/cal-poly-pomona/" aria-label="LinkedIn " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.youtube.com/user/calpolypomona" aria-label="Youtube " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="Youtube" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.facebook.com/calpolypomona" aria-label="Facebook " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://twitter.com/calpolypomona" aria-label="X (Twitter)" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X" />
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </section>
+    <script src="/common/green-and-gold/assets/js/nav.js"></script>
+
+            <script>
+    
+                  
+                var mobileHtml = '<li class="col-6 nav__logo mobile"><a aria-label="Cal Poly Pomona Home" href="https://www.cpp.edu/" tabindex="0"><div class="nav__logo--horizontal"><img alt="Cal Poly Pomona Logo" src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png"/></div></a></li>';
+                $( "#main-logo" ).hide();
+                $( "#split-header #large-name" ).html('<a href="https://www.cpp.edu/academic-affairs/index.shtml">Academic Affairs</a>');
+                $( "#dept-header-desktop" ).removeClass("d-none");
+                $( "#dept-header-desktop" ).addClass("d-flex");
+                $( "#dept-header-desktop" ).parent().prepend(mobileHtml);
+                $( "#sub-name" ).html('<a href="/financial-aid/index.shtml">Financial Aid and Scholarships</a>');
+                $( "#sub-name" ).show();
+           
+        
+                
+     </script>
+
+    
+
+
+  
+
+
+  
+
+  
+              
+  
+            
+
+        
+           
+                           <code></code>
+           
+                            
+
+
+
+<header class="sub-nav">
+<nav class="container" id="subNavContainer">
+    <ul class="row sub-nav__links">
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Home <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/enrollment/" tabindex="0">Enrollment Management and Services</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/index.shtml" tabindex="0">Office of Financial Aid and Scholarships</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/admissions/index.shtml" tabindex="0">Office of Admissions</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/registrar/" tabindex="0">Registrar's Office</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/contact.shtml" tabindex="0">Contact Us</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Undergraduate <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/undergraduate/parent-and-family.shtml" tabindex="0">Parent &amp; Family Financial Aid Information</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/undergraduate/prospective/index.shtml" tabindex="0">Prospective Students</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/undergraduate/newly-admitted/index.shtml" tabindex="0">Newly Admitted Students</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/undergraduate/current/index.shtml" tabindex="0">Current Students</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Credentials <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/credentials/course-eligibility.shtml" tabindex="0">Financial Aid Course Eligibility</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/credentials/prospective/index.shtml" tabindex="0">Prospective Students</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/credentials/current/index.shtml" tabindex="0">Current Credential Students</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/credentials/newly-admitted/index.shtml" tabindex="0">Newly Admitted Students</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Graduate <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/graduate/course-eligibility.shtml" tabindex="0">Financial Aid Course Eligibility</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/graduate/prospective/index.shtml" tabindex="0">Prospective Students</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/graduate/newly-admitted-and-current/index.shtml" tabindex="0">Admitted &amp; Current Students</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Other Programs <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/other-programs/summer/index.shtml" tabindex="0">Summer Session</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/other-programs/veterans.shtml" tabindex="0">Veterans</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/other-programs/college-of-professional-and-global-education.shtml" tabindex="0">College of Professional and Global Education</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/other-programs/certificate-programs.shtml" tabindex="0">Certificate Programs</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/other-programs/cross-enrollment.shtml" tabindex="0">Cross Enrollment</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/other-programs/study-abroad.shtml" tabindex="0">Study Abroad</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Scholarships <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/scholarships/department-staff-and-faculty-information.shtml" tabindex="0">Information for Department Staff and Faculty</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/scholarships/cal-poly-pomona-scholarships.shtml" tabindex="0">Cal Poly Pomona Scholarships</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/scholarships/csu-systemwide-scholarships.shtml" tabindex="0">CSU Systemwide Scholarships</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/scholarships/outside-scholarships.shtml" tabindex="0">Outside Scholarships</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/scholarships/scholarship-faqs.shtml" tabindex="0">Scholarship FAQs</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Federal Work Study <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/federal-work-study/index.shtml" tabindex="0">Federal Work Study</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/federal-work-study/student-information.shtml" tabindex="0">Information for Students</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/federal-work-study/on-campus-employers-information.shtml" tabindex="0">Information for On Campus Employers</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/federal-work-study/faqs.shtml" tabindex="0">Frequently Asked Questions</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Resources <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/fafsa-simplification/index.shtml" tabindex="0">FAFSA Simplification</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/using-broncodirect-financial-aid-information.shtml" tabindex="0">Using BroncoDirect- Financial Aid Information</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/appeals.shtml" tabindex="0">Appeals</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/announcements.shtml" tabindex="0">Announcements</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/campus-resources.shtml" tabindex="0">Campus Resources</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/fafsa-dream-workshops.shtml" tabindex="0">FAFSA/CA Dream Act Workshops</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/financial-aid-policies.shtml" tabindex="0">Financial Aid Policies</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/financial-aid-outreach.shtml" tabindex="0">Financial Aid Presentations and Outreach Requests</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/financial-wellness.shtml" tabindex="0">Financial Wellness</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/faqs.shtml" tabindex="0">Frequently Asked Questions</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/heerf/index.shtml" tabindex="0">HEERF Student Aid</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/loan-information.shtml" tabindex="0">Loan Information</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/question-of-the-month.shtml" tabindex="0">Question of the Month</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/understanding-aid-program-limits.shtml" tabindex="0">Understanding Aid Program Limits</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/understanding-enrollment-requirements.shtml" tabindex="0">Understanding Enrollment Requirements</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/understanding-repeat-coursework-and-aid-eligibility.shtml" tabindex="0">Understanding Repeat Coursework and Aid Eligibility</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/understanding-return-of-federal-aid.shtml" tabindex="0">Understanding Return of Federal Aid Due to Withdrawals (R2T4)</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/understanding-sap.shtml" tabindex="0">Understanding SAP</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/understanding-state-university-grant-eligibility.shtml" tabindex="0">Understanding State University Grant Eligibility</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/understanding-unit-maximums.shtml" tabindex="0">Understanding Unit Maximums</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/understanding-verification.shtml" tabindex="0">Understanding Verification</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/aid-offer-notification.shtml" tabindex="0">Understanding Your Aid Offer and Next Steps</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/writing-a-successful-sap-appeal.shtml" tabindex="0">Writing a Successful SAP Appeal</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+</ul>
+
+<div class="row sub-nav__division-menu">
+    <div class="sub-nav__division"></div>
+        <div class="col-4 menu-button">
+        <button aria-expanded="false" aria-label="Site Menu" class="button button__primary--yellow-green button__proxima" data-dropdown-id="dropdownMenuBtn" id="dropdownMenuBtn">Menu
+             <span class="icon chevron">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" height="12" viewBox="0 0 19 12" width="19">
+            <g id="Atom / Icon / Expand Arrow / Small">
+            <path d="M2 2L9.5 9L17 2" id="Vector 2" stroke="none" stroke-width="3"/>
+            </g>
+            </svg>
+            </span>
+        </button>
+    </div>
+    <div class="sub-nav__dropdown hidden" id="dropdownMenu">
+       
+                       
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="1" tabindex="0">Home<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--1">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/enrollment/" tabindex="0">Enrollment Management and Services</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/index.shtml" tabindex="0">Office of Financial Aid and Scholarships</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/admissions/index.shtml" tabindex="0">Office of Admissions</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/registrar/" tabindex="0">Registrar's Office</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/contact.shtml" tabindex="0">Contact Us</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="2" tabindex="0">Undergraduate<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--2">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/undergraduate/parent-and-family.shtml" tabindex="0">Parent &amp; Family Financial Aid Information</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/undergraduate/prospective/index.shtml" tabindex="0">Prospective Students</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/undergraduate/newly-admitted/index.shtml" tabindex="0">Newly Admitted Students</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/undergraduate/current/index.shtml" tabindex="0">Current Students</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="3" tabindex="0">Credentials<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--3">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/credentials/course-eligibility.shtml" tabindex="0">Financial Aid Course Eligibility</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/credentials/prospective/index.shtml" tabindex="0">Prospective Students</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/credentials/current/index.shtml" tabindex="0">Current Credential Students</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/credentials/newly-admitted/index.shtml" tabindex="0">Newly Admitted Students</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="4" tabindex="0">Graduate<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--4">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/graduate/course-eligibility.shtml" tabindex="0">Financial Aid Course Eligibility</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/graduate/prospective/index.shtml" tabindex="0">Prospective Students</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/graduate/newly-admitted-and-current/index.shtml" tabindex="0">Admitted &amp; Current Students</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="5" tabindex="0">Other Programs<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--5">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/other-programs/summer/index.shtml" tabindex="0">Summer Session</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/other-programs/veterans.shtml" tabindex="0">Veterans</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/other-programs/college-of-professional-and-global-education.shtml" tabindex="0">College of Professional and Global Education</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/other-programs/certificate-programs.shtml" tabindex="0">Certificate Programs</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/other-programs/cross-enrollment.shtml" tabindex="0">Cross Enrollment</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/other-programs/study-abroad.shtml" tabindex="0">Study Abroad</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="6" tabindex="0">Scholarships<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--6">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/scholarships/department-staff-and-faculty-information.shtml" tabindex="0">Information for Department Staff and Faculty</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/scholarships/cal-poly-pomona-scholarships.shtml" tabindex="0">Cal Poly Pomona Scholarships</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/scholarships/csu-systemwide-scholarships.shtml" tabindex="0">CSU Systemwide Scholarships</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/scholarships/outside-scholarships.shtml" tabindex="0">Outside Scholarships</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/scholarships/scholarship-faqs.shtml" tabindex="0">Scholarship FAQs</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="7" tabindex="0">Federal Work Study<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--7">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/federal-work-study/index.shtml" tabindex="0">Federal Work Study</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/federal-work-study/student-information.shtml" tabindex="0">Information for Students</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/federal-work-study/on-campus-employers-information.shtml" tabindex="0">Information for On Campus Employers</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/federal-work-study/faqs.shtml" tabindex="0">Frequently Asked Questions</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="8" tabindex="0">Resources<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--8">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/fafsa-simplification/index.shtml" tabindex="0">FAFSA Simplification</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/using-broncodirect-financial-aid-information.shtml" tabindex="0">Using BroncoDirect- Financial Aid Information</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/appeals.shtml" tabindex="0">Appeals</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/announcements.shtml" tabindex="0">Announcements</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/campus-resources.shtml" tabindex="0">Campus Resources</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/fafsa-dream-workshops.shtml" tabindex="0">FAFSA/CA Dream Act Workshops</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/financial-aid-policies.shtml" tabindex="0">Financial Aid Policies</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/financial-aid-outreach.shtml" tabindex="0">Financial Aid Presentations and Outreach Requests</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/financial-wellness.shtml" tabindex="0">Financial Wellness</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/faqs.shtml" tabindex="0">Frequently Asked Questions</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/heerf/index.shtml" tabindex="0">HEERF Student Aid</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/loan-information.shtml" tabindex="0">Loan Information</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/question-of-the-month.shtml" tabindex="0">Question of the Month</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/understanding-aid-program-limits.shtml" tabindex="0">Understanding Aid Program Limits</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/understanding-enrollment-requirements.shtml" tabindex="0">Understanding Enrollment Requirements</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/understanding-repeat-coursework-and-aid-eligibility.shtml" tabindex="0">Understanding Repeat Coursework and Aid Eligibility</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/understanding-return-of-federal-aid.shtml" tabindex="0">Understanding Return of Federal Aid Due to Withdrawals (R2T4)</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/understanding-sap.shtml" tabindex="0">Understanding SAP</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/understanding-state-university-grant-eligibility.shtml" tabindex="0">Understanding State University Grant Eligibility</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/understanding-unit-maximums.shtml" tabindex="0">Understanding Unit Maximums</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/understanding-verification.shtml" tabindex="0">Understanding Verification</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/aid-offer-notification.shtml" tabindex="0">Understanding Your Aid Offer and Next Steps</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/writing-a-successful-sap-appeal.shtml" tabindex="0">Writing a Successful SAP Appeal</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+    </div>
+</div>
+
+
+
+
+</nav>
+<script type="text/javascript">
+    $(".button").attr("data-dropdown-id", "dropdownMenuBtn").on("click", function(event) {
+        var dropdownMenu = $("#dropdownMenu");
+        var nestedDropdownMenus = $(".sub-nav__nested-dropdown");
+        
+        if ($(this).attr("aria-expanded") === "false") {
+            $(this).attr("aria-expanded", "true");
+        } else {
+            $(this).attr("aria-expanded", "false");
+        }
+
+        toggleDropdown(dropdownMenu);;
+        
+        // close all nested dropdown menus if open
+        nestedDropdownMenus.each(function() {
+            if ($(this).hasClass("show")) {
+                $(this).removeClass("show");
+                $(this).addClass("hidden");
+            }
+        })
+    })
+    $(".sub-nav__nested-button").on("click", function(event) {
+        var currentButtonId = $(this).attr("id")
+        var nestedDropdownMenu = $(`#nestedDropdownMenu--${currentButtonId}`)
+        $(this).find(".chevron").toggleClass("active");
+
+        if ($(this).attr("aria-expanded") === "false") {
+            $(this).attr("aria-expanded", "true");
+        } else {
+            $(this).attr("aria-expanded", "false");
+        }
+
+        toggleDropdown(nestedDropdownMenu);
+    })
+    function toggleDropdown(menu) {
+        if (menu.hasClass("hidden")) {
+            menu.removeClass("hidden");
+            menu.addClass("show");
+            
+            //add click listener to check for clicks outside of the nav
+            //https://stackoverflow.com/questions/152975/how-do-i-detect-a-click-outside-an-element/3028037#3028037
+            $(document).click(function(event) { 
+                var $target = $(event.target);
+                if(!$target.closest('#subNavContainer').length) {
+                    closeDropdown(menu);
+                }
+            });
+            
+            //add listener for escape key
+            $(document).on('keydown', function(event) {
+                if (event.key == "Escape") {
+                    closeDropdown(menu);
+            }});
+        } else {
+            menu.removeClass("show");
+            menu.addClass("hidden");
+        }
+    }
+
+    function closeDropdown(menu) {
+        var dropdownMenu = $("#dropdownMenu");
+        var nestedDropdownMenus = $(".sub-nav__nested-dropdown");  
+        $(".button").attr("data-dropdown-id", "dropdownMenuBtn").attr("aria-expanded", "false");
+        nestedDropdownMenus.each(function() {
+            if ($(".button").attr("data-dropdown-id", "dropdownMenuBtn").hasClass("show")) {
+                $(".button").attr("data-dropdown-id", "dropdownMenuBtn").removeClass("show");
+                $(".button").attr("data-dropdown-id", "dropdownMenuBtn").addClass("hidden");
+            }
+        })
+        menu.removeClass("show");
+        menu.addClass("hidden");
+    }
+
+</script>
+</header>
+<div class="cqw-wrapper" id="main">
+ <div class="organism-spacer">
+    <section class="content-sub-page">
+        <div class="container">
+            <div class="row">
+                <div class="col-6 col-lg-8">
+                    <h1 class="h2__proxima content-sub-page__header">Resources</h1>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+
+        
+         
+ 
+        
+                
+                
+                    
+                        
+                                   
+                            <div class="organism-spacer cta-green-card__header spacer__padding-top--small spacer__padding-bottom--small">
+                                <section class="standard-text body2 cta-green-card" id="content-section-1">
+                        <div class="container">
+                            <div class="row">
+                               
+                                     <header class="cta-green-card__header text-start col-12 col-sm-8">
+                                                                        <h2 class="h4__proxima">Understanding SAP</h2>
+                                                                </header>
+                            </div>
+                            <div class="row">
+                                <div class="body2 text-start col-12 col-sm-8"><p><span class="TextRun SCXW222505858 BCX0" data-contrast="auto" lang="EN" xml:lang="EN"><span class="NormalTextRun SCXW222505858 BCX0"><span>To remain eligible for financial aid</span><span> money &#8212; grants, work-study funds&#160;and student loans &#8212; students must meet certain standards in the classroom. In financial aid speak, those standards are called satisfactory academic progress (SAP) for financial aid applicants. </span></span></span></p>
+<p><span class="TextRun SCXW222505858 BCX0" data-contrast="auto" lang="EN" xml:lang="EN"><span class="NormalTextRun SCXW222505858 BCX0"><span><span class="EOP SCXW222505858 BCX0" data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">As a student, it is not only important to know what this is, but to also be aware of how it can affect you.</span> Below is an overview of SAP at Cal Poly Pomona and how to appeal if you&#8217;re not meeting the required standards.</span></span></span></p>
+<p><span class="EOP SCXW222505858 BCX0" data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"><em>Always remember that if you need help or feel as though you are unable to meet the SAP Standards there may be resources at Cal Poly Pomona and within the community that can assist you in improving your situation.</em></span></p></div>  
+                            </div>
+                       </div>
+                    </section>
+                </div>
+                                          
+                    
+        
+
+
+        
+         
+ 
+        
+                                
+        
+                <div class="organism-spacer spacer__padding-top--small spacer__padding-bottom--small">
+            <section class="faq">
+                <div class="container">
+                    <div class="row">
+                        <header class="faq__header col-lg-9">
+                            <h2 class="h5__proxima">Satisfactory Academic Progress (SAP) FAQs</h2><br/>
+                            <p class="body2"></p>
+                        </header>
+                        <div class="accordion__items col-lg-9">
+                            
+                                                                                    
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="Basic Overview " class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">Basic Overview </h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p><span data-contrast="auto"><span class="TextRun SCXW222505858 BCX0" data-contrast="auto" lang="EN" xml:lang="EN"><span class="NormalTextRun SCXW222505858 BCX0">You need to make <span _ngcontent-fdd-c17="" class="d-inline-block">satisfactory academic progress</span> (SAP) in order to continue receiving federal student aid, California State aid, and Cal Poly Pomona Institutional aid. In other words, you have to make good enough grades, and complete enough classes (credits/units), to keep moving toward successfully completing your degree or certificate in a specified time period.</span></span></span></p>
+<ul>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="&#61623;" data-listid="3"><span data-contrast="auto">SAP is measured for any student at C</span><span data-contrast="auto">al Poly Pomona</span><span data-contrast="auto">&#160;who applies for financial aid.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:240,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"></span></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="&#61623;" data-listid="3"><span data-contrast="auto">SAP monitors your academic work in three categories: GPA, Pace (</span><span data-contrast="auto">units</span><span data-contrast="auto">&#160;completed vs.&#160;&#160;</span><span data-contrast="auto">unit</span><span data-contrast="auto">s attempted), and Maximum Time Frame (overall&#160;</span><span data-contrast="auto">units</span><span data-contrast="auto">&#160;taken towards your degree)</span></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="&#61623;" data-listid="3"><span data-ccp-props="{&quot;134233279&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"></span><span data-contrast="auto">SAP is monitor</span><span data-contrast="auto">ed at the end of every semester, once the Registrar's Office has completed their grading and semester-end process.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="&#61623;" data-listid="3"><span data-contrast="auto">Your SAP status is calculated using your entire academic record from all schools attended,&#160;</span><i><span data-contrast="auto">even if you did not receive financial aid.</span></i></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="&#61623;" data-listid="3"><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"></span><span data-contrast="auto">The first time you</span><span data-contrast="auto">&#160;fail to meet </span><span data-contrast="auto">either the Pace or GPA Standard</span><span data-contrast="auto">, you will&#160;</span><span data-contrast="auto">be placed on Financial Aid Warning for your next semester of enrollment. </span><span data-contrast="auto">This&#160;</span><span data-contrast="auto">warning status</span><span data-contrast="auto">&#160;still allows you t</span><span data-contrast="auto">o receive aid for that next semester of enrollment</span><span data-contrast="auto">, while attempting to correct the deficiency in your GPA and/or Pace.</span></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="&#61623;" data-listid="3"><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"></span><span data-contrast="auto">If you fail to meet the standards for two consecutive semesters (Pace and/or GPA), you will be considered Financial Aid Disqualified. You can appeal the loss of eligibility, but approval is not guaranteed.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"></span></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="&#61623;" data-listid="3"><span data-contrast="auto">A</span><span data-contrast="auto">&#160;SAP /</span><span data-contrast="auto">&#160;</span><strong>Financial Aid Disqualification&#160;has&#8239;no impact on&#160;your ability to&#160;regist</strong><span data-contrast="auto"><strong>er</strong>.</span><span data-contrast="auto"> </span><span data-contrast="auto"></span><span data-contrast="auto">You&#8239;may still enroll in classes and pay</span><span data-contrast="auto">&#160;out-of-pocket or with private</span><span data-contrast="auto">&#160;loans.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="&#61623;" data-listid="3"><span data-contrast="auto">You may regain finan</span><span data-contrast="auto">cial aid eligibility after a SAP / Financial Aid Disqualification</span><span data-contrast="auto">&#160;by either meeting the standards through your academic work in future semesters&#160;</span><strong><i><span data-contrast="auto">OR</span></i></strong><span data-contrast="auto">&#160;by having an approved SAP appeal.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="&#61623;" data-listid="3"><span data-contrast="auto">Failing to meet&#160;</span><span data-contrast="auto">the Maximum Time Frame Standard results in an immediate loss of further aid eligibility. You can appeal the loss of eligibility, but approval is not guaranteed.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span></li>
+</ul></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="The SAP Standards " class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">The SAP Standards </h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p><span data-contrast="auto">SAP monitors your academic progress in three categories: GPA, Pace of Progress and Maximum Time Frame. SAP is evaluated at the end of every&#160;</span><span data-contrast="auto">semester, once</span><span data-contrast="auto">&#160;grades have been finalized and posted.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span></p>
+<p><span data-contrast="auto">&#8239;The minimum SAP requirements are listed in the chart below.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span></p>
+<h3><span style="font-size: 14pt;"><strong>SAP Standards Information</strong>&#160;</span></h3>
+<table class="table" style="width: 740px;"><caption>SAP Standards Information</caption>
+<thead>
+<tr>
+<th style="background-color: #f2f2f2; width: 176px;"><strong><span data-contrast="auto">Academic Objective (Degree)</span></strong></th>
+<th style="background-color: #f2f2f2; width: 107px;"><strong><span data-contrast="auto">Minimum Cumulative GPA</span></strong><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:2,&quot;335551620&quot;:2,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span></th>
+<th style="background-color: #f2f2f2; width: 170px;"><strong><span data-contrast="auto">Minimum Cumulative Pace of&#160;</span></strong><strong><span data-contrast="auto">Progress</span></strong><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:2,&quot;335551620&quot;:2,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span></th>
+<th style="background-color: #f2f2f2; width: 218.007px;"><strong><span data-contrast="auto">Maximum Time Frame</span></strong><strong><span data-contrast="auto">&#160;of Aid Eligibility for Degree Completion</span></strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="width: 176px;"><span data-contrast="auto">Undergraduate (1</span><span data-contrast="auto">st</span><span data-contrast="auto">&#160;Bachelors)</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:2,&quot;335551620&quot;:2,&quot;335559738&quot;:120,&quot;335559739&quot;:120,&quot;335559740&quot;:276}">&#160;</span></td>
+<td style="width: 107px;"><span data-contrast="auto">2.0</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:2,&quot;335551620&quot;:2,&quot;335559738&quot;:120,&quot;335559739&quot;:120,&quot;335559740&quot;:276}">&#160;</span></td>
+<td style="width: 170px;"><span data-contrast="auto">66.67</span><span data-contrast="auto"></span><span data-contrast="auto">%</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:2,&quot;335551620&quot;:2,&quot;335559738&quot;:120,&quot;335559739&quot;:120,&quot;335559740&quot;:276}">&#160;</span></td>
+<td style="width: 218.007px;"><span data-contrast="auto">150% of published degree length &#8211; measured in attempted units</span> &#160;</td>
+</tr>
+<tr>
+<td style="width: 176px;"><span data-contrast="auto">Teaching Credential, Certificate, Additional Bachelors&#8217; Degree</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:2,&quot;335551620&quot;:2,&quot;335559738&quot;:120,&quot;335559739&quot;:120,&quot;335559740&quot;:276}">&#160;</span></td>
+<td style="width: 107px;"><span data-contrast="auto">3</span><span data-contrast="auto">.</span><span data-contrast="auto">0</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:2,&quot;335551620&quot;:2,&quot;335559738&quot;:120,&quot;335559739&quot;:120,&quot;335559740&quot;:276}">&#160;</span></td>
+<td style="width: 170px;"><span data-contrast="auto">66.67</span><span data-contrast="auto"></span><span data-contrast="auto">%</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:2,&quot;335551620&quot;:2,&quot;335559738&quot;:120,&quot;335559739&quot;:120,&quot;335559740&quot;:276}">&#160;</span></td>
+<td style="width: 218.007px;"><span data-contrast="auto">150% of published degree length &#8211; measured in attempted units</span>&#160;</td>
+</tr>
+<tr>
+<td style="width: 176px;"><span data-contrast="auto">Graduate Degree (Master&#8217;s, Doctorate)</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:2,&quot;335551620&quot;:2,&quot;335559738&quot;:120,&quot;335559739&quot;:120,&quot;335559740&quot;:276}">&#160;</span></td>
+<td style="width: 107px;"><span data-contrast="auto">3.0</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:2,&quot;335551620&quot;:2,&quot;335559738&quot;:120,&quot;335559739&quot;:120,&quot;335559740&quot;:276}">&#160;</span></td>
+<td style="width: 170px;"><span data-contrast="auto">66.67</span><span data-contrast="auto"></span><span data-contrast="auto">%</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:2,&quot;335551620&quot;:2,&quot;335559738&quot;:120,&quot;335559739&quot;:120,&quot;335559740&quot;:276}">&#160;</span></td>
+<td style="width: 218.007px;"><span data-contrast="auto">150% of published degree length &#8211; measured in attempted units</span></td>
+</tr>
+</tbody>
+</table>
+<h4><span style="font-size: 12pt;"><strong>Cumulative GPA</strong></span></h4>
+<p><span data-contrast="auto">Includes all courses transferred into the university and taken at C</span><span data-contrast="auto">al Poly Pomona</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span></p>
+<h4><span style="font-size: 12pt;"><strong>Pace of Progress</strong></span></h4>
+<p><span data-contrast="auto">Measured by comparing the total number of&#160;</span><span data-contrast="auto">units</span><span data-contrast="auto">&#160;that you have completed by the total number of&#160;</span><span data-contrast="auto">units</span><span data-contrast="auto">&#160;attempted. If your Pace percentage is below 66.67</span><span data-contrast="auto"></span><span data-contrast="auto">%, you will be considered to not meet the Pace of Progress.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span></p>
+<ul>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="&#61623;" data-listid="19"><span data-contrast="auto">Completed&#160;</span><span data-contrast="auto">Units</span><span data-contrast="auto">&#160;include the following grades: A, B, C, D, RP, or CR</span><span data-ccp-props="{&quot;134233279&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="2" data-font="Symbol" data-leveltext="&#61623;" data-listid="19"><span data-contrast="auto">Attempted&#160;</span><span data-contrast="auto">Units</span><span data-contrast="auto">&#160;include the following grades: W, WU,&#160;</span><span data-contrast="auto">WX,&#160;</span><span data-contrast="auto">F, I, NC, and RD (audits, military credit,&#160;</span><span data-contrast="auto">and&#160;</span><span data-contrast="auto">test credits are not included)</span><span data-ccp-props="{&quot;134233279&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"></span></li>
+</ul>
+<p><span data-contrast="auto">The first time you fail to meet any either the Pace or GPA Standard, you will be placed on Financial Aid Warning for your next semester of enrollment. This warning status still allows you to receive aid for that next semester of enrollment, while attempting to correct the deficiency in your GPA and/or Pace.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span></p>
+<h4><span style="font-size: 12pt;"><strong>Maximum Time Frame</strong></span></h4>
+<p><span data-contrast="auto">A student is eligible to receive financial aid for a maximum number of overall attempted credits for their primary program of study.&#8239;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span></p>
+<p><span data-contrast="auto"><em>Exclusions to Maximum Time Frame:</em> Remedial / pre-baccalaureate coursework, test credits</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span></p>
+<ul>
+<li><span data-contrast="auto">Please note: a maximum of 70 units of transferable credit from a 2-year institution may be accepted by&#160;</span><span data-contrast="auto">Cal Poly Pomona</span><span data-contrast="auto">. &#8239;&#8239;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">Any units in excess of 70 (from a 2-year institution only) will be excluded from the Maximum Time Frame calculation. <br/></span></li>
+</ul>
+<h3><span style="font-size: 14pt;"><strong>Changing Majors and Impact of Additional Academic Objectives</strong>&#160;</span></h3>
+<p><span data-contrast="auto">If you change majors, the&#160;</span><span data-contrast="auto">units&#160;</span><span data-contrast="auto">you earn under all majors will still be included in all three SAP Standards.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span></p>
+<ul>
+<li><span data-contrast="auto">Changing majors does not automatically &#8220;re-set&#8221; your SAP. All coursework from your original major continues to be included.&#160; You may submit an appeal to have your eligibility extended due to a change of major - and to have all courses taken for your previous major that cannot be applied to your current major excluded.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> <br/></span></li>
+<li><span data-contrast="auto">The pursuit of <em>additional academic objectives</em> (majors, minors, certificates) and the receipt of financial aid must be completed&#160;</span><i><span data-contrast="auto">within the units allowed for your &#8216;primary&#8217; academic objective (major)</span></i><span data-contrast="auto">. &#8239;&#8239;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span></li>
+</ul></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="Information Specific to Undergraduate Degree Students " class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">Information Specific to Undergraduate Degree Students </h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><h3><span style="font-size: 14pt;"><strong>Credit</strong><strong>s</strong><strong>&#160;and Coursework that is&#160;</strong><strong>NOT INCLUDED</strong><strong>&#160;in the SAP Maximum Time Frame Calculation</strong>&#160;</span></h3>
+<p><span data-contrast="auto">Not</span><span data-contrast="auto">&#160;all credit posted to&#160;</span><span data-contrast="auto">a&#160;</span><span data-contrast="auto">student&#8217;s academic record can count toward the degree program requirements</span><span data-contrast="auto">. As a result,&#160;</span><span data-contrast="auto">the following exclusions/adjustments are made</span><span data-contrast="auto">&#160;with regards to the Maximum Time Frame Calculation</span><span data-contrast="auto">:&#160;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:120,&quot;335559740&quot;:276}">&#160;</span></p>
+<ul>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="&#61623;" data-listid="8"><strong><span data-contrast="auto">Remedial&#160;</span></strong><strong><span data-contrast="auto">/ Pre-Baccalaureate&#160;</span></strong><strong><span data-contrast="auto">coursework</span></strong><span data-contrast="auto">&#160;is excluded as it does not carry baccalaureate credit.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:120,&quot;335559740&quot;:276}">&#160;</span></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="2" data-font="Symbol" data-leveltext="&#61623;" data-listid="8"><strong><span data-contrast="auto">Test credit (AP, IB,&#160;</span></strong><strong><span data-contrast="auto">etc</span></strong><strong><span data-contrast="auto">) a</span></strong><strong><span data-contrast="auto">nd Military credit</span></strong><span data-contrast="auto">&#160;are excluded from the Maximum Time Frame and Pace calculations.&#160;</span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:120,&quot;335559740&quot;:276}">&#160;</span></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="3" data-font="Symbol" data-leveltext="&#61623;" data-listid="8"><strong><span data-contrast="auto">A maximum of 70 units of transferable credit from a 2-year institution</span></strong><span data-contrast="auto">&#160;is&#160;</span><span data-contrast="auto">included in the Maximum Time Frame Calculation&#160;</span><span data-contrast="auto">based on CSU and C</span><span data-contrast="auto">al Poly Pomona</span><span data-contrast="auto">&#160;policy.</span><span data-contrast="auto"> Any units from a 2-year institution that are in excess of 70 units will be excluded from the Maximum Time Frame calculation only.</span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:120,&quot;335559740&quot;:276}">&#160;</span></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="4" data-font="Symbol" data-leveltext="&#61623;" data-listid="8"><strong><span data-contrast="auto">Students with additional transfer credit</span></strong><span data-contrast="auto">&#160;not already excluded</span><span data-contrast="auto">&#160;in the&#160;</span><span data-contrast="auto">initial calculation <strong>may </strong></span><span data-contrast="auto"></span><strong><span data-contrast="auto">submit a request</span></strong><span data-contrast="auto">&#160;to have the credit(s) excluded&#160;</span><span data-contrast="auto">if it cannot be used to meet&#160;</span><strong><i><span data-contrast="auto">any</span></i></strong><span data-contrast="auto">&#160;</span>Cal Poly Pomona&#160;degree requirements including general electives.&#160;&#160;&#160;</li>
+</ul>
+<p><span data-contrast="auto">______</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span></p>
+<h3><span style="font-size: 14pt;"><strong>Changing Majors</strong>&#160;</span></h3>
+<p><span data-contrast="auto">If you c</span><span data-contrast="auto">hange majors, the&#160;</span><span data-contrast="auto">unit</span><span data-contrast="auto">s you earn under all majors will be included in your GPA calculation</span><span data-contrast="auto">, your Pace calculation,&#160;</span><span data-contrast="auto">as well a</span><span data-contrast="auto">s your&#160;</span><span data-contrast="auto">Maximum Time Frame attempted</span><span data-contrast="auto">&#160;units.&#160; <em><strong>Changing majors does not &#8220;re-set&#8221; your SAP</strong></em></span><em><strong>.&#160;&#160;</strong></em></p>
+<span data-contrast="auto">You may submit an appeal to have your eligibility extended due to a change of major - and to have all courses taken for your previous major that cannot be applied to your current major excluded.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> </span><br/>
+<p><strong><span data-contrast="auto">_____</span></strong><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span></p>
+<h3><span style="font-size: 14pt;"><strong>Impact of Additional Academic Objectives</strong><strong>&#160;on Maximum Time Frame&#160;</strong>&#160;</span></h3>
+<p><span data-contrast="auto">The Maximum Time Frame Standard is not increased to allow for the pursuit of additional objectives with the baccalaureate degree.&#160;&#160;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span></p>
+<p><span data-contrast="auto">Undergraduate students can pursue additional academic objectives (majors, minors, certific</span><span data-contrast="auto">ates) and receive financial aid; however they must complete all coursework&#160;</span><strong><i>within the units allowed for the &#8216;primary&#8217; academic major</i>.&#160;&#160;&#160;&#160;</strong></p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="Information Specific to Post-Baccalaureate Students " class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">Information Specific to Post-Baccalaureate Students </h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><h3><span style="font-size: 14pt;"><strong>Dual&#160;</strong><strong>Academic&#160;</strong><strong>Objective</strong>&#160;</span></h3>
+<p><span data-contrast="auto">For students that are&#160;</span><i><span data-contrast="auto">officially</span></i><span data-contrast="auto">&#160;pursuing a financial aid eligible credential or certificate concurrently with a Master&#8217;s</span><span data-contrast="auto">&#160;Degree p</span><span data-contrast="auto">rogram,&#160;</span><span data-contrast="auto">the&#160;</span><strong><span data-contrast="auto">Maximum Time Frame Standard</span></strong><span data-contrast="auto">&#160;will be&#160;</span><span data-contrast="auto">based on the combined sum of the minimum units</span><span data-contrast="auto">&#160;required of each program&#160;</span><span data-contrast="auto">you are <em>officially</em> pursuing and multiplied by 150% to determine your new Maximum Time Frame.</span><span data-contrast="auto"></span><span data-ccp-props="{&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span></p>
+<h3><span style="font-size: 14pt;"><strong>Impact of Lower Division (100</strong><strong>0</strong><strong>&#160;&#8211; 200</strong><strong>0</strong><strong>&#160;Level Courses) on SAP</strong>&#160;</span></h3>
+<p><span data-contrast="auto">Students who are pursuing a&#160;</span><strong><span data-contrast="auto">Credential, Certificate, Additional Bachelor&#8217;s Degree</span></strong><span data-contrast="auto">, or a&#160;</span><strong><span data-contrast="auto">Graduate Degree</span></strong><span data-contrast="auto">&#160;</span><span data-contrast="auto">may be required to complete&#160;</span><span data-contrast="auto">lower division coursework to</span><span data-contrast="auto">&#160;resolve pre-requisites or other necessary activities to complete their program of study. </span><span data-contrast="auto"></span><span data-contrast="auto">These lower division courses&#160;</span><span data-contrast="auto">impact the three SAP Standards</span><span data-contrast="auto">&#160;in the following ways</span><span data-contrast="auto">:</span><span data-ccp-props="{&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span></p>
+<h4><span style="font-size: 12pt;"><strong>GPA</strong></span></h4>
+<p><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:240}"></span><span data-contrast="auto">Your&#160;</span><span data-contrast="auto">GPA&#160;</span><span data-contrast="auto">is</span><span data-contrast="auto">&#160;calculated based upon 300</span><span data-contrast="auto">0</span><span data-contrast="auto">-level or higher coursewor</span><span data-contrast="auto">k taken after completion of your bachelor&#8217;s degree. Lower division coursework <strong>will not be factored into your&#160;</strong></span><strong>cumulative&#160;GPA</strong><span data-contrast="auto">.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"></span></p>
+<h4><span style="font-size: 12pt;"><strong>Pace&#160;</strong><strong>of Progress</strong></span></h4>
+<p><span data-contrast="auto"><strong>Any courses attempted at the 1000 or 2000 level will be considered attempted units</strong>, but not completed (irrespective of your final grade, as only 3000 level and higher coursework are considered for degree credit). </span><span data-contrast="auto"></span><strong><i><span data-contrast="auto">Th</span></i></strong><strong><i><span data-contrast="auto">is will negatively impact your PACE&#160;</span></i></strong><strong><i><span data-contrast="auto">measurement</span></i></strong><strong><i><span data-contrast="auto">.</span></i></strong><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"></span></p>
+<h4><span style="font-size: 12pt;"><strong>Maximum Time Frame</strong><strong>&#160;Standard</strong></span></h4>
+<p><span data-contrast="auto">The&#160;</span><span data-contrast="auto">M</span><span data-contrast="auto">aximum&#160;</span><span data-contrast="auto">Time F</span><span data-contrast="auto">rame is calculated using the published minimum degree requirements. If&#160;</span><span data-contrast="auto">lower division</span><span data-contrast="auto">&#160;coursework&#160;</span><span data-contrast="auto">(100</span><span data-contrast="auto">0</span><span data-contrast="auto">&#160;or 200</span><span data-contrast="auto">0</span><span data-contrast="auto">&#160;level courses)&#160;</span><span data-contrast="auto">is required to complete&#160;</span><span data-contrast="auto">your program of&#160;</span><span data-contrast="auto">study</span><span data-contrast="auto">&#160;it is expected that it will be accomplished within the 150% maximum timeframe.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span></p>
+<p><strong><span data-contrast="auto">NOTE</span></strong><strong><span data-contrast="auto">:</span></strong><span data-contrast="auto">&#160;To receive financial aid in any term, you must&#160;</span><span data-contrast="auto">be</span><span data-contrast="auto">&#160;enrolled at least half-time in courses</span><span data-contrast="auto">&#160;required to m</span><span data-contrast="auto">eet your</span><span data-contrast="auto"> degree or credential requirements&#160;</span><span data-contrast="auto">as specified in the catalog.&#160;</span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:240}">&#160;</span></p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="SAP Evaluations and SAP Statuses " class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">SAP Evaluations and SAP Statuses </h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p><span data-contrast="auto">SAP is monitor</span><span data-contrast="auto">ed at the end of every&#160;</span><span data-contrast="auto">semester, once</span><span data-contrast="auto">&#160;grades have been finalized and posted. You will receive an email notification&#160;</span><span data-contrast="auto">after each evaluation, notifying you of the results and your SAP Status.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:240,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span></p>
+<h3><span style="font-size: 14pt;"><strong>SAP Statuses Information</strong>&#160;</span></h3>
+<table class="table" style="width: 743px;"><caption>SAP Statuses Information</caption>
+<thead>
+<tr>
+<th style="background-color: #f2f2f2; width: 71px;"><strong><span data-contrast="auto">SAP Status</span></strong><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:2,&quot;335551620&quot;:2,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span></th>
+<th style="background-color: #f2f2f2; width: 261px;"><strong><span data-contrast="auto">Description</span></strong><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:2,&quot;335551620&quot;:2,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span></th>
+<th style="background-color: #f2f2f2; width: 218px;"><strong><span data-contrast="auto">Action Options</span></strong><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:2,&quot;335551620&quot;:2,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span></th>
+<th style="background-color: #f2f2f2; width: 228px;"><strong><span data-contrast="auto">Impact on Aid Eligibility</span></strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="width: 71px;"><strong><span data-contrast="auto">Meets SAP</span></strong><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:60,&quot;335559739&quot;:60,&quot;335559740&quot;:276}">&#160;</span></td>
+<td style="width: 261px;"><span data-contrast="auto">You meet all SAP Standards</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:60,&quot;335559739&quot;:60,&quot;335559740&quot;:276}">&#160;</span></td>
+<td style="width: 218px;"><span data-contrast="auto">No Action Required</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:60,&quot;335559739&quot;:60,&quot;335559740&quot;:276}">&#160;</span></td>
+<td style="width: 228px;"><span data-contrast="auto">Eligible for Aid</span><span data-contrast="auto"></span></td>
+</tr>
+<tr>
+<td style="width: 71px;"><strong><span data-contrast="auto">Warning</span></strong><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:60,&quot;335559739&quot;:60,&quot;335559740&quot;:276}">&#160;</span></td>
+<td style="width: 261px;"><span data-contrast="auto">You did not meet one or more of the SAP Standards</span><span data-contrast="auto">&#160;(GPA or Pace)</span><span data-contrast="auto">&#160;after a semester of Meets SAP.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:60,&quot;335559739&quot;:60,&quot;335559740&quot;:276}">&#160;</span></td>
+<td style="width: 218px;"><span data-contrast="auto">No Action Required</span><span data-contrast="auto">&#160;-&#160;</span><span>&#160;<br/></span><span data-contrast="auto"><br/>Warning Status is for next semester of enrollment</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:60,&quot;335559739&quot;:60,&quot;335559740&quot;:276}">&#160;</span></td>
+<td style="width: 228px;"><span data-contrast="auto">Eligible for Aid</span><span data-contrast="auto"></span></td>
+</tr>
+<tr>
+<td style="width: 71px;"><strong><span data-contrast="auto">Not Meet</span></strong><strong><span data-contrast="auto">s</span></strong><strong><span data-contrast="auto">&#160;SAP</span></strong><span data-contrast="auto">&#160;</span><span>&#160;<br/></span><span data-contrast="auto">(Financial Aid D</span><span data-contrast="auto">isqualified)</span></td>
+<td style="width: 261px;"><span data-contrast="auto">You did not meet one or</span><span data-contrast="auto">&#160;more of the SAP Standards&#160;</span><span data-contrast="auto">(GPA, Pace)&#160;</span><span data-contrast="auto">after a Warning Semester <strong>OR </strong></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:60,&quot;335559739&quot;:60,&quot;335559740&quot;:276}"></span><span data-contrast="auto">You have exceed the Maximum Time Frame</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:60,&quot;335559739&quot;:60,&quot;335559740&quot;:276}">&#160;</span></td>
+<td style="width: 218px;"><span data-contrast="auto">Submit an Appeal</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:60,&quot;335559739&quot;:60,&quot;335559740&quot;:276}">&#160;</span><strong><i><span data-contrast="auto">OR</span></i></strong><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:60,&quot;335559739&quot;:60,&quot;335559740&quot;:276}">&#160;</span><span data-contrast="auto">Continue to enroll without aid &amp; work to improve SAP Status through academic work&#160;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:60,&quot;335559739&quot;:60,&quot;335559740&quot;:276}">&#160;</span></td>
+<td style="width: 228px;">&#160;<span data-contrast="auto">Not Eligible for Aid</span></td>
+</tr>
+<tr>
+<td style="width: 71px;"><strong><span data-contrast="auto">Probation&#160;<br/></span></strong>(Financial Aid Probation)</td>
+<td style="width: 261px;"><span data-contrast="auto">SAP Appeal Approved</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:60,&quot;335559739&quot;:60,&quot;335559740&quot;:276}">&#160;</span><span data-contrast="auto"></span></td>
+<td style="width: 218px;"><span data-contrast="auto">Probation status is for next semester of enrollment&#160;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:60,&quot;335559739&quot;:60,&quot;335559740&quot;:276}">&#160;</span><span data-contrast="auto"></span></td>
+<td style="width: 228px;"><span data-contrast="auto">Eligible for Aid</span><span data-contrast="auto"></span></td>
+</tr>
+<tr>
+<td style="width: 71px;"><strong><span data-contrast="auto">Not Meets&#160;SAP&#160;<br/></span></strong>(After Probation Semester)&#160;</td>
+<td style="width: 261px;"><span data-contrast="auto">You did not meet one or more of the SAP Standards (GPA, Pace) after your Probation Semester</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:60,&quot;335559739&quot;:60,&quot;335559740&quot;:276}">&#160;</span></td>
+<td style="width: 218px;"><span data-contrast="auto">Submit an Appeal &#8211; which must include an Academic Plan</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:60,&quot;335559739&quot;:60,&quot;335559740&quot;:276}">&#160;</span><strong><i><span data-contrast="auto">OR&#160;</span></i></strong><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:60,&quot;335559739&quot;:60,&quot;335559740&quot;:276}">&#160;</span><span data-contrast="auto">Continue to enroll without aid &amp; work to improve SAP Status through academic work</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:60,&quot;335559739&quot;:60,&quot;335559740&quot;:276}">&#160;</span></td>
+<td style="width: 228px;">&#160;<span data-contrast="auto">Not Eligible for Aid</span></td>
+</tr>
+<tr>
+<td style="width: 71px;"><strong><span data-contrast="auto">Probation&#160;<br/></span></strong>(Financial Aid Probation with Academic Plan)&#160;</td>
+<td style="width: 261px;"><span data-contrast="auto">SAP Appeal with Academic Plan Approved</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:60,&quot;335559739&quot;:60,&quot;335559740&quot;:276}">&#160;</span></td>
+<td style="width: 218px;"><span data-contrast="auto">Probation status is for next semester of enrollment; you must f</span><span data-contrast="auto">ollow Academic Plan requirements</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:60,&quot;335559739&quot;:60,&quot;335559740&quot;:276}">&#160;</span></td>
+<td style="width: 228px;"><span data-contrast="auto">Eligible for Aid</span><span data-contrast="auto"></span></td>
+</tr>
+<tr>
+<td style="width: 71px;"><strong><span data-contrast="auto">Meets SAP&#160;</span></strong>(with Academic Plan)&#160;</td>
+<td style="width: 261px;"><span data-contrast="auto">You are on an Approved Academic Plan as part of your last SAP Appeal.&#160; Although not meeting the SAP Standards, you are adhering to the terms of your Plan</span><span data-contrast="auto">.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:60,&quot;335559739&quot;:60,&quot;335559740&quot;:276}">&#160;</span></td>
+<td style="width: 218px;"><span data-contrast="auto">Follow Academic Plan requirements</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:60,&quot;335559739&quot;:60,&quot;335559740&quot;:276}">&#160;</span></td>
+<td style="width: 228px;"><span data-contrast="auto">Eligible for Aid</span><span data-contrast="auto"></span></td>
+</tr>
+<tr>
+<td style="width: 71px;"><strong><span data-contrast="auto">Not Meets&#160;SAP&#160;<br/></span></strong>(Did not Adhere to Academic Plan)&#160;</td>
+<td style="width: 261px;"><span data-contrast="auto">You were on an Approved Academic Plan as part of your last SAP Appeal.&#160; You did not follow the&#160;</span><span data-contrast="auto">requirements of the Academic Plan and are not meeting the SAP standards.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:60,&quot;335559739&quot;:60,&quot;335559740&quot;:276}">&#160;</span></td>
+<td style="width: 218px;"><span data-contrast="auto">Submit an Appeal &#8211; which must include a NEW Academic Plan&#160;<strong><i>OR </i></strong>Continue to enroll without aid &amp; work to improve SAP Status through academic work&#160;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:60,&quot;335559739&quot;:60,&quot;335559740&quot;:276}"></span></td>
+<td style="width: 228px;"><span data-contrast="auto">Not Eligible for Aid</span><span data-contrast="auto"></span></td>
+</tr>
+</tbody>
+</table></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="Reinstatement of Financial Aid / Regaining Eligibility  " class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">Reinstatement of Financial Aid / Regaining Eligibility  </h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p><span data-contrast="auto">A student that fails to meet the SAP requirements and&#160;</span><span data-contrast="auto">has a SAP Status of&#160;</span><span data-contrast="auto">"Not Meets SAP</span><span data-contrast="auto">,</span><span data-contrast="auto">" will have financial aid eligibility reinstated when&#160;</span><span data-contrast="auto">he or she</span><span data-contrast="auto">&#160;meets all three SAP&#160;</span><span data-contrast="auto">standards, or submits a SAP Appeal that is successfully approved.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:240,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span></p>
+<p><span data-contrast="auto">Paying out of pocket for classes or sitting out a semester is not grounds for reinstatement of aid. Students must bring their academic progress back into compliance or have an appeal approved to have aid eligibility reinstated.&#8239;&#160;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span></p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="SAP Disqualification and Eligibility " class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">SAP Disqualification and Eligibility </h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p><strong>S</strong><span data-contrast="auto"><strong>AP and Financial Aid Disqualification has no impact on your ability to register</strong>.&#160; You may still enroll in classes and pay out-of-pocket or with private loans.&#160;&#160;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:240,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span></p>
+<p><span data-contrast="auto">You may regain financial aid eligibility after&#160;</span><span data-contrast="auto">a</span><span data-contrast="auto">&#160;SAP Disqualification by either meeting the sta</span><span data-contrast="auto">ndards through your academic work in future semesters OR by having an approved SAP appeal.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:240,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span></p>
+<p><span data-contrast="auto">S</span><span data-contrast="auto">tudents&#160;</span><span data-contrast="auto">with a status of&#160;</span><strong><i><span data-contrast="auto">Not Meet</span></i></strong><strong><i><span data-contrast="auto">s</span></i></strong><strong><i><span data-contrast="auto">&#160;</span></i></strong><span data-contrast="auto">may appeal th</span><span data-contrast="auto">eir</span><span data-contrast="auto">&#160;</span><span data-contrast="auto">status&#160;</span><span data-contrast="auto">to the&#160;</span><span data-contrast="auto">Cal Poly Pomona Office of Financial Aid &amp; Scholarships.&#160; An appeal must be based on extenuating circumstances.&#160;&#160; Supporting documentation may be requested&#160;</span><span data-contrast="auto">and/or required as part of your appeal (depending on your circumstances).&#160;&#160;</span><span data-contrast="auto">Appeals are available through the Financial Aid Student Forms&#160;</span><span data-contrast="auto">Portal, and</span><span data-contrast="auto">&#160;will also appear on your To Do List.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:240,&quot;335559739&quot;:240,&quot;335559740&quot;:276}">&#160;</span></p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="SAP Appeal " class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">SAP Appeal </h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p><span data-contrast="auto">Students </span><span data-contrast="auto">with a status of </span><strong><i><span data-contrast="auto">Not Meet</span></i></strong><strong><i><span data-contrast="auto">s</span> </i></strong><strong><i><span data-contrast="auto">SAP</span> </i></strong><span data-contrast="auto">may appeal th</span><span data-contrast="auto">eir </span><span data-contrast="auto"></span> <span data-contrast="auto">status </span><span data-contrast="auto">to the </span><span data-contrast="auto">Cal Poly Pomona Office of&#160;</span> <span data-contrast="auto">Financial Aid&#160;</span> <span data-contrast="auto">&amp; Scholarships</span>.<span data-contrast="auto"></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:240,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"></span></p>
+<span data-contrast="auto">An appeal must be based on </span><span data-contrast="auto">extenuating</span> <span data-contrast="auto">circumstances.</span> <span data-contrast="auto">Supporting documentation may be requested and/or required as part of your appeal (depending on your circumstances).&#160; Circumstances for appeals include, but are not limited to:</span> <span data-ccp-props="{&quot;134233279&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span>
+<ul>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="&#61623;" data-listid="6"><span data-contrast="auto">Illness, accident, or injury experienced by you or a significant per</span><span data-contrast="auto">son in your life.&#160;</span> <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="&#61623;" data-listid="6"><span data-contrast="auto">Death of a family member or significant person in your life.&#160;</span> <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="&#61623;" data-listid="6"><span data-contrast="auto">Divorce experienced by you or parent.&#160;</span> <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="&#61623;" data-listid="6"><span data-contrast="auto">Significant trauma in </span><span data-contrast="auto">your </span><span data-contrast="auto">life that impaired </span>y<span data-contrast="auto">our</span> <span data-contrast="auto">emotional and/or physical health.&#160;</span> <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="&#61623;" data-listid="6"><span data-contrast="auto">Other significant unexpected and documented circumstances beyond&#160;</span> <span data-contrast="auto">your control.</span> <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}"> <br/> </span></li>
+</ul>
+<p><strong> <span data-contrast="auto">Changes in major and double majors are not viewed as extenuating circumstances, </span> </strong>since the standard is quite generous in the time frame allowed to complete a degree.&#160;</p>
+<p><span data-contrast="auto">To appeal your failure to meet SAP due to any of these or similar personal issues, submit the C</span><span data-contrast="auto">al Poly Pomona</span> <span data-contrast="auto">SAP Appeal form </span><span data-contrast="auto">assigned to you in the Financial Aid Student Forms Portal</span>. <span data-contrast="auto"></span></p>
+<p><span data-contrast="auto">In your appeal, you must:</span> <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span></p>
+<ul>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="&#61623;" data-listid="6"><span data-contrast="auto">Explain how the circumstances prevented you from meeting SAP.&#8239;</span> <span data-ccp-props="{&quot;134233279&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="2" data-font="Symbol" data-leveltext="&#61623;" data-listid="6"><span data-contrast="auto">Explain what has changed in your situation that would allow you to demonstrate satisfactory academic progress at the next evaluation</span><span data-contrast="auto">. This includes detailing any </span><span data-contrast="auto">action you are taking to ensure you will meet SAP standards.&#8239;</span> <span data-ccp-props="{&quot;134233279&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span></li>
+</ul>
+<p><span data-contrast="auto">If your appeal is approved, you will be placed on Financial Aid Probation for the next semester of enrollment. If your aid was previously canceled, it will be reinstated based on funds available at that time. Therefore, your best interest is served by submitting an appeal as soon as you receive your suspension notice.</span></p>
+<h3><span style="font-size: 14pt;"><strong>Appeal Deadlines</strong>&#160; </span></h3>
+<p>Be sure to submit your appeal early, before the start of the term, so you can receive a timely decision, allowing you to plan accordingly.</p>
+<p><strong>The SAP Appeal deadlines are: </strong></p>
+<p><strong>Summer 2023 sessions: June 30, 2023</strong></p>
+<p><strong>Fall 2023 semester: November 1, 2023</strong></p>
+<p><strong>Spring 2024 semester: April 1, 2024</strong></p>
+<p>Appeals may not be accepted after the deadline has passed. Complete the online form and submit any supporting or required documents (including an academic plan) to ensure your appeal is received on time.</p>
+<p>If you do not submit your appeal in a timely manner, and your appeal is denied after the term has started, you will be responsible for any and all costs incurred, including any costs related to a decision to withdraw from the semester.</p>
+<h3><span style="font-size: 14pt;"> <strong>Approved Appeals</strong>&#160; </span></h3>
+<p><span data-contrast="auto">If your appeal is approved, you will be </span><span data-contrast="auto">placed on Financial Aid Probation for your next semester of enrollment. </span><span data-contrast="auto">At the conclusion of </span><span data-contrast="auto">your Financial Aid Probation</span><span data-contrast="auto"> term, you must be meeting</span> <span data-contrast="auto">C</span><span data-contrast="auto">al Poly Pomona</span><span data-contrast="auto">&#8217;s</span> <span data-contrast="auto">SAP st</span><span data-contrast="auto">andards </span><span data-contrast="auto">in order to</span> <span data-contrast="auto"></span> <span data-contrast="auto">remain eligible for</span> <span data-contrast="auto">further financial aid.</span> <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span></p>
+<p><span data-contrast="auto">NOTE:&#160; Receiving a grade </span><span data-contrast="auto">of F, W, W</span><span data-contrast="auto">U</span><span data-contrast="auto">, </span><span data-contrast="auto">WX, </span><span data-contrast="auto">I, </span><span data-contrast="auto">NC</span> <span data-contrast="auto">or</span><span data-contrast="auto"> RD </span><span data-contrast="auto">during your Financial Aid Probation semester</span> <span data-contrast="auto">&#160;</span> <span data-contrast="auto">will </span><span data-contrast="auto">most likely cause you to not meet the SAP Standards at the end of your Probation term.&#160;</span> <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span></p>
+<h3><span style="font-size: 14pt;"> <strong>Denied Appeals</strong>&#160; </span></h3>
+<p><span data-contrast="auto">If your appeal is denied, you will not be eligible for financial aid until you are able to meet the SAP Standards&#160;</span> <span data-contrast="auto">your academic work in future semesters</span><span data-contrast="auto">.</span> <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span></p>
+<h4><span style="font-size: 12pt;"> <strong>Appeal of Denial</strong> <strong>&#160;(2</strong><strong>nd</strong> <strong>Level Appeal)</strong>&#160; </span></h4>
+<p><span data-contrast="auto">If you</span> <span data-contrast="auto"></span> <span data-contrast="auto">wish</span> <span data-contrast="auto">to challenge the denial of your appeal:</span> <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span></p>
+<ul>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="3" data-font="Calibri" data-leveltext="-" data-listid="10"><span data-contrast="auto">Your challenge must be submitted in writing to the </span><span data-contrast="auto">Associate </span><span data-contrast="auto">Director of Financial Aid</span> <span data-ccp-props="{&quot;134233279&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="3" data-font="Calibri" data-leveltext="-" data-listid="10"><span data-contrast="auto">You </span><span data-contrast="auto">must provide a clear written rationale for </span><span data-contrast="auto">your</span> <span data-contrast="auto">challenge </span><span data-contrast="auto">of the denial&#160;</span> <span data-ccp-props="{&quot;134233279&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="3" data-font="Calibri" data-leveltext="-" data-listid="10"><span data-contrast="auto">Your challenge must be submitted </span><span data-contrast="auto">within two weeks of </span><span data-contrast="auto">when you were notified of the ap</span><span data-contrast="auto">peal denial</span> <span data-ccp-props="{&quot;134233279&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span></li>
+</ul>
+<p><span data-contrast="auto">The </span><span data-contrast="auto">Associate </span><span data-contrast="auto">Director </span><span data-contrast="auto">of Financial Aid </span><span data-contrast="auto">will consult with the </span><span data-contrast="auto">Director of Financial Aid, as well as the&#160;</span> <span data-contrast="auto">Associate Vice Presidents of Enrollment Services, Academic Affairs, and/or Student Services, as appropriate in </span><span data-contrast="auto">evaluating, and </span><span data-contrast="auto">responding to</span><span data-contrast="auto">, your challenge</span><span data-contrast="auto">.</span> <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span></p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="Academic Plans " class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">Academic Plans </h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p><span data-contrast="auto">There are times when your appeal may require the submission of an Academic Plan.&#160; This generally occurs for the following:</span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:240}">&#160;</span></p>
+<ul>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="&#61623;" data-listid="20"><span data-contrast="auto">If you are appealing your status after failing to meet SAP during your SAP Probation semester.</span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233279&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:120,&quot;335559740&quot;:240}">&#160;</span></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="2" data-font="Symbol" data-leveltext="&#61623;" data-listid="20"><span data-contrast="auto">If, when reviewing your appeal, it is determined that even if your appeal is approved you will not be able to meet the GPA or the Pace Standard at the end of your Probation semester.</span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233279&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:120,&quot;335559740&quot;:240}">&#160;</span></li>
+</ul>
+<p><span data-contrast="auto">To develop your plan, you should meet with your Academic Advisor and discuss your circumstances, review your transcript and your goals, and prepare a manageable academic plan that will enable you to be successful academically and to return to meeting the SAP Standards at a specific point in the future.</span></p>
+<p><span data-contrast="auto">Following this plan successfully allows you to either regain aid eligibility by meeting SAP standards or by continuing to follow your plan through completion of your program of study.</span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:240}"> </span></p>
+<span data-contrast="auto">Progress is reviewed by the&#160;</span><span data-contrast="auto">Office of&#160;</span><span data-contrast="auto">Financial Aid&#160;</span><span data-contrast="auto">&amp; Scholarships</span><span data-contrast="auto">&#160;at the end of each&#160;</span><span data-contrast="auto">semester</span><span data-contrast="auto">. If</span><span data-contrast="auto">,</span><span data-contrast="auto">&#160;at the end of the&#160;</span><span data-contrast="auto">semester,</span><span data-contrast="auto">&#160;</span><span data-contrast="auto">you&#160;</span><span data-contrast="auto">make progress as stipulated in&#160;</span><span data-contrast="auto">your</span><span data-contrast="auto">&#160;academic plan,&#160;</span><span data-contrast="auto">your new&#160;</span><span data-contrast="auto">SAP status will&#160;</span><span data-contrast="auto">be Meets SAP&#160;</span><span data-contrast="auto">(</span><span data-contrast="auto">based on your adherence to your academic plan</span><span data-contrast="auto">)</span><span data-contrast="auto">.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}">&#160;</span>
+<p><span data-contrast="auto">If&#160;</span><span data-contrast="auto">you are&#160;</span><span data-contrast="auto">not making progress as stipulated in&#160;</span><span data-contrast="auto">your</span><span data-contrast="auto">&#160;academic plan,&#160;</span><span data-contrast="auto">your new SAP</span><span data-contrast="auto">&#160;status will change to&#160;</span><span data-contrast="auto">Not Meets SAP</span><span data-contrast="auto">&#160;(did not adhere to plan)</span><span data-contrast="auto">. You will not be eligible to receive aid unless you submit a new SAP Appeal &#8211; which must include a NEW Academic Plan.&#160; You may also choose to continue to enroll without aid &amp; work to improve SAP Status through academic work.&#160;</span></p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="University Resources  " class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">University Resources  </h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p><span data-contrast="auto">The&#160;</span><span data-contrast="auto">Office of&#160;</span><span data-contrast="auto">Financial Aid&#160;</span><span data-contrast="auto">&amp; Scholarships</span><span data-contrast="auto">&#160;encourages any student experiencing academic difficulties to utilize&#8239;academic services available at&#160;</span><span data-contrast="auto">C</span><span data-contrast="auto">al Poly Pomona</span><span data-contrast="auto">. These are valuable resources&#160;</span><span data-contrast="auto">that can</span><span data-contrast="auto">&#160;assist&#8239;you if you are struggling to maintain Satisfactory Academic Progress.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:240,&quot;335559739&quot;:120,&quot;335559740&quot;:276}">&#160;</span></p>
+<ul>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="&#61623;" data-listid="21"><a href="https://www.cpp.edu/lrc/"><span data-contrast="none">Tutoring Services and&#160;</span><span data-contrast="none">the Learning&#160;</span><span data-contrast="none">Resource</span><span data-contrast="none">&#160;</span><span data-contrast="none">Center</span></a><span data-ccp-props="{&quot;134233279&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:120,&quot;335559740&quot;:276}">&#160;</span></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="2" data-font="Symbol" data-leveltext="&#61623;" data-listid="21"><a href="https://www.cpp.edu/studentsuccess/bronco-advising-center/index.shtml"><span data-contrast="none">Bronco&#160;</span><span data-contrast="none">Advising</span><span data-contrast="none">&#160;Center</span></a><span data-ccp-props="{&quot;134233279&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:120,&quot;335559740&quot;:276}">&#160;</span></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="3" data-font="Symbol" data-leveltext="&#61623;" data-listid="21"><a href="https://www.cpp.edu/studentsuccess/oss/index.shtml"><span data-contrast="none">Office of Student Success</span></a><span data-ccp-props="{&quot;134233279&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:120,&quot;335559740&quot;:276}">&#160;</span></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="4" data-font="Symbol" data-leveltext="&#61623;" data-listid="21"><a href="https://www.cpp.edu/caps/index.shtml"><span data-contrast="none">C</span><span data-contrast="none">ounseling and Psychological Services (C</span><span data-contrast="none">AP</span><span data-contrast="none">S)</span></a><span data-ccp-props="{&quot;134233279&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:120,&quot;335559740&quot;:276}">&#160;</span></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="5" data-font="Symbol" data-leveltext="&#61623;" data-listid="21"><a href="https://www.cpp.edu/drc/index.shtml"><span data-contrast="none">Disab</span><span data-contrast="none">ility Resource Center</span></a></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="5" data-font="Symbol" data-leveltext="&#61623;" data-listid="21"><a href="https://www.cpp.edu/veterans/index.shtml"><span data-contrast="none">Veterans Resource Center</span></a><span data-ccp-props="{&quot;134233279&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:120,&quot;335559740&quot;:276}">&#160;</span></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="5" data-font="Symbol" data-leveltext="&#61623;" data-listid="21"><a href="https://www.cpp.edu/ssep/eop-home.shtml"><span data-contrast="none">Educational Opportunity Program (EOP) Office</span></a><span data-ccp-props="{&quot;134233279&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:120,&quot;335559740&quot;:276}">&#160;</span></li>
+</ul></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="Treatment of Specific Courses and Grades" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">Treatment of Specific Courses and Grades</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><span style="font-size: 12pt;"><strong>Repeat Coursework</strong></span>
+<p>If you repeat a course, credit hours for each registration will be added to a student&#8217;s attempted credit hours total. However, only the most recent grade received in the course will be included in the calculation of the cumulative GPA/qualitative measure.</p>
+<p>Note:&#160; Federal Financial Aid will pay for only one repeat of a previously passed course.</p>
+<span style="font-size: 12pt;"><strong>Withdrawal from Courses (W)</strong></span>
+<p>If a student withdraws from a course during the semester, after the add/drop period (when a grade of W begins to be assigned), the course credit hours will be added to his attempted credit hours total.</p>
+<p><strong>Unofficial Withdrawal from Courses (WU)</strong></p>
+<p>If a student unofficially withdraws from a course during the semester, the course credit hours will be added to his attempted credit hours total. Additionally, per CPP academic policy, the grade of WU is included in the calculation of the students GPA (as the equivalent of an F).</p>
+<p><strong>Retroactive Withdrawals (WX)</strong></p>
+<p>Courses with a Grade of WX are included as attempted units in the SAP calculation for Pace and Maximum Timeframe (as required by federal law).&#160;</p>
+<p><strong>Remedial (or Pre-Baccalaureatte) Courses</strong></p>
+<p>Credit hours for each remedial course a student takes are included in the calculation of attempted credit hours total in determining pace. Remedial courses are not included in the calculation of the GPA nor the Maximum Time Frame standards.&#160;</p>
+<p><strong>Incomplete Courses</strong></p>
+<p>Credit hours for incomplete courses are included in the calculation of a student&#8217;s attempted credit hours total, but not in the calculation of her GPA. When a grade is updated, it will be included in the GPA calculation and passing grades will be counted as completed hours.</p>
+<p><strong>Transfer Credits</strong></p>
+<p>Credit hours transferred from other schools that are accepted toward completion of the Cal Poly Pomona program count as hours attempted and hours completed. These are also factored into the Maximum Time Frame.</p>
+<p>A maximum of 70 units of transferable credit from a 2-year institution will be counted based on CSU and CPP Policy.</p>
+<p>Units from a 4 year institution are not limited to 70; however, transfer credit may be excluded by request if it cannot be used to meet any CPP Degree requirements (including general electives).</p>
+<p><strong>Audited Courses</strong></p>
+<p>Credits are not earned for audited courses. Therefore they are not included in the calculation of a student&#8217;s attempted credit hours total or the GPA Standard.</p>
+<p><strong>Pass/Fail Courses</strong></p>
+<p>Credit hours for pass/fail courses are included in the calculation of a student&#8217;s attempted credit hours total, but not in the calculation of the GPA.</p>
+<p><strong>Report In Progress</strong></p>
+<p>The "RP" symbol is used in connection with courses that extend beyond one academic semester. The symbol indicates that work in progress has been evaluated as satisfactory to date but that the assignment of a precise grade must await the completion of additional coursework.&#160;</p>
+<p>Courses with a grade of RP will be treated as units attempted and completed in the student&#8217;s Pace Standard, but not in the calculation of the GPA.</p>
+<p><strong>Report Delayed</strong></p>
+<p>The "RD" symbol may be used where a delay in the reporting of a grade is due to circumstances beyond the control of the student. The symbol may be assigned by the Registrar's Office only and, if assigned, shall be replaced by a substantive grading symbol as soon as possible upon submission of a Grade Change Form.</p>
+<p>Since no evaluation has been done as to the status of the coursework (satisfactory vs. unsatisfactory), courses with a grade of RD will be included in the calculation of a student&#8217;s attempted credit hours total (attempted but not completed), but not in the calculation of the GPA.</p>
+<p><strong>Undergraduate Courses at the Graduate Level</strong></p>
+<p>Undergraduate courses taken by graduate students do not earn graduate credit, and therefore, they are not included in the calculation of the GPA.&#160; However, credit hours for the courses are included in the calculation of the student&#8217;s attempted credit hours total (counted as attempted but not completed).</p>
+<p><strong>Changing Majors</strong></p>
+<p>If a student changes majors, the credit hours taken under all majors will be included in the calculation of the attempted credit hours total, the GPA calculation and the maximum timeframe for degree completion.&#160; A student may submit an appeal to have any courses taken under the previous major that cannot be applied to their current major excluded from the SAP Standards.</p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="Full SAP Policy " class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">Full SAP Policy </h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><span class="TextRun SCXW230599087 BCX0" data-contrast="auto" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW230599087 BCX0">To review C</span></span><span class="TextRun SCXW230599087 BCX0" data-contrast="auto" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW230599087 BCX0">al Poly Pomona</span></span><span class="TextRun SCXW230599087 BCX0" data-contrast="auto" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW230599087 BCX0">&#8217;s Official SAP Policy, please go to our <a href="financial-aid-policies.shtml">Financial Aid Policies</a> page.</span></span></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                         
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+        
+    
+            
+                
+                    
+               
+
+</div>
+
+
+    <div class="footer__gradient-section">
+<div class="container">
+<div class="row">
+
+     <div class="col-12 col-lg-4">
+        <h2 class="footer__gradient-header">Financial Aid and Scholarships</h2>
+      </div>
+      <div class="col-12 col-lg-8 footer__gradient-socials-wrapper">
+        <h3 class="footer__gradient-social-header button2__transducer">Follow Us:</h3>
+        <div class="footer__gradient-socials">
+              <a href="https://www.instagram.com/cpp.admissions/" target="_blank">
+            <span aria-live="assertive" class="screen-reader-text">Instagram opens a new window</span>
+            <img alt="Instagram" src="/common/green-and-gold/assets/icons/social/insta-reverse.svg"/>
+          </a>
+                               </div>
+ </div>
+ <style>
+    .footer__rip-wrapper {
+         background: none;
+     }
+ </style>
+        <script src="https://ai.ocelotbot.com/embed/standard/7b54fd2d-1135-40d3-9b64-110becef5e33" type="text/javascript"></script>
+
+
+
+
+</div>
+</div>
+</div>
+
+
+
+
+
+
+         
+<style>
+     @media screen and (min-width: 992px) {
+    .mini-footer .footer__socials-buttons {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}
+
+.mini-footer .button1__transducer {
+    font-size: 12px;
+    letter-spacing: .5px;
+}
+
+.mini-footer .button {
+	margin-top: 0;
+    padding: 8px 20px 8px 20px;
+
+}
+.mini-footer .footer-line {
+    border-top: thin solid #a4d65e;
+    margin-top: 39px;
+    padding-top: 15px;
+}
+ </style>
+<footer class="footer mini-footer">
+    <div class="footer__rip-wrapper">
+        <img class="footer__rip" alt="" src="/common/green-and-gold/assets/images/green-rip.svg" alt="Ripped green paper." />
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-2">
+                <div class="footer__logo-wrapper">
+                    <a href="/" aria-label="CPP Logo">
+                        <img class="footer__logo" src="/common/green-and-gold/assets/logos/cpp_primary_1c_gold_rgb.png" alt="Cal Poly Pomona logo, building with a palm tree." />
+                    </a>
+                </div>
+            </div>
+            <div class="col-12 col-lg-6 offset-lg-4">
+                <div class="footer__socials">
+                    <div class="footer__socials-buttons">
+                        <a class="button button__secondary button1__transducer" href="/apply/">Apply</a>
+                        <a class="button button__secondary button1__transducer" href="https://maps.cpp.edu/">Maps</a>
+                        <a class="button button__secondary button1__transducer" href="/outreach/tours.shtml">Visit</a>
+                        <a class="button button__secondary button1__transducer" href="/contact.shtml">Contact Us</a>
+                    </div>
+                    <div class="footer__socials-icons">
+                        <a href="https://www.instagram.com/calpolypomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram opens a new window" />
+                        </a>
+                        <a href="https://www.linkedin.com/school/cal-poly-pomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn opens a new window" />
+                        </a>
+                        <a href="https://www.youtube.com/user/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="YouTube opens a new window" />
+                        </a>
+                        <a href="https://www.facebook.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook opens a new window" />
+                        </a>
+                        <a href="https://twitter.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X opens a new window" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 footer-line">
+                <div class="footer__errata">
+                    <p class="footer__copyright" style="line-height: 1.8em">Copyright ©2025 California State Polytechnic University, Pomona.  All Rights Reserved 
+                        
+                        <br />A campus of 
+                        
+                        <a class="footer__errata-link" style="display: inline" href="https://www.calstate.edu/">The California State University</a>.
+                    
+                    </p>
+                    <div class="footer__errata-links">
+                        <a class="footer__errata-link" href="https://www.cpp.edu/website-feedback.shtml">Feedback</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/privacy.shtml">Privacy</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/accessibility.shtml">Accessibility</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/file-viewers.shtml">Document Readers</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer__gradient-bottom"></div>
+</footer>
+
+    </body>
+</html>

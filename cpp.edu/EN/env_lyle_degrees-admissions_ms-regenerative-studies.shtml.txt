@@ -1,0 +1,1522 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+		<title>
+			Master of Science in Regenerative Studies
+		</title>
+		<!-- Required meta tags -->
+		<meta charset="utf-8"/>
+		<meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
+		<meta content="ENV" property="cludo:category"/>
+<meta content="2023-09-26T13:30Z" property="date"/>
+<link href="https://www.cpp.edu/env/lyle/degrees-admissions/ms-regenerative-studies.shtml" rel="canonical"/>
+		
+		
+		
+    <div lang="en">
+
+
+                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                <script src="https://cdn.levelaccess.net/accessjs/YW1wX2NwcDExMDM/access.js"></script>
+<script>// <![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSKJRNV');
+// ]]></script>
+<link href="/common/green-and-gold/assets/icons/gg-favicon.svg" rel="icon" type="image/svg+xml"/> <link crossorigin="anonymous" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" rel="stylesheet"/>
+<script crossorigin="anonymous" defer="defer" integrity="sha384-FW78RPcSpi13vjx77nPWQIrQbNSLkPBopb0qGzLCxD2x4Kr6FA8V05C/6cpgkKPL" src="https://pro.fontawesome.com/releases/v5.10.1/js/all.js"></script>
+<link href="https://www.cpp.edu/common/2018/assets/css/cpp-base-styles.css" rel="stylesheet"/> <link href="https://www.cpp.edu/common/2018/assets/css/cpp-extended-styles.css" rel="stylesheet"/> <link href="https://use.typekit.net/fia5dle.css" rel="stylesheet"/> <link href="/common/green-and-gold/assets/css/cpp-fonts.css" rel="stylesheet"/> <link href="/common/green-and-gold/assets/css/gg-header-footer.css" rel="stylesheet"/>
+
+</div>
+    
+		
+		
+	</head>
+	<body>
+		
+		
+	
+    <div lang="en">
+
+
+                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                 
+<header class="nav fixed">
+    <nav class="container">
+        <ul class="row nav__main" id="mainNavMenu">
+            <li id="main-logo" class="col-6 col-lg-3 nav__logo">
+                <a href="/" aria-label="Cal Poly Pomona Home" tabindex="0">
+                    <div class="nav__logo--horizontal">
+                        <img src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png" alt="Cal Poly Pomona Logo" />
+                    </div>
+                </a>
+            </li>
+            <li class="nav__links col-6" id="head-links">
+             <a class="nav__link nav__link--desktop col-1" href="/commencement/" tabindex="0">
+                    <svg
+                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 6px;
+    width: auto;
+">
+                        <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                        <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#005030"></path>
+                    </svg>
+                    <span class="sr-only">commencement</span>
+                </a>
+                <a class="nav__link nav__link--desktop" href="/apply/" tabindex="0">apply</a>
+                <a class="nav__link nav__link--desktop" href="/outreach/tours.shtml" tabindex="0">visit</a>
+                <a class="nav__link nav__link--desktop" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="0">info</a>
+                <a class="nav__link nav__link--desktop" href="/giving/" tabindex="0">give</a>
+                <a class="nav__link nav__link--desktop" href="https://my.cpp.edu" tabindex="0">mycpp</a>
+                <button id="search-open" class="nav__search" aria-expanded="false" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/search-dark-green.svg" alt="Search" />
+                </button>
+                <button class="nav__menu" id="menuButton" aria-expanded="false" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/menu.svg" alt="menu" />
+                </button>
+            </li>
+        </ul>
+    </nav>
+</header>
+<header id="search-header" style="display:none">
+    <div class="row">
+        <div class="col-md-6"></div>
+        <div id="searchbox" class="col-md-6">
+            <div id="search-slide">
+                <label for="#gsc-i-id1" class="sr-only">Search</label>
+                <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+                <div class="gcse-searchbox-only" data-resultsurl="https://www.cpp.edu/search.shtml"></div>
+                <button class="nav__menu col-1" id="search-close" aria-expanded="false" tabindex="0" aria-label="Menu icon">
+                    <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close icon">
+                    </button>
+                </div>
+            </div>
+            <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+            <style>
+
+     .gstl_50 gssb_c {
+         position:fixed !important;
+         }
+       #search-close img {
+         width: auto !important;
+       }
+
+       #searchbox {
+         height: 93px;
+         overflow: hidden;
+       }
+
+       #search-header {
+         position: fixed;
+         height: 100px;
+         width: 100%;
+         height: 93px;
+         z-index: 99999;
+         top: 0;
+       }
+
+       #gsc-i-id1 {
+         height: 40px;
+         width: 70%;
+         border-radius: 4px;
+         border: none;
+         padding: 15px;
+       }
+
+       #search-submit {
+         margin: 15px;
+       }
+
+       #search-close {
+         width: 23px;
+         height: 21px;
+         position: absolute;
+         top: 32px;
+       }
+
+       #search-slide {
+         width: 0px;
+         right: -100%;
+         padding: 20px 15px;
+         position: relative;
+         background: #005030;
+         height: 100%;
+         transition: all .5s ease 0s
+       }
+
+       #search-slide.slideup {
+         right: 0;
+         width: 100%;
+         position: relative;
+       }
+
+       @media screen and (max-width:991px) {
+         #search-slide {
+           height: 77px !important;
+           padding: 12px 10px;
+         }
+       }
+
+       @media screen and (max-width:767px) {
+         #search-header {
+           position: relative !important;
+         }
+
+         #search-slide {
+           text-align: center !important;
+         }
+       }
+
+     .gsc-search-button-v2 svg {
+    width: auto;
+    height: 25px;
+    position: relative;
+    top: 8px;
+}
+
+       .gsc-search-button-v2,
+       .gsc-search-button-v2:hover,
+       .gsc-search-button-v2:focus {
+         border: none !important;
+         background: none !important;
+       }
+
+       form.gsc-search-box {
+         font-size: 13px;
+         margin-top: 0;
+         margin-right: 0;
+         margin-bottom: 4px;
+         margin-left: 0;
+         width: 100%;
+         display: inline-block;
+       }
+
+       #___gcse_0 {
+         width: 70%;
+         display: inline-block;
+       }
+
+       table.gsc-search-box td.gsc-input {
+         padding-right: 0;
+       }
+
+       #gsc-i-id1 {
+         width: 100%;
+         padding: 0px;
+         border: none;
+         margin: -0.0625em 0px 0px;
+         height: 40px !important;
+         background: rgb(255, 255, 255);
+         outline: none;
+         font-size: 20px;
+         font-weight: 200;
+       }
+
+       .gstl_50.gssb_c {
+         z-index: 99999;
+       }
+
+       .gsq_a {
+         font-weight: 200;
+         font-size: 18px;
+         padding: 2px;
+       }
+
+       .gssb_a img {
+         display: none;
+       }
+
+       .side-nav__links--small-bottom {
+           margin-left:-15px;
+       }
+       .nav__links .nav__links--mobile {
+           margin-top: 50px;
+            margin-bottom: -50px;
+            margin-left: 50px
+       }
+       .nav__link--mobile {
+        	padding:0px;
+        }
+     /*   .side-nav__container, .side-nav__container--small {
+          
+            padding-left: 50px;
+        }*/
+        .side-nav__container--small-bottom {
+           padding-left: 35px;
+        }
+         @media screen and (max-width:991px) {
+             .nav__links--mobile {
+                 display:flex;
+             }
+         }
+          @media screen and (min-width:992px) {
+             .nav__links--mobile {
+                 display:none !important;
+             }
+          }
+         .nav__link--mobile {
+             color: #ffb81c;
+         }
+       </style>
+        </div>
+    </header>
+    <section class="side-nav" id="sideNavOverlay">
+        <header class="side-nav__overlay relative">
+            <nav class="container">
+                <ul class="row nav__overlay" id="sideNavMenu">
+                    <li class="nav__logo col-12 col-md-10 col-lg-3" id="navLogoOverlay">
+                        <a href="/" aria-label="Cal Poly Pomona Home" tabindex="-1">
+                            <img src="/common/green-and-gold/assets/logos/cpp_horizontal_1c_gold_rgb.png" alt="Cal Poly Pomona Logo" />
+                        </a>
+                    </li>
+                    <div class="nav__overlay--right col-12 col-lg-9">
+                        <li class="nav__links nav__links--desktop col-12 col-lg-6">
+                             <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 6px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                            <a class="nav__link nav__link--mobile" href="/apply/" tabindex="-1">apply</a>
+                            <a class="nav__link nav__link--mobile" href="/outreach/tours.shtml" tabindex="-1">visit</a>
+                            <a class="nav__link nav__link--mobile" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="-1">info</a>
+                            <a class="nav__link nav__link--mobile" href="/giving/" tabindex="-1">give</a>
+                            <a class="nav__link nav__link--mobile" href="https://my.cpp.edu" tabindex="-1">mycpp</a>
+                        </li>
+                        <li class="nav__icons">
+                            <button id="search-open-green" class="nav__search" aria-expanded="false" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/search-white.svg" alt="Search" />
+                            </button>
+                            <button class="nav__close" id="closeButton" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close menu" />
+                            </button>
+                        </li>
+                    </div>
+                </ul>
+            </nav>
+        </header>
+        
+            <div class="mobile_overlay_nav nav__links nav__links--mobile col-12 col-lg-6">
+                 <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 6px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                <a class="nav__link nav__link--mobile" href="/apply/" tabindex="0">apply </a>
+                <a class="nav__link nav__link--mobile" href="/outreach/tours.shtml" tabindex="0">visit </a>
+                <a class="nav__link nav__link--mobile" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="0">info </a>
+                <a class="nav__link nav__link--mobile" href="/giving/" tabindex="0">give </a>
+                <a class="nav__link nav__link--mobile" href="https://my.cpp.edu" tabindex="0">mycpp </a>
+            </div>
+       
+        <nav class="container side-nav__container">
+            <ul class="row side-nav__links">
+                <li id="home-button" class="side-nav__link">
+                    <a class="h3__proxima" href="/" tabindex="-1" aria-label="Cal Poly Pomona Home page">Home</a>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--0">
+                    <button class="h3__proxima" id="0" aria-expanded="false" tabindex="-1" aria-label="Link">
+                        <span>about</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--1">
+                    <button class="h3__proxima" id="1" aria-expanded="false" tabindex="-1" aria-label="Admissions & Aid">
+                        <span>admissions &amp; aid</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--2">
+                    <button class="h3__proxima" id="2" aria-expanded="false" tabindex="-1" aria-label="academics">
+                        <span>academics</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--3">
+                    <button class="h3__proxima" id="3" aria-expanded="false" tabindex="-1" aria-label="life at CPP">
+                        <span>life at CPP</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small">
+            <ul class="row">
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="https://broncoathletics.com/" tabindex="-1">athletics</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/alumni/" tabindex="-1">alumni</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/news/" tabindex="-1">news &amp; events</a>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small-bottom">
+            <ul class="col-12 col-lg-7 side-nav__links--small-bottom">
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/prospective-student-gateway/" tabindex="-1">future students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/student-gateway/" tabindex="-1">current students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/family/" tabindex="-1">families</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/faculty-staff-gateway/" tabindex="-1">faculty &amp; staff</a>
+                </li>
+            </ul>
+            <ul class="col-12 col-lg-5 social-icons">
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.instagram.com/calpolypomona/" aria-label="Instagram" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.linkedin.com/school/cal-poly-pomona/" aria-label="LinkedIn " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.youtube.com/user/calpolypomona" aria-label="Youtube " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="Youtube" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.facebook.com/calpolypomona" aria-label="Facebook " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://twitter.com/calpolypomona" aria-label="X (Twitter)" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X" />
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </section>
+
+</div>
+    
+
+		                                                                                                                                                        																										                                                            															    		                
+
+
+            
+
+    <header title="Lyle Center for Regenerative Studies">
+
+
+
+      
+        
+    <custom/> 
+
+    
+                         <div id="dept-title">
+                            Lyle Center for Regenerative Studies
+                    </div>
+    </header>
+
+                        <nav class="navbar navbar-expand-md navbar-light d-block " id="horizontalnav">
+        <button aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler navbar-toggler-right" data-target="#navbarSupportedContent" data-toggle="collapse" id="site-menu-expand-button" type="button">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="nav nav-pills nav-fill center-pills" id="site-nav">
+                
+                                <li class="nav-item" id="li-1">
+                    <a class="nav-link" data-parent="#site-nav" href="/env/lyle/index.shtml">Home</a>    
+                </li>
+                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                
+                                                
+                                                
+                                                                                    
+                                                                                            <li class="nav-item dropdown" id="li-2">
+
+                                    <a aria-expanded="false" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">About</a>
+                                                                             <div class="dropdown-menu dropdown-menu-left">
+                                                                           
+                                                                                                                                    
+                                                
+                                                                                    
+                                                                                                                                    
+                                                
+                                                                                    
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/lyle/about/index.shtml">
+                                                                                                            About Regeneration
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/lyle/about/history.shtml">
+                                                                                                            History
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/lyle/about/milestones.shtml">
+                                                                                                            Milestones
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                        
+                                    </div>
+                                </li>
+                                
+                                                                                                                                     
+                                                                                                                                                                
+                                                
+                                                
+                                                
+                                                                                    
+                                                                                            <li class="nav-item dropdown" id="li-3">
+
+                                    <a aria-expanded="false" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">Degrees / Admissions</a>
+                                                                             <div class="dropdown-menu dropdown-menu-left">
+                                                                           
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/lyle/degrees-admissions/index.shtml">
+                                                                                                            Overview
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/lyle/degrees-admissions/ms-regenerative-studies.shtml">
+                                                                                                            Master of Science in Regenerative Studies
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/lyle/degrees-admissions/minor-regenerative-studies.shtml">
+                                                                                                            Minor in Regenerative Studies
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/lyle/degrees-admissions/learning-outcomes.shtml">
+                                                                                                            Learning Outcomes
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/lyle/degrees-admissions/curriculum-maps.shtml">
+                                                                                                            Curriculum Maps
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/lyle/degrees-admissions/fa-scholarships.shtml">
+                                                                                                            Financial Aid &amp; Scholarships
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                        
+                                    </div>
+                                </li>
+                                
+                                                                                                                                     
+                                                                                                                                                                
+                                                
+                                                
+                                                
+                                                                                    
+                                                                                            <li class="nav-item dropdown" id="li-4">
+
+                                    <a aria-expanded="false" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">Academics and Research</a>
+                                                                             <div class="dropdown-menu dropdown-menu-left">
+                                                                           
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/lyle/academics-research/courses.shtml">
+                                                                                                            Courses
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/lyle/academics-research/theses-projects-catalog.shtml">
+                                                                                                            Theses &amp; Projects Catalog
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/lyle/academics-research/research.shtml">
+                                                                                                            Research
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/lyle/academics-research/learn-living-laboratory.shtml">
+                                                                                                            Learn at the Living Laboratory
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/lyle/academics-research/student-opportunities.shtml">
+                                                                                                            Student Opportunities
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/lyle/academics-research/student-housing.shtml">
+                                                                                                            Student Housing
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                        
+                                    </div>
+                                </li>
+                                
+                                                                                                                                     
+                                                                                                                                                                
+                                                
+                                                
+                                                
+                                                                                    
+                                                                                            <li class="nav-item dropdown" id="li-5">
+
+                                    <a aria-expanded="false" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">Tours</a>
+                                                                             <div class="dropdown-menu dropdown-menu-left">
+                                                                           
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/lyle/tours/index.shtml">
+                                                                                                            Overview
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/lyle/tours/visitor-guide.shtml">
+                                                                                                            Visitor Guide
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                        
+                                    </div>
+                                </li>
+                                
+                                                                                                                                     
+                                                                                                                                                                
+                                                
+                                                
+                                                
+                                                                                    
+                                                                                            <li class="nav-item dropdown" id="li-6">
+
+                                    <a aria-expanded="false" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">News / Events</a>
+                                                                             <div class="dropdown-menu dropdown-menu-right">
+                                                                            
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/lyle/news-events/index.shtml">
+                                                                                                            News
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/env/lyle/news-events/events/index.shtml">Events</a>
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/env/lyle/news-events/public-lectures/index.shtml">Public Lectures</a>
+                                                                                    
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/lyle/news-events/reports.shtml">
+                                                                                                            Reports
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                        
+                                    </div>
+                                </li>
+                                
+                                                                                                                                     
+                                                                                                                                                                
+                                                
+                                                
+                                                
+                                                                                    
+                                                                                            <li class="nav-item dropdown" id="li-7">
+
+                                    <a aria-expanded="false" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">Contact</a>
+                                                                             <div class="dropdown-menu dropdown-menu-right">
+                                                                            
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/lyle/contact/contacts-location.shtml">
+                                                                                                            Contact Us
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/lyle/contact/faculty-staff.shtml">
+                                                                                                            Faculty / Staff
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                        
+                                    </div>
+                                </li>
+                                
+                                                                                                                                     
+                                                                                                                                                                
+                                                
+                                                
+                                                
+                                                                                    
+                                                                                            <li class="nav-item dropdown" id="li-8">
+
+                                    <a aria-expanded="false" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">Community Engagement</a>
+                                                                             <div class="dropdown-menu dropdown-menu-right">
+                                                                            
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/lyle/community-engagement/randall-lewis-fellowship.shtml">
+                                                                                                            Randall Lewis Fellowship
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/env/lyle/chile/index.shtml">CHILE</a>
+                                                                                    
+                                                                                                                        
+                                    </div>
+                                </li>
+                                
+                                                                                                                                     
+                                                                                                                                                                
+                                                
+                                                
+                                                
+                                                                                    
+                                                                                            <li class="nav-item dropdown" id="li-9">
+
+                                    <a aria-expanded="false" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">Support the Center</a>
+                                                                             <div class="dropdown-menu dropdown-menu-right">
+                                                                            
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/lyle/support-the-center/donate.shtml">
+                                                                                                            Donate
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/lyle/support-the-center/foundation-corporate-support.shtml">
+                                                                                                            Foundation &amp; Corporate Support
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/lyle/support-the-center/give.shtml">
+                                                                                                            Give to the Lyle Center for Regenerative Studies
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                        
+                                    </div>
+                                </li>
+                                
+                                                                                                                                     
+                                                                                                                                                                                                                                                                                                                                                                        </ul>
+        </div>
+    </nav>
+             
+    
+
+
+    <main class="container flex-grow">
+
+           <div class="row">
+                            <div class="col-12" id="main">
+                                    <h1 class="cpp-h1">Master of Science in Regenerative Studies</h1>
+            
+
+
+    
+                                            
+                                    <section class="text-images" id="s0">
+                                
+                                                        
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                            <figure class="image" style="text-align: center;"><img alt="Master of Science in RS" class="" height="587" src="../img/ms-lyle-center-rs.jpg" width="640"/>
+<figcaption><span style="font-size: 10pt;"><em>MSRS students (Back row, L-R): Talia E. Dotson, Korrin A. Davis, Sydney Kaye, Alex (Panda) Armendariz. (Front row, L-R): Lydia Marie Olivier, guest Karana Olivier and graduate coordinator James J. A. Blair</em></span></figcaption>
+</figure>
+            </section>
+                            
+                  
+       
+	
+	
+ 
+         
+    
+
+    
+                                            
+                                    <section class="text-images" id="s1">
+                                
+                                                        
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                            <h3 class="field field-name-field-sectiontitle field-type-text field-label-hidden">Graduate Admissions for Fall 2024</h3>
+<p>Admission to the Master of Science in Regenerative Studies (MSRS) program is only in the Fall term. <span>&#160;</span></p>
+<p><strong>Apply now!</strong> <strong>Applications are accepted on a rolling basis until the deadline of May 15, 2024 (or May 1, 2024 for international students).</strong></p>
+<div style="text-align: center;"><a class="btn btn-primary" href="https://www.calstate.edu/apply">File Your Application via Cal State Apply</a></div>
+            </section>
+                            
+                  
+       
+	
+	
+ 
+         
+    
+
+    
+                    
+                  
+        
+    	
+            
+                                       <div class="accordion" id="accordion-2">
+                                    
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading1">
+                <h2 class="m-0">
+                    <button aria-controls="collapse2-1" aria-expanded="false" class="btn btn-link" data-target="#collapse2-1" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  Overview
+                    </button>
+                </h2>
+            </div>
+                            <div aria-labelledby="heading1" class="collapse " data-parent="#accordion-2" id="collapse2-1">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                <p><span style="font-size: 18pt;"><em>Join a community of scholars striving to make discovery accessible and community action possible</em></span></p>
+<p><span style="font-size: 12pt;"><span>The&#160;</span><strong>Master of Science in Regenerative Studies (MSRS)</strong><span>&#160;was established in 2004 as a unique interdisciplinary program that prepares students to find successful solutions to environmental problems in the 21st century.&#160;&#160;The program consists of one year of full-time course work, featuring courses intended to ground students in concepts of regeneration, followed by the completion of an independent Master&#8217;s thesis or project that allows for in-depth investigation of an area of expertise.</span></span></p>
+<p>Regenerative studies is a complex field. The MSRS emphasizes collaborating and communicating across disciplines &#8212; from STEM and the social sciences, to humanities and the arts&#160;&#8212; to develop a vibrant depth of knowledge. The MSRS program consists of one year of full-time interdisciplinary course work, intended to ground students in concepts of regeneration, followed by the completion of an independent master&#8217;s thesis or project that allows for an indepth investigation in an area of expertise.&#160;</p>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                            
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading2">
+                <h2 class="m-0">
+                    <button aria-controls="collapse2-2" aria-expanded="false" class="btn btn-link" data-target="#collapse2-2" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  Admissions
+                    </button>
+                </h2>
+            </div>
+                            <div aria-labelledby="heading2" class="collapse " data-parent="#accordion-2" id="collapse2-2">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                <p style="text-align: left;">Admission to the Masters of Science in Regenerative Studies (MSRS) requires the applicant to have received a baccalaureate degree with an overall undergraduate grade point average (GPA) of at least 3.0 (B) or better. Applicants whose GPA falls between 2.5 and 3.0 will be considered for admission on a conditional basis if evidence of compensating qualifications is demonstrated.</p>
+<p align="justify" style="text-align: left;">Applications are accepted and reviewed once a year for admission beginning in the Fall term. After meeting prerequisites, students may begin Regenerative Studies graduate coursework only in the fall semester&#160;with the intensive core curriculum. Admission decisions and entry point competency will be determined by the Graduate Studies Committee. Applicants may also be required to meet specific prerequisite course requirements for discipline focus coursework.</p>
+<p align="justify" style="text-align: left;">Application procedures include a two-part process. Some materials are submitted to the University's Office of Admissions, while others are submitted directly to the Lyle Center.</p>
+<p style="text-align: left;"><strong>Applications are available beginning October 1st of each year. The deadline for submitting the application and accompanying fees is May 15th, for admission the following Fall term.</strong> All supporting materials (transcripts, TOEFL scores, statement of purpose, and letters of recommendation) must be received by June 15th. Prospective students are encouraged to apply early in the application period to ensure that all documents are received prior to review. Incomplete applications cannot be considered.</p>
+<ul>
+<li><a href="https://www.csumentor.edu/admissionapp/grad_apply.asp" rel="noopener" target="_blank" title="Apply now through CalStateAPPLY (opens in new window)">Apply now through CalStateAPPLY</a></li>
+<li><a href="https://www.cpp.edu/&#126;admissions/graduate/apply.shtml" rel="noopener" target="_blank" title="Visit the University's Graduate Programs Web Site (opens in new window)">Visit the University's Graduate Programs Web Site</a></li>
+</ul>
+<h3 class="field field-name-field-sectiontitle field-type-text field-label-hidden">Prerequisites</h3>
+<p><span>Prospective students with a bachelor&#8217;s degree from any accredited domestic or international University are encouraged to apply.<span class="x_apple-converted-space">&#160;</span>Applicants who meet entry point competency will have had upper division coursework in environmental studies or a combination of related education and/or professional experience in<span class="x_apple-converted-space">&#160;</span>environmental design, architecture, landscape architecture, urban planning, social sciences, physical sciences, agriculture, engineering, business and/or humanities<span class="x_apple-converted-space">&#160;</span>with a grade point average of 3.0 (B) or better.&#160;Applicants whose GPA falls between 2.5 and 3.0 will be considered for admission on a conditional basis if adequate qualifications are evident.</span></p>
+<h3 class="field field-name-field-sectiontitle field-type-text field-label-hidden">Materials submitted to the University</h3>
+<p>The application form, application fees, and two copies of official transcripts from all institutions of higher education that you have attended must be sent from the originating institution directly to the&#160;Office of Admissions. The Center is not permitted to forward transcripts to the&#160;Office of Admissions.</p>
+<p align="justify">Please expedite transcript requests as far in advance of the application deadline as possible. Maintain your records and receipts and contact the Office of Admissions&#160;directly to make sure transcripts have been received while there is still enough time to have them sent again if necessary.</p>
+<p>TOEFL scores are required for all non-native English-speaking applicants, and must be submitted to the Office of Admissions.&#160;Official notification of your score must be received in Admissions before your file can be reviewed.&#160;</p>
+<p><strong>Required scores and exams accepted are:</strong></p>
+<p><a href="https://www.ets.org/toefl.html" rel="noopener" target="_blank" title="Test of English as a Foreign Language (TOEFL) (opens in new window))">Test of English as a Foreign Language (TOEFL)</a>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; 80 ibt</p>
+<p><a href="https://www.ielts.org/en-us" rel="noopener" target="_blank" title="International English Language Testing System (IELTS) (opens in new window)">International English Language Testing System (IELTS)</a>&#160; &#160; &#160; 6.5&#160;</p>
+<p><a href="https://englishtest.duolingo.com/home" rel="noopener" target="_blank" title="Duolingo (opens in new window)">Duolingo</a>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;105&#160;&#160;</p>
+<h3 class="field field-name-field-sectiontitle field-type-text field-label-hidden">Materials submitted to the Center</h3>
+<p>The Lyle Center requires the following supplementary materials:</p>
+<ul>
+<li>A statement of purpose which describes why you wish to enter the program, how your academic background and other experiences have prepared you, and what discipline focus or set of issues you are particularly interested in pursuing during your studies. The online application provides a space for submittal of your statement. If you wish, you may choose to not include the statement in the online application.&#160; Regardless please do send a copy &#160;directly to the Center by<span>&#160;</span><strong>June 15th</strong>:&#160;email it to<span>&#160;</span><a href="mailto:crs@cpp.edu">crs@cpp.edu</a>.</li>
+<li>Two&#160;letters of recommendation from individuals in a position to assess the applicant's potential for success in master's level academic performance and participation in the Regenerative Studies program.</li>
+</ul>
+<p>These supplementary materials must arrive on or before the document deadline (June 15th). Please send directly to:&#160;<a href="mailto:crs@cpp.edu">crs@cpp.edu</a>.</p>
+<h3 class="field field-name-field-sectiontitle field-type-text field-label-hidden">International Applicants</h3>
+<p>Known for its outstanding academic programs, Cal Poly Pomona offers excellent education for international students who wish to pursue a degree in the United States.</p>
+<p>The Graduate Program accepts non-resident and foreign students. Current and future International Students in Cal Poly academic programs must contact the International Center for information regarding visas, guidelines for maintaining academic progress, and procedures for internships and post graduation work.</p>
+<p>For additional information on Incoming International Students and requirements, please refer to <a href="https://www.cpp.edu/admissions/intl-gr/apply1.shtml" rel="noopener" target="_blank" title="Apply as an International Student (opens in new window)">Apply as an International Student</a> page.</p>
+<h3 class="field field-name-field-sectiontitle field-type-text field-label-hidden">Contact our Graduate Coordinator</h3>
+<p>For information regarding admissions to the Master of Science in Regenerative Studies degree program, please contact:</p>
+<p><strong>Teresa K. Lloro, Ph.D.<br/>Graduate Coordinator |&#160;</strong><a href="mailto:tllorobidart@cpp.edu">tllorobidart@cpp.edu</a></p>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                            
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading3">
+                <h2 class="m-0">
+                    <button aria-controls="collapse2-3" aria-expanded="false" class="btn btn-link" data-target="#collapse2-3" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  Curriculum
+                    </button>
+                </h2>
+            </div>
+                            <div aria-labelledby="heading3" class="collapse " data-parent="#accordion-2" id="collapse2-3">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                <p><span>Students must take a total of 40 semester units of which 28 are core courses in Regenerative Studies. Students are also required to select a focus discipline in which they complete 6 units of course credit. A thesis or project for 6 units is required to complete the coursework.</span></p>
+<p align="justify">Students are also required to complete 200 hours of internship which are to be completed at the Lyle Center for Regenerative Studies or in an approved external program or organization. A final presentation and defense of the thesis or project must be successfully completed.</p>
+<h3 align="justify">MSRS Student Contract</h3>
+<p>Graduate students can track&#160;and stay on top of fulfilling their program requirements by referring to the checklist in the contract. <strong> <span>&#160;</span>(Download the&#160;<a href="../docs/blank_regenerative-studies-graduate-contract.pdf" rel="noopener" target="_blank" title="MSRS Student Contract (opens in new window)">MSRS Graduate Contract</a>)</strong></p>
+<p>Continuing students must have a Master&#8217;s Contract (or Program of Study) on file in order to avoid having a hold on their record that could delay graduation. Students can upload the completed pdf form themselves to&#160;<a href="https://polyform.cpp.edu/Loginformproc/UnityForm.aspx?d1=AaszGN08GxsnnwBwe9bYfZeGTFssLZ3w4omNFFFnd72T7FRB11HQvjYRWnl0EIwA1c2wGl21nVmqCsZ4HgzF7enPUvA18q4gZT8iu8HpZ0B0g7AF3gPq8BtLn9uZZtpWSyMWGQR8s4iS6Pf6%2bPPiNHmF872CjSMdf5gWFcBr%2fPO0yx%2fT%2bdYX72RHcyYXekFZdkYjGHVrOoo%2fgS2ZmGeIiSIr6oZMBkMgEYZpRzayFpZxFaBi8rhwW4ktvrCLYgR%2b2g%3d%3d">PolyDoc</a>.</p>
+<h3 class="field field-name-field-sectiontitle field-type-text field-label-hidden">Core Courses</h3>
+<p><span>All students registered in the MSRS are expected to complete the following courses:</span></p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th scope="col">Course Number</th>
+<th scope="col">Course Title</th>
+<th scope="col">Units</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>RS 5100</td>
+<td>Regenerative Concepts &amp; Applications</td>
+<td>3</td>
+</tr>
+<tr>
+<td>RS 5150</td>
+<td>Regenerative Social Practices</td>
+<td>3</td>
+</tr>
+<tr>
+<td>RS 5170L</td>
+<td>Community Practice</td>
+<td>1</td>
+</tr>
+<tr>
+<td>RS 5200</td>
+<td>Nature As Model</td>
+<td>3</td>
+</tr>
+<tr>
+<td>RS 5250</td>
+<td>Scientific Foundations in Regeneration</td>
+<td>3</td>
+</tr>
+<tr>
+<td>RS 5300</td>
+<td>Regenerative Technology</td>
+<td>3</td>
+</tr>
+<tr>
+<td>RS 5350</td>
+<td>Regenerative Environments</td>
+<td>3</td>
+</tr>
+<tr>
+<td>RS 5400</td>
+<td>Coalition Building</td>
+<td>3</td>
+</tr>
+<tr>
+<td>RS 5500</td>
+<td>Seminar in Research Methods&#160;</td>
+<td>3</td>
+</tr>
+<tr>
+<td>RS 6100</td>
+<td>Methods &amp; Applications in Regenerative Studies</td>
+<td>2</td>
+</tr>
+<tr>
+<td>RS 6100L</td>
+<td>Methods &amp; Applications in Regenerative Studies&#160;</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<h3 class="field field-name-field-sectiontitle field-type-text field-label-hidden">Focus Discipline Courses</h3>
+<p><span>Students are expected to complete 6&#160;units of Focus Discipline Courses, to be chosen by the student in consultation with graduate advisor and faculty in focus discipine.</span></p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th scope="col">Course</th>
+<th scope="col">Units</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Two Courses (4000, 5000 and/or 6000 Level)</td>
+<td>6</td>
+</tr>
+</tbody>
+</table>
+<h3>Thesis or Project</h3>
+<p>In addition, students must complete a thesis or final project in the final two terms. They must register for the following courses</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th scope="col">Course Number</th>
+<th scope="col">Course Title</th>
+<th scope="col">Units</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>RS 6940</td>
+<td>Thesis/Project Research</td>
+<td>3</td>
+</tr>
+<tr>
+<td>RS 6950 or</td>
+<td>Master's Project</td>
+<td>3</td>
+</tr>
+<tr>
+<td>RS 6960</td>
+<td>Master's Thesis</td>
+<td>3</td>
+</tr>
+</tbody>
+</table>
+<h3>Roadmap</h3>
+<p>FIRST YEAR</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<td><strong>Fall Semester</strong></td>
+<td><strong>Units</strong></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>RS 5100</td>
+<td>3</td>
+</tr>
+<tr>
+<td>RS 5150</td>
+<td>3</td>
+</tr>
+<tr>
+<td>RS 5170L</td>
+<td>1</td>
+</tr>
+<tr>
+<td>RS 5200</td>
+<td>3</td>
+</tr>
+<tr>
+<td>RS 5250</td>
+<td>3</td>
+</tr>
+<tr>
+<td></td>
+<td><strong> 13</strong></td>
+</tr>
+</tbody>
+</table>
+<table class="table table-striped">
+<thead>
+<tr>
+<td><strong>Spring Semester</strong></td>
+<td><strong>Units</strong></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>RS 5300</td>
+<td>3</td>
+</tr>
+<tr>
+<td>RS 5350</td>
+<td>3</td>
+</tr>
+<tr>
+<td>RS 5500</td>
+<td>3</td>
+</tr>
+<tr>
+<td>RS 5400</td>
+<td>3</td>
+</tr>
+<tr>
+<td></td>
+<td><strong> 12</strong></td>
+</tr>
+</tbody>
+</table>
+<h3>SECOND YEAR</h3>
+<table class="table table-striped">
+<thead>
+<tr>
+<th><strong>Fall Semester</strong></th>
+<th><strong>Units</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Elective #1</td>
+<td>3</td>
+</tr>
+<tr>
+<td>RS 6100</td>
+<td>2</td>
+</tr>
+<tr>
+<td>RS 6100L</td>
+<td>1</td>
+</tr>
+<tr>
+<td>RS 6940</td>
+<td>3</td>
+</tr>
+<tr>
+<td></td>
+<td><strong> 9</strong></td>
+</tr>
+</tbody>
+</table>
+<table class="table table-striped">
+<thead>
+<tr>
+<th><strong>Spring Semester</strong></th>
+<th><strong>Units</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Elective #2</td>
+<td>3</td>
+</tr>
+<tr>
+<td>RS 6950 OR</td>
+<td>3</td>
+</tr>
+<tr>
+<td>RS 6960</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><strong> 6</strong></td>
+</tr>
+</tbody>
+</table>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                    </div>   
+               
+	
+	
+ 
+         
+    
+
+</div>
+</div>
+</main>
+
+		
+    <div lang="en">
+
+
+                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                 
+<style>
+     @media screen and (min-width: 992px) {
+    .mini-footer .footer__socials-buttons {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}
+
+.mini-footer .button1__transducer {
+    font-size: 12px;
+    letter-spacing: .5px;
+}
+
+.mini-footer .button {
+	margin-top: 0;
+    padding: 8px 20px 8px 20px;
+
+}
+.mini-footer .footer-line {
+    border-top: thin solid #a4d65e;
+    margin-top: 39px;
+    padding-top: 15px;
+}
+ </style>
+<footer class="footer mini-footer">
+    <div class="footer__rip-wrapper">
+        <img class="footer__rip" alt="" src="/common/green-and-gold/assets/images/green-rip.svg" alt="Ripped green paper." />
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-2">
+                <div class="footer__logo-wrapper">
+                    <a href="/" aria-label="CPP Logo">
+                        <img class="footer__logo" src="/common/green-and-gold/assets/logos/cpp_primary_1c_gold_rgb.png" alt="Cal Poly Pomona logo, building with a palm tree." />
+                    </a>
+                </div>
+            </div>
+            <div class="col-12 col-lg-6 offset-lg-4">
+                <div class="footer__socials">
+                    <div class="footer__socials-buttons">
+                        <a class="button button__secondary button1__transducer" href="/apply/">Apply</a>
+                        <a class="button button__secondary button1__transducer" href="https://maps.cpp.edu/">Maps</a>
+                        <a class="button button__secondary button1__transducer" href="/outreach/tours.shtml">Visit</a>
+                        <a class="button button__secondary button1__transducer" href="/contact.shtml">Contact Us</a>
+                    </div>
+                    <div class="footer__socials-icons">
+                        <a href="https://www.instagram.com/calpolypomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram opens a new window" />
+                        </a>
+                        <a href="https://www.linkedin.com/school/cal-poly-pomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn opens a new window" />
+                        </a>
+                        <a href="https://www.youtube.com/user/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="YouTube opens a new window" />
+                        </a>
+                        <a href="https://www.facebook.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook opens a new window" />
+                        </a>
+                        <a href="https://twitter.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X opens a new window" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 footer-line">
+                <div class="footer__errata">
+                    <p class="footer__copyright" style="line-height: 1.8em">Copyright ©2025 California State Polytechnic University, Pomona.  All Rights Reserved 
+                        
+                        <br />A campus of 
+                        
+                        <a class="footer__errata-link" style="display: inline" href="https://www.calstate.edu/">The California State University</a>.
+                    
+                    </p>
+                    <div class="footer__errata-links">
+                        <a class="footer__errata-link" href="https://www.cpp.edu/website-feedback.shtml">Feedback</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/privacy.shtml">Privacy</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/accessibility.shtml">Accessibility</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/file-viewers.shtml">Document Readers</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer__gradient-bottom"></div>
+</footer>
+
+
+<script   src="https://code.jquery.com/jquery-3.2.1.min.js"   integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="   crossorigin="anonymous">
+</script><script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script src="https://www.cpp.edu/common/green-and-gold/assets/js/cpp-legacy.js" ></script>
+<script src="https://www.cpp.edu/common/2018/assets/js/tabs.js" ></script>
+<script src="/common/green-and-gold/assets/js/nav.js"></script>
+
+
+</div>
+    
+		
+		
+	</body>
+</html>

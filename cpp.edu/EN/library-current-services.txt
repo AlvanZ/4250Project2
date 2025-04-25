@@ -1,0 +1,667 @@
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <!-- favicon.twig -->
+<link rel="apple-touch-icon" sizes="180x180" href="//d2jv02qf7xgjwx.cloudfront.net/apps/common/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="//d2jv02qf7xgjwx.cloudfront.net/apps/common/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="//d2jv02qf7xgjwx.cloudfront.net/apps/common/favicon/favicon-16x16.png">
+<link rel="manifest" href="//d2jv02qf7xgjwx.cloudfront.net/apps/common/favicon/site.webmanifest">
+<link rel="mask-icon" href="//d2jv02qf7xgjwx.cloudfront.net/apps/common/favicon/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="//d2jv02qf7xgjwx.cloudfront.net/apps/common/favicon/favicon.ico">
+<meta name="msapplication-TileColor" content="#ffc40d">
+<meta name="msapplication-config" content="//d2jv02qf7xgjwx.cloudfront.net/apps/common/favicon/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+<!-- !favicon.twig -->
+<title>Home - Current Services - Guides at California State Polytechnic University, Pomona</title><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="robots" content="noarchive" /><!-- favicon.twig -->
+<link rel="apple-touch-icon" sizes="180x180" href="//d2jv02qf7xgjwx.cloudfront.net/apps/common/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="//d2jv02qf7xgjwx.cloudfront.net/apps/common/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="//d2jv02qf7xgjwx.cloudfront.net/apps/common/favicon/favicon-16x16.png">
+<link rel="manifest" href="//d2jv02qf7xgjwx.cloudfront.net/apps/common/favicon/site.webmanifest">
+<link rel="mask-icon" href="//d2jv02qf7xgjwx.cloudfront.net/apps/common/favicon/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="//d2jv02qf7xgjwx.cloudfront.net/apps/common/favicon/favicon.ico">
+<meta name="msapplication-TileColor" content="#ffc40d">
+<meta name="msapplication-config" content="//d2jv02qf7xgjwx.cloudfront.net/apps/common/favicon/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+<!-- !favicon.twig -->
+<!-- public_metadata.twig -->
+
+    <!-- auto generated dublin core metadata -->
+    <meta name="DC.Title" content="Guides: Current Services: Home"/>
+    <meta name="DC.Creator" content="Devan Sexton"/>
+    <meta name="DC.Subject" content=""/>
+    <meta name="DC.Description" content=""/>
+    <meta name="DC.Publishers" content="California State Polytechnic University, Pomona"/>
+    <meta name="DC.Rights" content="Copyright California State Polytechnic University, Pomona 2025"/>
+    <meta name="DC.Language" content="en"/>
+    <meta name="DC.Identifier" content="https://libguides.library.cpp.edu/c.php?g=1013382&p=7340651"/>
+    <meta name="DC.Date.Created" content="Mar 16, 2020"/>
+    <meta name="DC.Date.Modified" content="May 9, 2024"/>
+    <meta property="og:title" content="Guides: Current Services: Home">
+<meta property="og:description" content="Guides: Current Services: Home">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://libguides.library.cpp.edu/c.php?g=1013382&amp;p=7340651">
+    <meta property="og:image" content="https://libguides.library.cpp.edu/ld.php?screenshot=babddic.png&amp;size=facebook&amp;cb=1745563686">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="627">
+    <meta name="twitter:image" content="https://libguides.library.cpp.edu/ld.php?screenshot=babddic.png&amp;size=twitter&amp;cb=1745563686">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@springshare">
+<link rel="stylesheet" href="https://static-assets-us.libguides.com/web/jquery/css/jquery-ui.min.css?2691" /><link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"/>
+<link rel="stylesheet" type="text/css" href="https://static-assets-us.libguides.com/web/slick-1.8.1/slick/slick.css"><link rel="stylesheet" type="text/css" href="https://static-assets-us.libguides.com/web/slick-1.8.1/slick/slick-theme.css"><link rel="stylesheet" href="https://static-assets-us.libguides.com/web/css3.17.1/lg-public.min.css" /><script type="text/javascript" src="https://static-assets-us.libguides.com/web/jquery/js/1.12.4_jquery.min.js"></script><script>
+                    jQuery(document).ready(function () {
+                     jQuery(".dropdown-toggle").on("click",function(e){
+                        jQuery(this).siblings("ul.s-lg-subtab-ul.dropdown-menu").toggle();
+                       })
+                     });
+             </script>    <script src="//code.jquery.com/ui/1.13.2/jquery-ui.min.js"></script>
+    <script>
+        jQuery.ui ||
+        document.write('<script src="https://static-assets-us.libguides.com/web/jquery/js/jquery-ui.min.js?2691">\x3C/script>');
+    </script>
+<script type="text/javascript" src="https://static-assets-us.libguides.com/web/js3.17.1/lg-public.min.js"></script><style>/** bootstrap_tab_css.twig **/
+#s-lg-tabs-container .nav-tabs > li > a,
+#s-lg-tabs-container .nav-tabs > li > button,
+#s-lg-tabs-container .nav-pills > li > a,
+#s-lg-tabs-container .nav-pills > li > button {
+    border: 1px solid transparent; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px;
+    background-color: #003252;
+    color: #ffffcc;
+    font-weight: bold;
+    padding: 4px 15px;
+}
+
+#s-lg-tabs-container .nav-tabs {
+    border-bottom: 0;
+}
+
+#s-lg-tabs-container .nav-tabs > li#s-lg-admin-tab-add > a {
+    -webkit-border-radius: 4px 4px 0 0;
+    -moz-border-radius: 4px 4px 0 0;
+    border-radius: 4px 4px 0 0;
+}
+
+#s-lg-tabs-container .nav-tabs > li > a:hover,
+#s-lg-tabs-container .nav-tabs > li > button:hover,
+#s-lg-tabs-container .nav-pills > li > a:hover,
+#s-lg-tabs-container .nav-pills > li > button:hover {
+    border: 1px solid transparent; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px;
+    background-color: #01426a;
+    color: #ffffff;
+}
+
+#s-lg-tabs-container .nav-tabs > .active > a,
+#s-lg-tabs-container .nav-tabs > .active > button,
+#s-lg-tabs-container .nav-pills > .active > a,
+#s-lg-tabs-container .nav-pills > .active > button {
+    color: #ffffff;
+    cursor: default;
+    background-color: #01426a;
+    border: 1px solid transparent; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px;
+    border-bottom-color: transparent;
+    font-weight: bold;
+}
+
+#s-lg-tabs-container .nav-tabs > .active > .s-lg-subtab-ul > .active > a,
+#s-lg-tabs-container .nav-tabs > .active > .s-lg-subtab-ul > .active > button {
+    color: #ffffff;
+    cursor: default;
+    background-color: #01426a;
+    border-bottom-color: transparent;
+}
+
+#s-lg-tabs-container .nav-tabs > .active > a:hover,
+#s-lg-tabs-container .nav-pills > .active > a:hover,
+#s-lg-tabs-container .nav-tabs > .active > button:hover,
+#s-lg-tabs-container .nav-pills > .active > button:hover {
+    color: #ffffff;
+    cursor: pointer;
+    background-color: #01426a;
+    border: 1px solid transparent; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px;
+    border-bottom-color: transparent;
+    font-weight: bold;
+}
+
+#s-lg-tabs-container .nav .dropdown-toggle .caret {
+    border-top-color: #e1e1e1;
+}
+
+#s-lg-tabs-container .nav-tabs button.dropdown-toggle .caret {
+    margin-left: 2px;
+    margin-top: -3px;
+}
+
+#s-lg-tabs-container .nav-tabs > li > a.s-lg-tab-drop {
+    border-radius: 0 4px 4px 0;
+    padding: 4px 6px 4px 3px;
+    border-left: 1px solid transparent;
+}
+
+#s-lg-tabs-container .nav-tabs > li > button.s-lg-tab-drop {
+    border-radius: 0 4px 4px 0;
+    padding: 4px 6px 0px 3px;
+    border-left: 1px solid transparent;
+    margin-right: 2px;
+}
+
+#s-lg-tabs-container .nav-tabs > li > a.s-lg-tab-drop:hover {
+    border-radius: 0 4px 4px 0;
+    border-left: 1px solid #bbb;
+    padding: 4px 6px 4px 3px;
+}
+
+#s-lg-tabs-container .nav-tabs > li > button.s-lg-tab-drop:hover {
+    border-radius: 0 4px 4px 0;
+    border-left: 1px solid #bbb;
+    padding: 4px 6px 0px 3px;
+}
+
+#s-lg-tabs-container .nav-tabs > li > a.s-lg-tab-top-link,
+#s-lg-tabs-container .nav-tabs > li > a.s-lg-tab-top-link:hover,
+#s-lg-tabs-container .nav-tabs > li > button.s-lg-tab-top-link,
+#s-lg-tabs-container .nav-tabs > li > button.s-lg-tab-top-link:hover {
+    border-radius: 4px;
+    font-weight: bold;
+    padding: 4px 5px 4px 10px;
+}
+
+.nav-tabs > li > a.s-lg-tab-top-link,
+.nav-tabs > li > button.s-lg-tab-top-link {
+    margin-right: 0px;
+}
+
+#s-lg-tabs-container .nav-pills > li > a.s-lg-tab-drop,
+#s-lg-tabs-container .nav-pills > li > button.s-lg-tab-drop {
+    border-radius: 0 4px 4px 0;
+    padding: 4px 8px 4px 8px;
+    border-left: 1px solid transparent;
+    position: absolute;
+    right: 0;
+}
+
+#s-lg-tabs-container .nav-pills > li > a.s-lg-tab-drop:hover,
+#s-lg-tabs-container .nav-pills > li > button.s-lg-tab-drop:hover {
+    border-radius: 0 4px 4px 0;
+    border-left: 1px solid #bbb;
+    padding: 4px 8px 4px 8px;
+}
+
+#s-lg-tabs-container .nav-pills > li > a.s-lg-tab-top-link,
+#s-lg-tabs-container .nav-pills > li > a.s-lg-tab-top-link:hover,
+#s-lg-tabs-container .nav-pills > li > button.s-lg-tab-top-link,
+#s-lg-tabs-container .nav-pills > li > button.s-lg-tab-top-link:hover {
+    width: 100%;
+    float: left;
+    border-radius: 4px;
+    font-weight: bold;
+    padding: 4px 15px 4px 15px;
+}
+
+/** !bootstrap_tab_css.twig **/
+ .s-lib-box {border-color: #cccccc;
+                border-width: 1px;
+                box-shadow: 0 8px 6px -6px #AAAAAA;
+                border-radius: 4px 4px 4px 4px;
+                background-color: #fff;
+            }
+            .s-lib-box-std .s-lib-box-title {background-color: #01426a; background-image: none;color: #ffffff;
+                border-bottom: 1px solid #cccccc;
+            }
+            .s-lib-box .s-lib-box-title {background-color: #01426a; background-image: none;color: #ffffff;
+                border-bottom: 1px solid #cccccc;
+                border-radius: 3px 3px 0px 0px;
+            }
+            .s-lib-box .s-lg-box-footer {
+                border-radius: 0px 0px 3px 3px;
+            }</style><script>
+	function searchPrimo() {
+		document.getElementById("primoQuery").value = "any,contains," + document.getElementById("primoQueryTemp").value.replace(/[,]/g, " ");
+		document.forms["searchForm"].submit();
+	}
+</script>
+<style>
+body {
+margin: 0;
+padding-left: 0;
+padding-right: 0;
+font-size: 15px;
+font-family: sans-serif;
+}
+
+/* Changing basic link color for contrast */
+
+.s-lg-tab-content  a {
+color: #2449b7 !important;
+}
+
+.s-lg-boxnav > li > a  {
+color: #2449b7 !important;
+}
+
+.s-lib-box-content a {
+color: #2449b7 !important;
+}
+
+a.btn.btn-info.s-lg-hp-btn-section {
+color: #FFF !important;
+}
+
+a.label-info {
+color: #fff !important;
+}
+
+/*******************/
+.s-lib-box .s-lib-box-title {
+font-size: 16px;
+}
+.s-lib-box-content p, .s-lib-box-content a {
+font-size: 15px;
+font-family: sans-serif;
+}
+#cpp-logobar {
+width: 100%;
+top: 0;
+background-color: rgba(244, 244, 244, 0.9);
+transition: background-color .7s;
+height: 60px;
+line-height: 60px;
+padding-left: 15px;
+}
+
+.align-middle {
+vertical-align: middle !important;
+}
+
+#cpp-logo-octo {
+left: -25px;
+top:-15px;
+position: relative;
+height: 90px;
+}
+
+#cpp-libguides {
+margin-bottom: 0px;
+}
+
+#cpp-links > li > a {
+font-size: 16px;
+color: #464a4c;
+}
+
+#cpp-links a:hover, #cpp-links a:focus {
+text-decoration: underline;
+}
+
+div#cpp-search {
+background-color: #01426a;
+font-size: 16px;
+margin-top: 0px;
+padding-top: 15px;
+padding-bottom: 10px;
+}
+
+
+div#cpp-search a {
+color: #FFF;
+}
+
+img#onesearch {
+margin-top: -5px;
+margin-left: 15px;
+}
+
+#cpp-form {
+margin-top: 12px;
+margin-right: 5px;
+}
+
+input#primoQueryTemp {
+margin-left: 10px;
+}
+div.search-xtra {
+margin-top: 17px;
+}
+
+#cpp-lib-footer {
+background-color: #01426a;
+font-size: 1.45em;
+color: #FFF;
+font-weight: bold;
+}
+#cpp-lib-footer a {
+color: #ffb500;
+}
+#cpp-lib-footer a:hover, #cpp-lib-footer a:focus {
+color: #fff;
+text-decoration: underline:
+}
+#contact-info {
+padding-top: 20px;
+padding-bottom: 20px;
+}
+.lib-icon {
+margin-top: 15px;
+}
+
+/*changing default trial flag look */
+.s-lg-az-result-badge-trial{
+color: #FFffff;
+background-color: #794b0b
+}
+
+/* Made Librarian name larger in profile box */
+.s-lib-profile-name {
+font-size: 1.6em;
+}
+
+/* Make breadcrumb links larger */
+#s-lib-admin-bc .breadcrumb, #s-lib-bc .breadcrumb {
+font-size: 12px;
+}
+</style><style>
+p.park {
+background-color: #F5F5F5;
+padding: 5px;
+}
+div#s-lg-box-wrapper-27327612 a {
+font-size: 16px;
+}
+
+</style><script>
+    var springStats = springStats || {};
+    springStats.saConfig = springStats.saConfig || {
+        site_id: 1071,
+        tracking_parameters: {"_st_guide_id":1013382,"_st_page_id":7340651,"_st_site_id":1071},
+        tracking_server_host: "libguides-proc.springyaws.com"
+    };
+</script>
+<script  src="https://static-assets-us.libguides.com/web/js/sa.min.js?3116"></script>
+<script>
+			springSpace.Common = springSpace.Common || { };
+			springSpace.Common.constant = {
+					PROCESSING: {
+						ACTION_DISPLAY_POLL: 159
+					}
+			};
+			springSpace.Common.baseURL = "https://libguides.library.cpp.edu/";
+			
+			handleScroll=function() {
+                if (false) {
+					var target_elt = "#s-lg-page-section-7340651";
+					jQuery("html, body").animate({ scrollTop: jQuery(target_elt).offset().top }, 750);
+					if (jQuery(this).scrollTop() > 220) {
+						jQuery("#s-lib-scroll-top").fadeIn(750);
+					}
+				}
+			}
+	   </script>
+        <script>
+            // Enable tooltips.
+            jQuery(function () {
+                try {
+                    springSpace.UI.initPopOvers();
+                    jQuery(".az-bs-tooltip").tooltip();
+                } catch (e) { }
+            });
+        jQuery(document).ready(function () {
+            springSpace.springTrack.trackPage({_st_type_id: '1',_st_guide_id: '1013382',_st_page_id: '7340651'});
+        });
+            jQuery(document).ready(function() {
+                handleScroll();
+            });
+        </script></head>
+<body class="s-lg-guide-body">
+<a id="s-lg-public-skiplink" class="alert-info" href="#s-lg-guide-main">Skip to Main Content</a><div class="cpp-logobar-min" id="cpp-logobar">
+	  <div class="mr-auto">
+		<a class="logo align-middle" href="https://www.cpp.edu/index.shtml" id="cpp-header-logo-link"> <img alt="Cal Poly Pomona with Octagon" id="cpp-logo-octo" src="https://libapps.s3.amazonaws.com/customers/1060/images/cpp-octo-web.png"> </a>
+	  </div>
+	</div>
+	<nav class="navbar navbar-default" style="background-color: #fff;" id="cpp-libguides">
+  <div class="container-fluid">
+	<div class="navbar-header">
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+		<span class="sr-only">Toggle navigation</span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+	  </button>
+	  <a class="navbar-brand" href="https://www.cpp.edu/library/index.shtml" id="brand">
+		<img class="img-responsive" alt="University Library" src="https://libapps.s3.amazonaws.com/customers/1060/images/library-justus-small.png" id="logo-img">
+	  </a>
+	</div>
+	<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+	  <ul class="nav navbar-nav navbar-right" id="cpp-links">
+		<li><a href="https://www.cpp.edu/library/library-research-help.shtml">Research Help</a></li>
+		<li><a href="https://www.cpp.edu/library/library-services.shtml">Services</a></li>
+                <li><a href="https://www.cpp.edu/library/library-spaces-tech.shtml">Spaces &amp; Tech</a></li>
+		<li><a href="https://www.cpp.edu/library/library-about.shtml">About</a></li>
+		<li><a href="https://www.cpp.edu/library/about/support-library/giving.shtml">Give to the Library</a></li>
+	  </ul>
+	</div>
+  </div>
+</nav> <!-- navigation -->
+<div class="container-fluid" id="cpp-search">
+<div class="row">
+  <div class="col-lg-6 col-md-6 12col-sm-12 col-xs-12">
+		<form class="form-horizontal" action="https://csu-cpp.primo.exlibrisgroup.com/discovery/search" enctype="application/x-www-form-urlencoded; charset=utf-8" id="simple" method="get" name="searchForm" onsubmit="searchPrimo()" target="_self">
+	  <div class="form-group" id="cpp-form">
+			<img src="https://libapps.s3.amazonaws.com/customers/1060/images/pomona175.png" class="img-responsive pull-left" alt="OneSearch logo" id="onesearch">
+		<div class="input-group">
+                <!-- Customizable Parameters -->
+                <input type="hidden" name="vid" value="01CALS_PUP:01CALS_PUP" />
+                <input type="hidden" name="tab" value="Everything" />
+                <input type="hidden" name="search_scope" value="Everything" />
+                <input type="hidden" name="lang" value="en" />
+                <!-- Fixed parameters -->
+                <input type="hidden" name="query" id="primoQuery" />
+		  <input class="form-control" id="primoQueryTemp" name="primoQueryTemp" placeholder="Search for books, articles, and more" title="Search CPP Library for books, articles, and more" type="text" />
+		  <!-- Search Button -->
+		<span class="input-group-btn">
+		<button class="btn btn-default" type="button" onclick="searchPrimo()">Go!</button>
+	  </span>
+		</div>
+	  </div>
+	</form>
+  </div>
+  <div class="col-lg-2 col-md-2 col-sm-4 col-xs-12 text-center search-xtra"><a href="https://csu-cpp.primo.exlibrisgroup.com/discovery/search?vid=01CALS_PUP:01CALS_PUP&lang=en&mode=advanced">Advanced Search</a></div>
+  <div class="col-lg-2 col-md-2 col-sm-4 col-xs-12 text-center search-xtra"><a href="https://reserves.calstate.edu/pomona/">Course Reserves</a></div>
+  <div class="col-lg-2 col-md-2 col-sm-4 col-xs-12 text-center search-xtra"><a href="https://csu-cpp.primo.exlibrisgroup.com/discovery/account?vid=01CALS_PUP:01CALS_PUP">My Library Account</a></div>
+</div>
+</div><div id="s-lg-guide-header" class="container s-lib-header s-lib-side-borders">
+    <nav id="s-lib-bc" aria-label="breadcrumb">
+        <ol id="s-lib-bc-list" class="breadcrumb"><li id="s-lib-bc-customer" class="breadcrumb-item"><a href="http://www.cpp.edu/library">University Library</a></li><li id="s-lib-bc-site" class="breadcrumb-item"><a href="https://libguides.library.cpp.edu/">Guides</a></li><li id="s-lib-bc-guide" class="breadcrumb-item"><a href="https://libguides.library.cpp.edu/library-current-services">Current Services</a></li><li id="s-lib-bc-page" class="active breadcrumb-item">Home</li></ol>    </nav>
+    <div class="pull-right">
+        <div id="s-lg-guide-header-search">
+            <div id="s-lg-guide-search-box">
+                    <form role="search" id="s-lg-guide-search-form" action="https://libguides.library.cpp.edu/srch.php"
+                    method="GET">
+                        <div class="input-group input-group-sm">
+                            <input type="text" id="s-lg-guide-search-terms" name="q" class="form-control" 
+                            maxlength="260" placeholder="Search this Guide">
+                            <label class="sr-only" for="s-lg-guide-search-terms">Search this Guide</label><input type="hidden" name="guide_id" value="1013382" /><span class="input-group-btn"><button class="btn btn-default" type="submit">SEARCH</button></span></div></form></div>        </div>
+            </div>
+    <div id="s-lg-guide-header-info">
+        <h1 id="s-lg-guide-name">Current Services</h1>
+        <div id="s-lg-guide-desc-container">
+            <span id="s-lg-guide-description"></span>
+        </div>
+    </div>
+</div>
+<div id="s-lg-guide-tabs-title-bar" class="container s-lib-side-borders"></div>
+<div id="s-lg-side-nav-content" class="container s-lib-side-borders pad-top-med">
+    <div class="row">
+        <div class="col-md-3 s-lg-tabs-side pad-bottom-med">
+            <div id="s-lg-tabs-container">
+                <div id="s-lg-guide-tabs" role="navigation" aria-label="Guide Pages">
+                    <ul class="nav nav-pills nav-stacked split-button-nav">
+                        <li class="active"><a title="" class="active" href="https://libguides.library.cpp.edu/c.php?g=1013382&p=7340651" ><span>Home</span></a></li>                    </ul>
+                    <div class="s-lg-row margin-top-med"><div id="s-lg-col-0"><div class="s-lg-col-boxes"><div id="s-lg-box-wrapper-27415735" class="s-lg-box-wrapper-27415735"><div id="s-lg-box-6672311-container" class="s-lib-box-container">
+						<div id="s-lg-box-6672311" class="s-lib-box s-lib-box-std">
+							<h2 class="s-lib-box-title">Library Chat 24/7</h2><div id="s-lg-box-collapse-6672311" >
+								<div class="s-lib-box-content">
+									
+			<div id="s-lg-content-13241616" class="  clearfix">
+				<p><!-- If using qwidget size "fill", make sure that the minimum height for the parent element of qwidget container on this page is 230 px and the minimum width is 160px.--><!-- NOTE - After pasting the code to your page, check it to ensure it does not contain any text formatting such as smart or curly quotation marks.--><!-- IMPORTANT - If using multiple chat widgets on the same page: Please incrementally change the "qwidgetno" attribute on the div and script elements for each additional qwidget on the same page.--><!-- Beginning of QuestionPoint qwidget code. --></p>
+
+<div id="libchat_6fd98b6637410ce6805a6efc0cdd5a3d"></div><script type="text/javascript" src="https://v2.libanswers.com/load_chat.php?hash=6fd98b6637410ce6805a6efc0cdd5a3d"></script>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Please be patient as we may be helping another patron.</p>
+
+<p>If a Cal Poly Pomona librarian is not available, you will get help from a backup librarian at another library.</p>
+
+		   </div>
+								</div>
+								
+							</div>
+						</div>
+					</div></div></div></div></div>                </div>
+            </div>
+        </div>
+        <div class="col-md-9">
+            <div class="s-lg-tab-content">
+                <div id="s-lg-guide-main" class="tab-pane active" tabindex="-1">
+                    <div class="row s-lg-row"><div id="s-lg-col-1" class="col-md-12"><div class="s-lg-col-boxes"><div id="s-lg-box-wrapper-34071328" class="s-lg-box-wrapper-34071328"><div id="s-lg-box-28974388-container" class="s-lib-box-container">
+						<div id="s-lg-box-28974388" class="s-lib-box s-lib-box-std">
+							<h2 class="s-lib-box-title">Services</h2><div id="s-lg-box-collapse-28974388" >
+								<div class="s-lib-box-content">
+									
+			<div id="s-lg-content-67424659" class="  clearfix">
+				<h4><span style="font-size:20px;"><a href="https://www.cpp.edu/library/access-services/tech-lending-program.shtml" target="_self"><strong><span style="color:#006400;">Tech Lending and Support</span></strong></a></span></h4>
+
+<p style="font-size:16px;font-weight:bold;">On-site Services</p>
+
+<p>The Main Circulation Desk will be staffed to assist with checking out books and reserve materials and answering general questions and inquiries.</p>
+
+<p>Individuals may also request items to be delivered to the 24/7 Bronco Lockers &ndash; <a href="https://www.cpp.edu/lockers/">https://www.cpp.edu/lockers/</a> &ndash; if they prefer contactless delivery OR cannot get to the Library while the Library is open.</p>
+
+<p>Reference and research consultations will be available with librarians &ndash; either in person or virtually. Individuals can make an appointment in advance with the appropriate subject librarian &ndash; <a href="https://www.cpp.edu/library/reference-instruction/contact-subject-librarian.shtml">https://www.cpp.edu/library/reference-instruction/contact-subject-librarian.shtml</a>.</p>
+
+<p>Individuals wishing to use Special Collections and Archives are required to make an appointment in advance. For more information, visit our website at: <a href="https://www.cpp.edu/library/special-collections/index.shtml">https://www.cpp.edu/library/special-collections/index.shtml</a>.</p>
+
+<hr />
+<h4><span style="font-size:20px;"><strong><span style="color:#006400;">Online Resources</span></strong></span></h4>
+
+<ul>
+	<li style="padding-bottom: 6px;"><span style="font-size:16px;"><a href="http://libguides.library.cpp.edu/?b=s" target="_self">Research Guides</a> get you started on the right path for researching a subject</span></li>
+	<li style="padding-bottom: 6px;"><span style="font-size:16px;">Check out the <a href="http://libguides.library.cpp.edu/az.php" target="_self">A-Z list of all the Library&#39;s databases</a> to help you find articles</span></li>
+	<li style="padding-bottom: 6px;"><span style="font-size:16px;"><a href="https://libguides.library.cpp.edu/az.php?q=ebooks" target="_self">Ebooks</a> are available to read online (some can even be downloaded to your favorite device for reading)</span></li>
+	<li style="padding-bottom: 6px;"><span style="font-size:16px;">Limited <a href="https://proxy.library.cpp.edu/login?url=https://illiad.library.cpp.edu/illiad/illiad.aspx" target="_self">Interlibrary Loan service</a> is available</span></li>
+	<li style="padding-bottom: 6px;"><span style="font-size:16px;">Are you teaching with e-Resources? Visit our <a href="https://libguides.library.cpp.edu/teaching-eresouces" target="_self">guide</a> about creating persistent links and proxy links to correctly link to library resources.&nbsp;</span></li>
+	<li style="padding-bottom: 6px;"><span style="font-size:16px;">The <a href="http://libguides.library.cpp.edu/researchtutorials" target="_self">Library&#39;s Online Tutorials</a> can help you with basic research skills, selecting useful databases for your research, and using Google Scholar among other subjects</span></li>
+	<li style="padding-bottom: 6px;"><span style="font-size:16px;">Have a question? The <a href="https://calstate.libanswers.com/calpolypomonafaq" target="_self">Library&#39;s FAQ Service</a> probably has the answer</span></li>
+	<li style="padding-bottom: 6px;"><span style="font-size:16px;">Check your <a href="https://cpp-primo.hosted.exlibrisgroup.com/primo-explore/account?vid=01CALS_PUP" target="_self">Library account</a> online</span></li>
+	<li style="padding-bottom: 6px;"><span style="font-size:16px;"><a href="https://www.cpp.edu/library/reference-instruction/purchase-suggestion.shtml" target="_self">We don&rsquo;t have a book you need? Tell us and we&rsquo;ll get it for you.</a></span></li>
+</ul>
+<!--<p style="font-size:16px;"><strong>Please note that some services may require a VPN connection. <a href="https://cpp.service-now.com/ehelp?id=kb_category&amp;kb_category=9ac79303dbc85f00ae3a567b4b961910&amp;kb_id=e9fe854e6fe8e600e020f35d5d3ee42b">Read the IT&amp;IP pages on setting up a VPN connection on your computer</a>.</strong></p> -->
+
+<h4><span style="font-size:20px;"><strong><span style="color: rgb(0, 100, 0);">Online Help</span></strong></span></h4>
+
+<p style="font-size:16px;"><a href="http://libguides.library.cpp.edu/chat" target="_self">Library Chat</a> is available 24/7 for your research questions. Our librarians are available Monday-Thursday 9am-5pm and Fridays 9am-4pm. When a Cal Poly Pomona librarian is not available, you will be assisted by a backup librarian at another university.</p>
+
+<p style="font-size:16px;"><a href="https://www.cpp.edu/library/reference-instruction/contact-subject-librarian.shtml" target="_self">Contact a Subject Librarian</a> to schedule an online consultation. Research consultations will be scheduled between 8:00 am and 4:30 pm Monday through Friday and will be dependent on librarian availability.</p>
+
+		   </div>
+								</div>
+								
+							</div>
+						</div>
+					</div></div></div></div></div>                </div>
+            </div>
+                    </div>
+    </div>
+</div>
+<div id="s-lib-footer-public"
+     class="s-lib-footer footer container s-lib-side-borders">
+    <div id="s-lg-guide-header-meta" class="pad-top-sm pad-left-med clearfix">
+        <ul id="s-lg-guide-header-attributes" class="">
+            <li id="s-lg-guide-header-updated" class="s-lg-h-separator">
+                <span class="s-lg-guide-label">Last Updated:</span> <span class="s-lg-text-greyout">May 9, 2024 10:38 AM</span>            </li>
+            <li id="s-lg-guide-header-url" class="s-lg-h-separator">
+                <span class="s-lg-guide-label">URL:</span> <span class="s-lg-text-greyout">https://libguides.library.cpp.edu/library-current-services</span>            </li>
+            <li id="s-lg-guide-print-url">
+                <a href="javascript: window.print();"><i class="fa fa-print" aria-hidden="true" title="Print Page"></i> Print Page</a>            </li>
+        </ul>
+        <div id="s-lib-footer-login-link" class="pull-right pad-right-med">
+            <a href="https://cpp.libapps.com/libapps/login.php?site_id=1071&target64=L2xpYmd1aWRlcy9hZG1pbl9jLnBocD9nPTEwMTMzODImcD03MzQwNjUx">Login to LibApps</a>        </div>
+    </div>
+    <div class="pad-bottom-sm clearfix">
+        <div id="s-lib-footer-support-link" class="pull-right pad-right-med">
+                    </div>
+        <div id="s-lg-guide-header-subjects" class="pad-top-sm pad-left-med pad-right-med pull-left">
+                    </div>
+        <div id="s-lg-guide-header-tags" class="pad-top-sm pad-left-med">
+                    </div>
+    </div>
+</div>
+<!-- scroll_top.twig -->
+<div id="s-lib-scroll-top">
+    <a href="javascript:void(0);" onclick="jQuery('body').focus();" title="Back to Top"
+       aria-label="Back to Top">
+        <span class="fa-stack fa-lg" aria-hidden="true">
+            <i class="fa fa-square-o fa-stack-2x"></i>
+            <i class="fa fa-angle-double-up fa-stack-1x" style="position:relative; bottom:2px;"></i>
+        </span>
+    </a>
+</div>
+<!-- !scroll_top.twig -->
+<div id="s-lib-alert" title=""><div id="s-lib-alert-content"></div></div>
+<!-- CPP Footer -->
+  <footer>
+  
+<div class="container-fluid" id="cpp-lib-footer">
+	<div class="row text-center" id="contact-info">
+		<div class="col-xs-12  col-sm-6 col-md-6 col-lg-4 align-self-center">
+			<span class="font-weight-bold">University Library
+				<br />
+		  <a href="https://www.cpp.edu/maps/?id=1130#!m/276533">Building 15</a>
+			</span>
+		</div>
+		<div class="col-xs-12  col-sm-6 col-md-6 col-lg-4 align-self-center">
+			<span class="font-weight-bold">
+				<a href="mailto:library@cpp.edu">library@cpp.edu</a>
+				<br />
+		  909-869-3074
+			</span>
+		</div>
+		<div class="col-xs-3 col-sm-3 col-md-3 col-lg-1 align-self-center lib-icon">
+			<span>
+				<a href="http://twitter.com/cpplibrary">
+					<img src="https://libapps.s3.amazonaws.com/customers/1060/images/twitter-logo.png" alt="twitter logo" width="32" />
+				</a>
+			</span>
+		</div>
+		<div class="col-xs-3 col-sm-3 col-md-3 col-lg-1 align-self-center lib-icon">
+			<span>
+				<a href="http://www.facebook.com/pages/Pomona-CA/Cal-Poly-Pomona-University-Library/13632547215">
+					<img src="https://libapps.s3.amazonaws.com/customers/1060/images/facebook-logo.png" alt="facebook logo" width="32" />
+				</a>
+			</span>
+		</div>
+		<div class="col-xs-3 col-sm-3 col-md-3 col-lg-1 align-self-center lib-icon">
+			<span>
+				<a href="http://www.youtube.com/user/TheCPPLibrary">
+					<img src="https://libapps.s3.amazonaws.com/customers/1060/images/youtube-logo.png" alt="youtube logo" width="32" />
+				</a>
+			</span>
+		</div>
+		<div class="col-xs-3 col-sm-3 col-md-3 col-lg-1 align-self-center lib-icon">
+			<span>
+				<a href="https://www.instagram.com/cpplibrary/">
+					<img src="https://libapps.s3.amazonaws.com/customers/1060/images/instagram-logo.png" alt="instagram logo" width="32" />
+				</a>
+			</span>
+		</div>
+	</div>
+</div>
+ 
+
+</footer>
+
+	<!-- End CPP Footer -->
+<!-- BEGIN: Analytics code --><script>  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');  ga('create', 'UA-18522228-1', 'auto');  ga('send', 'pageview');</script><!-- END: Analytics code --></body>
+</html>

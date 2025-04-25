@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<!-- Required meta tags -->
+		<meta charset="utf-8"/>
+		<meta content="width=device-width, initial-scale=1" name="viewport"/>
+		<title>
+			CPP Provides Fertile Ground Where Humans and Nature Thrive
+		</title>
+		
+		
+		<title>CPP Provides Fertile Ground Where Humans and Nature Thrive</title>
+<!--  Essential META Tags -->
+<meta content="CPP Provides Fertile Ground Where Humans and Nature Thrive" property="og:title"/>
+<meta content="article" property="og:type"/>
+<meta content="https://www.cpp.edu/news/img/news/2025/04/the-center-screenshot-13.jpg" property="og:image"/>
+<meta content="https://www.cpp.edu/news/content/2025/04/cpp-provides-fertile-ground-where-humans-and-nature-thrive/index.shtml" property="og:url"/>
+<!-- Twitter Meta Tags -->
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="cpp.edu" property="twitter:domain"/>
+<meta content="ttps://www.cpp.edu/news/content/2025/04/cpp-provides-fertile-ground-where-humans-and-nature-thrive/index.shtml" property="twitter:url"/>
+<meta content="CPP Provides Fertile Ground Where Humans and Nature Thrive" name="twitter:title"/>
+<meta content="https://www.cpp.edu/news/img/news/2025/04/the-center-screenshot-13.jpg" name="twitter:image"/>
+<meta content="Aerial View of the Lyle Center" name="twitter:image:alt"/>
+<!-- Google search thumbnail -->
+
+  <PageMap>
+    <DataObject type="thumbnail">
+      <Attribute name="src" value="https://www.cpp.edu/news/img/news/2025/04/the-center-screenshot-13.jpg"/>
+      <Attribute name="width" value="150"/>
+      <Attribute name="height" value="120"/>
+    </DataObject>
+  </PageMap>
+
+
+<meta content="https://www.cpp.edu/news/img/news/2025/04/the-center-screenshot-13.jpg" name="thumbnail"/>
+		<!-- Google Tag Manager -->
+		
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSKJRNV');</script>
+
+		<!-- End Google Tag Manager -->
+		<!-- Bootstrap CSS -->
+		<link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" rel="stylesheet"/>
+		<link href="/news/inc/template/news.css" rel="stylesheet"/>
+		<script crossorigin="anonymous" defer="defer" integrity="sha384-FW78RPcSpi13vjx77nPWQIrQbNSLkPBopb0qGzLCxD2x4Kr6FA8V05C/6cpgkKPL" src="https://pro.fontawesome.com/releases/v5.10.1/js/all.js"></script>
+	</head>
+	<body>
+		<!-- Google Tag Manager (noscript) -->
+		<noscript>
+			<iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-PSKJRNV" style="display:none;visibility:hidden" width="0"></iframe>
+		</noscript>
+		<!-- End Google Tag Manager (noscript) -->
+		<div id="alert">
+</div>
+<div id="printheader">
+	<img class="w-100" src="/news/img/print-header.png" alt="print header, cpp news" />
+</div>
+<header id="wacheader">
+	<div id="newsgreenbar">
+		<h1>
+			<a href="/news/index.shtml"><span class="cppwhitetxt">CPP</span>
+			<span class="newsyellowtxt">NEWS</span></a>
+		</h1>
+	</div>
+	<div class="row d-flex align-items-center" id="newsgraybar">
+	    <div class="col-sm-3" id="cpp-logo">
+		<a href="https://www.cpp.edu">
+			<img id="cpplogo" src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png" alt="cal poly pomona">
+			</a>
+		</div>
+			<nav class="col-sm-6" id="newsnav">
+				<ul>
+					<li>
+						<a href="/news/all-news.shtml">News</a>
+					</li>
+					<li>
+						<a href="/news/social-media-directory.shtml">Social Media</a>
+					</li>
+					<li>
+						<a href="/news/for-the-media.shtml">For the Media</a>
+					</li>
+				</ul>
+			</nav>
+			<div class="col-sm-3" id="search">
+				<form action="/news/search.shtml" autocomplete="off" id="search-form" method="GET">
+					<label class="sr-only" for="searchbox">Search Box</label>
+					<input id="searchbox" name="q" type="text" placeholder="Search" />
+					<label class="sr-only" for="submit">Submit</label>
+					<button id="submit" name="submit" type="submit">
+						<svg fill="#008345" height="18" viewbox="0 0 13 13" width="18">
+							<title>search</title>
+							<path d="m4.8495 7.8226c0.82666 0 1.5262-0.29146 2.0985-0.87438 0.57232-0.58292 0.86378-1.2877 0.87438-2.1144 0.010599-0.82666-0.28086-1.5262-0.87438-2.0985-0.59352-0.57232-1.293-0.86378-2.0985-0.87438-0.8055-0.010599-1.5103 0.28086-2.1144 0.87438-0.60414 0.59352-0.8956 1.293-0.87438 2.0985 0.021197 0.8055 0.31266 1.5103 0.87438 2.1144 0.56172 0.60414 1.2665 0.8956 2.1144 0.87438zm4.4695 0.2115 3.681 3.6819-1.259 1.284-3.6817-3.7 0.0019784-0.69479-0.090043-0.098846c-0.87973 0.76087-1.92 1.1413-3.1207 1.1413-1.3553 0-2.5025-0.46363-3.4417-1.3909s-1.4088-2.0686-1.4088-3.4239c0-1.3553 0.4696-2.4966 1.4088-3.4239 0.9392-0.92727 2.0864-1.3969 3.4417-1.4088 1.3553-0.011889 2.4906 0.45771 3.406 1.4088 0.9154 0.95107 1.379 2.0924 1.3909 3.4239 0 1.2126-0.38043 2.2588-1.1413 3.1385l0.098834 0.090049z"></path>
+						</svg>
+					</button>
+				</form>
+			</div>
+		</div>
+	</header>
+		<div id="main">
+			
+
+    <article class="container">
+    <h1>CPP Provides Fertile Ground Where Humans and Nature Thrive</h1>
+        
+     
+                                                                                                                                                                                                                                                                                                                                                                                                                                                  <ul class="tags">
+        
+        <li class="Sustainability"><a href="/news/all-news.shtml?category=21">Sustainability</a></li>
+        
+                        
+    </ul>
+    <p class="byline">April 22, 2025 | <a href="/news/all-news.shtml?author=Samantha Gonzaga">samantha gonzaga</a></p>
+   <aside class="share">
+       <h2>Share</h2>
+       <ul>
+           <li>
+              <a href="#" onclick="copyLink();return false;" title="copy article link to clipboard"><i class="far fa-link" style="color: #31814b;"></i></a>
+           </li>
+          <li>
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.cpp.edu/news/content/2025/04/cpp-provides-fertile-ground-where-humans-and-nature-thrive/index.shtml" title="share this article on facebook"><i class="fab fa-facebook" style="color: #31814b;"></i></a>
+          </li> 
+           <li>
+            <a href="https://twitter.com/intent/tweet?text=https://www.cpp.edu/news/content/2025/04/cpp-provides-fertile-ground-where-humans-and-nature-thrive/index.shtml" title="share this article on twitter">
+                <svg xmlns="http://www.w3.org/2000/svg" class="bi bi-twitter-x" fill="currentColor" height="16" style="color: #31814b;" viewBox="0 0 16 16" width="16">
+  <path d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865z"/>
+</svg>
+           </a>
+          </li> 
+            <li>
+                
+            <a title="share this article on linked in" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.cpp.edu/news/content/2025/04/cpp-provides-fertile-ground-where-humans-and-nature-thrive/index.shtml"><i class="fab fa-linkedin-in" style="color: #31814b;"></i></a>
+                
+          </li> 
+        <li>
+            <a href="mailto:?subject=Check out this article from Cal Poly Pomona News&amp;body=Check out this article - CPP Provides Fertile Ground Where Humans and Nature Thrive, https://www.cpp.edu/news/content/2025/04/cpp-provides-fertile-ground-where-humans-and-nature-thrive/index.shtml" title="Share by Email"><i class="fas fa-envelope" style="color: #31814b;"></i></a>
+          </li> 
+            <li>
+            <a href="#" onclick="window.print();return false;" title="Print this article"><i class="fas fa-print" style="color: #31814b;"></i></a>
+          </li> 
+       </ul>
+   </aside>
+                        <figure class="top-figure">
+                                 <img alt="Aerial View of the Lyle Center" class="w-100" src="../../../../img/news/2025/04/the-center-screenshot-13.jpg"/>
+                               
+                <figcaption>
+                    
+                </figcaption>
+            </figure>
+        
+                   
+    
+   
+    
+    
+                    <p>The <a href="https://www.cpp.edu/env/lyle/index.shtml">Lyle Center for Regenerative Studies</a> continues to demonstrate how sustainability, education and community can thrive together, offering a dedicated space that supports the environment while advancing academics, research and leadership development.</p>
+<p>Here are some activities and events worth noting.</p>
+<p><strong>&#8216;The Center&#8217;: Open House and Oral History<br/> </strong>On <strong>Friday, April 25</strong>, the Lyle Center will host two events: An open house for students and faculty (10 a.m. &#8211; 1 p.m.); and a rededication ceremony (5 p.m.) that will see the debut of &#8220;The Center: A Story of Regeneration,&#8221; directed and produced by alumnus Connor Rudmann (&#8217;23, master&#8217;s in <a href="https://www.cpp.edu/env/landscape-architecture/index.shtml">landscape architecture</a>).</p>
+<p><img alt="A male student uses a tractor at the Lyle Center." class="image-300px-float-left" height="700" src="../../../../img/news/2025/04/the-center-screenshot-3.jpg" width="1100"/>Rudmann&#8217;s documentary takes a deep dive into the largely untold history of the Lyle Center, told through the recollections of its first cohort of student residents and first group of faculty. Tracking down the original residents involved months of outreach &#8212; a chain reaction of cold calls, Facebook messages, late-night emails and interviews &#8212; and resulted in a rich oral history paired with archival materials sourced from the university&#8217;s Special Collections and rare VHS footage recorded by the student residents.</p>
+<p>&#8220;The Lyle Center inspired me to attend Cal Poly Pomona and follow my passion for sustainability,&#8221; Rudmann said. &#8220;I sincerely hope this film will inspire some other student out there to be "bravely curious" and to follow their passion, whether it&#8217;s at the Lyle Center at Cal Poly Pomona, or wherever their passion leads them.&#8221;</p>
+<p>Rudmann says he plans to submit the film to festivals including the Los Angeles Documentary Film Festival, the California Capital International Film Festival and the Environmental Film Festival in D.C. RSVP for the Alumni Mixer and Rededication Ceremony <a href="https://www.eventbrite.com/e/cpp-env-spring-alumni-mixer-lyle-center-rededication-tickets-1269968192049?aff=oddtdtcreator">here</a>.</p>
+<p><strong>The Orchard Project<br/> </strong><span>The 130-plus fruit trees growing at the</span><span>&#160;</span><span>Lyle Center as part of the</span><span>&#160;</span><span><strong>Orchard Project</strong></span><span>&#160;</span><span>have the distinction of being Los Angeles County&#8217;s largest orchard that </span><span>demonstrate the principles of backyard orchard culture &#8212; the </span>prolonged harvest of tree-ripe fruit from a small space, accomplished by planting an assortment of fruit trees close together. <br/> <br/> <span>Flowering at the 16-acre &#8220;living laboratory&#8221; are dozens of varieties of nectarines, apricots, pluots, plums, peaches, apples, pomegranates, cherries, table grapes, figs and mulberries. The trees are an in-kind donation by university supporter Dave Wilson Nursery, while the orchard&#8217;s irrigation parts were a material donation by Hunter Industries.</span></p>
+<p><span><strong>Farm-to-Pantry</strong></span><span> <br/> This </span>collaboration between the <a href="https://www.cpp.edu/env/">College of Environmental Design</a>, <a href="https://www.cpp.edu/agri/">Don B. Huntley College of Agriculture</a> and <a href="https://www.cpp.edu/broncoscarecenter/services/polypantry.shtml">The Poly Pantry</a> addresses food insecurity on campus. The program connects principles of sustainable agriculture and regenerative practices, as it models willingness to serve, wellness and mutual aid for a healthy and resilient campus community. Students hired by the Lyle Center train as student farmers, learning regenerative and sustainable farming practices to support the site&#8217;s ecological health, including soil health and pollinator habitat.</p>
+<p>The Lyle Center hosts Farm-to-Pantry events that invite students across all majors to plant and harvest crops that are ultimately donated to the Poly Pantry. This semester, an estimated 2,500 pounds of fresh, organic produce and fruits were delivered. To participate, sign up on <a href="https://mybar.cpp.edu">https://mybar.cpp.edu</a>.</p>
+<p><strong>Wildlife Observation<br/> </strong>Beyond agriculture, the Lyle Center offers a peaceful environment for<span>&#160;</span>wildlife observation, making it a haven for birds, pollinators and other local species.</p>
+<p>This spring, a group of student volunteers from the <a href="https://www.cpp.edu/sci/biological-sciences/index.shtml">Department of Biological Sciences</a> are back for &#8220;camera trapping season&#8221; for Assistant Professor Janel Ortiz&#8217;s BIO 1110L (life science laboratory for non-majors) and the<span>&#160;</span><a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Furldefense.com%2Fv3%2F__https%3A%2Fwww.janelortiz.com%2F__%3B!!MWueTNF2!UPuNddMj_7WLjC0bnY_7XMSyyYm09kxmdzusaaCKV5orqVLwe3OA-qOtJ4Mm9gYISXIFGWewFWVvUABkffz1uj4%24&amp;data=05%7C02%7Csbgonzaga%40cpp.edu%7C9d5f501ed23d40f33b8508dd7ec29124%7C164ba61e39ec4f5d89ffaa1f00a521b4%7C0%7C0%7C638806096335074227%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=FVOx86eF0%2BnGbpJg2PiSQhvhMEhaM4OhuIUoqiswb%2BE%3D&amp;reserved=0">Ortiz Lab of Urban Wildlife and Conservation Education</a>. Ortiz says the Lyle Center is part of the Urban Wildlife Information Network, one of 20 sites in the San Gabriel Valley that includes the university&#8217;s Voorhis Preserve.</p>
+<p><img alt="Coyote" class="image-300px-float-right" height="700" src="../../../../img/news/2025/04/lyce_coyote_2.jpg" width="1100"/>The project involves setting up cameras to capture pictures of wildlife at night when humans are not around. Footage captured both common and uncommon species &#8212; birds of prey like Barn Owls and a Western Screech owl, bobcats and a bear in 2023 &#8212; signal responses to human activity and show seasonal movements when animals like mule deer seek out resources like mates and food when there is a lot of green vegetation. These observations become foundational to student research projects that range from studying coyote activities to the characteristics of green space that attract wildlife to environmental justice.</p>
+<p>&#8220;Our backyard wildlife goes beyond the standard squirrel or bird most people think of,&#8221; she said. &#8220;CPP is home to a lot of diversity!&#8221;</p> 
+    
+                                 
+            
+    
+    
+         
+<div id="sitetags">
+    <h2>Tags </h2>
+    <ul>
+                   <li><a href="/news/all-news.shtml?tag=HUNTLEY COLLEGE OF AGRICULTURE">HUNTLEY COLLEGE OF AGRICULTURE</a></li>
+                   <li><a href="/news/all-news.shtml?tag=Connor Rudmann">Connor Rudmann</a></li>
+                   <li><a href="/news/all-news.shtml?tag=College of Environmental Design">College of Environmental Design</a></li>
+                   <li><a href="/news/all-news.shtml?tag=The Orchard Project">The Orchard Project</a></li>
+                   <li><a href="/news/all-news.shtml?tag=Farm-to-Pantry">Farm-to-Pantry</a></li>
+                   <li><a href="/news/all-news.shtml?tag=The Poly Pantry">The Poly Pantry</a></li>
+                   <li><a href="/news/all-news.shtml?tag=Wildlife Observation">Wildlife Observation</a></li>
+                   <li><a href="/news/all-news.shtml?tag=Assistant Professor Janel Ortiz">Assistant Professor Janel Ortiz</a></li>
+                   <li><a href="/news/all-news.shtml?tag=Lyle Center for Regenerative Studies">Lyle Center for Regenerative Studies</a></li>
+            </ul>
+</div>         
+</article>
+
+
+
+
+		</div>
+		<footer>
+			<section class="container" id="bottom-nav">
+	<div class="row">
+		<div class="card col-md-3 news-card">
+			<div class="card-body">
+				<h2 class="card-title">News</h2>
+				<ul>
+					<li>
+						<a class="card-link" href="/news/all-news.shtml">View All News</a>
+					</li>
+						<li>
+						<a class="card-link" href="/news/browse-by-topic.shtml">Browse by Topic</a>
+					</li>
+						<li>
+						<a class="card-link" href="https://www.cpp.edu/stratcomm/cpp-news-and-stories.shtml">Submit a Story Idea</a>
+					</li>
+				</ul>
+				
+		
+			</div>
+		</div>
+		<div class="card social-card col-md-3">
+			<div class="card-body">
+				<h2 class="card-title">Social Media</h2>
+				<ul>
+					<li>
+						<a class="card-link" href="/news/social-media-directory.shtml">Social Media Directory</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="card press-card col-md-3">
+			<div class="card-body">
+				<h2 class="card-title">For the Media</h2>
+				<ul>
+					<li>
+						<a class="card-link" href="/news/for-the-media.shtml">Media Relations</a>
+					</li>
+					<li>
+						<a class="card-link" href="https://experts.cpp.edu/" target="_blank">Experts Database 
+                            <svg title="Opens in new window"
+										xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-box-arrow-up-right" viewBox="0 0 16 16">
+										<path fill-rule="evenodd" d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5"/>
+										<path fill-rule="evenodd" d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0z"/>
+									</svg>
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+				<div class="card publications-card col-md-3">
+					<div class="card-body">
+						<h2 class="card-title">Publications</h2>
+						<ul>
+							<li>
+								<a class="card-link" href="https://www.cpp.edu/cppmag/" target="_blank" >CPP Magazine 
+									<svg title="Opens in new window"
+										xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-box-arrow-up-right" viewBox="0 0 16 16">
+										<path fill-rule="evenodd" d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5"/>
+										<path fill-rule="evenodd" d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0z"/>
+									</svg>
+								</a>
+							</li>
+							<li>
+								<a class="card-link" href="https://broncomag.cpp.edu/"  target="_blank">Bronco Digital Magazine 
+        											<svg title="Opens in new window"
+												xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-box-arrow-up-right" viewBox="0 0 16 16">
+												<path fill-rule="evenodd" d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5"/>
+												<path fill-rule="evenodd" d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0z"/>
+											</svg>
+										</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section>
+				<footer class="container-fluid">
+					<div class="row">
+						<img class="footer-logo" src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png" alt="calpoly pomona">
+							<p class="footer-address">3801 W. TEMPLE AVE. POMONA, CA 91768</p>
+					  
+    							<ul id="footer-social">
+                                  <li>
+                                    <a href="https://www.facebook.com/calpolypomona"><i class="fab fa-facebook"></i><span class="sr-only">Facebook</span></a>
+                                  </li>
+                                   <li>
+                                    <a href="https://www.instagram.com/calpolypomona"><i class="fab fa-instagram"></i><span class="sr-only">Instagram</span></a>
+                                  </li> 
+                                   <li>
+                                    <a href="https://www.youtube.com/user/calpolypomona"><i class="fab fa-youtube-square"></i><span class="sr-only">Youtube</span></a>
+                                  </li> 
+                                   <li>
+                                    <a href="https://www.twitter.com/calpolypomona">
+                                    <svg style="margin-top: -5px;" xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-twitter-x" viewBox="0 0 16 16">
+  <path d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865z"/>
+</svg>    
+                                    <span class="sr-only">Twitter</span></a>
+                                  </li> 
+                                    <li>
+                                    <a href="https://www.linkedin.com/edu/school?id=17815"><i class="fab fa-linkedin-in"></i><span class="sr-only">Linked In</span></a>
+                                  </li> 
+                               </ul>
+                           
+							<p class="footer-bottom"><a href="https://www.cpp.edu/stratcomm/">CPP News is managed by the Department of Strategic Communications.</a></p>
+						</div>
+					</footer>
+<script>
+    
+    function copyLink(copyText) {
+          // Select the text field
+          copyText = window.location.href;
+          navigator.clipboard.writeText(copyText);
+          // Alert the copied text
+          alert("Copied the article link: " + copyText);
+}
+</script>
+
+		</footer>
+		<script crossorigin="anonymous" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" type="text/javascript"></script>
+		<script crossorigin="anonymous" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+		<script src="/news/_files/js/functions.js" type="text/javascript"></script>
+	</body>
+</html>

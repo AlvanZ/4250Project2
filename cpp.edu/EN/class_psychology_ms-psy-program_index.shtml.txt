@@ -1,0 +1,1150 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+		<title>
+			Program Description
+		</title>
+		<!-- Required meta tags -->
+		<meta charset="utf-8"/>
+		<meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
+		<meta content="CLASS" property="cludo:category"/>
+<meta content="2024-05-03T10:12Z" property="date"/>
+<link href="https://www.cpp.edu/class/psychology/ms-psy-program/index.shtml" rel="canonical"/>
+		<meta content="masters program, mft," name="keywords"/>
+		
+		
+    <div lang="en">
+
+
+                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                <script src="https://cdn.levelaccess.net/accessjs/YW1wX2NwcDExMDM/access.js"></script>
+<script>// <![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSKJRNV');
+// ]]></script>
+<link href="/common/green-and-gold/assets/icons/gg-favicon.svg" rel="icon" type="image/svg+xml"/> <link crossorigin="anonymous" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" rel="stylesheet"/>
+<script crossorigin="anonymous" defer="defer" integrity="sha384-FW78RPcSpi13vjx77nPWQIrQbNSLkPBopb0qGzLCxD2x4Kr6FA8V05C/6cpgkKPL" src="https://pro.fontawesome.com/releases/v5.10.1/js/all.js"></script>
+<link href="https://www.cpp.edu/common/2018/assets/css/cpp-base-styles.css" rel="stylesheet"/> <link href="https://www.cpp.edu/common/2018/assets/css/cpp-extended-styles.css" rel="stylesheet"/> <link href="https://use.typekit.net/fia5dle.css" rel="stylesheet"/> <link href="/common/green-and-gold/assets/css/cpp-fonts.css" rel="stylesheet"/> <link href="/common/green-and-gold/assets/css/gg-header-footer.css" rel="stylesheet"/>
+
+</div>
+    
+		
+		
+	</head>
+	<body>
+		
+		
+	
+    <div lang="en">
+
+
+                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                 
+<header class="nav fixed">
+    <nav class="container">
+        <ul class="row nav__main" id="mainNavMenu">
+            <li id="main-logo" class="col-6 col-lg-3 nav__logo">
+                <a href="/" aria-label="Cal Poly Pomona Home" tabindex="0">
+                    <div class="nav__logo--horizontal">
+                        <img src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png" alt="Cal Poly Pomona Logo" />
+                    </div>
+                </a>
+            </li>
+            <li class="nav__links col-6" id="head-links">
+             <a class="nav__link nav__link--desktop col-1" href="/commencement/" tabindex="0">
+                    <svg
+                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 6px;
+    width: auto;
+">
+                        <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                        <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#005030"></path>
+                    </svg>
+                    <span class="sr-only">commencement</span>
+                </a>
+                <a class="nav__link nav__link--desktop" href="/apply/" tabindex="0">apply</a>
+                <a class="nav__link nav__link--desktop" href="/outreach/tours.shtml" tabindex="0">visit</a>
+                <a class="nav__link nav__link--desktop" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="0">info</a>
+                <a class="nav__link nav__link--desktop" href="/giving/" tabindex="0">give</a>
+                <a class="nav__link nav__link--desktop" href="https://my.cpp.edu" tabindex="0">mycpp</a>
+                <button id="search-open" class="nav__search" aria-expanded="false" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/search-dark-green.svg" alt="Search" />
+                </button>
+                <button class="nav__menu" id="menuButton" aria-expanded="false" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/menu.svg" alt="menu" />
+                </button>
+            </li>
+        </ul>
+    </nav>
+</header>
+<header id="search-header" style="display:none">
+    <div class="row">
+        <div class="col-md-6"></div>
+        <div id="searchbox" class="col-md-6">
+            <div id="search-slide">
+                <label for="#gsc-i-id1" class="sr-only">Search</label>
+                <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+                <div class="gcse-searchbox-only" data-resultsurl="https://www.cpp.edu/search.shtml"></div>
+                <button class="nav__menu col-1" id="search-close" aria-expanded="false" tabindex="0" aria-label="Menu icon">
+                    <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close icon">
+                    </button>
+                </div>
+            </div>
+            <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+            <style>
+
+     .gstl_50 gssb_c {
+         position:fixed !important;
+         }
+       #search-close img {
+         width: auto !important;
+       }
+
+       #searchbox {
+         height: 93px;
+         overflow: hidden;
+       }
+
+       #search-header {
+         position: fixed;
+         height: 100px;
+         width: 100%;
+         height: 93px;
+         z-index: 99999;
+         top: 0;
+       }
+
+       #gsc-i-id1 {
+         height: 40px;
+         width: 70%;
+         border-radius: 4px;
+         border: none;
+         padding: 15px;
+       }
+
+       #search-submit {
+         margin: 15px;
+       }
+
+       #search-close {
+         width: 23px;
+         height: 21px;
+         position: absolute;
+         top: 32px;
+       }
+
+       #search-slide {
+         width: 0px;
+         right: -100%;
+         padding: 20px 15px;
+         position: relative;
+         background: #005030;
+         height: 100%;
+         transition: all .5s ease 0s
+       }
+
+       #search-slide.slideup {
+         right: 0;
+         width: 100%;
+         position: relative;
+       }
+
+       @media screen and (max-width:991px) {
+         #search-slide {
+           height: 77px !important;
+           padding: 12px 10px;
+         }
+       }
+
+       @media screen and (max-width:767px) {
+         #search-header {
+           position: relative !important;
+         }
+
+         #search-slide {
+           text-align: center !important;
+         }
+       }
+
+     .gsc-search-button-v2 svg {
+    width: auto;
+    height: 25px;
+    position: relative;
+    top: 8px;
+}
+
+       .gsc-search-button-v2,
+       .gsc-search-button-v2:hover,
+       .gsc-search-button-v2:focus {
+         border: none !important;
+         background: none !important;
+       }
+
+       form.gsc-search-box {
+         font-size: 13px;
+         margin-top: 0;
+         margin-right: 0;
+         margin-bottom: 4px;
+         margin-left: 0;
+         width: 100%;
+         display: inline-block;
+       }
+
+       #___gcse_0 {
+         width: 70%;
+         display: inline-block;
+       }
+
+       table.gsc-search-box td.gsc-input {
+         padding-right: 0;
+       }
+
+       #gsc-i-id1 {
+         width: 100%;
+         padding: 0px;
+         border: none;
+         margin: -0.0625em 0px 0px;
+         height: 40px !important;
+         background: rgb(255, 255, 255);
+         outline: none;
+         font-size: 20px;
+         font-weight: 200;
+       }
+
+       .gstl_50.gssb_c {
+         z-index: 99999;
+       }
+
+       .gsq_a {
+         font-weight: 200;
+         font-size: 18px;
+         padding: 2px;
+       }
+
+       .gssb_a img {
+         display: none;
+       }
+
+       .side-nav__links--small-bottom {
+           margin-left:-15px;
+       }
+       .nav__links .nav__links--mobile {
+           margin-top: 50px;
+            margin-bottom: -50px;
+            margin-left: 50px
+       }
+       .nav__link--mobile {
+        	padding:0px;
+        }
+     /*   .side-nav__container, .side-nav__container--small {
+          
+            padding-left: 50px;
+        }*/
+        .side-nav__container--small-bottom {
+           padding-left: 35px;
+        }
+         @media screen and (max-width:991px) {
+             .nav__links--mobile {
+                 display:flex;
+             }
+         }
+          @media screen and (min-width:992px) {
+             .nav__links--mobile {
+                 display:none !important;
+             }
+          }
+         .nav__link--mobile {
+             color: #ffb81c;
+         }
+       </style>
+        </div>
+    </header>
+    <section class="side-nav" id="sideNavOverlay">
+        <header class="side-nav__overlay relative">
+            <nav class="container">
+                <ul class="row nav__overlay" id="sideNavMenu">
+                    <li class="nav__logo col-12 col-md-10 col-lg-3" id="navLogoOverlay">
+                        <a href="/" aria-label="Cal Poly Pomona Home" tabindex="-1">
+                            <img src="/common/green-and-gold/assets/logos/cpp_horizontal_1c_gold_rgb.png" alt="Cal Poly Pomona Logo" />
+                        </a>
+                    </li>
+                    <div class="nav__overlay--right col-12 col-lg-9">
+                        <li class="nav__links nav__links--desktop col-12 col-lg-6">
+                             <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 6px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                            <a class="nav__link nav__link--mobile" href="/apply/" tabindex="-1">apply</a>
+                            <a class="nav__link nav__link--mobile" href="/outreach/tours.shtml" tabindex="-1">visit</a>
+                            <a class="nav__link nav__link--mobile" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="-1">info</a>
+                            <a class="nav__link nav__link--mobile" href="/giving/" tabindex="-1">give</a>
+                            <a class="nav__link nav__link--mobile" href="https://my.cpp.edu" tabindex="-1">mycpp</a>
+                        </li>
+                        <li class="nav__icons">
+                            <button id="search-open-green" class="nav__search" aria-expanded="false" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/search-white.svg" alt="Search" />
+                            </button>
+                            <button class="nav__close" id="closeButton" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close menu" />
+                            </button>
+                        </li>
+                    </div>
+                </ul>
+            </nav>
+        </header>
+        
+            <div class="mobile_overlay_nav nav__links nav__links--mobile col-12 col-lg-6">
+                 <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 6px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                <a class="nav__link nav__link--mobile" href="/apply/" tabindex="0">apply </a>
+                <a class="nav__link nav__link--mobile" href="/outreach/tours.shtml" tabindex="0">visit </a>
+                <a class="nav__link nav__link--mobile" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="0">info </a>
+                <a class="nav__link nav__link--mobile" href="/giving/" tabindex="0">give </a>
+                <a class="nav__link nav__link--mobile" href="https://my.cpp.edu" tabindex="0">mycpp </a>
+            </div>
+       
+        <nav class="container side-nav__container">
+            <ul class="row side-nav__links">
+                <li id="home-button" class="side-nav__link">
+                    <a class="h3__proxima" href="/" tabindex="-1" aria-label="Cal Poly Pomona Home page">Home</a>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--0">
+                    <button class="h3__proxima" id="0" aria-expanded="false" tabindex="-1" aria-label="Link">
+                        <span>about</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--1">
+                    <button class="h3__proxima" id="1" aria-expanded="false" tabindex="-1" aria-label="Admissions & Aid">
+                        <span>admissions &amp; aid</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--2">
+                    <button class="h3__proxima" id="2" aria-expanded="false" tabindex="-1" aria-label="academics">
+                        <span>academics</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--3">
+                    <button class="h3__proxima" id="3" aria-expanded="false" tabindex="-1" aria-label="life at CPP">
+                        <span>life at CPP</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small">
+            <ul class="row">
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="https://broncoathletics.com/" tabindex="-1">athletics</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/alumni/" tabindex="-1">alumni</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/news/" tabindex="-1">news &amp; events</a>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small-bottom">
+            <ul class="col-12 col-lg-7 side-nav__links--small-bottom">
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/prospective-student-gateway/" tabindex="-1">future students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/student-gateway/" tabindex="-1">current students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/family/" tabindex="-1">families</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/faculty-staff-gateway/" tabindex="-1">faculty &amp; staff</a>
+                </li>
+            </ul>
+            <ul class="col-12 col-lg-5 social-icons">
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.instagram.com/calpolypomona/" aria-label="Instagram" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.linkedin.com/school/cal-poly-pomona/" aria-label="LinkedIn " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.youtube.com/user/calpolypomona" aria-label="Youtube " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="Youtube" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.facebook.com/calpolypomona" aria-label="Facebook " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://twitter.com/calpolypomona" aria-label="X (Twitter)" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X" />
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </section>
+
+</div>
+    
+
+		                                                                                                                                                        																										                                                            															    		                                            
+
+
+            
+
+    <header title="Psychology">
+
+
+
+      
+        
+    <custom/> 
+
+    
+                         <div id="dept-title">
+                            Psychology
+                    </div>
+    </header>
+
+                 
+    
+
+
+    <main class="container-fluid flex-grow">
+
+            <div class="row">
+        <div class="col-12 col-md-4 col-lg-3">
+            <nav class="navbar navbar-expand-md navbar-light">
+        
+
+        <button aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler navbar-toggler-right" data-target="#navbarSupportedContent" data-toggle="collapse" id="site-menu-expand-button" type="button">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">   
+            <ul class="nav nav-pills left-nav" id="site-nav">
+                                <li id="li-1">
+                    <a class="nav-link" data-parent="#site-nav" href="/class/psychology/index.shtml">Home</a>    
+                </li>
+                
+                                                                                                                                    
+                    
+                                                                                        
+                                                                                                                            
+                                                                                                                                        
+                    
+                                                                                        
+                                                                                                                            
+                                                                                                                                        
+                    
+                                                                                        
+                                                                                                                <li class="nav-item collapsed" id="li-2">
+                                    <a aria-controls="menu" aria-expanded="false" class="nav-link" data-parent="#site-nav" data-toggle="collapse" href="#item-1">Advising<i class="fas fa-chevron-right nav-folder-collapsed"></i><i class="fas fa-chevron-right fa-rotate-90 nav-folder-expanded"></i></a>    
+                                </li>
+                                                                 <div class="collapse" id="item-1">
+                                                        
+                            <ul class="nav flex-column ml-3">
+                                                                    
+                                                                                                            
+                                    
+                                                                            
+                                        <li class="nav-item" id="li-3">
+                                            <a class="nav-link" data-parent="#item-1" href="/class/psychology/advising/index.shtml">
+                                                                                                    Advising
+                                                                                            </a>
+                                        </li>
+                                                                                                                                                 
+                                                                                                            
+                                    
+                                                                            
+                                        <li class="nav-item" id="li-4">
+                                            <a class="nav-link" data-parent="#item-1" href="/class/psychology/advising/faq.shtml">
+                                                                                                    FAQ
+                                                                                            </a>
+                                        </li>
+                                                                                                                                                 
+                                                                                                            
+                                    
+                                                                            
+                                        <li class="nav-item" id="li-5">
+                                            <a class="nav-link" data-parent="#item-1" href="/class/psychology/advising/faculty-advisor-or-student-success.shtml">
+                                                                                                    Which type of advisor should I speak to?
+                                                                                            </a>
+                                        </li>
+                                                                                                                                                 
+                                                                                                            
+                                    
+                                                                            
+                                        <li class="nav-item" id="li-6">
+                                            <a class="nav-link" data-parent="#item-1" href="/class/psychology/advising/psych-advisors.shtml">
+                                                                                                    Psychology Advisors
+                                                                                            </a>
+                                        </li>
+                                                                                                                                                                         </ul></div>
+                                                                                                    
+                                                                                                                                        
+                    
+                                                                                        
+                                                                                                                <li class="nav-item collapsed" id="li-7">
+                                    <a aria-controls="menu" aria-expanded="false" class="nav-link" data-parent="#site-nav" data-toggle="collapse" href="#item-2">Undergraduate Psychology Programs<i class="fas fa-chevron-right nav-folder-collapsed"></i><i class="fas fa-chevron-right fa-rotate-90 nav-folder-expanded"></i></a>    
+                                </li>
+                                                                 <div class="collapse" id="item-2">
+                                                        
+                            <ul class="nav flex-column ml-3">
+                                                                    
+                                                                                                            
+                                    
+                                                                            
+                                        <li class="nav-item" id="li-8">
+                                            <a class="nav-link" data-parent="#item-2" href="/class/psychology/psychology-course/psy-major.shtml">
+                                                                                                    Psychology Major
+                                                                                            </a>
+                                        </li>
+                                                                                                                                                 
+                                                                                                            
+                                    
+                                                                            
+                                        <li class="nav-item" id="li-9">
+                                            <a class="nav-link" data-parent="#item-2" href="/class/psychology/psychology-course/psy-minor.shtml">
+                                                                                                    Psychology Minor
+                                                                                            </a>
+                                        </li>
+                                                                                                                                                 
+                                                                                                            
+                                    
+                                                                            
+                                        <li class="nav-item" id="li-10">
+                                            <a class="nav-link" data-parent="#item-2" href="/class/psychology/psychology-course/curriculum-sheets.shtml">
+                                                                                                    Psychology Curriculum Sheets
+                                                                                            </a>
+                                        </li>
+                                                                                                                                                 
+                                                                                                            
+                                    
+                                                                            
+                                        <li class="nav-item" id="li-11">
+                                            <a class="nav-link" data-parent="#item-2" href="/class/psychology/psychology-course/roadmaps.shtml">
+                                                                                                    Psychology Roadmaps
+                                                                                            </a>
+                                        </li>
+                                                                                                                                                 
+                                                                                                            
+                                    
+                                                                            
+                                        <li class="nav-item" id="li-12">
+                                            <a class="nav-link" data-parent="#item-2" href="/class/psychology/psychology-course/course-offerings.shtml">
+                                                                                                    Psychology Course Offering
+                                                                                            </a>
+                                        </li>
+                                                                                                                                                 
+                                                                                                            
+                                    
+                                                                                                        
+                                                                                                            
+                                    
+                                                                                                                                </ul></div>
+                                                                                                    
+                                                                                                                                        
+                    
+                                                                                        
+                                                                                                                <li class="nav-item collapsed" id="li-13">
+                                    <a aria-controls="menu" aria-expanded="false" class="nav-link" data-parent="#site-nav" data-toggle="collapse" href="#item-3">Masters in Psychology Graduate Program<i class="fas fa-chevron-right nav-folder-collapsed"></i><i class="fas fa-chevron-right fa-rotate-90 nav-folder-expanded"></i></a>    
+                                </li>
+                                                                 <div class="collapse" id="item-3">
+                                                        
+                            <ul class="nav flex-column ml-3">
+                                                                    
+                                                                                                            
+                                    
+                                                                            
+                                        <li class="nav-item" id="li-14">
+                                            <a class="nav-link" data-parent="#item-3" href="/class/psychology/ms-psy-program/index.shtml">
+                                                                                                    Program Description
+                                                                                            </a>
+                                        </li>
+                                                                                                                                                 
+                                                                                                            
+                                    
+                                                                            
+                                        <li class="nav-item" id="li-15">
+                                            <a class="nav-link" data-parent="#item-3" href="/class/psychology/ms-psy-program/faq.shtml">
+                                                                                                    Frequently Asked Questions
+                                                                                            </a>
+                                        </li>
+                                                                                                                                                 
+                                                                                                            
+                                    
+                                                                            
+                                        <li class="nav-item" id="li-16">
+                                            <a class="nav-link" data-parent="#item-3" href="/class/psychology/ms-psy-program/ms-how-to-apply.shtml">
+                                                                                                    How to Apply
+                                                                                            </a>
+                                        </li>
+                                                                                                                                                                         </ul></div>
+                                                                                                    
+                                                                                                                                        
+                    
+                                                                                        
+                                                                                                                            
+                                                                                                                                        
+                    
+                                                                                        
+                                                                                                                <li class="nav-item collapsed" id="li-17">
+                                    <a aria-controls="menu" aria-expanded="false" class="nav-link" data-parent="#site-nav" data-toggle="collapse" href="#item-4">Faculty &amp; Staff<i class="fas fa-chevron-right nav-folder-collapsed"></i><i class="fas fa-chevron-right fa-rotate-90 nav-folder-expanded"></i></a>    
+                                </li>
+                                                                 <div class="collapse" id="item-4">
+                                                        
+                            <ul class="nav flex-column ml-3">
+                                                                    
+                                                                                                            
+                                    
+                                                                            
+                                        <li class="nav-item" id="li-18">
+                                            <a class="nav-link" data-parent="#item-4" href="/class/psychology/faculty-staff/faculty-and-staff.shtml">
+                                                                                                    Faculty and Staff
+                                                                                            </a>
+                                        </li>
+                                                                                                                                                 
+                                                                                                            
+                                    
+                                                                            
+                                        <li class="nav-item" id="li-19">
+                                            <a class="nav-link" data-parent="#item-4" href="/class/psychology/faculty-staff/part-time-old.shtml">
+                                                                                                    Lecturer Faculty
+                                                                                            </a>
+                                        </li>
+                                                                                                                                                 
+                                                                                                            
+                                    
+                                                                            
+                                        <li class="nav-item" id="li-20">
+                                            <a class="nav-link" data-parent="#item-4" href="/class/psychology/faculty-staff/office-hours.shtml">
+                                                                                                    Office Hours
+                                                                                            </a>
+                                        </li>
+                                                                                                                                                                         </ul></div>
+                                                                                                    
+                                                                                                                                        
+                    
+                                                                                        
+                                                                                                                <li class="nav-item collapsed" id="li-21">
+                                    <a aria-controls="menu" aria-expanded="false" class="nav-link" data-parent="#site-nav" data-toggle="collapse" href="#item-5">Undergraduate Research<i class="fas fa-chevron-right nav-folder-collapsed"></i><i class="fas fa-chevron-right fa-rotate-90 nav-folder-expanded"></i></a>    
+                                </li>
+                                                                 <div class="collapse" id="item-5">
+                                                        
+                            <ul class="nav flex-column ml-3">
+                                                                    
+                                                                                                            
+                                    
+                                                                            
+                                        <li class="nav-item" id="li-22">
+                                            <a class="nav-link" data-parent="#item-5" href="/class/psychology/undergrad_research/faculty_research_labs.shtml">
+                                                                                                    Research Labs
+                                                                                            </a>
+                                        </li>
+                                                                                                                                                 
+                                                                                                            
+                                    
+                                                                            
+                                        <li class="nav-item" id="li-23">
+                                            <a class="nav-link" data-parent="#item-5" href="/class/psychology/undergrad_research/index.shtml">
+                                                                                                    Undergraduate Research
+                                                                                            </a>
+                                        </li>
+                                                                                                                                                 
+                                                                                                            
+                                    
+                                                                            
+                                        <li class="nav-item" id="li-24">
+                                            <a class="nav-link" data-parent="#item-5" href="/class/psychology/undergrad_research/faculty-interests-combined.shtml">
+                                                                                                    Faculty Research Interests
+                                                                                            </a>
+                                        </li>
+                                                                                                                                                 
+                                                                                                            
+                                    
+                                                                                                                                </ul></div>
+                                                                                                    
+                                                                                                                                        
+                    
+                                                                                        
+                                                                                                                            
+                                                                                                                                        
+                    
+                                                                                        
+                                                                                                                <li class="nav-item collapsed" id="li-25">
+                                    <a aria-controls="menu" aria-expanded="false" class="nav-link" data-parent="#site-nav" data-toggle="collapse" href="#item-6">Announcements &amp; Events<i class="fas fa-chevron-right nav-folder-collapsed"></i><i class="fas fa-chevron-right fa-rotate-90 nav-folder-expanded"></i></a>    
+                                </li>
+                                                                 <div class="collapse" id="item-6">
+                                                        
+                            <ul class="nav flex-column ml-3">
+                                                                    
+                                                                                                            
+                                    
+                                                                                                        
+                                                                                                            
+                                    
+                                                                            
+                                        <li class="nav-item" id="li-26">
+                                            <a class="nav-link" data-parent="#item-6" href="/class/psychology/announcements-and-events/index.shtml">
+                                                                                                    Announcements &amp; Events
+                                                                                            </a>
+                                        </li>
+                                                                                                                                                 
+                                                                                                            
+                                    
+                                                                            
+                                        <li class="nav-item" id="li-27">
+                                            <a class="nav-link" data-parent="#item-6" href="/class/psychology/announcements-and-events/faculty-and-staff-spotlight.shtml">
+                                                                                                    Faculty and Staff Spotlight
+                                                                                            </a>
+                                        </li>
+                                                                                                                                                 
+                                                                                                            
+                                    
+                                                                            
+                                        <li class="nav-item" id="li-28">
+                                            <a class="nav-link" data-parent="#item-6" href="/class/psychology/announcements-and-events/lowell-overton.shtml">
+                                                                                                    Lowell Overton Undergraduate Research Symposium
+                                                                                            </a>
+                                        </li>
+                                                                                                                                                                         </ul></div>
+                                                                                                    
+                                                                                                                                        
+                    
+                    
+                                                
+                                                                                                                                                                
+                    
+                    
+                                                
+                                                    
+                            <li id="li-29">
+                                <a class="nav-link" data-parent="#site-nav" href="/class/psychology/student-organizations.shtml">
+                                                                            Student Organizations
+                                                                    </a>    
+                            </li>
+                                                                                                                                                                                              
+                    
+                    
+                                                
+                                                    
+                            <li id="li-30">
+                                <a class="nav-link" data-parent="#site-nav" href="/class/psychology/internship-scholarship-opportunities.shtml">
+                                                                            Special Projects and Scholarship Opportunities
+                                                                    </a>    
+                            </li>
+                                                                                                                                                                                              
+                    
+                                                                                        
+                                                                                                                            
+                                                                                                                                        
+                    
+                    
+                                                
+                                                    
+                            <li id="li-31">
+                                <a class="nav-link" data-parent="#site-nav" href="/class/psychology/support-the-department.shtml">
+                                                                            Support the Department
+                                                                    </a>    
+                            </li>
+                                                                                                                                                                                              
+                    
+                    
+                                                
+                                                    
+                            <li id="li-32">
+                                <a class="nav-link" data-parent="#site-nav" href="/class/psychology/contact-information.shtml">
+                                                                            Contact Information
+                                                                    </a>    
+                            </li>
+                                                                                                                                                                                              
+                    
+                    
+                                                
+                                                                                                                                                                
+                    
+                                                                                        
+                                                                                                                            
+                                                                                                                                        
+                    
+                                                                                        
+                                                                                                                            
+                                                                                                                                        
+                    
+                    
+                                                
+                                                                        </ul>
+        </div>
+    </nav>
+        </div>
+                        <div class="col-sm col-md-8 col-lg-9" id="main">   
+                                <h1 class="cpp-h1">Program Description</h1>
+            
+
+
+    
+                                            
+                                    <section class="text-images" id="s0">
+                                
+                                                        
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                            <h2 style="font-weight: 400;"><img alt="2014 grad students group photo" height="400" src="../img/grad-students2014-960x400.jpg" width="960"/></h2>
+<h2 style="font-weight: 400;"><strong>Welcome!</strong></h2>
+<p style="font-weight: 400;">Thank you for your interest in our <strong>Master of Science (M.S.) in Psychology</strong> program. This program is designed to prepare you for the <strong>Marriage and Family Therapy (MFT) </strong>license in the State of California. MFT licensure is administered by the California Board of Behavioral Sciences (BBS). Our program meets all the requirements set forth by the BBS and is approved by the Western Accreditation of Schools and Colleges (WASC).</p>
+<p style="font-weight: 400;">For more information about MFT licensure requirements in California, click here: <a href="https://www.bbs.ca.gov/applicants/lmft.html">MFT Licensure Requirements</a></p>
+<p style="font-weight: 400;">Marriage&#160;and Family Therapy (MFT) is a form of psychotherapy or counseling&#160;that addresses the behaviors of all family members and how these behaviors affect individual family members, the relationships between family members, and the family unit as a whole. Students in our MFT program will learn the basics for how to conduct individual therapy, couple therapy, family therapy, and child/adolescent therapy.</p>
+<p style="font-weight: 400;">More specifically, we hope that students in our program will learn:</p>
+<ul style="font-weight: 400;">
+<li>How to develop a therapeutic alliance with clients</li>
+<li>Theories and techniques for working with children and adolescents</li>
+<li>How to identify and report child abuse</li>
+<li>Theories and techniques for working with couples</li>
+<li>Knowledge about sexual disorders and dysfunctions and techniques for how to intervene</li>
+<li>Theories and techniques for working with families</li>
+<li>How to identify and report elder and dependent adult abuse</li>
+<li>How to identify and intervene with intimate partner violence</li>
+<li>Theories and techniques for working with groups</li>
+<li>Knowledge about the biological and neurological bases of behavior</li>
+<li>Knowledge about how drugs, alcohol, and psychotropic medications affect behaviors</li>
+<li>How to formulate diagnostic impressions regarding mental disorders using the edition of the&#160;<em>Diagnostic and Statistical Manual of Mental Disorders (DSM)&#160;</em></li>
+<li>How to understand major psychological tests that measure intelligence, personality traits, psychological symptoms, and other matters relevant to psychological assessment</li>
+<li>How multicultural and gender issues relate to theories and intervention strategies of psychotherapy</li>
+<li>Professional ethics and laws that relate to the practice of psychotherapy</li>
+<li>How to maintain professional boundaries and separate out one's own issues from those of one's clients</li>
+<li>An openness and responsiveness to supervision and other forms of feedback</li>
+<li>Other issues relevant to being a mental health professional</li>
+</ul>
+            </section>
+                            
+                  
+       
+	
+	
+ 
+         
+    
+
+    
+                                            
+                                    <section class="text-images" id="s1">
+                                
+                                                        
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                            <h2 style="font-weight: 400;"><strong>Program Requirements</strong></h2>
+<p style="font-weight: 400;">For a more detailed description of the program requirements and courses offered, please visit our program page in the Cal Poly Pomona Catalog.</p>
+<p style="font-weight: 400;"><a href="https://catalog.cpp.edu/preview_program.php?catoid=61&amp;poid=15893&amp;hl=%22psychology+m.s.%22&amp;returnto=search#CulminatingExperience1Unit">Program Requirements</a></p>
+            </section>
+                            
+                  
+       
+	
+	
+ 
+         
+    
+
+    
+                                            
+                                    <section class="text-images" id="s2">
+                                
+                                                        
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                            <h2 style="font-weight: 400;"><strong>What Stands Out About Our Program?</strong></h2>
+<p style="font-weight: 400;">We believe&#8212;and feedback from our students, alumni, and community partners confirms&#8212;that one of the strengths of our program is <strong>our commitment to diversity, equity, and inclusion</strong>. Our faculty come from a variety of backgrounds and represent diversity in terms of race, ethnicity, country of origin, age, gender identity, language, sexual orientation, and spiritual belief systems. When admitting students to the program, we make a concerted effort to maintain this type of diversity in each cohort.</p>
+<p style="font-weight: 400;">Cal Poly Pomona is also officially designated as a &#8220;minority-serving institution&#8221; and a &#8220;Hispanic-serving institution.&#8221; Cal Poly Pomona is a &#8220;majority-minority&#8221; campus where the student body primarily consists of Students of Color. Cal Poly Pomona demonstrates it&#8217;s commitment to diversity, equity, and inclusion in their mission statement, their philosophy, the curriculum, and in student support services. As a program, we are grateful for Cal Poly Pomona&#8217;s commitment to these issues.</p>
+<p style="font-weight: 400;">We also demonstrate our commitment to diversity, equity, and inclusion, in our curriculum and clinical training. Multicultural issues are infused into every course, with one entire class dedicated to the topic (PSY 5575, Cross-Cultural &amp; Gender Issues in Therapy<span>&#160; </span>&amp; Recovery Model). Most practicum sites on our approved list afford students the opportunity to gain clinical experience working with diverse and underserved communities. Multicultural competence is an ethical imperative for mental health professionals, and we do our best to help students build multicultural knowledge, awareness, and skills.</p>
+            </section>
+                            
+                  
+       
+	
+	
+ 
+         
+    
+
+</div>
+</div>
+</main>
+
+		
+    <div lang="en">
+
+
+                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                 
+<style>
+     @media screen and (min-width: 992px) {
+    .mini-footer .footer__socials-buttons {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}
+
+.mini-footer .button1__transducer {
+    font-size: 12px;
+    letter-spacing: .5px;
+}
+
+.mini-footer .button {
+	margin-top: 0;
+    padding: 8px 20px 8px 20px;
+
+}
+.mini-footer .footer-line {
+    border-top: thin solid #a4d65e;
+    margin-top: 39px;
+    padding-top: 15px;
+}
+ </style>
+<footer class="footer mini-footer">
+    <div class="footer__rip-wrapper">
+        <img class="footer__rip" alt="" src="/common/green-and-gold/assets/images/green-rip.svg" alt="Ripped green paper." />
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-2">
+                <div class="footer__logo-wrapper">
+                    <a href="/" aria-label="CPP Logo">
+                        <img class="footer__logo" src="/common/green-and-gold/assets/logos/cpp_primary_1c_gold_rgb.png" alt="Cal Poly Pomona logo, building with a palm tree." />
+                    </a>
+                </div>
+            </div>
+            <div class="col-12 col-lg-6 offset-lg-4">
+                <div class="footer__socials">
+                    <div class="footer__socials-buttons">
+                        <a class="button button__secondary button1__transducer" href="/apply/">Apply</a>
+                        <a class="button button__secondary button1__transducer" href="https://maps.cpp.edu/">Maps</a>
+                        <a class="button button__secondary button1__transducer" href="/outreach/tours.shtml">Visit</a>
+                        <a class="button button__secondary button1__transducer" href="/contact.shtml">Contact Us</a>
+                    </div>
+                    <div class="footer__socials-icons">
+                        <a href="https://www.instagram.com/calpolypomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram opens a new window" />
+                        </a>
+                        <a href="https://www.linkedin.com/school/cal-poly-pomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn opens a new window" />
+                        </a>
+                        <a href="https://www.youtube.com/user/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="YouTube opens a new window" />
+                        </a>
+                        <a href="https://www.facebook.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook opens a new window" />
+                        </a>
+                        <a href="https://twitter.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X opens a new window" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 footer-line">
+                <div class="footer__errata">
+                    <p class="footer__copyright" style="line-height: 1.8em">Copyright ©2025 California State Polytechnic University, Pomona.  All Rights Reserved 
+                        
+                        <br />A campus of 
+                        
+                        <a class="footer__errata-link" style="display: inline" href="https://www.calstate.edu/">The California State University</a>.
+                    
+                    </p>
+                    <div class="footer__errata-links">
+                        <a class="footer__errata-link" href="https://www.cpp.edu/website-feedback.shtml">Feedback</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/privacy.shtml">Privacy</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/accessibility.shtml">Accessibility</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/file-viewers.shtml">Document Readers</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer__gradient-bottom"></div>
+</footer>
+
+
+<script   src="https://code.jquery.com/jquery-3.2.1.min.js"   integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="   crossorigin="anonymous">
+</script><script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script src="https://www.cpp.edu/common/green-and-gold/assets/js/cpp-legacy.js" ></script>
+<script src="https://www.cpp.edu/common/2018/assets/js/tabs.js" ></script>
+<script src="/common/green-and-gold/assets/js/nav.js"></script>
+
+
+</div>
+    
+		
+		
+	</body>
+</html>

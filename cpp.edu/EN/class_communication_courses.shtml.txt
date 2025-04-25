@@ -1,0 +1,1370 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+		<title>
+			Courses
+		</title>
+		<!-- Required meta tags -->
+		<meta charset="utf-8"/>
+		<meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
+		<meta content="CLASS" property="cludo:category"/>
+<meta content="2024-12-18T08:12Z" property="date"/>
+<link href="https://www.cpp.edu/class/communication/courses.shtml" rel="canonical"/>
+		
+		
+		
+    <div lang="en">
+
+
+                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                <script src="https://cdn.levelaccess.net/accessjs/YW1wX2NwcDExMDM/access.js"></script>
+<script>// <![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSKJRNV');
+// ]]></script>
+<link href="/common/green-and-gold/assets/icons/gg-favicon.svg" rel="icon" type="image/svg+xml"/> <link crossorigin="anonymous" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" rel="stylesheet"/>
+<script crossorigin="anonymous" defer="defer" integrity="sha384-FW78RPcSpi13vjx77nPWQIrQbNSLkPBopb0qGzLCxD2x4Kr6FA8V05C/6cpgkKPL" src="https://pro.fontawesome.com/releases/v5.10.1/js/all.js"></script>
+<link href="https://www.cpp.edu/common/2018/assets/css/cpp-base-styles.css" rel="stylesheet"/> <link href="https://www.cpp.edu/common/2018/assets/css/cpp-extended-styles.css" rel="stylesheet"/> <link href="https://use.typekit.net/fia5dle.css" rel="stylesheet"/> <link href="/common/green-and-gold/assets/css/cpp-fonts.css" rel="stylesheet"/> <link href="/common/green-and-gold/assets/css/gg-header-footer.css" rel="stylesheet"/>
+
+</div>
+    
+		
+		
+	</head>
+	<body>
+		
+		
+	
+    <div lang="en">
+
+
+                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                 
+<header class="nav fixed">
+    <nav class="container">
+        <ul class="row nav__main" id="mainNavMenu">
+            <li id="main-logo" class="col-6 col-lg-3 nav__logo">
+                <a href="/" aria-label="Cal Poly Pomona Home" tabindex="0">
+                    <div class="nav__logo--horizontal">
+                        <img src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png" alt="Cal Poly Pomona Logo" />
+                    </div>
+                </a>
+            </li>
+            <li class="nav__links col-6" id="head-links">
+             <a class="nav__link nav__link--desktop col-1" href="/commencement/" tabindex="0">
+                    <svg
+                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 6px;
+    width: auto;
+">
+                        <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                        <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#005030"></path>
+                    </svg>
+                    <span class="sr-only">commencement</span>
+                </a>
+                <a class="nav__link nav__link--desktop" href="/apply/" tabindex="0">apply</a>
+                <a class="nav__link nav__link--desktop" href="/outreach/tours.shtml" tabindex="0">visit</a>
+                <a class="nav__link nav__link--desktop" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="0">info</a>
+                <a class="nav__link nav__link--desktop" href="/giving/" tabindex="0">give</a>
+                <a class="nav__link nav__link--desktop" href="https://my.cpp.edu" tabindex="0">mycpp</a>
+                <button id="search-open" class="nav__search" aria-expanded="false" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/search-dark-green.svg" alt="Search" />
+                </button>
+                <button class="nav__menu" id="menuButton" aria-expanded="false" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/menu.svg" alt="menu" />
+                </button>
+            </li>
+        </ul>
+    </nav>
+</header>
+<header id="search-header" style="display:none">
+    <div class="row">
+        <div class="col-md-6"></div>
+        <div id="searchbox" class="col-md-6">
+            <div id="search-slide">
+                <label for="#gsc-i-id1" class="sr-only">Search</label>
+                <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+                <div class="gcse-searchbox-only" data-resultsurl="https://www.cpp.edu/search.shtml"></div>
+                <button class="nav__menu col-1" id="search-close" aria-expanded="false" tabindex="0" aria-label="Menu icon">
+                    <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close icon">
+                    </button>
+                </div>
+            </div>
+            <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+            <style>
+
+     .gstl_50 gssb_c {
+         position:fixed !important;
+         }
+       #search-close img {
+         width: auto !important;
+       }
+
+       #searchbox {
+         height: 93px;
+         overflow: hidden;
+       }
+
+       #search-header {
+         position: fixed;
+         height: 100px;
+         width: 100%;
+         height: 93px;
+         z-index: 99999;
+         top: 0;
+       }
+
+       #gsc-i-id1 {
+         height: 40px;
+         width: 70%;
+         border-radius: 4px;
+         border: none;
+         padding: 15px;
+       }
+
+       #search-submit {
+         margin: 15px;
+       }
+
+       #search-close {
+         width: 23px;
+         height: 21px;
+         position: absolute;
+         top: 32px;
+       }
+
+       #search-slide {
+         width: 0px;
+         right: -100%;
+         padding: 20px 15px;
+         position: relative;
+         background: #005030;
+         height: 100%;
+         transition: all .5s ease 0s
+       }
+
+       #search-slide.slideup {
+         right: 0;
+         width: 100%;
+         position: relative;
+       }
+
+       @media screen and (max-width:991px) {
+         #search-slide {
+           height: 77px !important;
+           padding: 12px 10px;
+         }
+       }
+
+       @media screen and (max-width:767px) {
+         #search-header {
+           position: relative !important;
+         }
+
+         #search-slide {
+           text-align: center !important;
+         }
+       }
+
+     .gsc-search-button-v2 svg {
+    width: auto;
+    height: 25px;
+    position: relative;
+    top: 8px;
+}
+
+       .gsc-search-button-v2,
+       .gsc-search-button-v2:hover,
+       .gsc-search-button-v2:focus {
+         border: none !important;
+         background: none !important;
+       }
+
+       form.gsc-search-box {
+         font-size: 13px;
+         margin-top: 0;
+         margin-right: 0;
+         margin-bottom: 4px;
+         margin-left: 0;
+         width: 100%;
+         display: inline-block;
+       }
+
+       #___gcse_0 {
+         width: 70%;
+         display: inline-block;
+       }
+
+       table.gsc-search-box td.gsc-input {
+         padding-right: 0;
+       }
+
+       #gsc-i-id1 {
+         width: 100%;
+         padding: 0px;
+         border: none;
+         margin: -0.0625em 0px 0px;
+         height: 40px !important;
+         background: rgb(255, 255, 255);
+         outline: none;
+         font-size: 20px;
+         font-weight: 200;
+       }
+
+       .gstl_50.gssb_c {
+         z-index: 99999;
+       }
+
+       .gsq_a {
+         font-weight: 200;
+         font-size: 18px;
+         padding: 2px;
+       }
+
+       .gssb_a img {
+         display: none;
+       }
+
+       .side-nav__links--small-bottom {
+           margin-left:-15px;
+       }
+       .nav__links .nav__links--mobile {
+           margin-top: 50px;
+            margin-bottom: -50px;
+            margin-left: 50px
+       }
+       .nav__link--mobile {
+        	padding:0px;
+        }
+     /*   .side-nav__container, .side-nav__container--small {
+          
+            padding-left: 50px;
+        }*/
+        .side-nav__container--small-bottom {
+           padding-left: 35px;
+        }
+         @media screen and (max-width:991px) {
+             .nav__links--mobile {
+                 display:flex;
+             }
+         }
+          @media screen and (min-width:992px) {
+             .nav__links--mobile {
+                 display:none !important;
+             }
+          }
+         .nav__link--mobile {
+             color: #ffb81c;
+         }
+       </style>
+        </div>
+    </header>
+    <section class="side-nav" id="sideNavOverlay">
+        <header class="side-nav__overlay relative">
+            <nav class="container">
+                <ul class="row nav__overlay" id="sideNavMenu">
+                    <li class="nav__logo col-12 col-md-10 col-lg-3" id="navLogoOverlay">
+                        <a href="/" aria-label="Cal Poly Pomona Home" tabindex="-1">
+                            <img src="/common/green-and-gold/assets/logos/cpp_horizontal_1c_gold_rgb.png" alt="Cal Poly Pomona Logo" />
+                        </a>
+                    </li>
+                    <div class="nav__overlay--right col-12 col-lg-9">
+                        <li class="nav__links nav__links--desktop col-12 col-lg-6">
+                             <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 6px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                            <a class="nav__link nav__link--mobile" href="/apply/" tabindex="-1">apply</a>
+                            <a class="nav__link nav__link--mobile" href="/outreach/tours.shtml" tabindex="-1">visit</a>
+                            <a class="nav__link nav__link--mobile" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="-1">info</a>
+                            <a class="nav__link nav__link--mobile" href="/giving/" tabindex="-1">give</a>
+                            <a class="nav__link nav__link--mobile" href="https://my.cpp.edu" tabindex="-1">mycpp</a>
+                        </li>
+                        <li class="nav__icons">
+                            <button id="search-open-green" class="nav__search" aria-expanded="false" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/search-white.svg" alt="Search" />
+                            </button>
+                            <button class="nav__close" id="closeButton" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close menu" />
+                            </button>
+                        </li>
+                    </div>
+                </ul>
+            </nav>
+        </header>
+        
+            <div class="mobile_overlay_nav nav__links nav__links--mobile col-12 col-lg-6">
+                 <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 6px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                <a class="nav__link nav__link--mobile" href="/apply/" tabindex="0">apply </a>
+                <a class="nav__link nav__link--mobile" href="/outreach/tours.shtml" tabindex="0">visit </a>
+                <a class="nav__link nav__link--mobile" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="0">info </a>
+                <a class="nav__link nav__link--mobile" href="/giving/" tabindex="0">give </a>
+                <a class="nav__link nav__link--mobile" href="https://my.cpp.edu" tabindex="0">mycpp </a>
+            </div>
+       
+        <nav class="container side-nav__container">
+            <ul class="row side-nav__links">
+                <li id="home-button" class="side-nav__link">
+                    <a class="h3__proxima" href="/" tabindex="-1" aria-label="Cal Poly Pomona Home page">Home</a>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--0">
+                    <button class="h3__proxima" id="0" aria-expanded="false" tabindex="-1" aria-label="Link">
+                        <span>about</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--1">
+                    <button class="h3__proxima" id="1" aria-expanded="false" tabindex="-1" aria-label="Admissions & Aid">
+                        <span>admissions &amp; aid</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--2">
+                    <button class="h3__proxima" id="2" aria-expanded="false" tabindex="-1" aria-label="academics">
+                        <span>academics</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--3">
+                    <button class="h3__proxima" id="3" aria-expanded="false" tabindex="-1" aria-label="life at CPP">
+                        <span>life at CPP</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small">
+            <ul class="row">
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="https://broncoathletics.com/" tabindex="-1">athletics</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/alumni/" tabindex="-1">alumni</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/news/" tabindex="-1">news &amp; events</a>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small-bottom">
+            <ul class="col-12 col-lg-7 side-nav__links--small-bottom">
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/prospective-student-gateway/" tabindex="-1">future students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/student-gateway/" tabindex="-1">current students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/family/" tabindex="-1">families</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/faculty-staff-gateway/" tabindex="-1">faculty &amp; staff</a>
+                </li>
+            </ul>
+            <ul class="col-12 col-lg-5 social-icons">
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.instagram.com/calpolypomona/" aria-label="Instagram" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.linkedin.com/school/cal-poly-pomona/" aria-label="LinkedIn " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.youtube.com/user/calpolypomona" aria-label="Youtube " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="Youtube" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.facebook.com/calpolypomona" aria-label="Facebook " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://twitter.com/calpolypomona" aria-label="X (Twitter)" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X" />
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </section>
+
+</div>
+    
+
+		                                                                                                                                                        																										                                                            															    		                                            
+
+
+            
+
+    <header title="Communication">
+
+
+
+      
+        
+    <custom/> 
+
+    
+                         <div id="dept-title">
+                            Communication
+                    </div>
+    </header>
+
+                 
+    
+
+
+    <main class="container-fluid flex-grow">
+
+            <div class="row">
+        <div class="col-12 col-md-4 col-lg-3">
+            <nav class="navbar navbar-expand-md navbar-light">
+        
+
+        <button aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler navbar-toggler-right" data-target="#navbarSupportedContent" data-toggle="collapse" id="site-menu-expand-button" type="button">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">   
+            <ul class="nav nav-pills left-nav" id="site-nav">
+                                <li id="li-1">
+                    <a class="nav-link" data-parent="#site-nav" href="/class/communication/index.shtml">Home</a>    
+                </li>
+                
+                                                                                                                                    
+                    
+                                                                                        
+                                                                                                                <li class="nav-item collapsed" id="li-2">
+                                    <a aria-controls="menu" aria-expanded="false" class="nav-link" data-parent="#site-nav" data-toggle="collapse" href="#item-1">About Communication<i class="fas fa-chevron-right nav-folder-collapsed"></i><i class="fas fa-chevron-right fa-rotate-90 nav-folder-expanded"></i></a>    
+                                </li>
+                                                                 <div class="collapse" id="item-1">
+                                                        
+                            <ul class="nav flex-column ml-3">
+                                                                    
+                                                                                                            
+                                    
+                                                                            
+                                        <li class="nav-item" id="li-3">
+                                            <a class="nav-link" data-parent="#item-1" href="/class/communication/about/index.shtml">
+                                                                                                    About the Department
+                                                                                            </a>
+                                        </li>
+                                                                                                                                                 
+                                                                                                            
+                                    
+                                                                            
+                                        <li class="nav-item" id="li-4">
+                                            <a class="nav-link" data-parent="#item-1" href="/class/communication/about/learning-outcomes.shtml">
+                                                                                                    Student Learning Outcomes
+                                                                                            </a>
+                                        </li>
+                                                                                                                                                                         </ul></div>
+                                                                                                    
+                                                                                                                                        
+                    
+                    
+                                                
+                                                    
+                            <li id="li-5">
+                                <a class="nav-link" data-parent="#site-nav" href="/class/communication/prospective-students.shtml">
+                                                                            Prospective Students 
+                                                                    </a>    
+                            </li>
+                                                                                                                                                                                              
+                    
+                                                                                        
+                                                                                                                <li class="nav-item collapsed" id="li-6">
+                                    <a aria-controls="menu" aria-expanded="false" class="nav-link" data-parent="#site-nav" data-toggle="collapse" href="#item-2">Degree Programs<i class="fas fa-chevron-right nav-folder-collapsed"></i><i class="fas fa-chevron-right fa-rotate-90 nav-folder-expanded"></i></a>    
+                                </li>
+                                                                 <div class="collapse" id="item-2">
+                                                        
+                            <ul class="nav flex-column ml-3">
+                                                                    
+                                                                                                            
+                                    
+                                                                            
+                                        <li class="nav-item" id="li-7">
+                                            <a class="nav-link" data-parent="#item-2" href="/class/communication/degree-programs/index.shtml">
+                                                                                                    Overview
+                                                                                            </a>
+                                        </li>
+                                                                                                                                                 
+                                                                                                            
+                                    
+                                                                            
+                                        <li class="nav-item" id="li-8">
+                                            <a class="nav-link" data-parent="#item-2" href="/class/communication/degree-programs/communication-studies.shtml">
+                                                                                                    Communication Studies
+                                                                                            </a>
+                                        </li>
+                                                                                                                                                 
+                                                                                                            
+                                    
+                                                                            
+                                        <li class="nav-item" id="li-9">
+                                            <a class="nav-link" data-parent="#item-2" href="/class/communication/degree-programs/multimedia-journalism.shtml">
+                                                                                                    Multimedia Journalism
+                                                                                            </a>
+                                        </li>
+                                                                                                                                                 
+                                                                                                            
+                                    
+                                                                            
+                                        <li class="nav-item" id="li-10">
+                                            <a class="nav-link" data-parent="#item-2" href="/class/communication/degree-programs/public-relations.shtml">
+                                                                                                    Public Relations
+                                                                                            </a>
+                                        </li>
+                                                                                                                                                 
+                                                                                                            
+                                    
+                                                                            
+                                        <li class="nav-item" id="li-11">
+                                            <a class="nav-link" data-parent="#item-2" href="/class/communication/degree-programs/minor-program.shtml">
+                                                                                                    Minor Programs
+                                                                                            </a>
+                                        </li>
+                                                                                                                                                                         </ul></div>
+                                                                                                    
+                                                                                                                                        
+                    
+                                                                                        
+                                                                                                                <li class="nav-item collapsed" id="li-12">
+                                    <a class="nav-link" data-parent="#site-nav" href="/class/communication/faculty-and-staff/index.shtml">Faculty &amp; Staff</a>    
+                                </li>
+                                                                                                        
+                                                                                                                                        
+                    
+                    
+                                                
+                                                    
+                            <li id="li-13">
+                                <a class="nav-link" data-parent="#site-nav" href="/class/communication/courses.shtml">
+                                                                            Courses
+                                                                    </a>    
+                            </li>
+                                                                                                                                                                                              
+                    
+                    
+                                                
+                                                                                                                                                                
+                    
+                                                                                        
+                                                                                                                <li class="nav-item collapsed" id="li-14">
+                                    <a aria-controls="menu" aria-expanded="false" class="nav-link" data-parent="#site-nav" data-toggle="collapse" href="#item-3">Advising Resources<i class="fas fa-chevron-right nav-folder-collapsed"></i><i class="fas fa-chevron-right fa-rotate-90 nav-folder-expanded"></i></a>    
+                                </li>
+                                                                 <div class="collapse" id="item-3">
+                                                        
+                            <ul class="nav flex-column ml-3">
+                                                                    
+                                                                                                            
+                                    
+                                                                            
+                                        <li class="nav-item" id="li-15">
+                                            <a class="nav-link" data-parent="#item-3" href="/class/communication/advising-resources/index.shtml">
+                                                                                                    Advising Resources
+                                                                                            </a>
+                                        </li>
+                                                                                                                                                 
+                                                                                                            
+                                    
+                                                                            
+                                        <li class="nav-item" id="li-16">
+                                            <a class="nav-link" data-parent="#item-3" href="/class/communication/advising-resources/faq.shtml">
+                                                                                                    Frequently Asked Questions
+                                                                                            </a>
+                                        </li>
+                                                                                                                                                 
+                                                                                                            
+                                    
+                                                                            
+                                        <li class="nav-item" id="li-17">
+                                            <a class="nav-link" data-parent="#item-3" href="https://www.cpp.edu/registrar/graduation/applying-for-graduation.shtml">
+                                                                                                    Graduation Information
+                                                                                            </a>
+                                        </li>
+                                                                                                                                                                         </ul></div>
+                                                                                                    
+                                                                                                                                        
+                    
+                                                                                        
+                                                                                                                <li class="nav-item collapsed" id="li-18">
+                                    <a aria-controls="menu" aria-expanded="false" class="nav-link" data-parent="#site-nav" data-toggle="collapse" href="#item-4">How to Get Involved<i class="fas fa-chevron-right nav-folder-collapsed"></i><i class="fas fa-chevron-right fa-rotate-90 nav-folder-expanded"></i></a>    
+                                </li>
+                                                                 <div class="collapse" id="item-4">
+                                                        
+                            <ul class="nav flex-column ml-3">
+                                                                    
+                                                                                                            
+                                    
+                                                                            
+                                        <li class="nav-item" id="li-19">
+                                            <a class="nav-link" data-parent="#item-4" href="/class/communication/how-to-get-involved/index.shtml">
+                                                                                                    How to Get Involved
+                                                                                            </a>
+                                        </li>
+                                                                                                                                                 
+                                                                                                            
+                                    
+                                                                            
+                                        <li class="nav-item" id="li-20">
+                                            <a class="nav-link" data-parent="#item-4" href="/class/communication/how-to-get-involved/the-poly-post.shtml">
+                                                                                                    The Poly Post
+                                                                                            </a>
+                                        </li>
+                                                                                                                                                 
+                                                                                                            
+                                    
+                                                                            
+                                        <li class="nav-item" id="li-21">
+                                            <a class="nav-link" data-parent="#item-4" href="/class/communication/how-to-get-involved/student-clubs.shtml">
+                                                                                                    Student Clubs
+                                                                                            </a>
+                                        </li>
+                                                                                                                                                 
+                                                                                                            
+                                    
+                                                                            
+                                        <li class="nav-item" id="li-22">
+                                            <a class="nav-link" data-parent="#item-4" href="/class/communication/how-to-get-involved/professional-associations.shtml">
+                                                                                                    Professional Associations
+                                                                                            </a>
+                                        </li>
+                                                                                                                                                                         </ul></div>
+                                                                                                    
+                                                                                                                                        
+                    
+                    
+                                                
+                                                    
+                            <li id="li-23">
+                                <a class="nav-link" data-parent="#site-nav" href="/class/communication/scholarship-opportunities.shtml">
+                                                                            Scholarship Opportunities
+                                                                    </a>    
+                            </li>
+                                                                                                                                                                                              
+                                            
+                                                                         <li class="nav-item" id="li-24">
+                            <a class="nav-link" href="https://host.nxt.blackbaud.com/donor-form/?svcid=tcs&amp;formId=e6705620-c1de-4abd-9bde-45ee97381696&amp;envid=p-U8cWxcSPwE-IVTDHD3u4WA&amp;zone=usa&amp;desid=378&amp;desname=Communication%20Department%20Excellence&amp;wbcmp=dsgsrch">Support the Department</a>    
+                        </li>
+                                            
+                    
+                                                                                                                                        
+                    
+                    
+                                                
+                                                    
+                            <li id="li-25">
+                                <a class="nav-link" data-parent="#site-nav" href="/class/communication/testimonials.shtml">
+                                                                            Testimonials
+                                                                    </a>    
+                            </li>
+                                                                                                                                                                                              
+                    
+                    
+                                                
+                                                    
+                            <li id="li-26">
+                                <a class="nav-link" data-parent="#site-nav" href="/class/communication/contact-information.shtml">
+                                                                            Contact Information
+                                                                    </a>    
+                            </li>
+                                                                                                                                                                                              
+                    
+                                                                                        
+                                                                                                                            
+                                                                                                                                        
+                    
+                                                                                        
+                                                                                                                            
+                                                                                                                                        
+                    
+                                                                                        
+                                                                                                                            
+                                                                                                                                        
+                    
+                    
+                                                
+                                                                                                                                                                
+                    
+                    
+                                                
+                                                                                                                                                                
+                    
+                                                                                        
+                                                                                                                            
+                                                </ul>
+        </div>
+    </nav>
+        </div>
+                        <div class="col-sm col-md-8 col-lg-9" id="main">   
+                                <h1 class="cpp-h1">Courses</h1>
+            
+
+
+    
+                                            
+                                    <section class="text-images" id="s0">
+                                
+                                                        
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                            <img alt="COM Day" class="" height="560" src="img/com-day-photos/com-day.jpg" width="960"/>
+            </section>
+                            
+                  
+       
+	
+	
+ 
+         
+    
+
+    
+                    
+                  
+        
+                 
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                 
+    	
+            
+                                       <div class="accordion" id="accordion-1">
+        
+                                                                                    <div class="w-100 text-right">
+                                              <button aria-controls=" collapsed1-1 collapsed1-2 collapsed1-3 collapsed1-4" aria-expanded="false" class="btn btn-primary mb-2" data-target=".multi-collapse1" data-toggle="collapse" type="button">Expand/Collapse All <span class="sr-only">for faq number 1</span></button>
+            </div>
+                                    
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading1">
+                <h2 class="m-0">
+                    <button aria-controls="collapse1-1" aria-expanded="false" class="btn btn-link" data-target="#collapse1-1" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  COM 1000s
+                    </button>
+                </h2>
+            </div>
+                            <div aria-labelledby="heading1" class="collapse multi-collapse1 " id="collapse1-1">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                <h3>COM 1100 - Public Speaking (A1)</h3>
+<p><span>Study and practice of the principles and skills of effective public speaking, including how to conceptualize, structure, support, and deliver oral messages. Focuses on informative and persuasive speech-making, speech-critiquing, and understanding the role of reasoned discourse in a democratic society.</span></p>
+<h3>COM 1101 - Survey of Mass Communication&#160;</h3>
+<p><span>Survey of contemporary mass media, communications theory, structure and interrelationships of newspapers, magazines, radio, television, and the Internet. Analysis of major media content.</span></p>
+<h3>COM 1103 - Interpersonal Communication</h3>
+<p><span>Examination of the variables determining communication behavior. Development of understanding through involvement in a variety of structured face-to-face interactions with other students.</span></p>
+<h3>COM 1106 - Writing for Communication Practitioners&#160;</h3>
+<p><span>Editorial, research, feature, and scholarly writing styles, constructions, and structures unique to the communication field.</span></p>
+<h3>COM 1107 - Copyediting</h3>
+<p><span>Instruction in the editorial process of writing text that is clear, correct, concise, comprehensible, and consistent. Use of the Associated Press style manual and reference materials. Applying appropriate level of copyediting and eliminating bias</span></p>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                            
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading2">
+                <h2 class="m-0">
+                    <button aria-controls="collapse1-2" aria-expanded="false" class="btn btn-link" data-target="#collapse1-2" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  COM 2000s
+                    </button>
+                </h2>
+            </div>
+                            <div aria-labelledby="heading2" class="collapse multi-collapse1 " id="collapse1-2">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                <h3>COM 2000 - Special Study for Lower Division Students&#160;</h3>
+<p><span>Individual or group investigation, research, studies, or surveys of selected problems. Proposals to be initiated by student(s) with guidance from faculty.&#160; </span><span><em>Prerequisite(s): Department consent required.</em> </span></p>
+<h3>COM 2201 - Introduction to Communication Theory&#160;</h3>
+<p><span>Study of contributions of rhetorical theory, linguistics, psychology, and sociology to the development of general communication theory.</span></p>
+<h3>COM 2204 - Advocacy and Argument (A1)</h3>
+<p><span>Study and practice of the principles and skills of effective oral argument, including how to conceptualize, structure, support, and deliver oral arguments. Focuses on how to create reasoned oral arguments, adapt arguments to different audiences, and critique the arguments of others.</span></p>
+<h3>COM 2206 - Media Design</h3>
+<p><span>Principles and theory of typography, layout, and production of material for media design. Work with Macintosh computers and learn elements of desktop publishing, including word processing, graphic design, and page composition.</span></p>
+<h3>COM 2216 - Report Writing</h3>
+<p><span>Report-writing techniques. Research, organization, and preparation of specialized and technical information. Regular written reports.&#160;</span> <em>Prerequisite(s): Completion of GE Area A2.</em></p>
+<h3>COM 2217 - Reporting&#160;</h3>
+<p><span>Reporting and writing the news. Emphasis on news gathering, interviewing and writing principles. Determining newsworthiness, using sources, writing news leads, and developing news stories. &#160;</span><em>Prerequisite(s): COM 1106 or 1107.&#160;</em></p>
+<h3>COM 2231 - Digital Photo</h3>
+<p><span>Nature and types of image capture devices, image manipulation and adjustment techniques, and image output devices typically encountered by working photographers and designers; major emphasis on image manipulation and compositing.</span> &#160;<em>Prerequisite(s): COM 2201.</em></p>
+<h3>COM 2232 - Photojournalism&#160;</h3>
+<p><span>Photography for media publications and public relations. Photo editing, picture stories and photo illustrations and photography and lighting for newspapers, magazines, and other media publications.</span></p>
+<h3>COM 2237 - Group Communication&#160;</h3>
+<p><span>Variables of communication within problem solving groups; development of conference and discussion skills. Secondary emphasis on group psychology as it relates to problem solving discussions.</span></p>
+<h3>COM 2270 - Media, Politics, Sex and Violence (D3)</h3>
+<p><span>Effects of mass media institutions on societies; their significance as social institutions. Examines the ways in which news and entertainment media impact public attitudes and behavior. Includes examinations of sex, gender, violence, politics, and race.</span></p>
+<h3>COM 2280 - Understanding and Appreciating the Photographic Image (C1)</h3>
+<p><span>History and aesthetics of the photographic image. Explores theories of visual communication and methods of photographic image evaluation. Views and evaluates applications of photography. Examines the role of composition, light, and imagination in the production of photographic images.</span></p>
+<h3>COM 2990 - Special Topics for Lower Division Students</h3>
+<p><span>Group study of a selected well-defined topic or area not covered by a regularly offered course.</span></p>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                            
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading3">
+                <h2 class="m-0">
+                    <button aria-controls="collapse1-3" aria-expanded="false" class="btn btn-link" data-target="#collapse1-3" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  COM 3000s
+                    </button>
+                </h2>
+            </div>
+                            <div aria-labelledby="heading3" class="collapse multi-collapse1 " id="collapse1-3">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                <h3>COM 3211 - Multimedia Journalism&#160;</h3>
+<p><span>Introduction to multimedia storytelling practices, including audio, visual, and multi-platform journalism. Utilizing different technologies and software to produce multimedia news stories</span>.<span>&#160;</span> <em>Prerequisite(s): COM 1106 or 1107 and COM 2217.</em></p>
+<h3>COM 3301 - Video Journalism&#160;</h3>
+<p>Gathering and writing of news for broadcast media. Introduction to broadcast news production. Beginning field production. <span>&#160;</span><em>Prerequisite(s): COM 1106 or 1107, COM 2217, and COM 3211.</em></p>
+<h3>COM 3310 - Data Journalism&#160;</h3>
+<p><span>Finding, interpreting, and displaying data guided by ethical and legal responsibilities. Utilizing data sets and software to produce and visualize news stories by employing spreadsheets, charts, and maps</span>. &#160;<em>Prerequisite(s): COM 1106 or 1107 and COM 2217.</em></p>
+<h3>COM 3312 - Magazine Journalism&#160;</h3>
+<p>Analysis and history of various types of publications produced in magazine format. Class works on design and production of several magazine-styled publications using the latest in computer technology and desktop publishing software. Includes lectures, demonstrations and critiques of student projects. &#160;<em>Prerequisite(s): COM 1106 or 1107, COM 2206, and COM 2217.</em></p>
+<h3>COM 3313 - Public Relations Principles</h3>
+<p><span>The nature and role of public relations in society, activities of public relations professionals, major influences that affect organizational behavior, and ethics and professional development of practitioners. Emphasis on management functions and developing effective public relations strategies. &#160;</span><em>Prerequisite(s): Junior or Senior standing.</em></p>
+<h3>COM 3314 - Organizational Communication Theory (D4)</h3>
+<p><span>Interdisciplinary theoretical approaches to the study of communication in and between organizations. Emphasis on organizational communication theories relating to managerial, psychological, sociological, systemic, cultural and political views of communication in and between organizations.&#160;</span> <em>Prerequisite(s): Completion of GE Areas A, D1-3, and B4.</em></p>
+<h3>COM 3316 - Communication Research&#160;</h3>
+<p><span>Research methods used to measure the content, process and effects of communications on attitudes, knowledge, and behavior. Research design, data analysis and evaluation in quantitative and qualitative communication research methodology.</span> <span>&#160;</span><em>Prerequisite(s): COM 1106 or 1107 and COM 2201.</em></p>
+<h3>COM 3319 - Public Relations Writing&#160;</h3>
+<p><span>Format and style for writing public relations materials. Emphasis on writing the various types of public relations copy.</span> <span>&#160;</span><em>Prerequisite(s): COM 1106 or 1107, COM 2217, and COM 3313.</em></p>
+<h3>COM 3321 - Advanced Organizational&#160;Communication Theory&#160;</h3>
+<p><span>Analysis of breakdowns in communications systems; identification of barriers and constraints to effective message transmission. Emphasis on practical and creative problem solving.</span> <span>&#160;</span><em>Prerequisite(s): COM 3314.</em></p>
+<h3>COM 3325 - Persuasion&#160;</h3>
+<p><span>Persuasion is examined as affected by messages in various communication contexts. The process is studied through differing aspects of source, channel(s), and receiver(s). Emphasis on contributions from behavioral theorists.</span> &#160;<em>Prerequisite(s): Junior or Senior standing.</em></p>
+<h3>COM 3326 - Nonverbal Communication&#160;</h3>
+<p>Examination of prominent theories, research, and methods relating to the study of nonverbal communication at work, home, and play. Includes investigation of the cultural similarities and differences in nonverbal communication.&#160; <em>Prerequisite(s): Junior or Senior standing.</em>&#160;</p>
+<h3>COM 3327 - Intercultural Communication (D4)</h3>
+<p><span>Considers complexities of communication in a culturally diverse world toward the goal of improving communication effectiveness. Assimilates theory and research from anthropology, sociology, psychology, ethnic and gender studies, conflict &amp; peace studies, and communication. Examines roles of culture, social groups, and individuals in shaping communication.</span>&#160; <i>Prerequisite(s): Completion of GE Areas A, D1-3, and B4.</i></p>
+<h3>COM 3328 - Diversity and Communication</h3>
+<p><span>Examination of prominent theories, research, and methods relating to the study of diversity and communication. Explores the multiple ways in which social identities such as race, ethnicity, religion, gender, sexual orientation, social and economic class, age, and disability are both reflected and reconstituted through everyday communication practices.</span><span>&#160;</span> <i>Prerequisite(s): </i><em>COM 2201.</em></p>
+<h3>COM 3340 - Professional Writing and Speaking</h3>
+<p><span>Development and practice of specific writing and speaking skills applicable to professional-type settings Emphasis on creating documents and oral presentations that are clear, concise, compelling, and correct. Includes discussion and analysis of both traditional and emerging modes of message delivery</span>. &#160;<em><i>Prerequisite(s):&#160;</i>COM 2204. </em></p>
+<h3>COM 3351A - News Practicum</h3>
+<p><span>Multimedia news laboratory for beginning journalists. For students interested in gaining practical newsroom experience.</span> &#160;<em>Prerequisite(s): COM 1106 or 1107 and COM 2217.</em></p>
+<h3>COM 3352A - Magazine Practices&#160;</h3>
+<p><span>Magazine production course for beginning staff members; writing, layout and production activity. &#160;</span><em>Prerequisite(s): COM 1106 or 1107, COM 2217, and COM 3312.&#160;</em></p>
+<h3>COM 3354A - Video Practices</h3>
+<p><span>Video production experience on department online publications.</span>&#160; <em>Prerequisite(s): COM 1106 or 1107, COM 2217, and COM 3301.</em></p>
+<h3>COM 3360 - Communication Law and Ethics</h3>
+<p><span>Constitutional, statutory, and case law governing freedom of speech and press, libel, privacy, journalist&#8217;s confidential sources, subpoena, search warrant, contempt, newsgathering and freedom of information, free press and fair trial, obscenity, and access to the media. Ethical responsibility of journalists and public relations practitioners.</span><span>&#160;</span> <em>Prerequisite(s): Junior or Senior standing.</em></p>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                            
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading4">
+                <h2 class="m-0">
+                    <button aria-controls="collapse1-4" aria-expanded="false" class="btn btn-link" data-target="#collapse1-4" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  COM 4000s
+                    </button>
+                </h2>
+            </div>
+                            <div aria-labelledby="heading4" class="collapse multi-collapse1 " id="collapse1-4">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                <h3>COM 4000 - Special Study for Upper Division Students&#160;</h3>
+<p><span>Individual or group investigation, research, studies, or surveys of selected problems at advanced level. Proposals to be initiated by student(s) with guidance from faculty.&#160; <em>Prerequisite(s): Department consent required.</em> </span></p>
+<h3>COM 4133 - Public Opinion, Propaganda, and the Mass Media (D4)</h3>
+<p><span>Techniques of sociological and political persuasion, mass media and public opinion in the United States; developments in international propaganda. Integrates disciplines of sociology and political science in application to operation of communication and communications media in society.</span> <span>&#160;</span><i>Prerequisite(s): Completion of GE Areas A, D1-3, and B4.</i></p>
+<h3>COM 4140 - Public Relations Case Studies</h3>
+<p><span>Examination of how PR professionals deal with the demanding and dynamic environment of corporate, government and nonprofit public relations. Examines situations and strategies and discusses factors that affect how public relations is practiced in organizations: identifying stakeholder groups, developing strategies, embracing diversity and recognizing ethical issues.</span><span>&#160;</span> <em>Prerequisite(s): COM 3313 and Junior or Senior standing.&#160;</em></p>
+<h3>COM 4150 - Public Relations Campaigns</h3>
+<p><span>Mastery of the elements of a strategic communications campaign through direct experience. Facilitates understanding of the strategic management of public relations through analysis of the public relations process. Work in teams to design a public relations campaign.</span><span>&#160;</span> <em>Prerequisite(s): COM 1106 or 1107, COM 2201, COM 3316, and COM 3319.</em></p>
+<h3>COM 4166 - Advanced Communication Research&#160;</h3>
+<p><span>Advanced communication research, design, analysis, inference and evaluation, including multivariate methods. Use of computer packages for data analysis. Each student will design, implement and report a research project.&#160;</span> <em>Prerequisite(s): COM 1106 or 1107, COM 2201, and COM 3316.</em></p>
+<h3>COM 4170 - Public Affairs Reporting</h3>
+<p><span>Gathering material and writing stories pertaining to government and courts; covering a city beat. Emphasis on organization and procedures of governmental institutions. Students required to research background for story assignments and analyze data from reports.&#160;</span> <em>Prerequisite(s): COM 1106 or 1107 and COM 2217.&#160;</em></p>
+<h3>COM 4180 - Investigative Journalism&#160;</h3>
+<p><span>Researching and writing investigative news stories. Practical skills and ethical principles of investigative reporting. A project-based class in which students will investigate one topic for the majority of the semester.</span><span>&#160;</span> <em>Prerequisite(s): COM 1106 or 1107 and COM 2217.</em></p>
+<h3>COM 4190 - Documentary Journalism&#160;</h3>
+<p><span>Selective documentary photography, film, and sound-based projects will be viewed, discussed and interpreted with the goal of understanding the broad landscape of the documentary form and the society in which it exists.&#160;</span> <em>Prerequisite(s): COM 1106 or 1107 and COM 2217.</em></p>
+<h3>COM 4200 - Special Topics in Journalism</h3>
+<p><span>Examination of a topic area that is not regularly covered in the journalism curriculum.</span>&#160; <em>Prerequisite(s): COM 1106 or 1107 and COM 2217.</em></p>
+<h3>COM 4222 - Crisis Communication (D4)</h3>
+<p><span>Theory and practice of crisis communication; strategies, and tactics when developing and implementing crisis communication plans through case studies and in-class activities.&#160; <i>Prerequisite(s): Completion of GE Areas A, D1-3, and B4.</i> </span></p>
+<h3>COM 4233 - Political Economy of Mass Communication (D4)</h3>
+<p><span>Political context of economic principles underwriting communications media. Historical and contemporary assessment of how economics of telecommunications, press, broadcasting, and the Internet interact with wider political processes, including legislative and regulatory agencies. Focus on U.S.-based media; comparative international references.&#160; <i>Prerequisite(s): Completion of GE Areas A, D1-3, and B4.</i> </span></p>
+<h3>COM 4244 - Organizational Communication and Technology</h3>
+<p><span>Examination of prominent theories, research, and methods relating to the study of how technology functions in organizational settings. Includes how organizations implement and use technological tools, as well as why these tools succeed or fail in meeting the organization&#8217;s purposes and goals. &#160;<i>Prerequisite(s): COM 3314.</i> </span></p>
+<h3>COM 4403 - Advanced Interpersonal&#160;Communication</h3>
+<p><span>Concentrated focus on prominent theories, research, and methods relating to the study of intimate interpersonal communication between friends, partners, and family members. Explores the processes and stages of interpersonal relationships, including how they are created, maintained, altered, and dissolved through communication. <i>&#160;Prerequisite(s): COM 1103 and COM 2201.</i> </span></p>
+<h3>COM 4404 - Gender and Communication</h3>
+<p><span>Examination of prominent theories, research, and methods relating to the study of gender and communication. Explores the social construction of gender and sexuality through communication, and how they influence communication practices and, correspondingly, how communication practices reflect and reinforce gendered roles and differing view of sexuality.&#160; <i>Prerequisite(s): COM 2201.</i> </span></p>
+<h3>COM 4405 - Family Communication</h3>
+<p><span>Examination of prominent theories, research, and methods relating to the study of family communication. Explores specific communication processes in the context of families and how particular issues facing families can influence and be influenced by communication.&#160; <i>Prerequisite(s): COM 1103 and COM 2201.</i> </span></p>
+<h3>COM 4406 - Communication: The Dark Side</h3>
+<p><span>Examination of prominent theories, research, and methods relating to the study the &#8216;dark side&#8217; of interpersonal communication. Explores communication in interpersonal relationships that is destructive and dysfunctional, as well as communication presumed to be &#8216;dark,&#8217; but which functions positively and productively. &#160;<i>Prerequisite(s): COM 1103 and COM 2201.</i> </span></p>
+<h3>COM 4407 - Special Topics in Interpersonal&#160;Communication</h3>
+<p><span>Examination of a topic area that is not regularly covered in the interpersonal communication curriculum.&#160; <i>Prerequisite(s): COM 1103 and COM 2201.</i> </span></p>
+<h3>COM 4409 - Negotiation and Conflict Resolution&#160;</h3>
+<p><span>The role of communication in the productive settlement of interpersonal and organizational disputes. Examination of effective communication strategies used in negotiation and bargaining situations. &#160;</span><em>Prerequisite(s): COM 2201.</em></p>
+<h3>COM 4411 - Applied Communication Internship&#160;</h3>
+<p><span>An intensive communication internship or other individual/group study of the communications process as specified by each option.</span><span>&#160;</span> <em>Prerequisite(s): Department consent required.</em></p>
+<h3>COM 4435 - Special Topics in Public Relations&#160;</h3>
+<p><span>Examination of a topic area that is not regularly covered in the public relations curriculum. &#160;</span><em>Prerequisite(s): COM 3313.</em></p>
+<h3>COM 4440 - Communication&#160;Training and&#160;Consulting</h3>
+<p><span>Study of the principles and processes of effective communication training and development. Includes how to create, implement, and assess communication training and development programs; how to conduct communication audits for business, government, and nonprofit organizations; and how to provide individualized one-on-one training and mentoring within the workplace.&#160;</span> <em>Prerequisite(s): COM 2204 and COM 3314.</em></p>
+<h3>COM 4446 - Event Planning&#160;</h3>
+<p><span>Application of public relations techniques to planning events. Participation in planning, organization, and implementation of selected event.</span> <span>&#160;</span><em>Prerequisite(s): COM 2201 and Junior or Senior standing.</em></p>
+<h3>COM 4447 - Political&#160;Communication (D4)</h3>
+<p>Study and practice of strategic communication in a socio-political context, including, but not limited to, campaigns and elections, rhetorical governance, and nonprofit communication. Introduces students to political institutions and players influencing policy-making and campaigns and cultivates an understanding of how candidates, public officials, and campaign operatives craft messages and target various audiences in a swiftly-changing media environment.<span>&#160;</span> <span> <i>Prerequisite(s): Completion of GE Areas A, D1-3, and B4.</i> </span></p>
+<h3>COM 4448 - Media Criticism&#160;</h3>
+<p><span>Analysis and criticism of popular media. Examinations of literature on the media and the story of selected programming to determine the state of the art. Writing critical analyses of mass media. &#160;</span><em>Prerequisite(s): COM 2201 and Junior or Senior standing.</em></p>
+<h3>COM 4451A - Advanced News Practicum</h3>
+<p><span>Multimedia news laboratory for students; provides experientially based guidance in newsroom editorial and management practices.</span><span>&#160;</span> <em>Prerequisite(s): COM 1106 or 1107, COM 2217, and COM 3351A.</em></p>
+<h3>COM 4452A - Advanced Magazine Practices&#160;</h3>
+<p><span>Magazine production course for experienced staff members; includes all phases of magazine production.</span> <span>&#160;</span><em>Prerequisite(s): COM 1106 or 1107, COM 2217, COM 3312, and COM 3352A.</em></p>
+<h3>COM 4460 - Special Topics in Organizational Communication</h3>
+<p><span>Examination of a topic area that is not regularly covered in the organizational communication curriculum</span>. <span>&#160;</span><em>Prerequisite(s): COM 3314.</em></p>
+<h3>COM 4465 - Online and Social Media&#160;</h3>
+<p><span>Online storytelling with an emphasis on journalistic writing and editing. Creating well-researched, readable copy and effectively using online resources. Search engine optimization and social media optimization.&#160;</span> <em>Prerequisites: COM 1106 or 1107 and COM 2217.</em></p>
+<h3>COM 4620 - Communication Capstone</h3>
+<p><span>Completion of a capstone project working independently or in groups, with instructor guidance. &#160;</span><em>Prerequisites: COM 1106 or 1107, COM 2201, and COM 3316.</em></p>
+<h3>COM 4990 - Special Topics for Upper Division Students&#160;</h3>
+<p><span>Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.</span></p>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                    </div>   
+               
+	
+	
+ 
+         
+    
+
+    
+                                            
+                                    <section class="text-images" id="s1">
+                                
+                                                        
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                            <p><span style="font-size: 24pt;"></span><span style="font-size: 18pt;"><a href="com-3-year-projected-course-offering-updated-12_18_24.pdf">Availability of Communication Courses by Semester</a> </span></p>
+            </section>
+                            
+                  
+       
+	
+	
+ 
+         
+    
+
+</div>
+</div>
+</main>
+
+		
+    <div lang="en">
+
+
+                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                 
+<style>
+     @media screen and (min-width: 992px) {
+    .mini-footer .footer__socials-buttons {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}
+
+.mini-footer .button1__transducer {
+    font-size: 12px;
+    letter-spacing: .5px;
+}
+
+.mini-footer .button {
+	margin-top: 0;
+    padding: 8px 20px 8px 20px;
+
+}
+.mini-footer .footer-line {
+    border-top: thin solid #a4d65e;
+    margin-top: 39px;
+    padding-top: 15px;
+}
+ </style>
+<footer class="footer mini-footer">
+    <div class="footer__rip-wrapper">
+        <img class="footer__rip" alt="" src="/common/green-and-gold/assets/images/green-rip.svg" alt="Ripped green paper." />
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-2">
+                <div class="footer__logo-wrapper">
+                    <a href="/" aria-label="CPP Logo">
+                        <img class="footer__logo" src="/common/green-and-gold/assets/logos/cpp_primary_1c_gold_rgb.png" alt="Cal Poly Pomona logo, building with a palm tree." />
+                    </a>
+                </div>
+            </div>
+            <div class="col-12 col-lg-6 offset-lg-4">
+                <div class="footer__socials">
+                    <div class="footer__socials-buttons">
+                        <a class="button button__secondary button1__transducer" href="/apply/">Apply</a>
+                        <a class="button button__secondary button1__transducer" href="https://maps.cpp.edu/">Maps</a>
+                        <a class="button button__secondary button1__transducer" href="/outreach/tours.shtml">Visit</a>
+                        <a class="button button__secondary button1__transducer" href="/contact.shtml">Contact Us</a>
+                    </div>
+                    <div class="footer__socials-icons">
+                        <a href="https://www.instagram.com/calpolypomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram opens a new window" />
+                        </a>
+                        <a href="https://www.linkedin.com/school/cal-poly-pomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn opens a new window" />
+                        </a>
+                        <a href="https://www.youtube.com/user/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="YouTube opens a new window" />
+                        </a>
+                        <a href="https://www.facebook.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook opens a new window" />
+                        </a>
+                        <a href="https://twitter.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X opens a new window" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 footer-line">
+                <div class="footer__errata">
+                    <p class="footer__copyright" style="line-height: 1.8em">Copyright ©2025 California State Polytechnic University, Pomona.  All Rights Reserved 
+                        
+                        <br />A campus of 
+                        
+                        <a class="footer__errata-link" style="display: inline" href="https://www.calstate.edu/">The California State University</a>.
+                    
+                    </p>
+                    <div class="footer__errata-links">
+                        <a class="footer__errata-link" href="https://www.cpp.edu/website-feedback.shtml">Feedback</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/privacy.shtml">Privacy</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/accessibility.shtml">Accessibility</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/file-viewers.shtml">Document Readers</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer__gradient-bottom"></div>
+</footer>
+
+
+<script   src="https://code.jquery.com/jquery-3.2.1.min.js"   integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="   crossorigin="anonymous">
+</script><script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script src="https://www.cpp.edu/common/green-and-gold/assets/js/cpp-legacy.js" ></script>
+<script src="https://www.cpp.edu/common/2018/assets/js/tabs.js" ></script>
+<script src="/common/green-and-gold/assets/js/nav.js"></script>
+
+
+</div>
+    
+		
+		
+	</body>
+</html>

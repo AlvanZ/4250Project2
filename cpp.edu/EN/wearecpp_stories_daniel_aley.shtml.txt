@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+		<title>
+			Daniel Aley
+		</title>
+		<!-- Required meta tags -->
+		<meta charset="utf-8"/>
+		<meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
+		
+		
+		
+		
+    <div lang="en">
+
+
+                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                <script src="https://cdn.levelaccess.net/accessjs/YW1wX2NwcDExMDM/access.js"></script>
+<script>// <![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSKJRNV');
+// ]]></script>
+<link href="/common/green-and-gold/assets/icons/gg-favicon.svg" rel="icon" type="image/svg+xml"/> <link crossorigin="anonymous" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" rel="stylesheet"/>
+<script crossorigin="anonymous" defer="defer" integrity="sha384-FW78RPcSpi13vjx77nPWQIrQbNSLkPBopb0qGzLCxD2x4Kr6FA8V05C/6cpgkKPL" src="https://pro.fontawesome.com/releases/v5.10.1/js/all.js"></script>
+<link href="https://www.cpp.edu/common/2018/assets/css/cpp-base-styles.css" rel="stylesheet"/> <link href="https://www.cpp.edu/common/2018/assets/css/cpp-extended-styles.css" rel="stylesheet"/> <link href="https://use.typekit.net/fia5dle.css" rel="stylesheet"/> <link href="/common/green-and-gold/assets/css/cpp-fonts.css" rel="stylesheet"/> <link href="/common/green-and-gold/assets/css/gg-header-footer.css" rel="stylesheet"/>
+
+</div>
+    
+		
+		<link href="/wearecpp/inc/template/wearecpp-css.css" rel="stylesheet"/>
+	</head>
+	<body>
+		
+			  <header id="wacheader">
+		<div id="wacgraybar"><a href="https://www.cpp.edu">
+			<img id="waccpplogo" src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png" alt="cal poly pomona">
+			</a>
+		</div>
+		<div id="wacgreenbar">
+			<h1><span class="waclargewhttxt">We</span><span class="sr-only"> </span><span class="waclargegraytxt">Are</span><span class="sr-only"> </span><span class="waclargewhttxtjus">Cpp</span></h1>
+		</div>
+		<div id="wacyellowbar">
+			<nav id="wacnav">
+				<ul>
+					<li><a href="/wearecpp/index.shtml">Home</a></li>
+					<li><a href="/wearecpp/about.shtml">About</a></li>
+					<li><a href="/wearecpp/contact.shtml">Contact</a></li>
+				
+				</ul>
+			</nav>
+		</div>
+	</header>
+
+		<div class="wearecpp-story" id="main">
+    
+    
+
+
+<div class="story-heading">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-3">
+                <img alt="Daniel Aley" class="story-image" src="../img/aleydaniel.jpg"/>
+            </div>
+            <div class="col-sm-9 story-title">
+                <h1>Broncos On The Rise: How a graphic design grad uses visual communication to bring interstellar stories back down to earth</h1>
+                <h2>Daniel Aley</h2> 
+                <p>Graphic Design</p>
+      
+                            <p>Class of 2019
+                                </p>
+                        </div>
+        </div>    
+    </div>
+    
+</div>
+
+
+<div class="container">
+        <p>When was the last time you thought about how you were interacting with a website? Or how the visuals used by a company made you feel?</p>
+<p>For Daniel Aley (&#8217;19, graphic design), design is more than the elements you see on a page or screen &#8212; it is part of how we experience the world.</p>
+<p>&#8220;Design has always been about the journey to become who we are and the story we wish to tell people through our visual systems and language,&#8221; he says. &#8220;Design is a poetic story that many people, with different backgrounds and skillsets, are a part of.&#8221;</p>
+<p>Aley is a user interface (UI), user experience (UX) and visual designer at the hyperspectral monitoring startup Orbital Sidekick. Through its constellation of GHOST satellites, the company makes global monitoring and imaging accessible to key industries such as energy, agriculture, defense and more.</p>
+<p>These satellites use hyperspectral imaging (HSI), gathering information from across the electromagnetic spectrum to show more than what is visible to the human eye. They can &#8220;chemically fingerprint&#8221; the Earth and reveal areas of high greenhouse gas emissions, methane detections and more. As Aley says, Orbital Sidekick seeks to &#8220;solve the most pressing operational, environmental and safety problems in real time.&#8221;</p>
+<p>His role is to make that data user-friendly for their clients. He manages the UI and UX of the SIGMA Platform, the company&#8217;s customer-facing reporting system. The SIGMA Platform encompasses two products: SIGMA Monitor, for persistent monitoring and insights, and SIGMA Data, for satellite tasking, HSI data and imagery. As the company&#8217;s only designer, he also oversees the visual design for the entire company, balancing user needs with product strategy and marketing.</p>
+<p>How does a designer end up in the space field? For Aley, it all comes back to his integrative approach to design.</p>
+<p>While at Cal Poly Pomona, he built an active and robust portfolio. He supplemented his graphic design courses with those in computer information systems, satisfied his curiosity for human-centered design by conducting cognitive and behavioral studies and developing an educational mobile application with the Office of Undergraduate Research, and spearheaded the visuals for the Liquid Rocket Lab and NASA-CPP Business Startup. And that&#8217;s not even half of his collegiate activities!</p>
+<blockquote>
+<p>&#8220;Cal Poly Pomona was a place that allowed me to explore many avenues of knowledge while learning more about myself and who I wanted to become. If I can continue to pass that experience on to current students, I know it was all worth it.&#8221;</p>
+</blockquote>
+<p>&#8220;I did not want to specialize in something,&#8221; he says. &#8220;Instead, I enjoyed the variety of these programs and how they exposed me to other ideas and pedagogy.&#8221;</p>
+<p>Faculty and staff from various departments nurtured Aley&#8217;s broad interests. Professor Anthony Acock, chair of the art department, highlighted the need for empathy in design, Associate Professor Adam King, mathematics and statistics, underscored the importance of using quantitative and qualitative data. And the late Angela Shih, mechanical engineering professor, emphasized the significance of an interdisciplinary approach. These mentors and more shaped him into a well-rounded, human-centric designer ready to take on the galaxy.</p>
+<p>Upon graduation, alumnus Ming Tai (&#8217;96, graphic design), chair of the graphic design department at ArtCenter College of Design in Pasadena, referred Aley for a UI/UX design engineer position at NASA-Jet Propulsion Laboratory. As a contractor for the Deep Space Network&#8217;s Operation and Maintenance team, he worked on the interfaces and infrastructure of internal digital tools.</p>
+<p>His work allowed his colleagues to capture and tell the stories of deep space more efficiently. He collaborated with mission planners, engineers, and facility members to understand and address their needs. His drive to keep growing and further develop his understanding of the world sent him onto even newer frontiers with OSK.</p>
+<p>Aley relishes seeing his designs come to life &#8211; to see people use and interact with the platforms he creates, respond to the visuals and achieve their goals through his work.</p>
+<p>He is still an active part of the art department, returning to help mentor students and critique their designs. He challenges them to critically evaluate their projects and understand the stories they are trying to tell, much like guest critics did for him as a student. He also recently joined the College of Environmental Design Dean&#8217;s Advisory Council.</p>
+<p>&#8220;Cal Poly Pomona was a place that allowed me to explore many avenues of knowledge while learning more about myself and who I wanted to become. If I can continue to pass that experience on to current students, I know it was all worth it.&#8221;</p>
+</div>
+
+</div>
+			<footer id="wacfooter" title="we are cpp footer">
+    <div class="container">
+    <div id="stayconnected">
+       
+        <img src="/wearecpp/img/stay-connected.gif" alt="stay connected">
+        
+    </div>
+    <div class="row" id="wacactions">
+        <div class="col-md-4 col-sm-12">
+            <div class="card">
+                <a href="https://www.cpp.edu/alumni/get-involved/mentoring.shtml"><img src="/wearecpp/img/become-mentor.gif" alt="become a mentor"></a> 
+                
+            </div>
+        </div>
+         <div class="col-md-4 col-sm-12">
+            <div class="card">
+               <a href="https://www.cpp.edu/alumni/get-involved/"><img src="/wearecpp/img/be-a-volunteer.gif" alt="be a volunteer"></a> 
+                
+            </div>
+        </div>
+         <div class="col-md-4 col-sm-12">
+            <div class="card">
+                 <a href="https://www.cpp.edu/alumni/membership/"><img src="/wearecpp/img/join.gif" alt="join the alumni association"></a>
+                
+            </div>
+        </div>
+    </div>
+    <div id="wacsocial">
+<!-- Facebook -->
+<a href="https://www.facebook.com/CPPAlumni" title="facebook"><i class="fab fa-facebook-f"></i></a>
+<!-- Instagram -->
+<a href="http://www.instagram.com/cppalumni" title="instagram"><i class="fab fa-instagram"></i></a>
+<!-- Youtube -->
+<a href="https://www.linkedin.com/school/cal-poly-pomona/" title="youtube"><i class="fab fa-youtube"></i></a>
+<!-- Linkedin -->
+<a href="https://www.youtube.com/@calpolypomonaalumniassocia6723" title="linkedin"><i class="fab fa-linkedin-in"></i></a>
+
+        
+    </div>
+    <div id="footer-message">
+        <p>This site is managed by the Office of Alumni and External Relations.</p>
+    </div>
+    </div>
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="   crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script src="https://www.cpp.edu/common/2018/assets/js/cpp.js" ></script>
+<script src="https://www.cpp.edu/wearecpp/js/wearecpp.js" ></script>
+
+
+
+		
+		
+	</body>
+</html>

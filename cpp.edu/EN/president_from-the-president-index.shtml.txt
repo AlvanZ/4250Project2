@@ -1,0 +1,1770 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+    <head>
+        <meta charset="UTF-8"/>
+        <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+        <meta content="ie=edge" http-equiv="X-UA-Compatible"/>
+        <title>
+            Messages from the President | Cal Poly Pomona Leadership Updates
+        </title>
+        
+        <meta content="Stay informed with messages from Cal Poly Pomona’s President on campus news, diversity, equity, inclusion, and global affairs. Explore updates by category or year." name="description"/>
+        
+            <script src="https://cdn.levelaccess.net/accessjs/YW1wX2NwcDExMDM/access.js"></script>
+<script>// <![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSKJRNV');
+// ]]></script>
+<link rel="icon" href="/common/green-and-gold/assets/icons/gg-favicon.svg"  type="image/svg+xml" />
+<link rel="icon" href="/common/green-and-gold/assets/icons/gg-favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/index.css" />
+<link rel="stylesheet" href="https://use.typekit.net/fia5dle.css" />
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/cpp-fonts.css" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+<script src="/common/green-and-gold/assets/js/accordion.js"></script>
+<script crossorigin="anonymous" defer="defer" integrity="sha384-FW78RPcSpi13vjx77nPWQIrQbNSLkPBopb0qGzLCxD2x4Kr6FA8V05C/6cpgkKPL" src="https://pro.fontawesome.com/releases/v5.10.1/js/all.js"></script>
+<script src="/common/green-and-gold/assets/js/modal.js"></script>
+<script src="/common/green-and-gold/assets/js/fontawesome/v6.0x/sharp-light.js" crossorigin="anonymous" type="text/javascript"></script>
+<script src="/common/green-and-gold/assets/js/fontawesome/v6.0x/sharp-others.js" crossorigin="anonymous" type="text/javascript"></script>
+<!-- Swiper Library -->
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/swiper-bundle.min.css" />
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/swiper-carousel.css" />
+<script src="/common/green-and-gold/assets/js/swiper-bundle.min.js"></script>
+<script src="/common/green-and-gold/assets/js/carousel-cards-swiper.js"></script>
+
+    </head>
+    <body>
+        <a class="skip-to-content-link" href="#main">Skip to content</a>
+             <header class="nav fixed">
+    <nav class="container">
+        <ul class="row nav__main" id="mainNavMenu">
+            <li id="main-logo" class="col-6 col-lg-3 nav__logo">
+                <a href="/" aria-label="Cal Poly Pomona Home" tabindex="0">
+                    <div class="nav__logo--horizontal">
+                        <img src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png" alt="Cal Poly Pomona Logo" />
+                    </div>
+                </a>
+            </li>
+            <!-- department header hidden by default-->
+            <li id="dept-header-desktop" class="col-sm-5 col-md-6 nav__logo desktop d-none">
+                <a href="/" aria-label="Cal Poly Pomona Home" tabindex="0">
+                    <div class="nav__logo--stacked">
+                        <img src="/common/green-and-gold/assets/logos/cpp_primary_2c_green_cmyk.png" alt="Cal Poly Pomona Logo">
+                        </div>
+                    </a>
+                    <div class="divider"></div>
+                    <div id="split-header" class="nav__division col-lg-6">
+                        <div id="large-name"></div>
+                        <div style="display:none" id="sub-name"></div>
+                    </div>
+                </div>
+            </li>
+            <li class="nav__links col-2" id="head-links">
+                <a class="nav__link nav__link--desktop col-1" href="/commencement/" tabindex="0">
+                    <svg
+                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 1px;
+    width: auto;
+">
+                        <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                        <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#005030"></path>
+                    </svg>
+                    <span class="sr-only">commencement</span>
+                </a>
+                <a class="nav__link nav__link--desktop col-1" href="/apply/" tabindex="0">apply</a>
+                <a class="nav__link nav__link--desktop col-1" href="/outreach/tours.shtml" tabindex="0">visit</a>
+                <a class="nav__link nav__link--desktop col-1" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="0">info</a>
+                <a class="nav__link nav__link--desktop col-1" href="/giving/" tabindex="0">give</a>
+                <a class="nav__link nav__link--desktop col-1" href="https://my.cpp.edu" tabindex="0">mycpp</a>
+                <button id="search-open" class="nav__search col-1" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/search-dark-green.svg" alt="Open search box" />
+                </button>
+                <button class="nav__menu col-1" id="menuButton" aria-expanded="false" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/menu.svg" alt="menu" />
+                </button>
+            </li>
+        </ul>
+    </nav>
+</header>
+<header id="search-header" style="display:none">
+    <div class="row">
+        <div class="col-md-6"></div>
+        <div id="searchbox" class="col-md-6">
+            <div id="search-slide">
+                <label for="#gsc-i-id1" class="sr-only">Search</label>
+                <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+                <div class="gcse-searchbox-only" data-resultsurl="https://www.cpp.edu/search.shtml"></div>
+                <button class="nav__menu col-1" id="search-close" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close search menu">
+                    </button>
+                </div>
+            </div>
+            <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+            <script>
+       $("#search-open").click(function() {
+         $("#search-header").show();
+         $("#search-slide").addClass("slideup");
+         $("#gsc-i-id1").focus();
+         $('#search-close').focusout(function() {
+           $("#search-header").hide();
+           $("#search-slide").removeClass("slideup");
+           $("#search-open").focus();
+         })
+       });
+       $("#search-close").click(function() {
+         $("#search-header").hide();
+         $("#search-slide").removeClass("slideup");
+         $("#search-open").focus();
+       });
+     </script>
+            <style>
+       .gstl_50 gssb_c {
+         position: fixed !important;
+       }
+
+       #searchbox {
+         height: 93px;
+         overflow: hidden;
+       }
+
+       #search-header {
+         position: fixed;
+         height: 100px;
+         width: 100%;
+         height: 93px;
+         z-index: 99999;
+         top: 0;
+       }
+
+       #gsc-i-id1 {
+         height: 40px;
+         width: 70%;
+         border-radius: 4px;
+         border: none;
+         padding: 15px;
+       }
+
+       #search-submit {
+         margin: 15px;
+       }
+
+       #search-close {
+         width: 23px;
+         height: 21px;
+         position: absolute;
+         top: 32px;
+       }
+
+       #search-slide {
+         width: 0px;
+         right: -100%;
+         padding: 20px 15px;
+         position: relative;
+         background: #005030;
+         height: 100%;
+         transition: all .5s ease 0s
+       }
+
+       #search-slide.slideup {
+         right: 0;
+         width: 100%;
+         position: relative;
+       }
+
+       @media screen and (max-width:991px) {
+         #search-slide {
+           height: 77px !important;
+           padding: 12px 10px;
+         }
+       }
+
+       @media screen and (max-width:767px) {
+         #search-header {
+           position: relative !important;
+         }
+
+         #search-slide {
+           text-align: center !important;
+         }
+       }
+
+       .gsc-search-button-v2 svg {
+         width: auto;
+         height: 21px;
+       }
+
+       .gsc-search-button-v2,
+       .gsc-search-button-v2:hover,
+       .gsc-search-button-v2:focus {
+         border: none !important;
+         background: none !important;
+       }
+
+       form.gsc-search-box {
+         font-size: 13px;
+         margin-top: 0;
+         margin-right: 0;
+         margin-bottom: 4px;
+         margin-left: 0;
+         width: 100%;
+         display: inline-block;
+       }
+
+       #___gcse_0 {
+         width: 70%;
+         display: inline-block;
+       }
+
+       table.gsc-search-box td.gsc-input {
+         padding-right: 0;
+       }
+
+       #gsc-i-id1 {
+         width: 100%;
+         padding: 0px;
+         border: none;
+         margin: -0.0625em 0px 0px;
+         height: 40px !important;
+         background: rgb(255, 255, 255);
+         outline: none;
+         font-size: 20px;
+         font-weight: 200;
+       }
+
+       .gstl_50.gssb_c {
+         z-index: 99999;
+       }
+
+       .gsq_a {
+         font-weight: 200;
+         font-size: 18px;
+         padding: 2px;
+       }
+
+       .gssb_a img {
+         display: none;
+       }
+     </style>
+        </div>
+    </header>
+    <section class="side-nav" id="sideNavOverlay">
+        <header class="side-nav__overlay relative">
+            <nav class="container">
+                <ul class="row nav__overlay" id="sideNavMenu">
+                    <li class="nav__logo col-12 col-md-10 col-lg-3" id="navLogoOverlay">
+                        <a href="/" aria-label="Cal Poly Pomona Home" tabindex="-1">
+                            <img src="/common/green-and-gold/assets/logos/cpp_horizontal_1c_gold_rgb.png" alt="Cal Poly Pomona Logo" />
+                        </a>
+                    </li>
+                    <div class="nav__overlay--right col-12 col-lg-9">
+                        <li class="nav__links nav__links--desktop col-12 col-lg-6">
+                            <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 1px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/apply/" tabindex="-1">apply</a>
+                            <a class="nav__link nav__link--mobile col-1" href="/outreach/tours.shtml" tabindex="-1">visit</a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="-1">info</a>
+                            <a class="nav__link nav__link--mobile col-1" href="/giving/" tabindex="-1">give</a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://my.cpp.edu" tabindex="-1">mycpp</a>
+                        </li>
+                        <li class="nav__icons col-1">
+                            <button id="search-open-green" class="nav__search col-1" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/search-white.svg" alt="Open search box" />
+                            </button>
+                            <button class="nav__close col-1" id="closeButton" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close menu" />
+                            </button>
+                        </li>
+                        <li class="nav__links nav__links--mobile col-12 col-lg-6">
+                            <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 1px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/apply/" tabindex="-1">apply </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/outreach/tours.shtml" tabindex="-1">visit </a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="-1">info </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/giving/" tabindex="-1">give </a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://my.cpp.edu" tabindex="-1">mycpp </a>
+                        </li>
+                    </div>
+                </ul>
+            </nav>
+        </header>
+        <nav class="container side-nav__container">
+            <ul class="row side-nav__links">
+                <li class="side-nav__link col-12">
+                    <a class="h3__proxima" href="/" tabindex="-1" aria-label="Cal Poly Pomona Home page">Home</a>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--0">
+                    <button class="h3__proxima" id="0" aria-expanded="false" tabindex="-1" aria-label="About">
+                        <span>about</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--1">
+                    <button class="h3__proxima" id="1" aria-expanded="false" tabindex="-1" aria-label="Admissions & Aid">
+                        <span>admissions &amp; aid</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--2">
+                    <button class="h3__proxima" id="2" aria-expanded="false" tabindex="-1" aria-label="Academics">
+                        <span>academics</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--3">
+                    <button class="h3__proxima" id="3" aria-expanded="false" tabindex="-1" aria-label="Life at CPP">
+                        <span>life at CPP</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small">
+            <ul class="row">
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="https://broncoathletics.com/" tabindex="-1">athletics</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/alumni/" tabindex="-1">alumni</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/news/" tabindex="-1">news &amp; events</a>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small-bottom">
+            <ul class="col-12 col-lg-6 side-nav__links--small-bottom">
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/prospective-student-gateway/" tabindex="-1">future students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/student-gateway/" tabindex="-1">current students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/family/" tabindex="-1">families</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/faculty-staff-gateway/" tabindex="-1">faculty &amp; staff</a>
+                </li>
+            </ul>
+            <ul class="col-12 col-lg-6 social-icons">
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.instagram.com/calpolypomona/" aria-label="Instagram" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.linkedin.com/school/cal-poly-pomona/" aria-label="LinkedIn " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.youtube.com/user/calpolypomona" aria-label="Youtube " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="Youtube" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.facebook.com/calpolypomona" aria-label="Facebook " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://twitter.com/calpolypomona" aria-label="X (Twitter)" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X" />
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </section>
+    <script src="/common/green-and-gold/assets/js/nav.js"></script>
+
+            <script>
+    
+                      
+    
+                var mobileHtml = '<li class="col-6 nav__logo mobile"><a aria-label="Cal Poly Pomona Home" href="https://www.cpp.edu/" tabindex="0"><div class="nav__logo--horizontal"><img alt="Cal Poly Pomona Logo" src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png"/></div></a></li>';
+                $( "#main-logo" ).hide();
+                $( "#split-header #large-name" ).html('<a href="/president/index.shtml">Office of the President</a>');
+                $( "#dept-header-desktop" ).removeClass("d-none");
+                $( "#dept-header-desktop" ).addClass("d-flex");
+                $( "#dept-header-desktop" ).parent().prepend(mobileHtml);
+       
+        
+                
+     </script>
+
+    
+
+
+  
+
+
+  
+
+  
+              
+
+  
+            
+
+        
+           
+                           <code></code>
+           
+                            
+
+
+
+<header class="sub-nav">
+<nav class="container" id="subNavContainer">
+    <ul class="row sub-nav__links">
+
+           <li class="sub-nav__link">
+            <a class="button__proxima sub-nav__link--default" href="/president/index.shtml" tabindex="0">Home</a>
+        </li>
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Meet the President <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/president/meet-the-president/about-the-president.shtml" tabindex="0">About the President</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/president/meet-the-president/presidential-history.shtml" tabindex="0">Presidential History</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Strategic Planning <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/president/strategic-initiatives.shtml" tabindex="0">Strategic Initiatives </a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/president/regional-and-national-impact.shtml" tabindex="0">Regional &amp; National Leadership</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+           <li class="sub-nav__link">
+            <a class="button__proxima sub-nav__link--default" href="/president/campus-leadership/campus-leadership-index.shtml" tabindex="0">Campus Leadership</a>
+        </li>
+        
+
+
+           <li class="sub-nav__link">
+            <a class="button__proxima sub-nav__link--default" href="/president/from-the-president-index.shtml" tabindex="0">Messages</a>
+        </li>
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Resources <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/president/campus-conversations/about-cammpus-conversations.shtml" tabindex="0">Campus Conversations</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/president/from-the-president/presidential-orders.shtml" tabindex="0">Presidential Orders</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/president/emeritus-honors.shtml" tabindex="0">Emeritus Honors</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/president/compliance/whistleblower-and-retaliation-complaints.shtml" tabindex="0">Whistleblower Protection Act</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Contact <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/president/contact/office-directory.shtml" tabindex="0">Office Directory</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/president/contact/cabinet.shtml" tabindex="0">President's Cabinet</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/president/contact/schedule-the-president.shtml" tabindex="0">Request to Schedule the President</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+</ul>
+
+<div class="row sub-nav__division-menu">
+    <div class="sub-nav__division"></div>
+        <div class="col-4 menu-button">
+        <button aria-expanded="false" aria-label="Site Menu" class="button button__primary--yellow-green button__proxima" data-dropdown-id="dropdownMenuBtn" id="dropdownMenuBtn">Menu
+             <span class="icon chevron">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" height="12" viewBox="0 0 19 12" width="19">
+            <g id="Atom / Icon / Expand Arrow / Small">
+            <path d="M2 2L9.5 9L17 2" id="Vector 2" stroke="none" stroke-width="3"/>
+            </g>
+            </svg>
+            </span>
+        </button>
+    </div>
+    <div class="sub-nav__dropdown hidden" id="dropdownMenu">
+       
+                       
+             <li class="sub-nav__link">
+    <a class="button__proxima" href="/president/index.shtml" tabindex="0">Home</a>
+  </li>
+      
+
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="1" tabindex="0">Meet the President<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--1">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/president/meet-the-president/about-the-president.shtml" tabindex="0">About the President</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/president/meet-the-president/presidential-history.shtml" tabindex="0">Presidential History</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="2" tabindex="0">Strategic Planning<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--2">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/president/strategic-initiatives.shtml" tabindex="0">Strategic Initiatives </a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/president/regional-and-national-impact.shtml" tabindex="0">Regional &amp; National Leadership</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+             <li class="sub-nav__link">
+    <a class="button__proxima" href="/president/campus-leadership/campus-leadership-index.shtml" tabindex="0">Campus Leadership</a>
+  </li>
+      
+
+        
+
+
+             <li class="sub-nav__link">
+    <a class="button__proxima" href="/president/from-the-president-index.shtml" tabindex="0">Messages</a>
+  </li>
+      
+
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="3" tabindex="0">Resources<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--3">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/president/campus-conversations/about-cammpus-conversations.shtml" tabindex="0">Campus Conversations</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/president/from-the-president/presidential-orders.shtml" tabindex="0">Presidential Orders</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/president/emeritus-honors.shtml" tabindex="0">Emeritus Honors</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/president/compliance/whistleblower-and-retaliation-complaints.shtml" tabindex="0">Whistleblower Protection Act</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="4" tabindex="0">Contact<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--4">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/president/contact/office-directory.shtml" tabindex="0">Office Directory</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/president/contact/cabinet.shtml" tabindex="0">President's Cabinet</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/president/contact/schedule-the-president.shtml" tabindex="0">Request to Schedule the President</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+    </div>
+</div>
+
+
+
+
+</nav>
+<script type="text/javascript">
+    $(".button").attr("data-dropdown-id", "dropdownMenuBtn").on("click", function(event) {
+        var dropdownMenu = $("#dropdownMenu");
+        var nestedDropdownMenus = $(".sub-nav__nested-dropdown");
+        
+        if ($(this).attr("aria-expanded") === "false") {
+            $(this).attr("aria-expanded", "true");
+        } else {
+            $(this).attr("aria-expanded", "false");
+        }
+
+        toggleDropdown(dropdownMenu);;
+        
+        // close all nested dropdown menus if open
+        nestedDropdownMenus.each(function() {
+            if ($(this).hasClass("show")) {
+                $(this).removeClass("show");
+                $(this).addClass("hidden");
+            }
+        })
+    })
+    $(".sub-nav__nested-button").on("click", function(event) {
+        var currentButtonId = $(this).attr("id")
+        var nestedDropdownMenu = $(`#nestedDropdownMenu--${currentButtonId}`)
+        $(this).find(".chevron").toggleClass("active");
+
+        if ($(this).attr("aria-expanded") === "false") {
+            $(this).attr("aria-expanded", "true");
+        } else {
+            $(this).attr("aria-expanded", "false");
+        }
+
+        toggleDropdown(nestedDropdownMenu);
+    })
+    function toggleDropdown(menu) {
+        if (menu.hasClass("hidden")) {
+            menu.removeClass("hidden");
+            menu.addClass("show");
+            
+            //add click listener to check for clicks outside of the nav
+            //https://stackoverflow.com/questions/152975/how-do-i-detect-a-click-outside-an-element/3028037#3028037
+            $(document).click(function(event) { 
+                var $target = $(event.target);
+                if(!$target.closest('#subNavContainer').length) {
+                    closeDropdown(menu);
+                }
+            });
+            
+            //add listener for escape key
+            $(document).on('keydown', function(event) {
+                if (event.key == "Escape") {
+                    closeDropdown(menu);
+            }});
+        } else {
+            menu.removeClass("show");
+            menu.addClass("hidden");
+        }
+    }
+
+    function closeDropdown(menu) {
+        var dropdownMenu = $("#dropdownMenu");
+        var nestedDropdownMenus = $(".sub-nav__nested-dropdown");  
+        $(".button").attr("data-dropdown-id", "dropdownMenuBtn").attr("aria-expanded", "false");
+        nestedDropdownMenus.each(function() {
+            if ($(".button").attr("data-dropdown-id", "dropdownMenuBtn").hasClass("show")) {
+                $(".button").attr("data-dropdown-id", "dropdownMenuBtn").removeClass("show");
+                $(".button").attr("data-dropdown-id", "dropdownMenuBtn").addClass("hidden");
+            }
+        })
+        menu.removeClass("show");
+        menu.addClass("hidden");
+    }
+
+</script>
+</header>
+<div class="cqw-wrapper" id="main">
+ <div class="organism-spacer">
+    <section class="content-sub-page">
+        <div class="container">
+            <div class="row">
+                <div class="col-6 col-lg-8">
+                    <h1 class="h2__proxima content-sub-page__header">Messages from the President</h1>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+
+        
+         
+ 
+        
+                                
+        
+                <div class="organism-spacer spacer__padding-top--small spacer__padding-bottom--small">
+            <section class="faq">
+                <div class="container">
+                    <div class="row">
+                        <header class="faq__header col-lg-9">
+                            <h2 class="h5__proxima">Messages by Category</h2><br/>
+                            <p class="body"></p>
+                        </header>
+                        <div class="accordion__items col-lg-9">
+                            
+                                                                                    
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="Campus News" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">Campus News</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body"><p><span><span class="JdFsz" title="Announcing the CSU System-Wide Strategic Plan: Your Involvement is Key!"><span class="JdFsz" title="CPP Presidential Transition Update and Timeline"><a href="from-the-president/2025-spring/april-2025-budget-briefing-follow-up.shtml">April 2025 Budget Briefing Follow-Up</a> <br/>April 23, 2025</span></span></span></p>
+<p>&#160;</p>
+<p><span><span class="JdFsz" title="Announcing the CSU System-Wide Strategic Plan: Your Involvement is Key!"><span class="JdFsz" title="CPP Presidential Transition Update and Timeline"><a href="from-the-president/2025-spring/cpp-presidential-transition-update-and-timeline.shtml">CPP <span class="markn8l6zh8r1" data-markjs="true" data-ogab="" data-ogac="" data-ogsb="" data-ogsc="">President</span>ial Transition Update and Timeline</a><br/>April 8, 2025</span></span></span></p>
+<p>&#160;</p>
+<p><span><span class="JdFsz" title="Announcing the CSU System-Wide Strategic Plan: Your Involvement is Key!"><a href="messages/spring-25/your-voice-matters-register-for-upcoming-csu-strategic-plan-town-halls.shtml">Your Voice Matters: Register for Upcoming CSU Strategic Plan Town Halls</a><br/>February 11, 2025</span></span></p>
+<p>&#160;</p>
+<p><span><span class="JdFsz" title="Announcing the CSU System-Wide Strategic Plan: Your Involvement is Key!"><a href="messages/spring-25/my-decision-to-retire-this-summer.shtml">My Decision to Retire This Summer</a><br/>February 4, 2025</span></span></p>
+<p>&#160;</p>
+<p><span><span class="JdFsz" title="Announcing the CSU System-Wide Strategic Plan: Your Involvement is Key!"><a href="messages/spring-25/implications-of-proposed-state-budget-cuts-and-2025-voluntary-separation-incentive-program.shtml">Implications of Proposed State Budget Cuts and 2025 Voluntary Separation Incentive Program</a><br/>January 30, 2025</span></span></p>
+<p>&#160;</p>
+<p><span><span class="JdFsz" title="Announcing the CSU System-Wide Strategic Plan: Your Involvement is Key!"><a href="messages/spring-25/appointment-of-michelle-cardona-as-interim-vp-for-administration-and-finance-and-cfo.shtml" target="_parent">Appointment of Michelle Cardona as Interim VP for Administration and Finance and CFO</a><br/><span class="JdFsz" title="Appointment of Mark Patterson as Director of Conflict Resolution Services and Ombuds">January 23, 2025</span></span></span></p>
+<p>&#160;</p>
+<p><a href="from-the-president/2024-fall/appointment-of-mark-patterson-as-director-of-conflict-resolution-services-and-ombuds.shtml" target="_parent">Appointment of Mark Patterson as Director of Conflict Resolution Services and Ombuds<br/></a><span><span class="JdFsz" title="Announcing the CSU System-Wide Strategic Plan: Your Involvement is Key!"><span class="JdFsz" title="Appointment of Mark Patterson as Director of Conflict Resolution Services and Ombuds">December 12, 2024</span></span></span></p>
+<p>&#160;</p>
+<p><a href="from-the-president/2024-fall/join-the-conversation-csu-strategic-plan-updates-and-engagement-opportunities.shtml" target="_parent">Join the Conversation: CSU Strategic Plan Updates and Engagement Opportunities</a><br/>December 3, 2024</p>
+<p>&#160;</p>
+<p><span><span class="JdFsz" title="Announcing the CSU System-Wide Strategic Plan: Your Involvement is Key!"><a href="from-the-president/2024-fall/announcing-the-csu-system-wide-strategic-plan-your-involvement-is-key.shtml">Announcing the CSU System-Wide Strategic Plan: Your Involvement is Key!</a><br/>October 29, 2024</span></span></p>
+<p>&#160;</p>
+<p><span><a href="from-the-president/2024-fall/appointment-of-michelle-cardona-as-administrator-in-charge-aic-for-division-of-administrative-affairs.shtml">Appointment of Michelle Cardona as Administrator in Charge (AIC) for Division of Administrative Affairs<br/></a>Oct. 9, 2024</span></p>
+<p>&#160;</p>
+<p><span><a href="from-the-president/2024-fall/my-commitment-to-you-our-university-and-our-future.shtml">My Commitment to You, Our University and Our Future</a><br/></span>Oct. 2, 2024</p>
+<p>&#160;</p>
+<p><span><a href="from-the-president/2024-fall/vice-president-for-administrative-affairs-and-cfo-ysabel-trinidad-to-step-down.shtml">Vice President for Administrative Affairs and CFO, Ysabel Trinidad to Step Down</a><br/>Sept. 9, 2024</span></p>
+<p>&#160;</p>
+<p><span><a href="from-the-president/2024-fall/review-summary-available-christina-gonzales-vice-president-for-student-affairs-and-dean-of-students.shtml">Review Summary Available: Christina Gonzales, Vice President for Student Affairs and Dean of Students</a><br/>August 28, 2024</span></p>
+<p>&#160;</p>
+<p><span><a href="messages/2024/future-plans-for-dr-cindy-pickett-and-continuity-of-inclusive-excellence-at-cpp.shtml">Future Plans for Dr. Cindy Pickett and Continuity of Inclusive Excellence at CPP</a><br/>August 15, 2024</span></p>
+<p>&#160;</p>
+<p><span><a href="messages/2024/appointment-of-desireé-martinez-as-director-of-tribal-relations-nagpracalnagpra.shtml#233;-martinez-as-director-of-tribal-relations-nagpracalnagpra#233;-martinez-as-director-of-tribal-relations-nagpracalnagpra">Appointment of Desire&#233; Martinez as Director of Tribal Relations &amp; NAGPRA/CalNAGPRA</a><br/></span>August 12, 2024</p>
+<p>&#160;</p>
+<p><a href="messages/2024/annual-notification-under-the-california-whistleblower-protection-act.shtml">Annual Notification Under the California Whistleblower Protection Act</a><br/>June 25, 2024</p>
+<p>&#160;</p>
+<p><a href="messages/2024/appointment-of-dr-terri-gomez-as-provost-vice-president-for-academic-affairs.shtml">Appointment of Dr. Terri Gomez as Provost &amp; Vice President for Academic Affairs</a><br/>May 28, 2024</p>
+<p>&#160;</p>
+<p><span class="MByod JdFsz"><span class="MByod JdFsz" title="[TO SEND] Help Select Our Next Provost &amp; VP of Academic Affairs"><span><a href="messages/2024/remembering-president-emeritus-dr-suzuki-1936-2024.shtml"><span class="TextRun SCXW45600546 BCX0" data-contrast="auto" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW45600546 BCX0">Remembering President</span><span class="NormalTextRun SCXW45600546 BCX0">&#160;Emeritus</span><span class="NormalTextRun SCXW45600546 BCX0">&#160;Dr.&#160;</span><span class="NormalTextRun SCXW45600546 BCX0">Suzuki</span><span class="NormalTextRun SCXW45600546 BCX0">,&#160;</span><span class="NormalTextRun SCXW45600546 BCX0">1936</span><span class="NormalTextRun SCXW45600546 BCX0">-20</span><span class="NormalTextRun SCXW45600546 BCX0">24</span></span></a><span class="EOP SCXW45600546 BCX0" data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}"><a href="https://www.cpp.edu/president/from-the-president/2024-spring/remembering-president-emeritus-dr-suzuki-1936-2024.shtml">&#160;</a><br/></span>May 6, 2024</span></span></span></p>
+<p>&#160;</p>
+<p><span class="MByod JdFsz"><span class="MByod JdFsz" title="[TO SEND] Help Select Our Next Provost &amp; VP of Academic Affairs"><span><a href="messages/2024/our-commitment-to-free-expression-campus-safety.shtml">Our Commitment to Free Expression &amp; Campus Safety</a><br/></span>May 2, 2024</span></span></p>
+<p>&#160;</p>
+<p><span class="MByod JdFsz"><span class="MByod JdFsz" title="[TO SEND] Help Select Our Next Provost &amp; VP of Academic Affairs"><a href="messages/2024/help-select-our-next-provost-vp-of-academic-affairs.shtml">Help Select Our Next Provost &amp; VP of Academic Affairs</a><br/>April 26, 2024</span></span></p>
+<p>&#160;</p>
+<p><span class="MByod JdFsz"><a href="messages/2024/continuation-of-the-search-for-the-director-of-conflict-resolution-and-university-ombuds.shtml">Continuation of the Search for the Director of Conflict Resolution and University Ombuds</a><br/>March 28, 2024</span></p>
+<p>&#160;</p>
+<p><span class="MByod JdFsz"><a href="messages/2024/suspension-on-the-collection-and-use-of-native-american-ancestral-remains-and-cultural-items.shtml">Suspension on the Collection and Use of Native American Ancestral Remains and Cultural Items</a><br/>March 27, 2024</span></p>
+<p>&#160;</p>
+<p><a href="messages/2024/appointment-of-frances-teves-as-vice-president-for-university-advancement.shtml">Appointment of Frances Teves as Vice President for University Advancement</a><br/>March 19, 2024</p>
+<p>&#160;</p>
+<p><span><span class="MByod JdFsz"><a href="messages/2024/our-opportunities-amidst-change-and-uncertainty.shtml">Our Opportunities Amidst Change and Uncertainty</a><br/>March 12, 2024</span></span></p>
+<p>&#160;</p>
+<p><span><span class="MByod JdFsz"><a href="messages/2024/help-select-our-next-director-of-conflict-resolution-and-university-ombuds.shtml">Help Select Our Next Director of Conflict Resolution and University Ombuds</a><br/>March 6, 2024</span></span></p>
+<p>&#160;</p>
+<p><span><a href="messages/2024/help-select-our-next-vp-for-university-advancement.shtml">Help Select Our Next VP for University Advancement</a><br/></span>January 30, 2024</p>
+<p>&#160;</p>
+<p><a href="messages/2023/fall-23/appointment-of-brandon-tuck-to-interim-presidential-associate.shtml">Appointment of Brandon Tuck to Interim Presidential Associate</a><br/>December 20, 2023<span><br/></span></p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2023-fall/wishing-you-happy-holidays-and-a-joyous-new-year.shtml">Wishing You Happy Holidays &amp; a Joyous New Year</a><br/><span>December 11, 2023</span></p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2023-fall/regarding-the-academic-senate-no-confidence-resolution.shtml">Regarding the Academic Senate 'No Confidence' Resolution</a><br/><span>December 7, 2023</span></p>
+<p>&#160;</p>
+<p><span><a href="https://www.cpp.edu/president/from-the-president/2023-fall/postponed-fall-campus-conversation.shtml">Fall Campus Conversation Postponed</a><br/>November 8, 2023</span></p>
+<p>&#160;</p>
+<p><span><a href="https://www.cpp.edu/president/from-the-president/2023-fall/save-the-date-campus-conversation-on-the-cpp-budget-november-14.shtml">Save the Date: Campus Conversation on the CPP Budget - November 14</a><br/>October 31, 2023</span></p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2023-fall/dr-terri-gomez-appointed-as-interim-provost-and-vice-president-for-academic-affairs.shtml">Dr. Terri Gomez Appointed as Interim Provost and Vice President for Academic Affairs</a><br/>October 2, 2023</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2023-fall/statement-from-president-coley-on-september-22-off-campus-shooting-incident.shtml">Statement from President Coley on September 22 Off-Campus Shooting Incident</a><br/><span>September 25, 2023</span></p>
+<p>&#160;</p>
+<p><span><a href="https://www.cpp.edu/president/from-the-president/2023-fall/hurricane-hilary-campus-update.shtml">Hurricane Hillary Campus Update</a><br/>August 21, 2023</span></p>
+<p>&#160;</p>
+<p><span><a href="https://www.cpp.edu/president/from-the-president/2023-summer/cozen-system-and-campus-report-findings-released.shtml">Cozen System and Campus Report Findings Released</a><br/>July 17, 2023<br/></span></p>
+<p>&#160;</p>
+<p><span><a href="https://www.cpp.edu/president/from-the-president/2023-summer/cas-public-higher-ed-leaders-statement.shtml">CA's Public Higher Ed Leaders' Statement: SCOTUS Decision on Race in Admission</a><a href="https://www.cpp.edu/president/from-the-president/2023-spring/the-essential-role-of-our-unionized-staff.shtml"><br/></a>July 5, 2023</span></p>
+<p>&#160;</p>
+<p><span><a href="https://www.cpp.edu/president/from-the-president/2023-summer/annual-notification-under-the-california-whistleblower-protection-act.shtml">Annual Notification Under the California Whistleblower Protection Act</a><br/>June 26, 2023</span></p>
+<p>&#160;</p>
+<p><span><a href="https://www.cpp.edu/president/from-the-president/2023-spring/continuously-improving-the-employee-experience.shtml">Continuously Improving the Employee Experience</a><br/>May 4, 2023</span></p>
+<p>&#160;</p>
+<p><span><a href="https://www.cpp.edu/president/from-the-president/2023-spring/keeping-you-safe-and-informed.shtml">Keeping You Safe and Informed</a><br/>April 28, 2023</span></p>
+<p>&#160;</p>
+<p><span><a href="https://www.cpp.edu/president/from-the-president/2023-spring/commemorating-juneteenth-on-june-19.shtml">Commemorating Juneteenth on June 19</a><br/>April 17, 2023</span></p>
+<p>&#160;</p>
+<p><span><a href="https://www.cpp.edu/president/from-the-president/2023-spring/appointment-of-frances-teves-as-interim-vice-president-of-university-advancement.shtml">Appointment of Frances Teves as Interim Vice President of University Advancement<br/></a></span><span>February 27, 2023</span></p>
+<p>&#160;</p>
+<p><span><a href="https://www.cpp.edu/president/from-the-president/2023-spring/the-essential-role-of-our-unionized-staff.shtml">The Essential Role of Our Unionized Staff</a><br/>February 13, 2023<br/></span></p>
+<p>&#160;</p>
+<p><span><a href="https://www.cpp.edu/president/from-the-president/2023-spring/our-continuing-investment-in-staff-success.shtml">Our Continuing Investment in Staff Success</a><br/>February 6, 2023</span></p>
+<p>&#160;</p>
+<p><span><a href="https://www.cpp.edu/president/from-the-president/2023-spring/celebrating-black-history-and-truth-telling.shtml">Celebrating Black History &amp; Truth Telling</a><a href="https://www.cpp.edu/president/from-the-president/2023-spring/in-anticipation-of-the-memphis-video.shtml"><br/></a>February 1, 2023</span></p>
+<p>&#160;</p>
+<p><span><a href="https://www.cpp.edu/president/from-the-president/2023-spring/we-grieve-together.shtml">We Grieve Together With Our Community</a><br/>January 23, 2023<br/></span></p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2022-fall/drug-free-workplace-policy-annual-notice.shtml">Drug-Free Workplace Policy Annual Notice</a><br/>December 20, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2022-fall/here-are-the-facts.shtml">Here Are the Facts</a><br/>December 12, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2022-fall/we-do-not-tolerate.shtml">We Do Not Tolerate Sexual Misconduct, Discrimination, Harassment or Retaliation</a><br/>December 5, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2022-fall/invitation-to-be-part-of-the-black-thriving-initiative.shtml">Invitation to Be Part of the Black Thriving Initiative</a><br/>November 14, 2022</p>
+<p>&#160;</p>
+<p><span class="MByod JdFsz"><a href="https://www.cpp.edu/president/from-the-president/2022-fall/appointment-of-dr-cynthia-pickett-as-presidential-associate-for-inclusion-and-chief-diversity-officer.shtml">Appointment of Dr. Cynthia Pickett as Presidential Associate for Inclusion and Chief Diversity Officer</a><br/>October 25, 2022</span></p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2022-fall/land-acknowledgments-and-respect-for-our-native-american-community.shtml">Land Acknowledgments and Respect for Our Native American Community</a><br/>October 13, 2022</p>
+<p>&#160;</p>
+<p><span><a href="https://www.cpp.edu/president/from-the-president/2022-fall/campus-conversation-on-the-cpp-budget-october-25.shtml">Campus Conversation on the CPP Budget - October 25</a><br/></span>September 27, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2022-fall/president-coley-welcomes-you-to-fall-2022.shtml">President Coley Welcomes You to Fall 2022</a><br/><span>August 25, 2022</span></p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/pdfs/2022-convocation-coley-remarks-web-version.pdf">2022 Fall Conference Address (PDF)</a><br/>August 22, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2022-summer/linh-dinh-appointed-upd-chief-of-police.shtml">Linh Dinh Appointed as UPD Chief of Police</a><br/>July 19, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2022-summer/2022-annual-whistleblower-notice.shtml">Annual Notice of the California Whistleblower Protection Act</a><br/>June 29, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2022-spring/update-on-search-for-cdo.shtml">Update on Search for Presidential Associate for Inclusion and Chief Diversity Officer</a><br/><span>May 26, 2022</span></p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2022-spring/another-year-of-transforming-lives-and-communities.shtml">Another Year of Transforming Lives and Communities</a><br/>May 13, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2022-spring/passing-of-lea-dopson.shtml">Passing of Dr. Lea Dopson</a><br/>April 28, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2022-spring/iris-levine-announces-retirement.shtml">Dr. Iris Levine Announces Retirement</a><br/>April 12, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2022-spring/our-shared-commitment-our-newest-bronco.shtml">Our Collective Commitment and Our Newest Bronco</a><br/>April 4, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2022-spring/2022-honorary-doctorates.shtml">Violet Palmer and Larry Gates to Receive Honorary Doctorates</a><br/>March 21, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2022-spring/spring-2022-campus-conversation.shtml">Spring Campus Conversation - FuturePaths: Career and Professional Readiness Model for Cal Poly Pomona Students</a><br/>March 10, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2022-spring/joseph-castro-resigns-as-csu-chancellor.shtml">Joseph Castro Resigns as Chancellor</a><br/>February 18, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2022-spring/reaffirming-our-commitment-to-our-campus-community.shtml">Reaffirming Our Commitment to Our Campus Community</a><br/>February 7, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2022-spring/next-steps-for-interim-provost.shtml">Next Steps for Interim Provost Iris Levine</a><br/>January 27, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2022-spring/jennifer-brown-named-provost.shtml">Dr. Jennifer Brown Appointed as Vice President for Academic Affairs and Provost</a><br/>January 25, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2022-spring/welcome-to-spring-2022.shtml">Welcome to Spring Semester 2022</a><br/>January 24, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2022-spring/temporary-three-week-move-to-online-instruction.shtml">Temporary three-week move to online instruction for start of spring semester</a><br/>January 10, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/safer-return/news-and-updates/messages-to-the-community/update-campus-operations-jan-2022.shtml">Committed to Our Safer Return</a><br/>December 31, 2021</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2021-fall/happy-holidays-from-the-coleys.shtml">Happy Holidays from the Coleys and Cal Poly Pomona</a><br/>December 3, 2021</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2021-fall/selecting-our-next-provost.shtml">Inviting you to join in selecting our next Provost</a><br/>November 22, 2021</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2021-fall/our-move-to-community-policing.shtml">Our Move to Community Policing</a><br/>September 2, 2021</p>
+<p>&#160;</p>
+<p><a href="from-the-president/2021-fall/developer-selected-for-lanterman-project.shtml">Developer Selected for Lanterman Project</a><br/>August 26, 2021</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2021-fall/welcome-to-fall-2021.shtml">Welcome to Fall 2021</a><br/>August 19, 2021</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2021-summer/drug-free-workplace.shtml">Drug-Free Workplace</a><br/>August 2, 2021</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2021-spring/a-transformative-gift-for-a-transformative-university.shtml">A Transformative Gift for a Transformative University</a><br/>June 15, 2021</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2021-spring/a-consequential-year.shtml">A Consequential Year</a><br/>May 17, 2021</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2021-spring/moment-of-reflection.shtml">Campus-wide Moment of Reflection</a><br/><span>March 26, 2021</span></p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2021-spring/fall-planning-and-commencement.shtml">Update from President Coley on Fall Planning and Commencement</a><br/>March 1, 2021</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2021-spring/inclusive-campus-survey.shtml">Share Your View: Take the Inclusive Campus Survey Today</a><br/>February 22, 2021</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2021-spring/presidential-associate-chief-diversity-officer.shtml">Announcing the search for Presidential Associate for Inclusion and Chief Diversity Officer</a><br/>February 15, 2021</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2021-spring/our-resilient-bronco-community.shtml">Our Resilient Bronco Community</a><br/>February 1, 2021</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2020-fall/a-true-cpp-tradition.shtml">A Cal Poly Pomona Tradition</a><br/>December 31, 2020</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2020-fall/enjoy-winter-break-safely.shtml">Enjoy Winter Break, Safely</a><br/>December 11, 2020</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2020-summer/campus-update.shtml">Campus Update from President Coley</a><br/>July 16, 2020</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2020-summer/whistleblower-protection-act.shtml">Annual Notice of the California Whistleblower Protection Act</a><br/>July 13, 2020</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2020-summer/our-commitment-to-action.shtml">Our Commitment to Action</a><br/>July 1, 2020</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2020-spring/planning-for-fall-semester-2020.shtml">Planning for Fall Semester 2020</a><br/>May 12, 2020</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2020-spring/campus-conversation-virtual-instruction.shtml">Campus Conversation on Virtual Instruction</a><br/>April 21, 2020</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2020-spring/a-united-bronco-community.shtml">A United Bronco Community</a><br/>April 6, 2020</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2019-fall/fall-message.shtml">Message from President Coley</a><br/><span>August 15, 2019</span></p>
+<p>&#160;</p>
+<p><span><a href="messages/2018/the-csus-super-sunday-a-message-of-hope.shtml">The CSU&#8217;s Super Sunday: A Message of Hope</a><br/>February 15, 2018</span></p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="Diversity, Equity &amp; Inclusion" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">Diversity, Equity &amp; Inclusion</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body"><p><span><a href="https://www.cpp.edu/president/from-the-president/2024-fall/action-required-campuswide-physical-survey-for-native-american-cultural-items-ancestral-remains-to-be-completed-by-october-1-2024.shtml">Campuswide Physical Survey for Native American Cultural Items &amp; Ancestral Remains to be completed by October 1, 2024</a><br/>September 12, 2024</span></p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/summer-2024/future-plans-for-dr-cindy-pickett-and-continuity-of-inclusive-excellence-at-cpp.shtml">Future Plans for Dr. Cindy Pickett and Continuity of Inclusive Excellence at CPP</a><br/>August 15, 2024</p>
+<p>&#160;</p>
+<p><span><a href="https://www.cpp.edu/president/from-the-president/summer-2024/appointment-of-desire%C3%A9-martinez-as-director-of-tribal-relations-nagpracalnagpra.shtml#233;-martinez-as-director-of-tribal-relations-nagpracalnagpra">Appointment of Desire&#233; Martinez as Director of Tribal Relations &amp; NAGPRA/CalNAGPRA</a><br/></span>August 12, 2024</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/summer-2024/where-community-takes-root-a-proud-history-of-pride-in-la.shtml">Where Community Takes Root: A Proud History of Pride in LA</a><br/>June 3, 2024</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2024-spring/rising-to-our-potential-this-apida-history-month.shtml">Rising to Our Potential this APIDA History Month</a><br/>May 3, 2024</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2024-spring/the-women-who-believed-in-me.shtml">The Women Who Believed in Me</a><br/>March 1, 2024</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2024-spring/black-thriving-initiative-moving-to-phase-ii.shtml">Black Thriving Initiative Moving to Phase II</a><br/>February 29, 2024</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2024-spring/a-new-hope-for-black-history-prospering-together.shtml">A New Hope for Black History: Prospering Together</a><br/>February 1, 2024</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2023-fall/call-for-calnagpra-committee-nominations.shtml">Call for CalNAGPRA Committee Nominations</a><a href="https://www.cpp.edu/president/from-the-president/2023-fall/regarding-the-academic-senate-no-confidence-resolution.shtml"><br/></a>November 14, 2023&#160;</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2023-fall/honoring-native-american-heritage-month.shtml">Honoring Native American Heritage Month</a><br/>November 1, 2023</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2023-fall/recognizing-latinx-heritage-month-hsi-week.shtml">Recognizing Latinx Heritage Month &amp; HSI Week</a><br/><span>September 15, 2023</span></p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2023-summer/we-stand-with-our-students.shtml">We stand With our Students</a><br/>June 29, 2023</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2023-summer/celebrating-pride-month.shtml">Celebrating Pride Month</a><br/>June 1, 2023</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2023-spring/celebrating-apida-heritage-month.shtml">Celebrating APIDA Heritage Month</a><br/>May 1, 2023</p>
+<p>&#160;</p>
+<p><span><a href="https://www.cpp.edu/president/from-the-president/2023-spring/commemorating-juneteenth-on-june-19.shtml">Commemorating Juneteenth on June 19</a><br/>April 17, 2023</span></p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2023-spring/celebrating-black-history-and-truth-telling.shtml">Celebrating Black History &amp; Truth Telling</a><a href="https://www.cpp.edu/president/from-the-president/2023-spring/in-anticipation-of-the-memphis-video.shtml"><br/></a>February 1, 2023</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2022-fall/honoring-national-native-american-heritage-month.shtml">Honoring National Native American Heritage Month</a><br/><span>November 9, 2022</span></p>
+<p>&#160;</p>
+<p><span><a href="https://www.cpp.edu/president/from-the-president/2022-fall/invitation-to-foster-equity-diversity-and-inclusion-at-cal-poly-pomona.shtml">Invitation to Foster Equity, Diversity and Inclusion at Cal Poly Pomona</a><br/></span>September 20, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2022-fall/celebrating-hispanic-heritage-month.shtml">Celebrating National Hispanic Heritage Month</a><br/>September 15, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2022-spring/cesar-chavez-day-spring-2022.shtml">Honoring C&#233;sar Ch&#225;vez Day</a><br/><span>March 31, 2022</span></p>
+<p>&#160;</p>
+<p><span><a href="https://www.cpp.edu/president/from-the-president/2022-spring/celebrating-black-history-month.shtml">Celebrating Black History Month</a><br/>February 1, 2022</span></p>
+<p>&#160;</p>
+<p><span><a href="https://www.cpp.edu/president/from-the-president/2021-spring/celebrating-black-history-month.shtml">Celebrating Black History Month</a><br/>February 5, 2021</span></p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="National &amp; Global Affairs" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">National &amp; Global Affairs</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body"><p><span class="MByod JdFsz"><span class="MByod JdFsz" title="[TO SEND] Help Select Our Next Provost &amp; VP of Academic Affairs"><span><a href="https://www.cpp.edu/president/from-the-president/2024-spring/our-commitment-to-free-expression-and-campus-safety.shtml">Our Commitment to Free Expression &amp; Campus Safety</a><br/></span>May 2, 2024</span></span></p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2023-fall/a-message-on-the-violent-conflict-in-israel-and-gaza.shtml">A Message on the Violent Conflict in Israel and Gaza</a><br/><span>October 9, 2023</span></p>
+<p>&#160;</p>
+<p><span><a href="https://www.cpp.edu/president/from-the-president/2023-spring/in-anticipation-of-the-memphis-video.shtml">In Anticipation of the Memphis Police Video</a><br/>January 27, 2023</span></p>
+<p>&#160;</p>
+<p><span><a href="https://www.cpp.edu/president/from-the-president/2022-fall/we-must-stand-with-our-lgbtqia+-community-against-hate-and-violence.shtml">We Must Stand with our LGBTQIA+ Community Against Hate and Violence</a><br/>November 21, 2022</span></p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2022-fall/why-your-vote-matters-election-2022.shtml">Why Your Vote Matters: Election 2022</a><br/>November 3, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2022-fall/condemning-antisemitism.shtml">Statement Condemning Acts of Antisemitism in the Los Angeles Region</a><br/>October 24, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2022-fall/solidarity-with-the-women-of-iran.shtml">Statement in Solidarity with the Women of Iran and for the Rights of Women Across the Globe</a><br/>October 17, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2022-fall/president-coley-statement-daca-ruling.shtml">Statement from President Coley on Deferred Action for Childhood Arrivals Ruling</a><br/>October 7, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2022-spring/dobbs-v-jackson-statement.shtml">Statement on Dobbs v. Jackson Women's Health Organization Decision</a><br/><span>June 25, 2022</span></p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2022-spring/statement-on-mass-shooting-robb-elementary.shtml">Statement on Mass Shooting at Robb Elementary School</a><br/>May 25, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2022-spring/statement-on-mass-shootings-in-buffalo-and-laguna-woods.shtml">Statement on the Mass Shootings in Buffalo and Laguna Woods</a><br/>May 16, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2021-spring/our-work-continues.shtml">Our Work Continues</a><br/>April 20, 2021</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2021-spring/standing-with-aapi-community.shtml">We stand with our AAPI community against bias and violence</a><br/><span>March 18, 2021</span></p>
+<p>&#160;</p>
+<p><span><a href="https://www.cpp.edu/president/from-the-president/2021-spring/hold-fast-to-our-shared-ideals.shtml">Hold Fast to Our Shared Ideals</a><br/>January 6, 2021</span></p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2020-fall/2020-election-patience-values.shtml">The Election: We Must Remain Patient and Committed to Our Values</a><br/>November 4, 2020</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2020-fall/2020-election.shtml">A Message from President Soraya M. Coley on the 2020 Election</a><br/>October 22, 2020</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2020-summer/supreme-court-decision-on-daca.shtml">Supreme Court decision DACA</a><br/>June 18, 2020</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2020-summer/george-floyd.shtml">A Message from President Coley</a><br/>May 30, 2020</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/&#126;president/messages/california-wildfires.shtml">California Wildfires</a><br/><span>October 28, 2019</span></p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2018-fall/thousand-oaks-tragedy.shtml">Tragedy in Thousand Oaks</a><br/>November 8, 2018</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2018-fall/wildfire-recovery-efforts.shtml">Wildfire Recovery Efforts</a><br/>November 15, 2018</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2018-spring/daca-program.shtml">Message about the DACA Program</a><br/>January 16, 2018</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2017-winter/csu-immigration.shtml">CSU Statement on Immigration</a><br/>February 23, 2017</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2017-summer/charlottesville.shtml">Events in Charlottesville</a><br/>August 18, 2017</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2017-fall/las-vegas.shtml">Tragedy in Las Vegas</a><br/>October 7, 2017</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2017-fall/daca.shtml">Today&#8217;s White House Decision to Phase Out DACA</a><br/>September 5, 2017</p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                         
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+        
+    
+            
+                
+                    
+        
+
+
+        
+         
+ 
+        
+                                
+        
+                <div class="organism-spacer spacer__padding-top--small spacer__padding-bottom--small">
+            <section class="faq">
+                <div class="container">
+                    <div class="row">
+                        <header class="faq__header col-lg-9">
+                            <h2 class="h5__proxima">Messages by Year</h2><br/>
+                            <p class="body"></p>
+                        </header>
+                        <div class="accordion__items col-lg-9">
+                            
+                                                                                    
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="2025" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">2025</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body"><p><span><span class="JdFsz" title="Announcing the CSU System-Wide Strategic Plan: Your Involvement is Key!"><span class="JdFsz" title="CPP Presidential Transition Update and Timeline"><a href="from-the-president/2025-spring/april-2025-budget-briefing-follow-up.shtml">April 2025 Budget Briefing Follow-Up</a> <br/>April 23, 2025</span></span></span></p>
+<p>&#160;</p>
+<p><span><span class="JdFsz" title="Announcing the CSU System-Wide Strategic Plan: Your Involvement is Key!"><span class="JdFsz" title="CPP Presidential Transition Update and Timeline"><a href="from-the-president/2025-spring/cpp-presidential-transition-update-and-timeline.shtml">CPP <span class="markn8l6zh8r1" data-markjs="true" data-ogab="" data-ogac="" data-ogsb="" data-ogsc="">President</span>ial Transition Update and Timeline</a><br/>April 8, 2025</span></span></span></p>
+<p>&#160;</p>
+<p><span><span class="JdFsz" title="Announcing the CSU System-Wide Strategic Plan: Your Involvement is Key!"><a href="messages/spring-25/your-voice-matters-register-for-upcoming-csu-strategic-plan-town-halls.shtml">Your Voice Matters: Register for Upcoming CSU Strategic Plan Town Halls</a><br/>February 11, 2025</span></span></p>
+<p>&#160;</p>
+<p><span><span class="JdFsz" title="Announcing the CSU System-Wide Strategic Plan: Your Involvement is Key!"><a href="messages/spring-25/my-decision-to-retire-this-summer.shtml">My Decision to Retire This Summer</a><br/>February 4, 2025<br/></span></span></p>
+<p>&#160;</p>
+<p><span><span class="JdFsz" title="Announcing the CSU System-Wide Strategic Plan: Your Involvement is Key!"><a href="messages/spring-25/implications-of-proposed-state-budget-cuts-and-2025-voluntary-separation-incentive-program.shtml">Implications of Proposed State Budget Cuts and 2025 Voluntary Separation Incentive Program</a><br/>January 30, 2025</span></span></p>
+<p>&#160;</p>
+<p><a href="messages/spring-25/appointment-of-michelle-cardona-as-interim-vp-for-administration-and-finance-and-cfo.shtml" target="_parent">Appointment of Michelle Cardona as Interim VP for Administration and Finance and CFO</a><br/><span><span class="JdFsz" title="Announcing the CSU System-Wide Strategic Plan: Your Involvement is Key!"><span class="JdFsz" title="Appointment of Mark Patterson as Director of Conflict Resolution Services and Ombuds">January 23, 2025</span></span></span></p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="2024" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">2024</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body"><p><span> <span title="Announcing the CSU System-Wide Strategic Plan: Your Involvement is Key!"> <a href="https://www.cpp.edu/president/from-the-president/2024-fall/announcing-the-csu-system-wide-strategic-plan-your-involvement-is-key.shtml"></a> </span> </span> <a href="from-the-president/2024-fall/appointment-of-mark-patterson-as-director-of-conflict-resolution-services-and-ombuds.shtml" target="_parent">Appointment of Mark Patterson as Director of Conflict Resolution Services and Ombuds</a> <br/> <span> <span title="Announcing the CSU System-Wide Strategic Plan: Your Involvement is Key!"> <span title="Appointment of Mark Patterson as Director of Conflict Resolution Services and Ombuds">December 12, 2024</span> </span> </span></p>
+<p>&#160;</p>
+<p><a href="from-the-president/2024-fall/join-the-conversation-csu-strategic-plan-updates-and-engagement-opportunities.shtml" target="_parent">Join the Conversation: CSU Strategic Plan Updates and Engagement Opportunities</a> <br/>December 3, 2024</p>
+<p>&#160;</p>
+<p><span> <span title="Announcing the CSU System-Wide Strategic Plan: Your Involvement is Key!"> <a href="from-the-president/2024-fall/announcing-the-csu-system-wide-strategic-plan-your-involvement-is-key1.shtml">Announcing the CSU System-Wide Strategic Plan: Your Involvement is Key!</a> <br/>October 29, 2024 </span> </span></p>
+<p>&#160;</p>
+<p><span> <a href="from-the-president/2024-fall/appointment-of-michelle-cardona-as-administrator-in-charge-aic-for-division-of-administrative-affairs.shtml">Appointment of Michelle Cardona as Administrator in Charge (AIC) for Division of Administrative Affairs</a><br/>Oct. 9, 2024 </span></p>
+<p>&#160;</p>
+<p><span> <a href="from-the-president/2024-fall/my-commitment-to-you-our-university-and-our-future.shtml">My Commitment to You, Our University and Our Future</a> <br/>Oct. 2, 2024 </span></p>
+<p>&#160;</p>
+<p><span> <a href="from-the-president/2024-fall/campuswide-physical-survey-for-native-american-cultural-items-ancestral-remains-to-be-completed-by-october-1-2024.shtml">Campuswide Physical Survey for Native American Cultural Items &amp; Ancestral Remains to be completed by October 1, 2024</a> <br/>September 12, 2024 </span></p>
+<p>&#160;</p>
+<p><span> <a href="from-the-president/2024-fall/vice-president-for-administrative-affairs-and-cfo-ysabel-trinidad-to-step-down.shtml">Vice President for Administrative Affairs and CFO, Ysabel Trinidad to Step Down</a> <br/>Sept. 9, 2024 </span></p>
+<p>&#160;</p>
+<p><span> <a href="from-the-president/2024-fall/review-summary-available-christina-gonzales-vice-president-for-student-affairs-and-dean-of-students.shtml">Review Summary Available: Christina Gonzales, Vice President for Student Affairs and Dean of Students</a> <br/>August 28, 2024 </span></p>
+<p>&#160;</p>
+<p><a href="messages/2024/future-plans-for-dr-cindy-pickett-and-continuity-of-inclusive-excellence-at-cpp.shtml">Future Plans for Dr. Cindy Pickett and Continuity of Inclusive Excellence at CPP</a> <br/>August 15, 2024</p>
+<p>&#160;</p>
+<p><span> <a href="messages/2024/appointment-of-desireé-martinez-as-director-of-tribal-relations-nagpracalnagpra.shtml#233;-martinez-as-director-of-tribal-relations-nagpracalnagpra">Appointment of Desire&#233; Martinez as Director of Tribal Relations &amp; NAGPRA/CalNAGPRA</a> <br/>August 12, 2024 </span></p>
+<p>&#160;</p>
+<p><a href="messages/2024/annual-notification-under-the-california-whistleblower-protection-act.shtml">Annual Notification Under the California Whistleblower Protection Act</a></p>
+<p>June 25, 2024</p>
+<p>&#160;</p>
+<p><a href="messages/2024/where-community-takes-root-a-proud-history-of-pride-in-la.shtml">Where Community Takes Root: A Proud History of Pride in LA</a> <br/>June 3, 2024</p>
+<p>&#160;</p>
+<p><a href="messages/2024/appointment-of-dr-terri-gomez-as-provost-vice-president-for-academic-affairs.shtml">Appointment of Dr. Terri Gomez as Provost &amp; Vice President for Academic Affairs</a> <br/>May 28, 2024</p>
+<p>&#160;</p>
+<p><a href="messages/2024/remembering-president-emeritus-dr-suzuki-1936-2024.shtml"> <span class="NormalTextRun SCXW45600546 BCX0">Remembering President Emeritus&#160;Dr.&#160;Suzuki, 1936-2024</span> </a> <br/>May 6, 2024</p>
+<p>&#160;</p>
+<p><span class="MByod JdFsz"> <span class="MByod JdFsz" title="[TO SEND] Help Select Our Next Provost &amp; VP of Academic Affairs"> <span> <a href="messages/2024/rising-to-our-potential-this-apida-history-month.shtml">Rising to Our Potential this APIDA History Month</a> <br/>May 3, 2024 </span> </span> </span></p>
+<p>&#160;</p>
+<p><span class="MByod JdFsz"> <span class="MByod JdFsz" title="[TO SEND] Help Select Our Next Provost &amp; VP of Academic Affairs"> <span> <a href="messages/2024/our-commitment-to-free-expression-campus-safety.shtml">Our Commitment to Free Expression &amp; Campus Safety</a> <br/> </span>May 2, 2024 </span> </span></p>
+<p>&#160;</p>
+<p><span class="MByod JdFsz"> <span class="MByod JdFsz" title="[TO SEND] Help Select Our Next Provost &amp; VP of Academic Affairs"> <a href="messages/2024/help-select-our-next-provost-vp-of-academic-affairs.shtml">Help Select Our Next Provost &amp; VP of Academic Affairs</a> <br/>April 26, 2024 </span> </span></p>
+<p>&#160;</p>
+<p><span class="MByod JdFsz"> <a href="messages/2024/continuation-of-the-search-for-the-director-of-conflict-resolution-and-university-ombuds.shtml">Continuation of the Search for the Director of Conflict Resolution and University Ombuds</a> <br/>March 28, 2024 </span></p>
+<p>&#160;</p>
+<p><span class="MByod JdFsz"> <a href="messages/2024/suspension-on-the-collection-and-use-of-native-american-ancestral-remains-and-cultural-items.shtml">Suspension on the Collection and Use of Native American Ancestral Remains and Cultural Items</a> </span></p>
+<p><span class="MByod JdFsz">March 27, 2024</span></p>
+<p>&#160;</p>
+<p><span class="MByod JdFsz"> <a href="messages/2024/appointment-of-frances-teves-as-vice-president-for-university-advancement.shtml">Appointment of Frances Teves as Vice President for University Advancement</a> <br/>March 19, 2024 </span></p>
+<p>&#160;</p>
+<p><span class="MByod JdFsz"> <a href="messages/2024/our-opportunities-amidst-change-and-uncertainty.shtml">Our Opportunities Amidst Change and Uncertainty</a> <br/>March 12, 2024 </span></p>
+<p>&#160;</p>
+<p><span class="MByod JdFsz"> <a href="messages/2024/help-select-our-next-director-of-conflict-resolution-and-university-ombuds.shtml">Help Select Our Next Director of Conflict Resolution and University Ombuds</a> <br/>March 6, 2024 </span></p>
+<p>&#160;</p>
+<p><a href="messages/2024/the-women-who-believed-in-me.shtml">The Women Who Believed in Me</a> <br/>March 1, 2024</p>
+<p>&#160;</p>
+<p><a href="messages/2024/black-thriving-initiative-moving-to-phase-ii.shtml">Black Thriving Initiative Moving to Phase II</a> <a href="https://www.cpp.edu/president/from-the-president/2024-spring/a-new-hope-for-black-history-prospering-together.shtml"> <br/> </a>February 29, 2024</p>
+<p>&#160;</p>
+<p><a href="messages/2024/a-new-hope-for-black-history-prospering-together.shtml">A New Hope for Black History: Prospering Together</a> <br/>February 1, 2024</p>
+<p>&#160;</p>
+<p><span> <a href="messages/2024/help-select-our-next-vp-for-university-advancement.shtml">Help Select Our Next VP for University Advancement</a> <br/> </span>January 30, 2024</p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="2023" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">2023</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body"><p><a href="https://www.cpp.edu/president/messages/2023/fall-23/appointment-of-brandon-tuck-to-interim-presidential-associate.shtml">Appointment of Brandon Tuck to Interim Presidential Associate</a><br/>December 20, 2023</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2023/fall-23/regarding-the-academic-senate-no-confidence-resolution.shtml">Regarding the Academic Senate 'No Confidence' Resolution</a><br/>December 7, 2023</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2023/fall-23/call-for-calnagpra-committee-nominations.shtml">Call for CalNAGPRA Committee Nominations</a><a href="https://www.cpp.edu/president/from-the-president/2023-fall/regarding-the-academic-senate-no-confidence-resolution.shtml"><br/></a>November 14, 2023&#160;</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2023/fall-23/fall-campus-conversation-postponed.shtml">Fall Campus Conversation Postponed</a><br/>November 8, 2023</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2023/fall-23/honoring-native-american-heritage-month.shtml">Honoring Native American Heritage Month</a><br/>November 1, 2023</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2023/fall-23/save-the-date-campus-conversation-on-the-cpp-budget-november-14.shtml">Save the Date: Campus Conversation on the CPP Budget - November 14</a><br/>October 31, 2023</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2023/fall-23/a-message-on-the-violent-conflict-in-israel-and-gaza.shtml">A Message on the Violent Conflict in Israel and Gaza</a><br/>October 9, 2023</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2023/fall-23/dr-terri-gomez-appointed-as-interim-provost-and-vice-president-for-academic-affairs.shtml">Dr. Terri Gomez Appointed as Interim Provost and Vice President for Academic Affairs</a><br/>October 2, 2023</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2023/fall-23/statement-from-president-coley-on-september-22-off-campus-shooting-incident.shtml">Statement from President Coley on September 22 Off-Campus Shooting Incident</a><br/>September 25, 2023</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2023/fall-23/recognizing-latinx-heritage-month-hsi-week.shtml">Recognizing Latinx Heritage Month &amp; HSI Week</a><br/>September 15, 2023</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2023/fall-23/hurricane-hillary-campus-update.shtml">Hurricane Hillary Campus Update</a><br/>August 21, 2023</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2023/summer-23/cozen-system-and-campus-report-findings-released.shtml">Cozen System and Campus Report Findings Released</a><br/>July 17, 2023</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2023/summer-23/cas-public-higher-ed-leaders-statement-scotus-decision-on-race-in-admission.shtml">CA's Public Higher Ed Leaders' Statement: SCOTUS Decision on Race in Admission</a><br/>July 5, 2023</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2023/summer-23/we-stand-with-our-students.shtml">We stand With our Students</a><br/>June 29, 2023</p>
+<p>&#160;</p>
+<p><span><a href="https://www.cpp.edu/president/messages/2023/summer-23/annual-notification-under-the-california-whistleblower-protection-act.shtml">Annual Notification Under the California Whistleblower Protection Act</a><br/>June 26, 2023</span></p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2023/summer-23/celebrating-pride-month.shtml">Celebrating Pride Month</a><br/>June 1, 2023</p>
+<p>&#160;</p>
+<p><span><a href="https://www.cpp.edu/president/messages/2023/spring-23/continuously-improving-the-employee-experience.shtml">Continuously Improving the Employee Experience</a><br/>May 4, 2023</span></p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2023/spring-23/celebrating-apida-heritage-month.shtml">Celebrating APIDA Heritage Month</a><br/>May 1, 2023</p>
+<p>&#160;</p>
+<p><span><a href="https://www.cpp.edu/president/messages/2023/spring-23/keeping-you-safe-and-informed.shtml">Keeping You Safe and Informed</a><br/>April 28, 2023</span></p>
+<p>&#160;</p>
+<p><span><a href="https://www.cpp.edu/president/messages/2023/spring-23/commemorating-juneteenth-on-june-19.shtml">Commemorating Juneteenth on June 19</a><br/>April 17, 2023</span></p>
+<p>&#160;</p>
+<p><span><a href="https://www.cpp.edu/president/messages/2023/spring-23/appointment-of-frances-teves-as-interim-vice-president-of-university-advancement.shtml">Appointment of Frances Teves as Interim Vice President of University Advancement</a></span></p>
+<p><span>February 27, 2023</span></p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2023/spring-23/the-essential-role-of-our-unionized-staff.shtml">The Essential Role of Our Unionized Staff</a><br/>February 13, 2023</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2023/spring-23/our-continuing-investment-in-staff-success.shtml">Our Continuing Investment in Staff Success</a><br/>February 6, 2023</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2023/spring-23/in-anticipation-of-the-memphis-police-video.shtml">In Anticipation of the Memphis Police Video</a><br/>January 27, 2023</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2023/spring-23/we-grieve-together-with-our-community.shtml">We Grieve Together With Our Community</a><br/>January 23, 2023</p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="2022" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">2022</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body"><p><a href="https://www.cpp.edu/president/messages/2022/fall-22/drug-free-worksplace-policy-annual-notice.shtml">Drug-Free Worksplace Policy Annual Notice</a><br/>December 20, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2022/fall-22/here-are-the-facts.shtml">Here Are the Facts</a><br/>December 12, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2022/fall-22/we-do-not-tolerate-sexual-misconduct-discrimination-harassment-or-retaliation.shtml">We Do Not Tolerate Sexual Misconduct, Discrimination, Harassment or Retaliation</a><br/>December 5, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2022/fall-22/we-must-stand-with-our-lgbtqia-community-against-hate-and-violence.shtml">We Must Stand with our LGBTQIA+ Community Against Hate and Violence</a><br/>November 21, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2022/fall-22/invitation-to-be-part-of-the-black-thriving-initiative.shtml">Invitation to Be Part of the Black Thriving Initiative</a><br/>November 14, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2022/fall-22/honoring-national-native-american-heritage-month.shtml">Honoring National Native American Heritage Month</a><br/>November 9, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2022/fall-22/why-your-vote-matters-election-2022.shtml">Why Your Vote Matters: Election 2022</a><br/>November 3, 2022</p>
+<p>&#160;</p>
+<p><span class="MByod JdFsz"><a href="https://www.cpp.edu/president/messages/2022/fall-22/appointment-of-dr-cynthia-pickett-as-presidential-associate-for-inclusion-and-chief-diversity-officer.shtml">Appointment of Dr. Cynthia Pickett as Presidential Associate for Inclusion and Chief Diversity Officer</a><br/>October 25, 2022</span></p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2022/fall-22/statement-condemning-acts-of-antisemitism-in-the-los-angeles-region.shtml">Statement Condemning Acts of Antisemitism in the Los Angeles Region</a><br/>October 24, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2022/fall-22/statement-in-solidarity-with-the-women-of-iran-and-for-the-rights-of-women-across-the-globe.shtml">Statement in Solidarity with the Women of Iran and for the Rights of Women Across the Globe</a><br/>October 17, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2022/fall-22/land-acknowledgments-and-respect-for-our-native-american-community.shtml">Land Acknowledgments and Respect for Our Native American Community</a><br/>October 13, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2022/fall-22/statement-from-president-coley-on-deferred-action-for-childhood-arrivals-ruling.shtml">Statement from President Coley on Deferred Action for Childhood Arrivals Ruling</a><br/>October 7, 2022</p>
+<p>&#160;</p>
+<p><span><a href="https://www.cpp.edu/president/messages/2022/fall-22/campus-conversation-on-the-cpp-budget-october-25.shtml">Campus Conversation on the CPP Budget - October 25</a><br/></span>September 27, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2022/fall-22/celebrating-national-hispanic-heritage-month.shtml">Celebrating National Hispanic Heritage Month</a><br/>September 15, 2022</p>
+<p>&#160;</p>
+<p><span><a href="https://www.cpp.edu/president/messages/2022/fall-22/invitation-to-foster-equity-diversity-and-inclusion-at-cal-poly-pomona.shtml">Invitation to Foster Equity, Diversity and Inclusion at Cal Poly Pomona</a><br/></span>September 20, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2022/fall-22/president-coley-welcomes-you-to-fall-2022.shtml">President Coley Welcomes You to Fall 2022</a><br/>August 25, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2022/fall-22/2022-fall-conference-address-pdf.shtml">2022 Fall Conference Address (PDF)</a><br/>August 22, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2022/summer-22/linh-dinh-appointed-as-upd-chief-of-police.shtml">Linh Dinh Appointed as UPD Chief of Police</a><br/>July 19, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2022/summer-22/annual-notice-of-the-california-whistleblower-protection-act.shtml">Annual Notice of the California Whistleblower Protection Act</a><br/>June 29, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2022/summer-22/statement-on-dobbs-v-jackson-womens-health-organization-decision.shtml">Statement on Dobbs v. Jackson Women's Health Organization Decision</a><br/>June 25, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2022/summer-22/update-on-search-for-presidential-associate-for-inclusion-and-chief-diversity-officer.shtml">Update on Search for Presidential Associate for Inclusion and Chief Diversity Officer</a><br/>May 26, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2022/summer-22/statement-on-mass-shooting-at-robb-elementary-school.shtml">Statement on Mass Shooting at Robb Elementary School</a><br/>May 25, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2022/summer-22/statement-on-the-mass-shootings-in-buffalo-and-laguna-woods.shtml">Statement on the Mass Shootings in Buffalo and Laguna Woods</a><br/>May 16, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2022/spring-22/another-year-of-transforming-lives-and-communities.shtml">Another Year of Transforming Lives and Communities</a><br/>May 13, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2022/spring-22/passing-of-dr-lea-dopson.shtml">Passing of Dr. Lea Dopson</a><br/>April 28, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2022/spring-22/dr-iris-levine-announces-retirement.shtml">Dr. Iris Levine Announces Retirement</a><br/>April 12, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2022/spring-22/our-collective-commitment-and-our-newest-bronco.shtml">Our Collective Commitment and Our Newest Bronco</a><br/>April 4, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2022/spring-22/honoring-c%C3%A9sar-ch%C3%A1vez-day.shtml">Honoring C&#233;sar Ch&#225;vez Day</a><br/>March 31, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2022/spring-22/violet-palmer-and-larry-gates-to-receive-honorary-doctorates.shtml">Violet Palmer and Larry Gates to Receive Honorary Doctorates</a><br/>March 21, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2022/spring-22/spring-campus-conversation-futurepaths-career-and-professional-readiness-model-for-cal-poy-pomona-students.shtml">Spring Campus Conversation - FuturePaths: Career and Professional Readiness Model for Cal Poy Pomona Students</a><br/>March 10, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2022/spring-22/joseph-castro-resigns-as-chancellor.shtml">Joseph Castro Resigns as Chancellor</a><br/>February 18, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2022/spring-22/reaffirming-our-commitment-to-our-campus-community.shtml">Reaffirming Our Commitment to Our Campus Community</a><br/>February 7, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2022/spring-22/celebrating-black-history-month.shtml">Celebrating Black History Month</a><br/>February 1, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2022/spring-22/next-steps-for-interim-provost-iris-levine.shtml">Next Steps for Interim Provost Iris Levine</a><br/>January 27, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2022/spring-22/dr-jennifer-brown-appointed-as-vice-president-for-academic-affairs-and-provost.shtml">Dr. Jennifer Brown Appointed as Vice President for Academic Affairs and Provost</a><br/>January 25, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2022/spring-22/welcome-to-spring-semester-2022.shtml">Welcome to Spring Semester 2022</a><br/>January 24, 2022</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2022/spring-22/temporary-three-week-move-to-online-instruction-for-start-of-spring-semester.shtml">Temporary three-week move to online instruction for start of spring semester</a><br/>January 10, 2022</p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="2021" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">2021</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body"><p><a href="https://www.cpp.edu/president/messages/2021/committed-to-our-safer-return.shtml">Committed to Our Safer Return</a><br/>December 31, 2021</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2021/happy-holidays-from-the-coleys-and-cal-poly-pomona.shtml">Happy Holidays from the Coleys and Cal Poly Pomona</a><br/>December 3, 2021</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2021/inviting-you-to-join-in-selecting-our-next-provost.shtml">Inviting you to join in selecting our next Provost</a><br/>November 22, 2021</p>
+<p>&#160;</p>
+<p><a href="from-the-president/2021-fall/developer-selected-for-lanterman-project.shtml">Developer Selected for Lanterman Project</a><br/>August 26, 2021</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2021/our-move-to-community-policing.shtml">Our Move to Community Policing</a><br/>September 2, 2021</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2021/welcome-to-fall-2021.shtml">Welcome to Fall 2021</a><br/>August 19, 2021</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2021/drug-free-workplace.shtml">Drug-Free Workplace</a><br/>August 2, 2021</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2021/a-transformative-gift-for-a-transformative-university.shtml">A Transformative Gift for a Transformative University</a><br/>June 15, 2021</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2021/a-consequential-year.shtml">A Consequential Year</a><br/>May 17, 2021</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2021/our-work-continues.shtml">Our Work Continues</a><br/>April 20, 2021</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2021/campus-wide-moment-of-reflection.shtml">Campus-wide Moment of Reflection</a><br/>March 26, 2021</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2021/we-stand-with-our-aapi-community-against-bias-and-violence.shtml">We stand with our AAPI community against bias and violence</a><br/>March 18, 2021</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2021/update-from-president-coley-on-fall-planning-and-commencement.shtml">Update from President Coley on Fall Planning and Commencement</a><br/>March 1, 2021</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2021/share-your-view-take-the-inclusive-campus-survey-today.shtml">Share Your View: Take the Inclusive Campus Survey Today</a><br/>February 22, 2021</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2021/announcing-the-search-for-presidential-associate-for-inclusion-and-chief-diversity-officer.shtml">Announcing the search for Presidential Associate for Inclusion and Chief Diversity Officer</a><br/>February 15, 2021</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2021/celebrating-black-history-month.shtml">Celebrating Black History Month</a><br/>February 5, 2021</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2021/our-resilient-bronco-community.shtml">Our Resilient Bronco Community</a><br/>February 1, 2021</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2021/hold-fast-to-our-shared-ideals.shtml">Hold Fast to Our Shared Ideals</a><br/>January 6, 2021</p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="2020" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">2020</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body"><p><a href="https://www.cpp.edu/president/messages/2020/a-cal-poly-pomona-tradition.shtml">A Cal Poly Pomona Tradition</a><br/>December 31, 2020</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2020/enjoy-winter-break-safely.shtml">Enjoy Winter Break, Safely</a><br/>December 11, 2020</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2020/the-election-we-must-remain-patient-and-committed-to-our-values.shtml">The Election: We Must Remain Patient and Committed to Our Values</a><br/>November 4, 2020</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2020/a-message-from-president-soraya-m-coley-on-the-2020-election.shtml">A Message from President Soraya M. Coley on the 2020 Election</a><br/>October 22, 2020</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2020/campus-update-from-president-coley.shtml">Campus Update from President Coley</a><br/>July 16, 2020</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2020/annual-notice-of-the-california-whistleblower-protection-act.shtml">Annual Notice of the California Whistleblower Protection Act</a><br/>July 13, 2020</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2020/our-commitment-to-action.shtml">Our Commitment to Action</a><br/>July 1, 2020</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2020/message-regarding-supreme-court-decision-on-daca.shtml">Supreme Court decision DACA</a><br/>June 18, 2020</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2020/a-message-from-president-soraya-m-coley.shtml">A Message from President Coley</a><br/>May 30, 2020</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2020/planning-for-fall-semester-2020.shtml">Planning for Fall Semester 2020</a><br/>May 12, 2020</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2020/campus-conversation-on-virtual-instruction.shtml">Campus Conversation on Virtual Instruction</a><br/>April 21, 2020</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2020/a-united-bronco-community.shtml">A United Bronco Community</a><br/>April 6, 2020</p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="2019" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">2019</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body"><p><a href="https://www.cpp.edu/&#126;president/messages/california-wildfires.shtml">California Wildfires</a><br/>October 28, 2019</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2019/message-from-president-coley.shtml">Message from President Coley</a><br/>August 15, 2019</p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="2018" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">2018</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body"><p><a href="https://www.cpp.edu/president/messages/2018/the-tragedy-in-thousand-oaks.shtml">Tragedy in Thousand Oaks</a><br/>November 8, 2018</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2018/california-wildfire-recovery-efforts.shtml">Wildfire Recovery Efforts</a><br/>November 15, 2018</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2018/the-csus-super-sunday-a-message-of-hope.shtml">The CSU&#8217;s Super Sunday: A Message of Hope</a><br/>February 15, 2018</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2018/message-about-the-daca-program.shtml">Message about the DACA Program</a><br/>January 16, 2018</p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="2017" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">2017</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body"><p><a href="https://www.cpp.edu/president/messages/2017/csu-statement-on-immigration.shtml">CSU Statement on Immigration</a><br/>February 23, 2017</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2017/events-in-charlottesville.shtml">Events in Charlottesville</a><br/>August 18, 2017</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/from-the-president/2017-fall/las-vegas.shtml">Tragedy in Las Vegas</a><br/>October 7, 2017</p>
+<p>&#160;</p>
+<p><a href="https://www.cpp.edu/president/messages/2017/todays-white-house-decision-to-phase-out-daca.shtml">Today&#8217;s White House Decision to Phase Out DACA</a><br/>September 5, 2017</p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                         
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+        
+    
+            
+                
+                    
+               
+
+</div>
+
+ 
+
+    <div class="footer__gradient-section">
+<div class="container">
+<div class="row">
+
+     <div class="col-12 col-lg-4">
+        <h2 class="footer__gradient-header">Office of the President</h2>
+      </div>
+      <div class="col-12 col-lg-8 footer__gradient-socials-wrapper">
+        <h3 class="footer__gradient-social-header button2__transducer">Follow Us:</h3>
+        <div class="footer__gradient-socials">
+              <a href="https://www.instagram.com/prescoleycpp/" target="_blank">
+            <span aria-live="assertive" class="screen-reader-text">Instagram opens a new window</span>
+            <img alt="Instagram" src="/common/green-and-gold/assets/icons/social/insta-reverse.svg"/>
+          </a>
+                                         <a href="https://x.com/PresColeyCPP" target="_blank">
+            <span aria-live="assertive" class="screen-reader-text">X opens a new window</span>
+            <img alt="X" src="/common/green-and-gold/assets/icons/social/x-reverse.svg"/>
+          </a>
+          
+       </div>
+ </div>
+ <style>
+    .footer__rip-wrapper {
+         background: none;
+     }
+ </style>
+
+    <custom/>
+
+</div>
+</div>
+</div>
+    
+<style>
+    .footer__rip-wrapper {
+        background: linear-gradient(90deg, #FFB81C 0%, #A4D65E 100%) ;
+    }
+</style>
+
+
+
+         
+<style>
+     @media screen and (min-width: 992px) {
+    .mini-footer .footer__socials-buttons {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}
+
+.mini-footer .button1__transducer {
+    font-size: 12px;
+    letter-spacing: .5px;
+}
+
+.mini-footer .button {
+	margin-top: 0;
+    padding: 8px 20px 8px 20px;
+
+}
+.mini-footer .footer-line {
+    border-top: thin solid #a4d65e;
+    margin-top: 39px;
+    padding-top: 15px;
+}
+ </style>
+<footer class="footer mini-footer">
+    <div class="footer__rip-wrapper">
+        <img class="footer__rip" alt="" src="/common/green-and-gold/assets/images/green-rip.svg" alt="Ripped green paper." />
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-2">
+                <div class="footer__logo-wrapper">
+                    <a href="/" aria-label="CPP Logo">
+                        <img class="footer__logo" src="/common/green-and-gold/assets/logos/cpp_primary_1c_gold_rgb.png" alt="Cal Poly Pomona logo, building with a palm tree." />
+                    </a>
+                </div>
+            </div>
+            <div class="col-12 col-lg-6 offset-lg-4">
+                <div class="footer__socials">
+                    <div class="footer__socials-buttons">
+                        <a class="button button__secondary button1__transducer" href="/apply/">Apply</a>
+                        <a class="button button__secondary button1__transducer" href="https://maps.cpp.edu/">Maps</a>
+                        <a class="button button__secondary button1__transducer" href="/outreach/tours.shtml">Visit</a>
+                        <a class="button button__secondary button1__transducer" href="/contact.shtml">Contact Us</a>
+                    </div>
+                    <div class="footer__socials-icons">
+                        <a href="https://www.instagram.com/calpolypomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram opens a new window" />
+                        </a>
+                        <a href="https://www.linkedin.com/school/cal-poly-pomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn opens a new window" />
+                        </a>
+                        <a href="https://www.youtube.com/user/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="YouTube opens a new window" />
+                        </a>
+                        <a href="https://www.facebook.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook opens a new window" />
+                        </a>
+                        <a href="https://twitter.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X opens a new window" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 footer-line">
+                <div class="footer__errata">
+                    <p class="footer__copyright" style="line-height: 1.8em">Copyright ©2025 California State Polytechnic University, Pomona.  All Rights Reserved 
+                        
+                        <br />A campus of 
+                        
+                        <a class="footer__errata-link" style="display: inline" href="https://www.calstate.edu/">The California State University</a>.
+                    
+                    </p>
+                    <div class="footer__errata-links">
+                        <a class="footer__errata-link" href="https://www.cpp.edu/website-feedback.shtml">Feedback</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/privacy.shtml">Privacy</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/accessibility.shtml">Accessibility</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/file-viewers.shtml">Document Readers</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer__gradient-bottom"></div>
+</footer>
+
+    </body>
+</html>

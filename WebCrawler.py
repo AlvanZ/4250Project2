@@ -8,15 +8,21 @@ from lingua import Language, LanguageDetectorBuilder
 import tldextract
 import csv
 from collections import defaultdict
-
+import math
+import json
 # 1. Make method to get the seed url
 # 2. GO to page, error handle if it doesn't exist. Then you save that page
 # 3. Check if page is in set, if not then add it and then go through all anchor tags that contain the seed url
 # 4. Recurse to 2
 # Needs set to prevent duplicates, and then language detection.
 
-#Additions add inverted Index
-inverted_index = defaultdict(set)
+# → term → { doc_url: raw_term_count }
+inverted_index = defaultdict(lambda: defaultdict(int))
+# → doc_url → total_terms_in_doc
+doc_lengths     = defaultdict(int)
+# total docs seen
+N = 0
+
 
 #Tokenizer for the text for inverted index
 def tokenize(text):
@@ -113,89 +119,126 @@ def save_page(url, content, base_dir):
         file.write(content)
     print(f"Saved: {file_path}")
 
+
+# Function to save inverted index to file
+def save_inverted_index_to_file(filename='inverted_index.json'):
+    # Check if file exists to do an incremental update
+    if os.path.exists(filename):
+        try:
+            with open(filename, 'r', encoding='utf-8') as f:
+                existing_index = json.load(f)
+            
+            # Merge existing index with new data
+            for term, docs in inverted_index.items():
+                if term in existing_index:
+                    # Update existing term with new document counts
+                    existing_index[term].update(docs)
+                else:
+                    # Add new term
+                    existing_index[term] = docs
+            
+            # Write the merged index
+            with open(filename, 'w', encoding='utf-8') as f:
+                json.dump(existing_index, f, ensure_ascii=False, indent=4)
+        except Exception as e:
+            print(f"Error updating inverted index: {e}")
+            # If there was an error reading the existing file, write a new one
+            with open(filename, 'w', encoding='utf-8') as f:
+                json.dump(inverted_index, f, ensure_ascii=False, indent=4)
+    else:
+        # If file doesn't exist, create it
+        with open(filename, 'w', encoding='utf-8') as f:
+            json.dump(inverted_index, f, ensure_ascii=False, indent=4)
+    
+    print(f"Inverted index updated in {filename}")
+# Function to load inverted index from file
+def load_inverted_index_from_file(filename='inverted_index.json'):
+    global inverted_index
+    try:
+        with open(filename, 'r', encoding='utf-8') as f:
+            inverted_index = json.load(f)
+        print(f"Inverted index loaded from {filename}")
+    except FileNotFoundError:
+        print(f"Error: {filename} not found. Please crawl first.")
+
+
 # Web Crawler
 def crawl(seed_urls, allowed_domains=None, excluded_domains=None, file_limit=500):
-    visited = set()  # Keep track of visited URLs
-    to_visit = deque()  # Queue to store URLs to visit
-    
-    # Initialize seed URLs
+    global N
+
+    # Prepare your extractor once
+    extract = tldextract.TLDExtract(cache_dir="./.suffix_cache")
+    page_counter = 0
+    save_frequency = 10  # Save every 10 pages
     for seed_url in seed_urls:
-        extracted = tldextract.extract(urlparse(seed_url).netloc)
-        domain = f"{extracted.domain}.{extracted.suffix}"
-        
-        # Check allowed and excluded domains
-        if allowed_domains and domain not in allowed_domains:
-            print(f"Skipping seed URL, not allowed: {seed_url}")
-            continue
-        if excluded_domains and domain in excluded_domains:
-            print(f"Skipping seed URL (excluded): {seed_url}")
-            continue
-        
-        to_visit.append(seed_url)  # Add seed URL to queue for crawling
+        # Start fresh for this seed
+        visited = set()
+        to_visit = deque([seed_url])
 
-    while to_visit:
-        current_url = to_visit.popleft()
-        
-        # Skip if the URL has already been visited
-        if current_url in visited:
-            continue
-        
-        # Mark the URL as visited
-        visited.add(current_url)
+        # Figure out the root‐domain of the seed
+        parsed = urlparse(seed_url)
+        parts  = extract(parsed.netloc)
+        seed_domain = f"{parts.domain}.{parts.suffix}"
 
-        print(f"Crawling: {current_url}".encode("utf-8", "ignore").decode("utf-8"))
-        
-        try:
-            # Fetch the page content
-            response = requests.get(current_url)
-            if response.status_code == 200:
-                extracted = tldextract.extract(current_url)
-                domain = f"{extracted.domain}.{extracted.suffix}"
-                language = detect_language(response.text)
+        print(f"\n=== Crawling seed: {seed_url} (domain: {seed_domain}) ===")
 
-                # Check file count before saving the page
-                file_count = count_txt_files(f"{domain}/{language}")
-                print("File count: ", file_count)
+        while to_visit:
+            current_url = to_visit.popleft()
+            if current_url in visited:
+                continue
+            visited.add(current_url)
+
+            try:
+                resp = requests.get(current_url, timeout=5)
+                resp.raise_for_status()
+            except Exception as e:
+                print(f"  [error] fetching {current_url}: {e}")
+                continue
+
+            # Determine domain & language
+            parsed = urlparse(current_url)
+            parts  = extract(parsed.netloc)
+            domain = f"{parts.domain}.{parts.suffix}"
+            language = detect_language(resp.text)
+
+            # Check how many files we've already saved for this domain/language
+            cnt = count_txt_files(os.path.join(domain, language))
+            print(f"  File count for {domain}/{language}: {cnt}")
+            if cnt >= file_limit:
+                print(f"  → reached file_limit ({cnt} ≥ {file_limit}) for {domain}/{language}; skipping rest of this seed.")
+                break   # abandon this seed and move on
+
+            # Otherwise, save page & index it
+            base_dir = os.path.join(domain, language)
+            save_page(current_url, resp.text, base_dir)
+
+            # TF counting
+            text   = BeautifulSoup(resp.text, "html.parser").get_text(" ", strip=True)
+            tokens = tokenize(text)
+            N += 1
+            doc_lengths[current_url] = len(tokens)
+            for w in tokens:
+                inverted_index[w][current_url] += 1
+
+            # Save the inverted index after each page is processed
+            page_counter += 1
+            if page_counter % save_frequency == 0:
+                save_inverted_index_to_file()
                 
-                if file_count >= file_limit:
-                    print(f"Hit file limit for {domain}/{language}")
-                    continue
-                
-                # Save the page content to file
-                base_dir = os.path.join(domain, language)
-                save_page(current_url, response.text, base_dir)
-                
-                #Analyze saved page for inverted index
-                soup = BeautifulSoup(response.text, 'html.parser')
-                visible_text = soup.get_text(separator=' ', strip=True)
-                tokens = tokenize(visible_text)
 
-                for word in tokens:
-                    inverted_index[word].add(current_url)
-                # Save inverted index to file
-                with open('inverted_index.txt', 'w', encoding='utf-8') as f:
-                    for word in sorted(inverted_index):
-                        urls = ', '.join(inverted_index[word])
-                        f.write(f"{word}: {urls}\n")
-                print("Inverted index saved to inverted_index.txt")
-                # Extract links from the page
-                links = extract_links(current_url)
-                outlink_count = len(links)
-                write_to_csv(current_url, outlink_count, domain)
-                
-                # Process and normalize the links
-                for link in links:
-                    normalized_url = normalize_url(current_url, link, allowed_domains, excluded_domains)
-                    
-                    # Ensure only new URLs are added to the queue
-                    if normalized_url and normalized_url not in visited and normalized_url not in to_visit:
-                        # Normalizing link and ensuring we keep relative URLs
-                        absolute_url = urljoin(current_url, normalized_url)  # Convert relative to absolute
-                        if absolute_url not in visited:
-                            to_visit.append(absolute_url)
+            # record outlink count
+            links = extract_links(current_url)
+            write_to_csv(current_url, len(links), domain)
 
-        except requests.RequestException as e:
-            print(f"Failed to fetch {current_url}: {e}")
+            # enqueue normalized outlinks
+            for href in links:
+                norm = normalize_url(current_url, href, allowed_domains, excluded_domains)
+                if norm and norm not in visited:
+                    to_visit.append(norm)
+
+        # end while for this seed
+        print(f"--- done with seed {seed_url} ---")
+    # end for each seed
 
 # Example usage
 seed_urls = [ 
@@ -211,3 +254,95 @@ allowed_domains = ["taobao.com", 'yahoo.co.jp', 'cpp.edu']  # Only crawl these
 excluded_domains = []  # Ignore Taobao
 
 crawl(seed_urls, allowed_domains=allowed_domains, excluded_domains=excluded_domains)
+
+# Compute document frequencies (df) and inverse‐df (idf)
+df  = { term: len(postings) 
+        for term, postings in inverted_index.items() }
+idf = { term: math.log(N / df_t, 10) 
+        for term, df_t in df.items() }
+
+# Precedence for Boolean ops
+precedence = {'NOT': 3, 'AND': 2, 'OR': 1}
+
+def tokenize_query(q):
+    return re.findall(r'\bAND\b|\bOR\b|\bNOT\b|\(|\)|\w+', q.upper())
+
+def parse_boolean(q):
+    output, ops = [], []
+    for tok in tokenize_query(q):
+        if tok not in precedence and tok not in ('(',')'):
+            output.append(tok.lower())
+        elif tok == '(':
+            ops.append(tok)
+        elif tok == ')':
+            while ops and ops[-1] != '(':
+                output.append(ops.pop())
+            ops.pop()
+        else:
+            while ops and ops[-1] != '(' and precedence[ops[-1]] >= precedence[tok]:
+                output.append(ops.pop())
+            ops.append(tok)
+    while ops:
+        output.append(ops.pop())
+    print("Parsing")
+    print(output)
+    return output
+
+def eval_and_rank(rpn_tokens):
+    # Prepare simple sets for each term
+    postings = {
+      term: set(inverted_index.get(term, {})) 
+      for term in set(t for t in rpn_tokens if t not in precedence)
+    }
+    stack = []
+    # Boolean evaluation
+    for tok in rpn_tokens:
+        if tok not in precedence:
+            stack.append(postings.get(tok, set()))
+        elif tok == 'NOT':
+            a = stack.pop()
+            stack.append(set(doc_lengths) - a)
+        else:
+            b, a = stack.pop(), stack.pop()
+            if tok == 'AND': stack.append(a & b)
+            else:            stack.append(a | b)
+    result_docs = stack.pop() if stack else set()
+
+    # Rank by sum of (1+log tf)*idf
+    scores = {}
+    for doc in result_docs:
+        total = 0.0
+        for term in postings:
+            tf = inverted_index.get(term, {}).get(doc, 0)
+            if tf > 0:
+                total += (1 + math.log(tf, 10)) * idf.get(term, 0.0)
+        scores[doc] = total
+
+    # Return sorted list of (url, score)
+    return sorted(scores.items(), key=lambda kv: kv[1], reverse=True)
+
+def search(query, top_k=10):
+    rpn = parse_boolean(query)
+    results = eval_and_rank(rpn)
+    return results[:top_k]
+
+
+
+
+    # compute df+idf as above...
+
+print("\n=== TOKENS IN INVERTED INDEX ===")
+for term in sorted(inverted_index.keys())[:50]:  # show only first 50 for brevity
+    print(f"{term}: {len(inverted_index[term])} docs")
+print("...")
+print(f"Total unique terms (tokens): {len(inverted_index)}")
+
+while True:
+    q = input("Enter Boolean query (or 'exit'): ").strip()
+    if q.lower() in ('exit','quit'): break
+    for url, score in search(q):
+        print(f"{score:.4f}\t{url}")
+
+
+
+

@@ -1,0 +1,1354 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+		<title>
+			General Education (GE) Courses at ENV
+		</title>
+		<!-- Required meta tags -->
+		<meta charset="utf-8"/>
+		<meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
+		<meta content="Yes" property="cludo:category"/>
+<meta content="2024-07-02T09:18Z" property="date"/>
+<link href="https://www.cpp.edu/~env/programs/ge-courses.shtml" rel="canonical"/>
+		
+		
+		
+    <div lang="en">
+
+
+                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                <script src="https://cdn.levelaccess.net/accessjs/YW1wX2NwcDExMDM/access.js"></script>
+<script>// <![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSKJRNV');
+// ]]></script>
+<link href="/common/green-and-gold/assets/icons/gg-favicon.svg" rel="icon" type="image/svg+xml"/> <link crossorigin="anonymous" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" rel="stylesheet"/>
+<script crossorigin="anonymous" defer="defer" integrity="sha384-FW78RPcSpi13vjx77nPWQIrQbNSLkPBopb0qGzLCxD2x4Kr6FA8V05C/6cpgkKPL" src="https://pro.fontawesome.com/releases/v5.10.1/js/all.js"></script>
+<link href="https://www.cpp.edu/common/2018/assets/css/cpp-base-styles.css" rel="stylesheet"/> <link href="https://www.cpp.edu/common/2018/assets/css/cpp-extended-styles.css" rel="stylesheet"/> <link href="https://use.typekit.net/fia5dle.css" rel="stylesheet"/> <link href="/common/green-and-gold/assets/css/cpp-fonts.css" rel="stylesheet"/> <link href="/common/green-and-gold/assets/css/gg-header-footer.css" rel="stylesheet"/>
+
+</div>
+    
+		
+		
+	</head>
+	<body>
+		
+		 
+<header class="nav fixed">
+    <nav class="container">
+        <ul class="row nav__main" id="mainNavMenu">
+            <li id="main-logo" class="col-6 col-lg-3 nav__logo">
+                <a href="/" aria-label="Cal Poly Pomona Home" tabindex="0">
+                    <div class="nav__logo--horizontal">
+                        <img src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png" alt="Cal Poly Pomona Logo" />
+                    </div>
+                </a>
+            </li>
+            <li class="nav__links col-6" id="head-links">
+             <a class="nav__link nav__link--desktop col-1" href="/commencement/" tabindex="0">
+                    <svg
+                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 6px;
+    width: auto;
+">
+                        <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                        <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#005030"></path>
+                    </svg>
+                    <span class="sr-only">commencement</span>
+                </a>
+                <a class="nav__link nav__link--desktop" href="/apply/" tabindex="0">apply</a>
+                <a class="nav__link nav__link--desktop" href="/outreach/tours.shtml" tabindex="0">visit</a>
+                <a class="nav__link nav__link--desktop" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="0">info</a>
+                <a class="nav__link nav__link--desktop" href="/giving/" tabindex="0">give</a>
+                <a class="nav__link nav__link--desktop" href="https://my.cpp.edu" tabindex="0">mycpp</a>
+                <button id="search-open" class="nav__search" aria-expanded="false" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/search-dark-green.svg" alt="Search" />
+                </button>
+                <button class="nav__menu" id="menuButton" aria-expanded="false" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/menu.svg" alt="menu" />
+                </button>
+            </li>
+        </ul>
+    </nav>
+</header>
+<header id="search-header" style="display:none">
+    <div class="row">
+        <div class="col-md-6"></div>
+        <div id="searchbox" class="col-md-6">
+            <div id="search-slide">
+                <label for="#gsc-i-id1" class="sr-only">Search</label>
+                <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+                <div class="gcse-searchbox-only" data-resultsurl="https://www.cpp.edu/search.shtml"></div>
+                <button class="nav__menu col-1" id="search-close" aria-expanded="false" tabindex="0" aria-label="Menu icon">
+                    <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close icon">
+                    </button>
+                </div>
+            </div>
+            <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+            <style>
+
+     .gstl_50 gssb_c {
+         position:fixed !important;
+         }
+       #search-close img {
+         width: auto !important;
+       }
+
+       #searchbox {
+         height: 93px;
+         overflow: hidden;
+       }
+
+       #search-header {
+         position: fixed;
+         height: 100px;
+         width: 100%;
+         height: 93px;
+         z-index: 99999;
+         top: 0;
+       }
+
+       #gsc-i-id1 {
+         height: 40px;
+         width: 70%;
+         border-radius: 4px;
+         border: none;
+         padding: 15px;
+       }
+
+       #search-submit {
+         margin: 15px;
+       }
+
+       #search-close {
+         width: 23px;
+         height: 21px;
+         position: absolute;
+         top: 32px;
+       }
+
+       #search-slide {
+         width: 0px;
+         right: -100%;
+         padding: 20px 15px;
+         position: relative;
+         background: #005030;
+         height: 100%;
+         transition: all .5s ease 0s
+       }
+
+       #search-slide.slideup {
+         right: 0;
+         width: 100%;
+         position: relative;
+       }
+
+       @media screen and (max-width:991px) {
+         #search-slide {
+           height: 77px !important;
+           padding: 12px 10px;
+         }
+       }
+
+       @media screen and (max-width:767px) {
+         #search-header {
+           position: relative !important;
+         }
+
+         #search-slide {
+           text-align: center !important;
+         }
+       }
+
+     .gsc-search-button-v2 svg {
+    width: auto;
+    height: 25px;
+    position: relative;
+    top: 8px;
+}
+
+       .gsc-search-button-v2,
+       .gsc-search-button-v2:hover,
+       .gsc-search-button-v2:focus {
+         border: none !important;
+         background: none !important;
+       }
+
+       form.gsc-search-box {
+         font-size: 13px;
+         margin-top: 0;
+         margin-right: 0;
+         margin-bottom: 4px;
+         margin-left: 0;
+         width: 100%;
+         display: inline-block;
+       }
+
+       #___gcse_0 {
+         width: 70%;
+         display: inline-block;
+       }
+
+       table.gsc-search-box td.gsc-input {
+         padding-right: 0;
+       }
+
+       #gsc-i-id1 {
+         width: 100%;
+         padding: 0px;
+         border: none;
+         margin: -0.0625em 0px 0px;
+         height: 40px !important;
+         background: rgb(255, 255, 255);
+         outline: none;
+         font-size: 20px;
+         font-weight: 200;
+       }
+
+       .gstl_50.gssb_c {
+         z-index: 99999;
+       }
+
+       .gsq_a {
+         font-weight: 200;
+         font-size: 18px;
+         padding: 2px;
+       }
+
+       .gssb_a img {
+         display: none;
+       }
+
+       .side-nav__links--small-bottom {
+           margin-left:-15px;
+       }
+       .nav__links .nav__links--mobile {
+           margin-top: 50px;
+            margin-bottom: -50px;
+            margin-left: 50px
+       }
+       .nav__link--mobile {
+        	padding:0px;
+        }
+     /*   .side-nav__container, .side-nav__container--small {
+          
+            padding-left: 50px;
+        }*/
+        .side-nav__container--small-bottom {
+           padding-left: 35px;
+        }
+         @media screen and (max-width:991px) {
+             .nav__links--mobile {
+                 display:flex;
+             }
+         }
+          @media screen and (min-width:992px) {
+             .nav__links--mobile {
+                 display:none !important;
+             }
+          }
+         .nav__link--mobile {
+             color: #ffb81c;
+         }
+       </style>
+        </div>
+    </header>
+    <section class="side-nav" id="sideNavOverlay">
+        <header class="side-nav__overlay relative">
+            <nav class="container">
+                <ul class="row nav__overlay" id="sideNavMenu">
+                    <li class="nav__logo col-12 col-md-10 col-lg-3" id="navLogoOverlay">
+                        <a href="/" aria-label="Cal Poly Pomona Home" tabindex="-1">
+                            <img src="/common/green-and-gold/assets/logos/cpp_horizontal_1c_gold_rgb.png" alt="Cal Poly Pomona Logo" />
+                        </a>
+                    </li>
+                    <div class="nav__overlay--right col-12 col-lg-9">
+                        <li class="nav__links nav__links--desktop col-12 col-lg-6">
+                             <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 6px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                            <a class="nav__link nav__link--mobile" href="/apply/" tabindex="-1">apply</a>
+                            <a class="nav__link nav__link--mobile" href="/outreach/tours.shtml" tabindex="-1">visit</a>
+                            <a class="nav__link nav__link--mobile" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="-1">info</a>
+                            <a class="nav__link nav__link--mobile" href="/giving/" tabindex="-1">give</a>
+                            <a class="nav__link nav__link--mobile" href="https://my.cpp.edu" tabindex="-1">mycpp</a>
+                        </li>
+                        <li class="nav__icons">
+                            <button id="search-open-green" class="nav__search" aria-expanded="false" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/search-white.svg" alt="Search" />
+                            </button>
+                            <button class="nav__close" id="closeButton" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close menu" />
+                            </button>
+                        </li>
+                    </div>
+                </ul>
+            </nav>
+        </header>
+        
+            <div class="mobile_overlay_nav nav__links nav__links--mobile col-12 col-lg-6">
+                 <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 6px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                <a class="nav__link nav__link--mobile" href="/apply/" tabindex="0">apply </a>
+                <a class="nav__link nav__link--mobile" href="/outreach/tours.shtml" tabindex="0">visit </a>
+                <a class="nav__link nav__link--mobile" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="0">info </a>
+                <a class="nav__link nav__link--mobile" href="/giving/" tabindex="0">give </a>
+                <a class="nav__link nav__link--mobile" href="https://my.cpp.edu" tabindex="0">mycpp </a>
+            </div>
+       
+        <nav class="container side-nav__container">
+            <ul class="row side-nav__links">
+                <li id="home-button" class="side-nav__link">
+                    <a class="h3__proxima" href="/" tabindex="-1" aria-label="Cal Poly Pomona Home page">Home</a>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--0">
+                    <button class="h3__proxima" id="0" aria-expanded="false" tabindex="-1" aria-label="Link">
+                        <span>about</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--1">
+                    <button class="h3__proxima" id="1" aria-expanded="false" tabindex="-1" aria-label="Admissions & Aid">
+                        <span>admissions &amp; aid</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--2">
+                    <button class="h3__proxima" id="2" aria-expanded="false" tabindex="-1" aria-label="academics">
+                        <span>academics</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--3">
+                    <button class="h3__proxima" id="3" aria-expanded="false" tabindex="-1" aria-label="life at CPP">
+                        <span>life at CPP</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small">
+            <ul class="row">
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="https://broncoathletics.com/" tabindex="-1">athletics</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/alumni/" tabindex="-1">alumni</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/news/" tabindex="-1">news &amp; events</a>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small-bottom">
+            <ul class="col-12 col-lg-7 side-nav__links--small-bottom">
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/prospective-student-gateway/" tabindex="-1">future students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/student-gateway/" tabindex="-1">current students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/family/" tabindex="-1">families</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/faculty-staff-gateway/" tabindex="-1">faculty &amp; staff</a>
+                </li>
+            </ul>
+            <ul class="col-12 col-lg-5 social-icons">
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.instagram.com/calpolypomona/" aria-label="Instagram" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.linkedin.com/school/cal-poly-pomona/" aria-label="LinkedIn " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.youtube.com/user/calpolypomona" aria-label="Youtube " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="Youtube" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.facebook.com/calpolypomona" aria-label="Facebook " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://twitter.com/calpolypomona" aria-label="X (Twitter)" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X" />
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </section>
+		                                                                                                                                                        																										                                                            															    		                                
+
+
+            
+
+    <header title="College of Environmental Design">
+                                     
+    <div lang="en">
+
+
+                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                <nav class="navbar navbar-expand-xl navbar-light" id="college-nav"><a class="navbar-brand college-brand" href="/env/index.shtml"> <img alt="The College of Environmental Design" id="env-title" src="https://www.cpp.edu/common/2018/assets/img/env-justice.png"/> </a> <button aria-controls="college-toggle" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler navbar-toggler-right" data-target="#college-toggle" data-toggle="collapse" type="button"> <span class="navbar-toggler-icon"></span> </button>
+<div class="collapse navbar-collapse college-nav" id="college-toggle">
+<ul class="navbar-nav ml-auto mt-2 mt-lg-0">
+<li class="nav-item dropdown"><a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">About</a>
+<div class="dropdown-menu"><a class="dropdown-item" href="/env/about/mission.shtml">Mission</a> <a class="dropdown-item" href="/env/about/history.shtml">History</a> <a class="dropdown-item" href="/env/about/deans-office.shtml">Dean's Office</a> <a class="dropdown-item" href="/env/about/deans-advisory-council/index.shtml">Dean's Advisory Council</a> <a class="dropdown-item" href="/env/about/org-chart/index.shtml">Organizational Chart</a> <a class="dropdown-item" href="/env/open-positions/index.shtml">Open Positions</a> <a class="dropdown-item" href="/env/about/contact-us.shtml">Contact Us</a></div>
+</li>
+<li class="nav-item dropdown"><a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">Departments</a>
+<div class="dropdown-menu"><a class="dropdown-item" href="/env/architecture/index.shtml">Architecture</a> <a class="dropdown-item" href="/env/art/index.shtml">Art</a> <a class="dropdown-item" href="/env/landscape-architecture/index.shtml">Landscape Architecture</a> <a class="dropdown-item" href="/env/urp/index.shtml">Urban and Regional Planning</a> <a class="dropdown-item" href="/env/lyle/index.shtml">Lyle Center for Regenerative Studies</a></div>
+</li>
+<li class="nav-item dropdown show"><a aria-expanded="false" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">Programs</a>
+<div class="dropdown-menu">
+<div class="dropdown-item">Undergraduate Programs</div>
+<a class="dropdown-item" href="/env/architecture/program-degrees-admissions/bachelor-of-architecture.shtml"> - Architecture</a> <a class="dropdown-item" href="/env/art/degrees-admissions/ba-art-history.shtml"> - Art History</a> <a class="dropdown-item" href="/env/landscape-architecture/degrees-admissions/bachelors.shtml"> - Landscape Architecture</a> <a class="dropdown-item" href="/env/urp/degrees-admissions/undergraduate-program.shtml"> - Urban and Regional Planning</a> <a class="dropdown-item" href="/env/art/degrees-admissions/bfa-visual-communication-design.shtml"> - Visual Communication Design</a>
+<div class="dropdown-divider"></div>
+<div class="dropdown-item">Graduate Programs</div>
+<a class="dropdown-item" href="/env/architecture/program-degrees-admissions/master-of-architecture.shtml"> - Architecture</a> <a class="dropdown-item" href="/env/architecture/program-degrees-admissions/master-of-interior-architecture.shtml"> - Interior Architecture</a> <a class="dropdown-item" href="/env/landscape-architecture/degrees-admissions/masters.shtml"> - Landscape Architecture</a> <a class="dropdown-item" href="/env/urp/degrees-admissions/graduate-program.shtml"> - Urban and Regional Planning</a> <a class="dropdown-item" href="/env/lyle/degrees-admissions/ms-regenerative-studies.shtml"> - Regenerative Studies</a>
+<div class="dropdown-divider"></div>
+<a class="dropdown-item" href="/env/programs/minors.shtml"> - Minor Programs</a> <a class="dropdown-item" href="/env/programs/ge-courses.shtml"> - General Education Courses</a></div>
+</li>
+<li class="nav-item dropdown"><a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">Academic Resources</a>
+<div class="dropdown-menu dropdown-menu-right"><a class="dropdown-item" href="/env/student-success-advising-center/index.shtml">ENV Student Success Advising Center</a> <a class="dropdown-item" href="/env/resources/isb.shtml">Instructional Services Bureau + Print Labs</a> <a class="dropdown-item" href="/env/model-shop/index.shtml">ENV Model Shop</a> <a class="dropdown-item" href="/env/architecture/resources/arc-fab-lab.shtml">Architecture Fabrication Lab</a> <a class="dropdown-item" href="/env/urp/academic-resources/gis-lab.shtml">GIS Lab</a></div>
+</li>
+<li class="nav-item dropdown"><a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">News &amp; Events</a>
+<div class="dropdown-menu dropdown-menu-right"><a class="dropdown-item" href="/env/news-events/news/index.shtml">News</a> <a class="dropdown-item" href="/env/news-events/events/index.shtml">Events / Calendar</a> <a class="dropdown-item" href="https://issuu.com/cppenv">ENV Publications</a> <a class="dropdown-item" href="/env/news-events/national-rankings.shtml">National Rankings &amp; Recognition</a></div>
+</li>
+<li class="nav-item dropdown"><a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">Culture</a>
+<div class="dropdown-menu dropdown-menu-right"><a class="dropdown-item" href="/env/culture/env-archives.shtml">ENV Archives-Special Collections</a> <a class="dropdown-item" href="/env/culture/neutra-vdl.shtml">Neutra VDL House</a> <a class="dropdown-item" href="/kellogg-gallery/index.shtml">W.Keith &amp; Janet Kellogg University Art Gallery</a> <a class="dropdown-item" href="/huntley-gallery/index.shtml">Don B. Huntley Gallery</a></div>
+</li>
+<li class="nav-item dropdown"><a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">Giving</a>
+<div class="dropdown-menu dropdown-menu-right"><a class="dropdown-item" href="/env/make-a-gift/index.shtml">How to Give</a></div>
+</li>
+</ul>
+</div>
+</nav>
+
+</div>
+    
+                
+
+
+      
+        
+    <custom/> 
+
+    
+                                 <div id="dept-title">
+                        <a href="http://www.cpp.edu/~env">Programs</a>
+                    </div>
+    </header>
+
+    
+
+
+    <main class="container flex-grow">
+
+    <div class="row">
+                <div class="col-12" id="main"> 
+                         <h1 class="cpp-h1">General Education (GE) Courses at ENV</h1>
+            
+
+
+    
+                                            
+                                    <section class="text-images" id="s0">
+                                
+                                                        
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                            <p>You've picked your major. What do general education classes have to do with it?</p>
+<p>A lot more than what you think. General education (GE) courses are required for all majors to complete their degree program. Skills learned in GE classes have long-run benefits -- concepts from one class can be applied to another, and ultimately, in professional careers.</p>
+<p>The<span>&#160;</span><strong>General Education Program</strong><span>&#160;</span>at Cal Poly Pomona provides essential skills and knowledge through a framework which enhances students&#226;&#8364;&#8482; understanding of basic disciplines and encourages an appreciation of the complexity of<span>&#160;</span><em>all knowledge</em>. The program is designed to help students succeed in their chosen fields, adapt to a changing workplace, be engaged citizens in their communities, and become lifelong learners.<span>&#160;</span><strong><a href="https://catalog.cpp.edu/content.php?catoid=57&amp;navoid=4401" rel="noopener" target="_blank" title="CPP GE Requirements">Learn about the university's GE requirements here</a></strong>.</p>
+<p><strong>The College of Environmental Design offers GE courses throughout the academic year.</strong><span>&#160;</span>Consider enriching your undergraduate experience with lessons in pre-Renaissance architecture history, the evolution of American cities, environmental design theory, global regenerative systems, social justice in planning, sustainable communities, and more.</p>
+<p>See the sections below to view course offerings from the departments of architecture, art, landscape architecture, and urban and regional planning, as well as the Lyle Center for Regenerative Studies.</p>
+            </section>
+                            
+                  
+       
+	
+	
+ 
+         
+    
+
+    
+                    
+                  
+        
+                 
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                 
+    	
+            
+                                       <div class="accordion" id="accordion-1">
+        
+                                                                                                                        <div class="w-100 text-right">
+                                              <button aria-controls=" collapsed1-1 collapsed1-2 collapsed1-3 collapsed1-4 collapsed1-5 collapsed1-6 collapsed1-7" aria-expanded="false" class="btn btn-primary mb-2" data-target=".multi-collapse1" data-toggle="collapse" type="button">Expand/Collapse All <span class="sr-only">for faq number 1</span></button>
+            </div>
+                                    
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading1">
+                <h2 class="m-0">
+                    <button aria-controls="collapse1-1" aria-expanded="false" class="btn btn-link" data-target="#collapse1-1" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  GE Area B5: Science and Technology Synthesis (Upper Division)
+                    </button>
+                </h2>
+            </div>
+                            <div aria-labelledby="heading1" class="collapse multi-collapse1 " id="collapse1-1">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                <table class="table table-bordered table-striped">
+<thead>
+<tr>
+<th>Catalog Number(s)</th>
+<th>Course Name</th>
+<th>Department</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>RS 3010</td>
+<td><a href="https://www.cpp.edu/env/lyle/academics-research/learn-living-laboratory.shtml" rel="noopener" target="_blank">Life Support Processes</a></td>
+<td><a href="https://www.cpp.edu/env/lyle/" rel="noopener" target="_blank">Lyle Center for Regenerative Studies</a></td>
+</tr>
+</tbody>
+</table>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                            
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading2">
+                <h2 class="m-0">
+                    <button aria-controls="collapse1-2" aria-expanded="false" class="btn btn-link" data-target="#collapse1-2" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  GE Area C1: Visual and Performing Arts
+                    </button>
+                </h2>
+            </div>
+                            <div aria-labelledby="heading2" class="collapse multi-collapse1 " id="collapse1-2">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                <table class="table table-striped table-bordered">
+<thead>
+<tr>
+<th>Catalog Number(s)</th>
+<th>Course Name</th>
+<th>Department</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>AH 2301</td>
+<td>World Art: Prehistory through Medieval Europe</td>
+<td>Art</td>
+</tr>
+<tr>
+<td>AH 2302</td>
+<td>World Art: Renaissance through Modern Europe and the United States</td>
+<td>Art</td>
+</tr>
+<tr>
+<td>AH 2303</td>
+<td>World Art: Asian (Prehistory to 12th Century)</td>
+<td>Art</td>
+</tr>
+<tr>
+<td>AH 2305</td>
+<td>World Art: Africa, Oceania, and Native American</td>
+<td>Art</td>
+</tr>
+<tr>
+<td>ARC 3610/3612A</td>
+<td>World Architecture before the Renaissance</td>
+<td>Architecture</td>
+</tr>
+<tr>
+<td>LA 2261</td>
+<td>History I: History of Landscape Design</td>
+<td>Landscape Architecture</td>
+</tr>
+<tr>
+<td>LA 2271</td>
+<td>History II: Modern Landscapes</td>
+<td>Landscape Architecture</td>
+</tr>
+<tr>
+<td>VCD 1330A</td>
+<td>Foundations in Ceramic Activities</td>
+<td>Art</td>
+</tr>
+</tbody>
+</table>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                            
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading3">
+                <h2 class="m-0">
+                    <button aria-controls="collapse1-3" aria-expanded="false" class="btn btn-link" data-target="#collapse1-3" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  GE Area C2A: Philosophy and Civilization
+                    </button>
+                </h2>
+            </div>
+                            <div aria-labelledby="heading3" class="collapse multi-collapse1 " id="collapse1-3">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                <table class="table table-striped table-bordered">
+<thead>
+<tr>
+<th>Catalog Number(s)</th>
+<th>Course Name</th>
+<th>Department</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ARC 1020/1022A</td>
+<td>Visual Literacy and Civilization</td>
+<td>Architecture</td>
+</tr>
+<tr>
+<td>LA 2771</td>
+<td>Environmental Design Theory</td>
+<td>Landscape Architecture</td>
+</tr>
+</tbody>
+</table>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                            
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading4">
+                <h2 class="m-0">
+                    <button aria-controls="collapse1-4" aria-expanded="false" class="btn btn-link" data-target="#collapse1-4" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  GE Area C3: Philosophy and Civilization (Upper Division)
+                    </button>
+                </h2>
+            </div>
+                            <div aria-labelledby="heading4" class="collapse multi-collapse1 " id="collapse1-4">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                <table class="table table-bordered table-striped">
+<thead>
+<tr>
+<th>Catalog Number(s)</th>
+<th>Course Name</th>
+<th>Department</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ARC 4630</td>
+<td>Interpreting Architecture</td>
+<td>Architecture</td>
+</tr>
+<tr>
+<td>RS 3030</td>
+<td><a href="https://www.cpp.edu/env/lyle/academics-research/learn-living-laboratory.shtml" rel="noopener" target="_blank">Organization for Regenerative Practices</a></td>
+<td><a href="https://www.cpp.edu/env/lyle/" rel="noopener" target="_blank">Lyle Center for Regenerative Studies</a></td>
+</tr>
+<tr>
+<td>RS 4500</td>
+<td><a href="https://www.cpp.edu/env/lyle/academics-research/learn-living-laboratory.shtml" rel="noopener" target="_blank">Sustainable Communities</a></td>
+<td><a href="https://www.cpp.edu/env/lyle/" rel="noopener" target="_blank">Lyle Center for Regenerative Studies</a></td>
+</tr>
+<tr>
+<td>URP 4040</td>
+<td>Placemaking: Theories, Methods and Practices</td>
+<td>Urban and Regional Planning</td>
+</tr>
+</tbody>
+</table>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                            
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading5">
+                <h2 class="m-0">
+                    <button aria-controls="collapse1-5" aria-expanded="false" class="btn btn-link" data-target="#collapse1-5" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  GE Area D3: Social Sciences &#8211; Principles, Methodologies, Value Systems, and Ethics
+                    </button>
+                </h2>
+            </div>
+                            <div aria-labelledby="heading5" class="collapse multi-collapse1 " id="collapse1-5">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                <table class="table table-bordered table-striped">
+<thead>
+<tr>
+<th>Catalog Number(s)</th>
+<th>Course Name</th>
+<th>Department</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>URP 1040/1040L</td>
+<td>The City in Context &#226;&#8364;&#8220; History, Politics, Environment</td>
+<td>Urban and Regional Planning</td>
+</tr>
+<tr>
+<td>URP 1050</td>
+<td>Social Justice in Planning</td>
+<td>Urban and Regional Planning</td>
+</tr>
+</tbody>
+</table>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                            
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading6">
+                <h2 class="m-0">
+                    <button aria-controls="collapse1-6" aria-expanded="false" class="btn btn-link" data-target="#collapse1-6" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  GE Area D4: Social Science Synthesis (Upper Division)
+                    </button>
+                </h2>
+            </div>
+                            <div aria-labelledby="heading6" class="collapse multi-collapse1 " id="collapse1-6">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                <table class="table table-bordered table-striped">
+<thead>
+<tr>
+<th>Catalog Number(s)</th>
+<th>Course Name</th>
+<th>Department</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>RS 3020</td>
+<td><a href="https://www.cpp.edu/env/lyle/academics-research/learn-living-laboratory.shtml" rel="noopener" target="_blank">Global Regenerative Systems</a></td>
+<td><a href="https://www.cpp.edu/env/lyle/" rel="noopener" target="_blank">Lyle Center for Regenerative Studies</a></td>
+</tr>
+<tr>
+<td>RS 3030</td>
+<td><a href="https://www.cpp.edu/env/lyle/academics-research/learn-living-laboratory.shtml" rel="noopener" target="_blank">Organization for Regenerative Practices</a></td>
+<td><a href="https://www.cpp.edu/env/lyle/" rel="noopener" target="_blank">Lyle Center for Regenerative Studies</a></td>
+</tr>
+<tr>
+<td>RS 4500</td>
+<td><a href="https://www.cpp.edu/env/lyle/academics-research/learn-living-laboratory.shtml" rel="noopener" target="_blank">Sustainable Communities</a></td>
+<td><a href="https://www.cpp.edu/env/lyle/" rel="noopener" target="_blank">Lyle Center for Regenerative Studies</a></td>
+</tr>
+<tr>
+<td>URP 3010</td>
+<td>Introduction to Urban Planning</td>
+<td>Urban and Regional Planning</td>
+</tr>
+<tr>
+<td>URP 4110</td>
+<td>Evolution of American Cities and Planning</td>
+<td>Urban and Regional Planning</td>
+</tr>
+<tr>
+<td>URP 4120</td>
+<td>Urban Design in Europe</td>
+<td>Urban and Regional Planning</td>
+</tr>
+<tr>
+<td>URP 4220</td>
+<td>The Just City</td>
+<td>Urban and Regional Planning</td>
+</tr>
+<tr>
+<td>URP 4750</td>
+<td>Planning in a Global Economy</td>
+<td>Urban and Regional Planning</td>
+</tr>
+<tr>
+<td>URP 4820</td>
+<td>California Water</td>
+<td>Urban and Regional Planning</td>
+</tr>
+</tbody>
+</table>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                            
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading7">
+                <h2 class="m-0">
+                    <button aria-controls="collapse1-7" aria-expanded="false" class="btn btn-link" data-target="#collapse1-7" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  GE Area E: Lifelong Learning and Self-Development
+                    </button>
+                </h2>
+            </div>
+                            <div aria-labelledby="heading7" class="collapse multi-collapse1 " id="collapse1-7">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                <table class="table table-bordered table-striped">
+<thead>
+<tr>
+<th>Catalog Number(s)</th>
+<th>Course Name</th>
+<th>Department</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ARC 1010</td>
+<td>Introduction to Design Theories and Methods</td>
+<td>Architecture</td>
+</tr>
+<tr>
+<td>LA 1771</td>
+<td>Reading and Representing the Landscape</td>
+<td>Landscape Architecture</td>
+</tr>
+<tr>
+<td>RS 1100</td>
+<td><a href="https://www.cpp.edu/env/lyle/academics-research/learn-living-laboratory.shtml" rel="noopener" target="_blank">Introduction to Regenerative Studies</a></td>
+<td><a href="https://www.cpp.edu/env/lyle/" rel="noopener" target="_blank">Lyle Center for Regenerative Studies</a></td>
+</tr>
+<tr>
+<td>VCD 2370</td>
+<td>Visual Thinking</td>
+<td>Art</td>
+</tr>
+</tbody>
+</table>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                    </div>   
+               
+	
+	
+ 
+         
+    
+
+</div>
+</div>
+</main>
+
+		
+    <div lang="en">
+
+
+                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                 
+<style>
+     @media screen and (min-width: 992px) {
+    .mini-footer .footer__socials-buttons {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}
+
+.mini-footer .button1__transducer {
+    font-size: 12px;
+    letter-spacing: .5px;
+}
+
+.mini-footer .button {
+	margin-top: 0;
+    padding: 8px 20px 8px 20px;
+
+}
+.mini-footer .footer-line {
+    border-top: thin solid #a4d65e;
+    margin-top: 39px;
+    padding-top: 15px;
+}
+ </style>
+<footer class="footer mini-footer">
+    <div class="footer__rip-wrapper">
+        <img class="footer__rip" alt="" src="/common/green-and-gold/assets/images/green-rip.svg" alt="Ripped green paper." />
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-2">
+                <div class="footer__logo-wrapper">
+                    <a href="/" aria-label="CPP Logo">
+                        <img class="footer__logo" src="/common/green-and-gold/assets/logos/cpp_primary_1c_gold_rgb.png" alt="Cal Poly Pomona logo, building with a palm tree." />
+                    </a>
+                </div>
+            </div>
+            <div class="col-12 col-lg-6 offset-lg-4">
+                <div class="footer__socials">
+                    <div class="footer__socials-buttons">
+                        <a class="button button__secondary button1__transducer" href="/apply/">Apply</a>
+                        <a class="button button__secondary button1__transducer" href="https://maps.cpp.edu/">Maps</a>
+                        <a class="button button__secondary button1__transducer" href="/outreach/tours.shtml">Visit</a>
+                        <a class="button button__secondary button1__transducer" href="/contact.shtml">Contact Us</a>
+                    </div>
+                    <div class="footer__socials-icons">
+                        <a href="https://www.instagram.com/calpolypomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram opens a new window" />
+                        </a>
+                        <a href="https://www.linkedin.com/school/cal-poly-pomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn opens a new window" />
+                        </a>
+                        <a href="https://www.youtube.com/user/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="YouTube opens a new window" />
+                        </a>
+                        <a href="https://www.facebook.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook opens a new window" />
+                        </a>
+                        <a href="https://twitter.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X opens a new window" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 footer-line">
+                <div class="footer__errata">
+                    <p class="footer__copyright" style="line-height: 1.8em">Copyright ©2025 California State Polytechnic University, Pomona.  All Rights Reserved 
+                        
+                        <br />A campus of 
+                        
+                        <a class="footer__errata-link" style="display: inline" href="https://www.calstate.edu/">The California State University</a>.
+                    
+                    </p>
+                    <div class="footer__errata-links">
+                        <a class="footer__errata-link" href="https://www.cpp.edu/website-feedback.shtml">Feedback</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/privacy.shtml">Privacy</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/accessibility.shtml">Accessibility</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/file-viewers.shtml">Document Readers</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer__gradient-bottom"></div>
+</footer>
+
+
+<script   src="https://code.jquery.com/jquery-3.2.1.min.js"   integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="   crossorigin="anonymous">
+</script><script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script src="https://www.cpp.edu/common/green-and-gold/assets/js/cpp-legacy.js" ></script>
+<script src="https://www.cpp.edu/common/2018/assets/js/tabs.js" ></script>
+<script src="/common/green-and-gold/assets/js/nav.js"></script>
+
+
+</div>
+    
+		
+		
+	</body>
+</html>

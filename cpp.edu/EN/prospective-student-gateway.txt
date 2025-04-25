@@ -1,0 +1,1794 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+    <head>
+        <meta charset="UTF-8"/>
+        <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+        <meta content="ie=edge" http-equiv="X-UA-Compatible"/>
+        <title>
+            Future Students
+        </title>
+        
+        <meta content="Welcome to Cal Poly Pomona! Your future starts here. Discover top-ranked academics, vibrant student life, and resources designed to help you succeed." name="description"/>
+        
+            <script src="https://cdn.levelaccess.net/accessjs/YW1wX2NwcDExMDM/access.js"></script>
+<script>// <![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSKJRNV');
+// ]]></script>
+<link rel="icon" href="/common/green-and-gold/assets/icons/gg-favicon.svg"  type="image/svg+xml" />
+<link rel="icon" href="/common/green-and-gold/assets/icons/gg-favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/index.css" />
+<link rel="stylesheet" href="https://use.typekit.net/fia5dle.css" />
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/cpp-fonts.css" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+<script src="/common/green-and-gold/assets/js/accordion.js"></script>
+<script crossorigin="anonymous" defer="defer" integrity="sha384-FW78RPcSpi13vjx77nPWQIrQbNSLkPBopb0qGzLCxD2x4Kr6FA8V05C/6cpgkKPL" src="https://pro.fontawesome.com/releases/v5.10.1/js/all.js"></script>
+<script src="/common/green-and-gold/assets/js/modal.js"></script>
+<script src="/common/green-and-gold/assets/js/fontawesome/v6.0x/sharp-light.js" crossorigin="anonymous" type="text/javascript"></script>
+<script src="/common/green-and-gold/assets/js/fontawesome/v6.0x/sharp-others.js" crossorigin="anonymous" type="text/javascript"></script>
+<!-- Swiper Library -->
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/swiper-bundle.min.css" />
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/swiper-carousel.css" />
+<script src="/common/green-and-gold/assets/js/swiper-bundle.min.js"></script>
+<script src="/common/green-and-gold/assets/js/carousel-cards-swiper.js"></script>
+
+    </head>
+    <body>
+        <a class="skip-to-content-link" href="#main">Skip to content</a>
+             <header class="nav fixed">
+    <nav class="container">
+        <ul class="row nav__main" id="mainNavMenu">
+            <li id="main-logo" class="col-6 col-lg-3 nav__logo">
+                <a href="/" aria-label="Cal Poly Pomona Home" tabindex="0">
+                    <div class="nav__logo--horizontal">
+                        <img src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png" alt="Cal Poly Pomona Logo" />
+                    </div>
+                </a>
+            </li>
+            <!-- department header hidden by default-->
+            <li id="dept-header-desktop" class="col-sm-5 col-md-6 nav__logo desktop d-none">
+                <a href="/" aria-label="Cal Poly Pomona Home" tabindex="0">
+                    <div class="nav__logo--stacked">
+                        <img src="/common/green-and-gold/assets/logos/cpp_primary_2c_green_cmyk.png" alt="Cal Poly Pomona Logo">
+                        </div>
+                    </a>
+                    <div class="divider"></div>
+                    <div id="split-header" class="nav__division col-lg-6">
+                        <div id="large-name"></div>
+                        <div style="display:none" id="sub-name"></div>
+                    </div>
+                </div>
+            </li>
+            <li class="nav__links col-2" id="head-links">
+                <a class="nav__link nav__link--desktop col-1" href="/commencement/" tabindex="0">
+                    <svg
+                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 1px;
+    width: auto;
+">
+                        <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                        <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#005030"></path>
+                    </svg>
+                    <span class="sr-only">commencement</span>
+                </a>
+                <a class="nav__link nav__link--desktop col-1" href="/apply/" tabindex="0">apply</a>
+                <a class="nav__link nav__link--desktop col-1" href="/outreach/tours.shtml" tabindex="0">visit</a>
+                <a class="nav__link nav__link--desktop col-1" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="0">info</a>
+                <a class="nav__link nav__link--desktop col-1" href="/giving/" tabindex="0">give</a>
+                <a class="nav__link nav__link--desktop col-1" href="https://my.cpp.edu" tabindex="0">mycpp</a>
+                <button id="search-open" class="nav__search col-1" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/search-dark-green.svg" alt="Open search box" />
+                </button>
+                <button class="nav__menu col-1" id="menuButton" aria-expanded="false" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/menu.svg" alt="menu" />
+                </button>
+            </li>
+        </ul>
+    </nav>
+</header>
+<header id="search-header" style="display:none">
+    <div class="row">
+        <div class="col-md-6"></div>
+        <div id="searchbox" class="col-md-6">
+            <div id="search-slide">
+                <label for="#gsc-i-id1" class="sr-only">Search</label>
+                <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+                <div class="gcse-searchbox-only" data-resultsurl="https://www.cpp.edu/search.shtml"></div>
+                <button class="nav__menu col-1" id="search-close" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close search menu">
+                    </button>
+                </div>
+            </div>
+            <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+            <script>
+       $("#search-open").click(function() {
+         $("#search-header").show();
+         $("#search-slide").addClass("slideup");
+         $("#gsc-i-id1").focus();
+         $('#search-close').focusout(function() {
+           $("#search-header").hide();
+           $("#search-slide").removeClass("slideup");
+           $("#search-open").focus();
+         })
+       });
+       $("#search-close").click(function() {
+         $("#search-header").hide();
+         $("#search-slide").removeClass("slideup");
+         $("#search-open").focus();
+       });
+     </script>
+            <style>
+       .gstl_50 gssb_c {
+         position: fixed !important;
+       }
+
+       #searchbox {
+         height: 93px;
+         overflow: hidden;
+       }
+
+       #search-header {
+         position: fixed;
+         height: 100px;
+         width: 100%;
+         height: 93px;
+         z-index: 99999;
+         top: 0;
+       }
+
+       #gsc-i-id1 {
+         height: 40px;
+         width: 70%;
+         border-radius: 4px;
+         border: none;
+         padding: 15px;
+       }
+
+       #search-submit {
+         margin: 15px;
+       }
+
+       #search-close {
+         width: 23px;
+         height: 21px;
+         position: absolute;
+         top: 32px;
+       }
+
+       #search-slide {
+         width: 0px;
+         right: -100%;
+         padding: 20px 15px;
+         position: relative;
+         background: #005030;
+         height: 100%;
+         transition: all .5s ease 0s
+       }
+
+       #search-slide.slideup {
+         right: 0;
+         width: 100%;
+         position: relative;
+       }
+
+       @media screen and (max-width:991px) {
+         #search-slide {
+           height: 77px !important;
+           padding: 12px 10px;
+         }
+       }
+
+       @media screen and (max-width:767px) {
+         #search-header {
+           position: relative !important;
+         }
+
+         #search-slide {
+           text-align: center !important;
+         }
+       }
+
+       .gsc-search-button-v2 svg {
+         width: auto;
+         height: 21px;
+       }
+
+       .gsc-search-button-v2,
+       .gsc-search-button-v2:hover,
+       .gsc-search-button-v2:focus {
+         border: none !important;
+         background: none !important;
+       }
+
+       form.gsc-search-box {
+         font-size: 13px;
+         margin-top: 0;
+         margin-right: 0;
+         margin-bottom: 4px;
+         margin-left: 0;
+         width: 100%;
+         display: inline-block;
+       }
+
+       #___gcse_0 {
+         width: 70%;
+         display: inline-block;
+       }
+
+       table.gsc-search-box td.gsc-input {
+         padding-right: 0;
+       }
+
+       #gsc-i-id1 {
+         width: 100%;
+         padding: 0px;
+         border: none;
+         margin: -0.0625em 0px 0px;
+         height: 40px !important;
+         background: rgb(255, 255, 255);
+         outline: none;
+         font-size: 20px;
+         font-weight: 200;
+       }
+
+       .gstl_50.gssb_c {
+         z-index: 99999;
+       }
+
+       .gsq_a {
+         font-weight: 200;
+         font-size: 18px;
+         padding: 2px;
+       }
+
+       .gssb_a img {
+         display: none;
+       }
+     </style>
+        </div>
+    </header>
+    <section class="side-nav" id="sideNavOverlay">
+        <header class="side-nav__overlay relative">
+            <nav class="container">
+                <ul class="row nav__overlay" id="sideNavMenu">
+                    <li class="nav__logo col-12 col-md-10 col-lg-3" id="navLogoOverlay">
+                        <a href="/" aria-label="Cal Poly Pomona Home" tabindex="-1">
+                            <img src="/common/green-and-gold/assets/logos/cpp_horizontal_1c_gold_rgb.png" alt="Cal Poly Pomona Logo" />
+                        </a>
+                    </li>
+                    <div class="nav__overlay--right col-12 col-lg-9">
+                        <li class="nav__links nav__links--desktop col-12 col-lg-6">
+                            <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 1px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/apply/" tabindex="-1">apply</a>
+                            <a class="nav__link nav__link--mobile col-1" href="/outreach/tours.shtml" tabindex="-1">visit</a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="-1">info</a>
+                            <a class="nav__link nav__link--mobile col-1" href="/giving/" tabindex="-1">give</a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://my.cpp.edu" tabindex="-1">mycpp</a>
+                        </li>
+                        <li class="nav__icons col-1">
+                            <button id="search-open-green" class="nav__search col-1" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/search-white.svg" alt="Open search box" />
+                            </button>
+                            <button class="nav__close col-1" id="closeButton" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close menu" />
+                            </button>
+                        </li>
+                        <li class="nav__links nav__links--mobile col-12 col-lg-6">
+                            <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 1px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/apply/" tabindex="-1">apply </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/outreach/tours.shtml" tabindex="-1">visit </a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="-1">info </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/giving/" tabindex="-1">give </a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://my.cpp.edu" tabindex="-1">mycpp </a>
+                        </li>
+                    </div>
+                </ul>
+            </nav>
+        </header>
+        <nav class="container side-nav__container">
+            <ul class="row side-nav__links">
+                <li class="side-nav__link col-12">
+                    <a class="h3__proxima" href="/" tabindex="-1" aria-label="Cal Poly Pomona Home page">Home</a>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--0">
+                    <button class="h3__proxima" id="0" aria-expanded="false" tabindex="-1" aria-label="About">
+                        <span>about</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--1">
+                    <button class="h3__proxima" id="1" aria-expanded="false" tabindex="-1" aria-label="Admissions & Aid">
+                        <span>admissions &amp; aid</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--2">
+                    <button class="h3__proxima" id="2" aria-expanded="false" tabindex="-1" aria-label="Academics">
+                        <span>academics</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--3">
+                    <button class="h3__proxima" id="3" aria-expanded="false" tabindex="-1" aria-label="Life at CPP">
+                        <span>life at CPP</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small">
+            <ul class="row">
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="https://broncoathletics.com/" tabindex="-1">athletics</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/alumni/" tabindex="-1">alumni</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/news/" tabindex="-1">news &amp; events</a>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small-bottom">
+            <ul class="col-12 col-lg-6 side-nav__links--small-bottom">
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/prospective-student-gateway/" tabindex="-1">future students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/student-gateway/" tabindex="-1">current students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/family/" tabindex="-1">families</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/faculty-staff-gateway/" tabindex="-1">faculty &amp; staff</a>
+                </li>
+            </ul>
+            <ul class="col-12 col-lg-6 social-icons">
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.instagram.com/calpolypomona/" aria-label="Instagram" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.linkedin.com/school/cal-poly-pomona/" aria-label="LinkedIn " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.youtube.com/user/calpolypomona" aria-label="Youtube " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="Youtube" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.facebook.com/calpolypomona" aria-label="Facebook " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://twitter.com/calpolypomona" aria-label="X (Twitter)" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X" />
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </section>
+    <script src="/common/green-and-gold/assets/js/nav.js"></script>
+
+            
+    
+
+
+
+  
+
+
+  
+
+  
+                  
+            
+
+                   
+                           <code></code>
+           
+                            
+
+
+
+<div class="cqw-wrapper" id="main">
+ <div class="organism-spacer">
+    <section class="content-sub-page">
+        <div class="container">
+            <div class="row">
+                <div class="col-6 col-lg-8">
+                    <h1 class="h2__proxima content-sub-page__header">Welcome, Future Broncos!</h1>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+
+     
+        
+                     
+
+<div class="organism-spacer spacer__padding-top--medium  none">
+  <section class="image-cta-lockup image-cta-lockup--dark-green" id="content-section-1">
+       <div class="linework">
+              
+      <img alt="" class="linework--mobile" src="https://www.cpp.edu/common//green-and-gold/assets/images/linework-combo-offset-white-mobile.svg"/>
+      <img alt="" class="linework--desktop" src="https://www.cpp.edu/common//green-and-gold/assets/images/linework-combo-offset-white.svg"/>
+      
+    </div>
+        <div class="container">
+      <div class="row">
+        <div class="image-cta-lockup__content col-lg-6">
+          <header class="image-cta-lockup__header">
+                          <h2 class="kicker__transducer">BECOME BY DOING</h2>
+              <h3 class="h2__proxima"> For your future. For your family. For you.</h3>
+                        <p class="body2"></p>
+          </header>
+                                      <div class="image-cta-lockup__cta">
+                                                                  <a class="button button__secondary button1__transducer" href="                                                          https://www.cpp.edu/apply/index.shtml      ">Apply</a>                      
+                                </div>
+                        </div>
+        <div class="col-lg-6">
+          <div class="image-cta-lockup__img">
+            <img alt="Hot Dog Caper" src="../img/19hot-dog-caper-billy.jpg"/>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+                            
+                
+
+     
+        
+                                
+                     
+
+                            
+        <div class="organism-spacer spacer__padding-top--medium  none">
+    
+                                  
+                            <section class="cta-green-card ">
+                <div class="container">  
+                                                          <div class="row">
+                        <header class="green-card-grid__header">
+                            <div class="green-card-grid__copy">
+                                <h2 class="h4__transducer">Our Rankings</h2>
+                            </div>
+                                                      <div class="green-card-grid__cta">
+                                <a class="button button__primary--light-green button1__transducer" href="                                                          https://www.cpp.edu/aboutcpp/why-cpp/well-ranked.shtml      ">See All Rankings </a>
+                            </div>
+                                                  </header>
+                    </div>
+                   
+                                   
+                        <div class="cta-green-card__cards row">
+                                                                                
+                            <div class="col-12 col-sm-6 col-lg-4">
+                               
+                            
+                                                          <div class="card card__link card__icon card--dark-green bar--green--with-arrow col-lg-4${iconclass}">
+                                                            
+                                                                  
+                                    <div class="card__body">
+                                                                                    <h3 class="h4__proxima">#2 Top Public College &#8212; West</h3>
+                                                                                                                           <p class="body2">U.S. News &amp; World Report, 2025</p>
+                                                                               </div>
+                                                            </div>
+                                                        </div>
+                            
+                            
+                                                        
+                            <div class="col-12 col-sm-6 col-lg-4">
+                               
+                            
+                                                          <div class="card card__link card__icon card--dark-green bar--green--with-arrow col-lg-4${iconclass}">
+                                                            
+                                                                  
+                                    <div class="card__body">
+                                                                                    <h3 class="h4__proxima">Best Bang for the Buck &#8212; West</h3>
+                                                                                                                           <p class="body2">(#1 Among Polytechnic Universities) U.S. News &amp; World Report, 2025</p>
+                                                                               </div>
+                                                            </div>
+                                                        </div>
+                            
+                            
+                                                        
+                            <div class="col-12 col-sm-6 col-lg-4">
+                               
+                            
+                                                          <div class="card card__link card__icon card--dark-green bar--green--with-arrow col-lg-4${iconclass}">
+                                                            
+                                                                  
+                                    <div class="card__body">
+                                                                                    <h3 class="h4__proxima">#21 Best Colleges in America</h3>
+                                                                                                                           <p class="body2">The Wall Street Journal, 2025</p>
+                                                                               </div>
+                                                            </div>
+                                                        </div>
+                            
+                            
+                                               
+
+                    </div>    </div> 
+                </section>
+                                    
+                         
+                      </div>
+          
+                
+
+     
+        
+            
+                
+                    
+                        
+                                   
+                            <div class="organism-spacer cta-green-card__header spacer__padding-top--medium  none">
+                                <section class="standard-text body2 cta-green-card" id="content-section-2">
+                        <div class="container">
+                            <div class="row">
+                               
+                                     <header class="cta-green-card__header text-start col-12 col-sm-8">
+                                                                        <h2 class="h4__proxima">See how Broncos become by doing. </h2>
+                                                                </header>
+                            </div>
+                            <div class="row">
+                                <div class="body2 text-start col-12 col-sm-8"><div class="video-container"><iframe allow="autoplay *; fullscreen *; encrypted-media *" allowfullscreen="allowfullscreen" class="kmsembed" frameborder="0" height="700" id="kmsembed-1_ilyrhxpp" mozallowfullscreen="mozallowfullscreen" referrerpolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" src="https://streaming.cpp.edu/embed/secure/iframe/entryId/1_ilyrhxpp/uiConfId/52359092/st/0" title="CPP_Anthem_Longform_16x9" webkitallowfullscreen="webkitallowfullscreen" width="1100"></iframe></div></div>  
+                            </div>
+                       </div>
+                    </section>
+                </div>
+                                          
+                
+
+     
+        
+                     
+<div class="organism-spacer spacer__padding-top--medium  none" style="--mobileMarginBottomOverride: 60px;">
+
+  <section class="image-text" id="content-section-3">
+    <div class="container">
+      <div class="image-text__wrapper image-text__wrapper--left">
+        <div class="col-12 col-md-8 col-lg-5 image-text__grid image-text__grid--gold" style="background-image:url('/common/green-and-gold/assets/images/white-grid.png')">
+          <div class="image-text__img">
+            <img alt="Two students work on a drone at Spadra Farms." src="../img/spadra-drone-survey-rashid2.jpg"/>
+          </div>
+        </div>
+        <div class="image-text__content">
+          <div class="image-text__copy col-12 col-md-8 col-lg-6 image-text__copy--white image-text__copy--regular">
+                          <h2 class="kicker__transducer">Program Search</h2>
+                                                                    <h3 class="h3__proxima">What can you study at CPP?</h3>
+                                <p class="body2">Learn more about our academic programs.</p>
+                                              
+                          <div class="image-text__cta">
+                                                                  <a class="button button1__transducer button__primary--light-green" href="                                                          https://www.cpp.edu/programs/index.shtml      ">EXPLORE PROGRAMS</a>                      
+                                </div>
+                      </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+                            
+                
+
+     
+        
+                        
+            
+             <div class="organism-spacer spacer__padding-top--medium  none">
+          <section class="text-list">
+            
+        
+
+         <div class="container">
+                <div class="row">
+                    <div class="text-list__wrapper">
+                    
+                                            
+                        
+            
+                  
+              
+        <header class="text-list__header header-align--left">
+            <h2 class="h4__transducer col-lg-6">Where Do Your Dreams of Success Begin?</h2>
+        </header>
+
+        
+    
+                    
+                                            <div class="text-list__cta-grid row">
+                            
+                                                                                        
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Don B. Huntley College of Agriculture (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/agri/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Don B. Huntley College of Agriculture</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="College of Business Administration (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/cba/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">College of Business Administration</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="College of Education &amp; Integrative Studies (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/ceis/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">College of Education &amp; Integrative Studies</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="College of Engineering (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/engineering/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">College of Engineering</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="College of Environmental Design (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/env/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">College of Environmental Design</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="The Collins College of Hospitality Management (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/collins/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">The Collins College of Hospitality Management</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="College of Letters, Arts, and Social Sciences (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/class/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">College of Letters, Arts, and Social Sciences</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="College of Science (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/sci/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">College of Science</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="College of Professional and Global Education (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/cpge/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">College of Professional and Global Education</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="I'm Still Searching (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/studentsuccess/bronco-advising-center/undeclared-advising.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">I'm Still Searching</p>
+                    </a>
+    </div>
+    
+                                
+                                                          
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+    
+                    
+                
+
+     
+        
+                                
+                     
+
+                            
+        <div class="organism-spacer spacer__padding-top--medium  none">
+    
+                                  
+                            <section class="cta-green-card ">
+                <div class="container">  
+                                                          <div class="row">
+                        <header class="green-card-grid__header">
+                            <div class="green-card-grid__copy">
+                                <h2 class="h4__transducer">Admissions and Finances</h2>
+                            </div>
+                                                  </header>
+                    </div>
+                   
+                                   
+                        <div class="cta-green-card__cards row">
+                                                                                
+                            <div class="col-12 col-sm-6 col-lg-4">
+                               
+                            
+                                                                                          <a class="card card__link card__icon card--dark-green bar--green--with-arrow col-lg-4${iconclass}" href="                                                          https://engage.cpp.edu/portal/outreach_appointments      ">
+                                                                                          
+                                                                  
+                                    <div class="card__body">
+                                                                                    <h3 class="h4__proxima">Pre-Admissions Advising</h3>
+                                                                                                                           <p class="body2">Have questions before applying to CPP? Meet with an outreach counselor about the admissions process, requirements and more.</p>
+                                                                               </div>
+                                                            </a>
+                                                        </div>
+                            
+                            
+                                                        
+                            <div class="col-12 col-sm-6 col-lg-4">
+                               
+                            
+                                                                                          <a class="card card__link card__icon card--dark-green bar--green--with-arrow col-lg-4${iconclass}" href="                                                          https://www.cpp.edu/admissions/index.shtml      ">
+                                                                                          
+                                                                  
+                                    <div class="card__body">
+                                                                                    <h3 class="h4__proxima">Office of Admissions</h3>
+                                                                                                                           <p class="body2">Get details about the application process, including important dates and deadlines.
+</p>
+                                                                               </div>
+                                                            </a>
+                                                        </div>
+                            
+                            
+                                                        
+                            <div class="col-12 col-sm-6 col-lg-4">
+                               
+                            
+                                                                                          <a class="card card__link card__icon card--dark-green bar--green--with-arrow col-lg-4${iconclass}" href="                                                          https://www.cpp.edu/financial-aid/index.shtml      ">
+                                                                                          
+                                                                  
+                                    <div class="card__body">
+                                                                                    <h3 class="h4__proxima">Financial Aid and Scholarships</h3>
+                                                                                                                           <p class="body2">College finances can be complex, but we’ll help you navigate them. Discover your options here.
+</p>
+                                                                               </div>
+                                                            </a>
+                                                        </div>
+                            
+                            
+                                               
+
+                    </div>    </div> 
+                </section>
+                                    
+                         
+                      </div>
+          
+                
+
+     
+        
+                     
+<div class="organism-spacer spacer__padding-top--medium  none" style="--mobileMarginBottomOverride: 60px;">
+
+  <section class="image-text" id="content-section-4">
+    <div class="container">
+      <div class="image-text__wrapper image-text__wrapper--left">
+        <div class="col-12 col-md-8 col-lg-5 image-text__grid image-text__grid--teal" style="background-image:url('/common/green-and-gold/assets/images/white-grid.png')">
+          <div class="image-text__img">
+            <img alt="A group of parents and prospective students on a campus tour." src="../img/23open-house_31.jpg"/>
+          </div>
+        </div>
+        <div class="image-text__content">
+          <div class="image-text__copy col-12 col-md-8 col-lg-6 image-text__copy--white image-text__copy--regular">
+                                                                    <h2 class="h3__proxima">Visit Us</h2>
+                                <p class="body2">Visit our beautiful campus and see what it’s like to be a Bronco!
+</p>
+                                              
+                          <div class="image-text__cta">
+                                                                  <a class="button button1__transducer button__primary--light-green" href="                                                          https://www.cpp.edu/outreach/tours.shtml      ">SCHEDULE A TOUR</a>                      
+                                </div>
+                      </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+                            
+                
+
+     
+        
+                                
+                     
+
+                            
+        <div class="organism-spacer spacer__padding-top--medium  none">
+    
+                    <div class="container">
+                                     <div class="row">
+                <header class="green-card-grid__header">
+                    <div class="green-card-grid__copy">
+                       <h2 class="h4__transducer">Student Life</h2>
+                    </div>
+                    
+                                    </header>
+             </div>
+             
+                        
+              
+                             
+                <div class="green-card-grid__wrapper row">
+                                                                   
+                                                <div class="col-12 col-md-6 col-lg-4">
+                        
+                                                    <a class="card card__image card__link card--dark-green bar--green--with-arrow col-lg-4" href="                                                          https://www.cpp.edu/campus-life/index.shtml      ">
+                                 
+                                                        <div class="card__img">
+                                    <img alt="Students attend the yearly Bronco Fusion concert" src="../img/19-bronco-fusion-crowd2.jpg"/>
+                                </div>
+                                <div class="card__content">
+                                                                             <h3 class="h5__proxima">You Belong</h3>
+                                                                                                             <p class="body2">Get involved in student government, join one of our 300+ clubs or find your home in a cultural center. There's a place for you here.
+</p>
+                                                                     </div>
+                            </a>
+                        </div>
+                                                  
+                                                <div class="col-12 col-md-6 col-lg-4">
+                        
+                                                    <a class="card card__image card__link card--dark-green bar--green--with-arrow col-lg-4" href="                                                          https://www.cpp.edu/housing/index.shtml      ">
+                                 
+                                                        <div class="card__img">
+                                    <img alt="Two students in dorm room" src="sicamoro-dorm-room-spencer3-1.jpg"/>
+                                </div>
+                                <div class="card__content">
+                                                                             <h3 class="h5__proxima">Live Where You Learn</h3>
+                                                                                                             <p class="body2">Build lifelong connections with other Broncos and experience all that student life has to offer by living on campus. 
+</p>
+                                                                     </div>
+                            </a>
+                        </div>
+                                                  
+                                                <div class="col-12 col-md-6 col-lg-4">
+                        
+                                                    <a class="card card__image card__link card--dark-green bar--green--with-arrow col-lg-4" href="                                                          https://www.cpp.edu/aboutcpp/visitor-information/location.shtml      ">
+                                 
+                                                        <div class="card__img">
+                                    <img alt="horses and mountains" src="horses-and-mtns.jpg"/>
+                                </div>
+                                <div class="card__content">
+                                                                             <h3 class="h5__proxima">Study in Sunny Southern California</h3>
+                                                                                                             <p class="body2">Nestled in the beautiful San Gabriel Valley east of vibrant Los Angeles, you'll be just a short drive away from  the beach, mountains and entertainment hubs like Disneyland and  Hollywood.
+</p>
+                                                                     </div>
+                            </a>
+                        </div>
+                                         </div>
+                
+                          
+                          
+                            </div>
+                                      
+                                    
+                         
+                      </div>
+          
+                
+
+     
+        
+                     
+
+<div class="organism-spacer spacer__padding-top--medium  none">
+  <section class="image-cta-lockup image-cta-lockup--dark-green" id="content-section-5">
+       <div class="linework">
+              
+      <img alt="" class="linework--mobile" src="https://www.cpp.edu/common//green-and-gold/assets/images/linework-combo-offset-white-mobile.svg"/>
+      <img alt="" class="linework--desktop" src="https://www.cpp.edu/common//green-and-gold/assets/images/linework-combo-offset-white.svg"/>
+      
+    </div>
+        <div class="container">
+      <div class="row">
+        <div class="image-cta-lockup__content col-lg-6">
+          <header class="image-cta-lockup__header">
+                          <h2 class="h2__proxima">Athletics </h2>
+                        <p class="body2">Competing at the NCAA Division II level, the Broncos currently sponsor 11 intercollegiate sports including baseball, men's and women's basketball, men's and women's cross country, men's and women's soccer, men's and women's outdoor track and field, women's indoor track and field and women's volleyball as a member of the California Collegiate Athletic Association (CCAA).</p>
+          </header>
+                                      <div class="image-cta-lockup__cta">
+                                                                  <a class="button button__secondary button1__transducer" href="                                                          https://broncoathletics.com/      ">VISIT BRONCO ATHLETICS</a>                      
+                                </div>
+                        </div>
+        <div class="col-lg-6">
+          <div class="image-cta-lockup__img">
+            <img alt="The Women's Basketball Team" src="../img/24bball-vs-csula-nelson.jpg"/>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+                            
+                
+
+     
+        
+                                
+                     
+
+                            
+        <div class="organism-spacer spacer__padding-top--medium  none">
+    
+                                  
+                            <section class="cta-green-card ">
+                <div class="container">  
+                                      <div class="row">
+                        <header class="cta-green-card__header center">
+                            <h2 class="kicker__transducer">AT COLLEGE, AT WORK AND IN THE WORLD</h2>
+                            <h3 class="h2__proxima">What Will You Become?</h3>
+                            <p class="body2 col-12 col-sm-8 col-md-5">Whether you consider it a “calling” or simply your career, we’ll help you find it. Develop skills that transcend industries and let you adapt with changing times. And forge a career path that can open doors for generations to come.   
+</p>
+                        
+                                                    
+                        </header>
+                    </div>
+                               
+                        <div class="cta-green-card__cards row">
+                                                                                
+                            <div class="col-12 col-sm-6 col-lg-4">
+                               
+                            
+                                                                                          <a class="card card__link card__icon card--dark-green bar--green--with-arrow col-lg-4${iconclass}" href="                                                          https://careercenter.cpp.edu/      ">
+                                                                                          
+                                                                  
+                                    <div class="card__body">
+                                                                                    <h4 class="h4__proxima">Career Center</h4>
+                                                                                                                           <p class="body2">Learn how to write a showstopping resume and interview confidently. Meet employers and attend career fairs — it's all at the Career Center!</p>
+                                                                               </div>
+                                                            </a>
+                                                        </div>
+                            
+                            
+                                                        
+                            <div class="col-12 col-sm-6 col-lg-4">
+                               
+                            
+                                                                                          <a class="card card__link card__icon card--dark-green bar--green--with-arrow col-lg-4${iconclass}" href="                                                          https://www.cpp.edu/research/index.shtml      ">
+                                                                                          
+                                                                  
+                                    <div class="card__body">
+                                                                                    <h4 class="h4__proxima">Research</h4>
+                                                                                                                           <p class="body2">Research here isn't limited to the library. Test new ideas and make an impact in your field now, with experienced faculty mentoring you along the way.
+</p>
+                                                                               </div>
+                                                            </a>
+                                                        </div>
+                            
+                            
+                                                        
+                            <div class="col-12 col-sm-6 col-lg-4">
+                               
+                            
+                                                                                          <a class="card card__link card__icon card--dark-green bar--green--with-arrow col-lg-4${iconclass}" href="                                                          https://careercenter.cpp.edu/channels/internships/      ">
+                                                                                          
+                                                                  
+                                    <div class="card__body">
+                                                                                    <h4 class="h4__proxima">Internships</h4>
+                                                                                                                           <p class="body2">Explore what you can become through internships. Choose from micro-internships, paid opportunities and positions for academic credit. 
+</p>
+                                                                               </div>
+                                                            </a>
+                                                        </div>
+                            
+                            
+                                               
+
+                    </div>    </div> 
+                </section>
+                                    
+                         
+                      </div>
+          
+                
+
+     
+        
+                     
+<div class="organism-spacer spacer__padding-top--medium  none" style="--mobileMarginBottomOverride: 60px;">
+
+  <section class="image-text" id="content-section-6">
+    <div class="container">
+      <div class="image-text__wrapper image-text__wrapper--right">
+        <div class="col-12 col-md-8 col-lg-5 image-text__grid image-text__grid--gold" style="background-image:url('/common/green-and-gold/assets/images/white-grid.png')">
+          <div class="image-text__img">
+            <img alt="Zane Landin" src="../img/image-zane-landin.png"/>
+          </div>
+        </div>
+        <div class="image-text__content">
+          <div class="image-text__copy col-12 col-md-8 col-lg-6 image-text__copy--white image-text__copy--regular">
+                          <h2 class="kicker__transducer">’22, COMMUNICATION</h2>
+                                                                    <h3 class="h3__proxima">Zane Landin, Associate Product Marketing Manager, Google</h3>
+                                <p class="body2">“The belief in myself really evolved at Cal Poly Pomona. Before, I didn't have many professional mentors and
+having that felt so validating and empowering. That, with the support of a community, I could elevate myself.”</p>
+                                              
+                          <div class="image-text__cta">
+                                                                  <a class="button button1__transducer button__primary--light-green" href="                                                          https://streaming.cpp.edu/media/1_ql9kefud/      ">Watch Zane's Story</a>                      
+                                </div>
+                      </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+                            
+                
+
+     
+        
+                     
+<div class="organism-spacer spacer__padding-top--medium  spacer__padding-bottom--medium " style="--mobileMarginBottomOverride: 60px;">
+
+  <section class="image-text" id="content-section-7">
+    <div class="container">
+      <div class="image-text__wrapper image-text__wrapper--left">
+        <div class="col-12 col-md-8 col-lg-5 image-text__grid image-text__grid--teal" style="background-image:url('/common/green-and-gold/assets/images/white-grid.png')">
+          <div class="image-text__img">
+            <img alt="Isabel Gutierrez" src="../img/24gutierrez-isabel3.jpg"/>
+          </div>
+        </div>
+        <div class="image-text__content">
+          <div class="image-text__copy col-12 col-md-8 col-lg-6 image-text__copy--white image-text__copy--regular">
+                          <h2 class="kicker__transducer">’19, Mechanical Engineering</h2>
+                                                                    <h3 class="h3__proxima">Isabel Gutierrez, CEO and Founder, Vistendo, Inc.</h3>
+                                <p class="body2">“As a mechanical engineering student at Cal Poly Pomona, I had access to tools, experts and resources to develop my own technology.”</p>
+                                              
+                          <div class="image-text__cta">
+                                                                  <a class="button button1__transducer button__primary--light-green" href="                                                          https://www.cpp.edu/cppmag/the-confidence-to-persist/girl-boss.shtml      ">Read Isabel's Story</a>                      
+                                </div>
+                      </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+                            
+                
+
+     
+        
+                        
+            
+           <div class="organism-spacer spacer__background-color--eggshell spacer__padding-top--medium  spacer__padding-bottom--medium ">
+          <section class="text-list text-list--eggshell">
+            <div class="cta-card__svg-wrapper">
+              <img alt="" class="cta-card__svg" src="https://www.cpp.edu/common//green-and-gold/assets/images/vertical-line-circle.svg"/>
+            </div>
+  
+        
+
+         <div class="container">
+                <div class="row">
+                    <div class="text-list__wrapper">
+                    
+                                            
+                        
+            
+                  
+              
+        <header class="text-list__header header-align--left">
+            <h2 class="h4__transducer col-lg-6">Academic-Related Support</h2>
+        </header>
+
+        
+    
+                    
+                                            <div class="text-list__cta-grid row">
+                            
+                                                                                        
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Amazon Career Choice (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/enrollment/amazon/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Amazon Career Choice</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Bronco Scholars (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/studentsuccess/bronco-scholars/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Bronco Scholars</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="California Promise Graduation Pledge Program (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/studentsuccess/oss/graduation-pledge/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">California Promise Graduation Pledge Program</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Kellogg Honors College (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/honorscollege/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Kellogg Honors College</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Maximizing Engineering Potential (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/engineering/mep/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Maximizing Engineering Potential</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="McNair Scholars Program (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/mcnair/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">McNair Scholars Program</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Renaissance Scholars (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/ssep/renscholars.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Renaissance Scholars</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Residential Intensive Summer Education (RISE) (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/rise/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Residential Intensive Summer Education (RISE)</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Science Educational Enhancement Services (SEES) (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/sci/sees/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Science Educational Enhancement Services (SEES)</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Upward Bound (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/pre-college/ub-classic/classic.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Upward Bound</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Poly Transfer (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/polytransfer/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Poly Transfer</p>
+                    </a>
+    </div>
+    
+                                
+                                                          
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+    
+                    
+                
+
+     
+        
+                                
+                     
+
+                            
+        <div class="organism-spacer spacer__padding-top--medium  none">
+    
+                                  
+                            <section class="cta-green-card ">
+                <div class="container">  
+                                                          <div class="row">
+                        <header class="green-card-grid__header">
+                            <div class="green-card-grid__copy">
+                                <h2 class="h4__transducer">Identity &amp; Need Focused Support</h2>
+                            </div>
+                                                  </header>
+                    </div>
+                   
+                                   
+                        <div class="cta-green-card__cards row">
+                                                                                
+                            <div class="col-12 col-sm-6 col-lg-4">
+                               
+                            
+                                                                                          <a class="card card__link card__icon card--dark-green bar--green--with-arrow col-lg-4${iconclass}" href="                                                          https://www.cpp.edu/studentsuccess/oss/i-am-first/index.shtml      ">
+                                                                                          
+                                                                  
+                                    <div class="card__body">
+                                                                                    <h3 class="h4__proxima">I Am First</h3>
+                                                                                                                           <p class="body2">If you are the first in your family to pursue a college degree, here you'll find a welcoming environment that understands the challenges of being first and will help you navigate university life.</p>
+                                                                               </div>
+                                                            </a>
+                                                        </div>
+                            
+                            
+                                                        
+                            <div class="col-12 col-sm-6 col-lg-4">
+                               
+                            
+                                                                                          <a class="card card__link card__icon card--dark-green bar--green--with-arrow col-lg-4${iconclass}" href="                                                          https://www.cpp.edu/msi/index.shtml      ">
+                                                                                          
+                                                                  
+                                    <div class="card__body">
+                                                                                    <h3 class="h4__proxima">Male Success Initiatives (MSI)</h3>
+                                                                                                                           <p class="body2">Open to all students, regardless of race, color, national origin, or sex, we foster the academic, personal and professional success of all Broncos and seek to enhance the retention and graduation rates of men of color at CPP.</p>
+                                                                               </div>
+                                                            </a>
+                                                        </div>
+                            
+                            
+                                                        
+                            <div class="col-12 col-sm-6 col-lg-4">
+                               
+                            
+                                                                                          <a class="card card__link card__icon card--dark-green bar--green--with-arrow col-lg-4${iconclass}" href="                                                          https://www.cpp.edu/class/ethnic-womens-studies/native-pipeline-program/index.shtml      ">
+                                                                                          
+                                                                  
+                                    <div class="card__body">
+                                                                                    <h3 class="h4__proxima">NATIVE Pipeline</h3>
+                                                                                                                           <p class="body2">Open to all students, regardless of race, color, national origin, or sex, the Natives Aiming to Inspire Values in Education (NATIVE) Pipeline program seeks to inspire Native American students to attend college and explore their academic potential. </p>
+                                                                               </div>
+                                                            </a>
+                                                        </div>
+                            
+                            
+                                                        
+                            <div class="col-12 col-sm-6 col-lg-4">
+                               
+                            
+                                                                                          <a class="card card__link card__icon card--dark-green bar--green--with-arrow col-lg-4${iconclass}" href="                                                          https://www.cpp.edu/studentsuccess/project-caminos/index.shtml      ">
+                                                                                          
+                                                                  
+                                    <div class="card__body">
+                                                                                    <h3 class="h4__proxima">Project CAMINOS</h3>
+                                                                                                                           <p class="body2">CAMINOS stands for Cultivating Access and Mentoring through Institutional Networks and Opportunities for Success. We are dedicated to cultivating a college-going culture among students interested in applying to CPP. </p>
+                                                                               </div>
+                                                            </a>
+                                                        </div>
+                            
+                            
+                                                        
+                            <div class="col-12 col-sm-6 col-lg-4">
+                               
+                            
+                                                                                          <a class="card card__link card__icon card--dark-green bar--green--with-arrow col-lg-4${iconclass}" href="                                                          https://careercenter.cpp.edu/channels/project-rebound/      ">
+                                                                                          
+                                                                  
+                                    <div class="card__body">
+                                                                                    <h3 class="h4__proxima">Project Rebound</h3>
+                                                                                                                           <p class="body2">Open to all, Project Rebound focuses on serving currently or formerly incarcerated students. We are here to support your academic success, professional development and reintegration to society.</p>
+                                                                               </div>
+                                                            </a>
+                                                        </div>
+                            
+                            
+                                                        
+                            <div class="col-12 col-sm-6 col-lg-4">
+                               
+                            
+                                                                                          <a class="card card__link card__icon card--dark-green bar--green--with-arrow col-lg-4${iconclass}" href="                                                          https://www.cpp.edu/drc/arches/index.shtml      ">
+                                                                                          
+                                                                  
+                                    <div class="card__body">
+                                                                                    <h3 class="h4__proxima">ARCHES</h3>
+                                                                                                                           <p class="body2">Open to all students, ARCHES (Achievement, Retention and Commitment to Higher Education Success) provides academic support services focused on students with disabilities.</p>
+                                                                               </div>
+                                                            </a>
+                                                        </div>
+                            
+                            
+                                                        
+                            <div class="col-12 col-sm-6 col-lg-4">
+                               
+                            
+                                                                                          <a class="card card__link card__icon card--dark-green bar--green--with-arrow col-lg-4${iconclass}" href="                                                          https://www.cpp.edu/ssep/eop-home.shtml      ">
+                                                                                          
+                                                                  
+                                    <div class="card__body">
+                                                                                    <h3 class="h4__proxima">EOP</h3>
+                                                                                                                           <p class="body2">Open to all students, the Educational Opportunity Program (EOP) serves low-income, typically first-generation students, who demonstrate the motivation and potential to success in college. </p>
+                                                                               </div>
+                                                            </a>
+                                                        </div>
+                            
+                            
+                                                        
+                            <div class="col-12 col-sm-6 col-lg-4">
+                               
+                            
+                                                                                          <a class="card card__link card__icon card--dark-green bar--green--with-arrow col-lg-4${iconclass}" href="                                                          https://www.cpp.edu/ramp/index.shtml      ">
+                                                                                          
+                                                                  
+                                    <div class="card__body">
+                                                                                    <h3 class="h4__proxima">RAMP</h3>
+                                                                                                                           <p class="body2">Open to all students, the Reading, Advising &amp; Mentoring Program (RAMP) supports low-income, first-generation colleges students and students with disabilities.</p>
+                                                                               </div>
+                                                            </a>
+                                                        </div>
+                            
+                            
+                                               
+
+                    </div>    </div> 
+                </section>
+                                    
+                         
+                      </div>
+          
+                
+
+     
+        
+                        
+            
+             <div class="organism-spacer spacer__padding-top--medium  none">
+          <section class="text-list">
+            
+        
+
+         <div class="container">
+                <div class="row">
+                    <div class="text-list__wrapper">
+                    
+                                            
+                        
+            
+                  
+              
+        <header class="text-list__header header-align--left">
+            <h2 class="h4__transducer col-lg-6">Other Support</h2>
+        </header>
+
+        
+    
+                    
+                                            <div class="text-list__cta-grid row">
+                            
+                                                                                        
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Cultural and Identity Centers (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/tree/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Cultural and Identity Centers</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Disability Resource Center  (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/drc/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Disability Resource Center </p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Children's Center (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://asi.cpp.edu/services/child-care/children-center/" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Children's Center</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Undocumented Student Services (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/broncodreamers/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Undocumented Student Services</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Veteran's Resource Center (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/veterans/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Veteran's Resource Center</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="International Center (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/international/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">International Center</p>
+                    </a>
+    </div>
+    
+                                
+                                                          
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+    
+                    
+                
+
+     
+        
+                     
+
+<div class="organism-spacer spacer__padding-top--medium  none">
+  <section class="image-cta-lockup image-cta-lockup--dark-green" id="content-section-8">
+       <div class="linework">
+              
+      <img alt="" class="linework--mobile" src="https://www.cpp.edu/common//green-and-gold/assets/images/linework-combo-offset-white-mobile.svg"/>
+      <img alt="" class="linework--desktop" src="https://www.cpp.edu/common//green-and-gold/assets/images/linework-combo-offset-white.svg"/>
+      
+    </div>
+        <div class="container">
+      <div class="row">
+        <div class="image-cta-lockup__content col-lg-6">
+          <header class="image-cta-lockup__header">
+                          <h2 class="h2__proxima">Broncos Need Family, Too</h2>
+                        <p class="body2">In your student, we see the unlimited potential you know they possess. We want to work together with you to help them become succeed at college and achieve their dreams. 
+</p>
+          </header>
+                                      <div class="image-cta-lockup__cta">
+                                                                  <a class="button button__secondary button1__transducer" href="                                                          https://www.cpp.edu/family/index.shtml      ">PARENT AND FAMILY INFORMATION</a>                      
+                                </div>
+                        </div>
+        <div class="col-lg-6">
+          <div class="image-cta-lockup__img">
+            <img alt="A female parent celebrates holding a sign that says Go Broncos." src="../img/24orientation-parents2.jpg"/>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+                            
+                
+
+     
+        
+                     
+<div class="organism-spacer spacer__padding-top--medium  none" style="--mobileMarginBottomOverride: 60px;">
+
+  <section class="image-text" id="content-section-9">
+    <div class="container">
+      <div class="image-text__wrapper image-text__wrapper--left">
+        <div class="col-12 col-md-8 col-lg-5 image-text__grid image-text__grid--gold" style="background-image:url('/common/green-and-gold/assets/images/white-grid.png')">
+          <div class="image-text__img">
+            <img alt="The Bronco Shuttle" src="../img/bronco-shuttle3.jpg"/>
+          </div>
+        </div>
+        <div class="image-text__content">
+          <div class="image-text__copy col-12 col-md-8 col-lg-6 image-text__copy--white image-text__copy--regular">
+                                                                    <h2 class="h3__proxima">Parking and Transportation</h2>
+                                <p class="body2">You can get to campus on public transportation, using rideshare or driving your car. On campus you'll see students getting around by walking, cycling, using the Bronco Express Shuttle and more. If you've scheduled a tour of campus, you will receive information on where to park.</p>
+                                              
+                          <div class="image-text__cta">
+                                                                  <a class="button button1__transducer button__primary--light-green" href="                                                          https://www.cpp.edu/parking/index.shtml      ">LEARN MORE</a>                      
+                                </div>
+                      </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+                            
+                
+    
+        
+    <style>
+        a.card__image-cta:focus {
+            outline: 3px solid #005030;
+            border: solid 2px #fff;
+            border-radius: 5px;
+        }
+    </style>
+    
+    <div class="organism-spacer spacer__background-color--eggshell spacer__margin-top--medium spacer__padding-bottom--medium">
+        <section class="three-up__cta-card">
+            <div class="container">
+                <div class="header__wrapper">
+                    <img alt="" class="cta-card__svg" src="https://www.cpp.edu/common//green-and-gold/assets/images/vertical-line-circle.svg"/>
+                    <header class="header">
+                        <h2 class="h1__proxima">Take The Next Step</h2>
+                    </header>
+                </div>
+                <div class="row">
+                    
+                                      
+                                    
+                    
+                    <div class="col-12 col-sm-10 col-md-8 col-lg-4">
+                        <a class="card card__image-cta bar--magenta--with-arrow col-lg-4" href="https://www.cpp.edu/apply/index.shtml" target="_blank" title="opens a new window">
+                            <div class="card__button">
+                                <div class="button button__primary--yellow button1__transducer">APPLY</div>
+                            </div>
+                            <div class="card__img"> <img alt="" src="../img/cppbitmap_broncostatue_both_300dpi.jpg"/></div>
+                        </a>
+                    </div>
+                    
+                  
+                                    
+                    
+                    <div class="col-12 col-sm-10 col-md-8 col-lg-4">
+                        <a class="card card__image-cta bar--magenta--with-arrow col-lg-4" href="https://www.cpp.edu/financial-aid/index.shtml" target="_blank" title="opens a new window">
+                            <div class="card__button">
+                                <div class="button button__primary--yellow button1__transducer">FINANCIAL AID</div>
+                            </div>
+                            <div class="card__img"> <img alt="" src="../img/cpp_bitmap_business_both_300dpi_v21.jpg"/></div>
+                        </a>
+                    </div>
+                    
+                  
+                                    
+                    
+                    <div class="col-12 col-sm-10 col-md-8 col-lg-4">
+                        <a class="card card__image-cta bar--magenta--with-arrow col-lg-4" href="https://www.cpp.edu/outreach/tours.shtml" target="_blank" title="opens a new window">
+                            <div class="card__button">
+                                <div class="button button__primary--yellow button1__transducer">VISIT</div>
+                            </div>
+                            <div class="card__img"> <img alt="" src="../img/cpp_bitmap_nature_both_300dpi.jpg"/></div>
+                        </a>
+                    </div>
+                    
+                                      
+                                    </div>
+            </div>
+        </section>
+    </div>
+        <style>
+    .footer__rip-wrapper {
+        background: #f2eee8;
+    }
+    </style>
+</div>
+
+
+
+         
+<style>
+     @media screen and (min-width: 992px) {
+    .mini-footer .footer__socials-buttons {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}
+
+.mini-footer .button1__transducer {
+    font-size: 12px;
+    letter-spacing: .5px;
+}
+
+.mini-footer .button {
+	margin-top: 0;
+    padding: 8px 20px 8px 20px;
+
+}
+.mini-footer .footer-line {
+    border-top: thin solid #a4d65e;
+    margin-top: 39px;
+    padding-top: 15px;
+}
+ </style>
+<footer class="footer mini-footer">
+    <div class="footer__rip-wrapper">
+        <img class="footer__rip" alt="" src="/common/green-and-gold/assets/images/green-rip.svg" alt="Ripped green paper." />
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-2">
+                <div class="footer__logo-wrapper">
+                    <a href="/" aria-label="CPP Logo">
+                        <img class="footer__logo" src="/common/green-and-gold/assets/logos/cpp_primary_1c_gold_rgb.png" alt="Cal Poly Pomona logo, building with a palm tree." />
+                    </a>
+                </div>
+            </div>
+            <div class="col-12 col-lg-6 offset-lg-4">
+                <div class="footer__socials">
+                    <div class="footer__socials-buttons">
+                        <a class="button button__secondary button1__transducer" href="/apply/">Apply</a>
+                        <a class="button button__secondary button1__transducer" href="https://maps.cpp.edu/">Maps</a>
+                        <a class="button button__secondary button1__transducer" href="/outreach/tours.shtml">Visit</a>
+                        <a class="button button__secondary button1__transducer" href="/contact.shtml">Contact Us</a>
+                    </div>
+                    <div class="footer__socials-icons">
+                        <a href="https://www.instagram.com/calpolypomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram opens a new window" />
+                        </a>
+                        <a href="https://www.linkedin.com/school/cal-poly-pomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn opens a new window" />
+                        </a>
+                        <a href="https://www.youtube.com/user/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="YouTube opens a new window" />
+                        </a>
+                        <a href="https://www.facebook.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook opens a new window" />
+                        </a>
+                        <a href="https://twitter.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X opens a new window" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 footer-line">
+                <div class="footer__errata">
+                    <p class="footer__copyright" style="line-height: 1.8em">Copyright ©2025 California State Polytechnic University, Pomona.  All Rights Reserved 
+                        
+                        <br />A campus of 
+                        
+                        <a class="footer__errata-link" style="display: inline" href="https://www.calstate.edu/">The California State University</a>.
+                    
+                    </p>
+                    <div class="footer__errata-links">
+                        <a class="footer__errata-link" href="https://www.cpp.edu/website-feedback.shtml">Feedback</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/privacy.shtml">Privacy</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/accessibility.shtml">Accessibility</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/file-viewers.shtml">Document Readers</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer__gradient-bottom"></div>
+</footer>
+
+    </body>
+</html>

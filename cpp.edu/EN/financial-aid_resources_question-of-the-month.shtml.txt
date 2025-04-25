@@ -1,0 +1,1991 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+    <head>
+        <meta charset="UTF-8"/>
+        <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+        <meta content="ie=edge" http-equiv="X-UA-Compatible"/>
+        <title>
+            
+        </title>
+        
+        
+        
+            <script src="https://cdn.levelaccess.net/accessjs/YW1wX2NwcDExMDM/access.js"></script>
+<script>// <![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSKJRNV');
+// ]]></script>
+<link rel="icon" href="/common/green-and-gold/assets/icons/gg-favicon.svg"  type="image/svg+xml" />
+<link rel="icon" href="/common/green-and-gold/assets/icons/gg-favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/index.css" />
+<link rel="stylesheet" href="https://use.typekit.net/fia5dle.css" />
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/cpp-fonts.css" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+<script src="/common/green-and-gold/assets/js/accordion.js"></script>
+<script crossorigin="anonymous" defer="defer" integrity="sha384-FW78RPcSpi13vjx77nPWQIrQbNSLkPBopb0qGzLCxD2x4Kr6FA8V05C/6cpgkKPL" src="https://pro.fontawesome.com/releases/v5.10.1/js/all.js"></script>
+<script src="/common/green-and-gold/assets/js/modal.js"></script>
+<script src="/common/green-and-gold/assets/js/fontawesome/v6.0x/sharp-light.js" crossorigin="anonymous" type="text/javascript"></script>
+<script src="/common/green-and-gold/assets/js/fontawesome/v6.0x/sharp-others.js" crossorigin="anonymous" type="text/javascript"></script>
+<!-- Swiper Library -->
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/swiper-bundle.min.css" />
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/swiper-carousel.css" />
+<script src="/common/green-and-gold/assets/js/swiper-bundle.min.js"></script>
+<script src="/common/green-and-gold/assets/js/carousel-cards-swiper.js"></script>
+
+    </head>
+    <body>
+        <a class="skip-to-content-link" href="#main">Skip to content</a>
+             <header class="nav fixed">
+    <nav class="container">
+        <ul class="row nav__main" id="mainNavMenu">
+            <li id="main-logo" class="col-6 col-lg-3 nav__logo">
+                <a href="/" aria-label="Cal Poly Pomona Home" tabindex="0">
+                    <div class="nav__logo--horizontal">
+                        <img src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png" alt="Cal Poly Pomona Logo" />
+                    </div>
+                </a>
+            </li>
+            <!-- department header hidden by default-->
+            <li id="dept-header-desktop" class="col-sm-5 col-md-6 nav__logo desktop d-none">
+                <a href="/" aria-label="Cal Poly Pomona Home" tabindex="0">
+                    <div class="nav__logo--stacked">
+                        <img src="/common/green-and-gold/assets/logos/cpp_primary_2c_green_cmyk.png" alt="Cal Poly Pomona Logo">
+                        </div>
+                    </a>
+                    <div class="divider"></div>
+                    <div id="split-header" class="nav__division col-lg-6">
+                        <div id="large-name"></div>
+                        <div style="display:none" id="sub-name"></div>
+                    </div>
+                </div>
+            </li>
+            <li class="nav__links col-2" id="head-links">
+                <a class="nav__link nav__link--desktop col-1" href="/commencement/" tabindex="0">
+                    <svg
+                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 1px;
+    width: auto;
+">
+                        <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                        <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#005030"></path>
+                    </svg>
+                    <span class="sr-only">commencement</span>
+                </a>
+                <a class="nav__link nav__link--desktop col-1" href="/apply/" tabindex="0">apply</a>
+                <a class="nav__link nav__link--desktop col-1" href="/outreach/tours.shtml" tabindex="0">visit</a>
+                <a class="nav__link nav__link--desktop col-1" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="0">info</a>
+                <a class="nav__link nav__link--desktop col-1" href="/giving/" tabindex="0">give</a>
+                <a class="nav__link nav__link--desktop col-1" href="https://my.cpp.edu" tabindex="0">mycpp</a>
+                <button id="search-open" class="nav__search col-1" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/search-dark-green.svg" alt="Open search box" />
+                </button>
+                <button class="nav__menu col-1" id="menuButton" aria-expanded="false" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/menu.svg" alt="menu" />
+                </button>
+            </li>
+        </ul>
+    </nav>
+</header>
+<header id="search-header" style="display:none">
+    <div class="row">
+        <div class="col-md-6"></div>
+        <div id="searchbox" class="col-md-6">
+            <div id="search-slide">
+                <label for="#gsc-i-id1" class="sr-only">Search</label>
+                <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+                <div class="gcse-searchbox-only" data-resultsurl="https://www.cpp.edu/search.shtml"></div>
+                <button class="nav__menu col-1" id="search-close" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close search menu">
+                    </button>
+                </div>
+            </div>
+            <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+            <script>
+       $("#search-open").click(function() {
+         $("#search-header").show();
+         $("#search-slide").addClass("slideup");
+         $("#gsc-i-id1").focus();
+         $('#search-close').focusout(function() {
+           $("#search-header").hide();
+           $("#search-slide").removeClass("slideup");
+           $("#search-open").focus();
+         })
+       });
+       $("#search-close").click(function() {
+         $("#search-header").hide();
+         $("#search-slide").removeClass("slideup");
+         $("#search-open").focus();
+       });
+     </script>
+            <style>
+       .gstl_50 gssb_c {
+         position: fixed !important;
+       }
+
+       #searchbox {
+         height: 93px;
+         overflow: hidden;
+       }
+
+       #search-header {
+         position: fixed;
+         height: 100px;
+         width: 100%;
+         height: 93px;
+         z-index: 99999;
+         top: 0;
+       }
+
+       #gsc-i-id1 {
+         height: 40px;
+         width: 70%;
+         border-radius: 4px;
+         border: none;
+         padding: 15px;
+       }
+
+       #search-submit {
+         margin: 15px;
+       }
+
+       #search-close {
+         width: 23px;
+         height: 21px;
+         position: absolute;
+         top: 32px;
+       }
+
+       #search-slide {
+         width: 0px;
+         right: -100%;
+         padding: 20px 15px;
+         position: relative;
+         background: #005030;
+         height: 100%;
+         transition: all .5s ease 0s
+       }
+
+       #search-slide.slideup {
+         right: 0;
+         width: 100%;
+         position: relative;
+       }
+
+       @media screen and (max-width:991px) {
+         #search-slide {
+           height: 77px !important;
+           padding: 12px 10px;
+         }
+       }
+
+       @media screen and (max-width:767px) {
+         #search-header {
+           position: relative !important;
+         }
+
+         #search-slide {
+           text-align: center !important;
+         }
+       }
+
+       .gsc-search-button-v2 svg {
+         width: auto;
+         height: 21px;
+       }
+
+       .gsc-search-button-v2,
+       .gsc-search-button-v2:hover,
+       .gsc-search-button-v2:focus {
+         border: none !important;
+         background: none !important;
+       }
+
+       form.gsc-search-box {
+         font-size: 13px;
+         margin-top: 0;
+         margin-right: 0;
+         margin-bottom: 4px;
+         margin-left: 0;
+         width: 100%;
+         display: inline-block;
+       }
+
+       #___gcse_0 {
+         width: 70%;
+         display: inline-block;
+       }
+
+       table.gsc-search-box td.gsc-input {
+         padding-right: 0;
+       }
+
+       #gsc-i-id1 {
+         width: 100%;
+         padding: 0px;
+         border: none;
+         margin: -0.0625em 0px 0px;
+         height: 40px !important;
+         background: rgb(255, 255, 255);
+         outline: none;
+         font-size: 20px;
+         font-weight: 200;
+       }
+
+       .gstl_50.gssb_c {
+         z-index: 99999;
+       }
+
+       .gsq_a {
+         font-weight: 200;
+         font-size: 18px;
+         padding: 2px;
+       }
+
+       .gssb_a img {
+         display: none;
+       }
+     </style>
+        </div>
+    </header>
+    <section class="side-nav" id="sideNavOverlay">
+        <header class="side-nav__overlay relative">
+            <nav class="container">
+                <ul class="row nav__overlay" id="sideNavMenu">
+                    <li class="nav__logo col-12 col-md-10 col-lg-3" id="navLogoOverlay">
+                        <a href="/" aria-label="Cal Poly Pomona Home" tabindex="-1">
+                            <img src="/common/green-and-gold/assets/logos/cpp_horizontal_1c_gold_rgb.png" alt="Cal Poly Pomona Logo" />
+                        </a>
+                    </li>
+                    <div class="nav__overlay--right col-12 col-lg-9">
+                        <li class="nav__links nav__links--desktop col-12 col-lg-6">
+                            <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 1px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/apply/" tabindex="-1">apply</a>
+                            <a class="nav__link nav__link--mobile col-1" href="/outreach/tours.shtml" tabindex="-1">visit</a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="-1">info</a>
+                            <a class="nav__link nav__link--mobile col-1" href="/giving/" tabindex="-1">give</a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://my.cpp.edu" tabindex="-1">mycpp</a>
+                        </li>
+                        <li class="nav__icons col-1">
+                            <button id="search-open-green" class="nav__search col-1" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/search-white.svg" alt="Open search box" />
+                            </button>
+                            <button class="nav__close col-1" id="closeButton" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close menu" />
+                            </button>
+                        </li>
+                        <li class="nav__links nav__links--mobile col-12 col-lg-6">
+                            <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 1px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/apply/" tabindex="-1">apply </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/outreach/tours.shtml" tabindex="-1">visit </a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="-1">info </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/giving/" tabindex="-1">give </a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://my.cpp.edu" tabindex="-1">mycpp </a>
+                        </li>
+                    </div>
+                </ul>
+            </nav>
+        </header>
+        <nav class="container side-nav__container">
+            <ul class="row side-nav__links">
+                <li class="side-nav__link col-12">
+                    <a class="h3__proxima" href="/" tabindex="-1" aria-label="Cal Poly Pomona Home page">Home</a>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--0">
+                    <button class="h3__proxima" id="0" aria-expanded="false" tabindex="-1" aria-label="About">
+                        <span>about</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--1">
+                    <button class="h3__proxima" id="1" aria-expanded="false" tabindex="-1" aria-label="Admissions & Aid">
+                        <span>admissions &amp; aid</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--2">
+                    <button class="h3__proxima" id="2" aria-expanded="false" tabindex="-1" aria-label="Academics">
+                        <span>academics</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--3">
+                    <button class="h3__proxima" id="3" aria-expanded="false" tabindex="-1" aria-label="Life at CPP">
+                        <span>life at CPP</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small">
+            <ul class="row">
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="https://broncoathletics.com/" tabindex="-1">athletics</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/alumni/" tabindex="-1">alumni</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/news/" tabindex="-1">news &amp; events</a>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small-bottom">
+            <ul class="col-12 col-lg-6 side-nav__links--small-bottom">
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/prospective-student-gateway/" tabindex="-1">future students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/student-gateway/" tabindex="-1">current students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/family/" tabindex="-1">families</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/faculty-staff-gateway/" tabindex="-1">faculty &amp; staff</a>
+                </li>
+            </ul>
+            <ul class="col-12 col-lg-6 social-icons">
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.instagram.com/calpolypomona/" aria-label="Instagram" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.linkedin.com/school/cal-poly-pomona/" aria-label="LinkedIn " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.youtube.com/user/calpolypomona" aria-label="Youtube " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="Youtube" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.facebook.com/calpolypomona" aria-label="Facebook " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://twitter.com/calpolypomona" aria-label="X (Twitter)" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X" />
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </section>
+    <script src="/common/green-and-gold/assets/js/nav.js"></script>
+
+            <script>
+    
+                  
+                var mobileHtml = '<li class="col-6 nav__logo mobile"><a aria-label="Cal Poly Pomona Home" href="https://www.cpp.edu/" tabindex="0"><div class="nav__logo--horizontal"><img alt="Cal Poly Pomona Logo" src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png"/></div></a></li>';
+                $( "#main-logo" ).hide();
+                $( "#split-header #large-name" ).html('<a href="https://www.cpp.edu/academic-affairs/index.shtml">Academic Affairs</a>');
+                $( "#dept-header-desktop" ).removeClass("d-none");
+                $( "#dept-header-desktop" ).addClass("d-flex");
+                $( "#dept-header-desktop" ).parent().prepend(mobileHtml);
+                $( "#sub-name" ).html('<a href="/financial-aid/index.shtml">Financial Aid and Scholarships</a>');
+                $( "#sub-name" ).show();
+           
+        
+                
+     </script>
+
+    
+
+
+  
+
+
+  
+
+  
+              
+  
+            
+
+        
+           
+                           <code></code>
+           
+                            
+
+
+
+<header class="sub-nav">
+<nav class="container" id="subNavContainer">
+    <ul class="row sub-nav__links">
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Home <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/enrollment/" tabindex="0">Enrollment Management and Services</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/index.shtml" tabindex="0">Office of Financial Aid and Scholarships</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/admissions/index.shtml" tabindex="0">Office of Admissions</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/registrar/" tabindex="0">Registrar's Office</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/contact.shtml" tabindex="0">Contact Us</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Undergraduate <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/undergraduate/parent-and-family.shtml" tabindex="0">Parent &amp; Family Financial Aid Information</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/undergraduate/prospective/index.shtml" tabindex="0">Prospective Students</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/undergraduate/newly-admitted/index.shtml" tabindex="0">Newly Admitted Students</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/undergraduate/current/index.shtml" tabindex="0">Current Students</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Credentials <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/credentials/course-eligibility.shtml" tabindex="0">Financial Aid Course Eligibility</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/credentials/prospective/index.shtml" tabindex="0">Prospective Students</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/credentials/current/index.shtml" tabindex="0">Current Credential Students</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/credentials/newly-admitted/index.shtml" tabindex="0">Newly Admitted Students</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Graduate <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/graduate/course-eligibility.shtml" tabindex="0">Financial Aid Course Eligibility</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/graduate/prospective/index.shtml" tabindex="0">Prospective Students</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/graduate/newly-admitted-and-current/index.shtml" tabindex="0">Admitted &amp; Current Students</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Other Programs <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/other-programs/summer/index.shtml" tabindex="0">Summer Session</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/other-programs/veterans.shtml" tabindex="0">Veterans</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/other-programs/college-of-professional-and-global-education.shtml" tabindex="0">College of Professional and Global Education</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/other-programs/certificate-programs.shtml" tabindex="0">Certificate Programs</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/other-programs/cross-enrollment.shtml" tabindex="0">Cross Enrollment</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/other-programs/study-abroad.shtml" tabindex="0">Study Abroad</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Scholarships <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/scholarships/department-staff-and-faculty-information.shtml" tabindex="0">Information for Department Staff and Faculty</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/scholarships/cal-poly-pomona-scholarships.shtml" tabindex="0">Cal Poly Pomona Scholarships</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/scholarships/csu-systemwide-scholarships.shtml" tabindex="0">CSU Systemwide Scholarships</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/scholarships/outside-scholarships.shtml" tabindex="0">Outside Scholarships</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/scholarships/scholarship-faqs.shtml" tabindex="0">Scholarship FAQs</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Federal Work Study <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/federal-work-study/index.shtml" tabindex="0">Federal Work Study</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/federal-work-study/student-information.shtml" tabindex="0">Information for Students</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/federal-work-study/on-campus-employers-information.shtml" tabindex="0">Information for On Campus Employers</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/federal-work-study/faqs.shtml" tabindex="0">Frequently Asked Questions</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Resources <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/fafsa-simplification/index.shtml" tabindex="0">FAFSA Simplification</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/using-broncodirect-financial-aid-information.shtml" tabindex="0">Using BroncoDirect- Financial Aid Information</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/appeals.shtml" tabindex="0">Appeals</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/announcements.shtml" tabindex="0">Announcements</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/campus-resources.shtml" tabindex="0">Campus Resources</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/fafsa-dream-workshops.shtml" tabindex="0">FAFSA/CA Dream Act Workshops</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/financial-aid-policies.shtml" tabindex="0">Financial Aid Policies</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/financial-aid-outreach.shtml" tabindex="0">Financial Aid Presentations and Outreach Requests</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/financial-wellness.shtml" tabindex="0">Financial Wellness</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/faqs.shtml" tabindex="0">Frequently Asked Questions</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/heerf/index.shtml" tabindex="0">HEERF Student Aid</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/loan-information.shtml" tabindex="0">Loan Information</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/question-of-the-month.shtml" tabindex="0">Question of the Month</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/understanding-aid-program-limits.shtml" tabindex="0">Understanding Aid Program Limits</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/understanding-enrollment-requirements.shtml" tabindex="0">Understanding Enrollment Requirements</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/understanding-repeat-coursework-and-aid-eligibility.shtml" tabindex="0">Understanding Repeat Coursework and Aid Eligibility</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/understanding-return-of-federal-aid.shtml" tabindex="0">Understanding Return of Federal Aid Due to Withdrawals (R2T4)</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/understanding-sap.shtml" tabindex="0">Understanding SAP</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/understanding-state-university-grant-eligibility.shtml" tabindex="0">Understanding State University Grant Eligibility</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/understanding-unit-maximums.shtml" tabindex="0">Understanding Unit Maximums</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/understanding-verification.shtml" tabindex="0">Understanding Verification</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/aid-offer-notification.shtml" tabindex="0">Understanding Your Aid Offer and Next Steps</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/writing-a-successful-sap-appeal.shtml" tabindex="0">Writing a Successful SAP Appeal</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+</ul>
+
+<div class="row sub-nav__division-menu">
+    <div class="sub-nav__division"></div>
+        <div class="col-4 menu-button">
+        <button aria-expanded="false" aria-label="Site Menu" class="button button__primary--yellow-green button__proxima" data-dropdown-id="dropdownMenuBtn" id="dropdownMenuBtn">Menu
+             <span class="icon chevron">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" height="12" viewBox="0 0 19 12" width="19">
+            <g id="Atom / Icon / Expand Arrow / Small">
+            <path d="M2 2L9.5 9L17 2" id="Vector 2" stroke="none" stroke-width="3"/>
+            </g>
+            </svg>
+            </span>
+        </button>
+    </div>
+    <div class="sub-nav__dropdown hidden" id="dropdownMenu">
+       
+                       
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="1" tabindex="0">Home<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--1">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/enrollment/" tabindex="0">Enrollment Management and Services</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/index.shtml" tabindex="0">Office of Financial Aid and Scholarships</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/admissions/index.shtml" tabindex="0">Office of Admissions</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/registrar/" tabindex="0">Registrar's Office</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/contact.shtml" tabindex="0">Contact Us</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="2" tabindex="0">Undergraduate<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--2">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/undergraduate/parent-and-family.shtml" tabindex="0">Parent &amp; Family Financial Aid Information</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/undergraduate/prospective/index.shtml" tabindex="0">Prospective Students</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/undergraduate/newly-admitted/index.shtml" tabindex="0">Newly Admitted Students</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/undergraduate/current/index.shtml" tabindex="0">Current Students</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="3" tabindex="0">Credentials<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--3">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/credentials/course-eligibility.shtml" tabindex="0">Financial Aid Course Eligibility</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/credentials/prospective/index.shtml" tabindex="0">Prospective Students</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/credentials/current/index.shtml" tabindex="0">Current Credential Students</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/credentials/newly-admitted/index.shtml" tabindex="0">Newly Admitted Students</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="4" tabindex="0">Graduate<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--4">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/graduate/course-eligibility.shtml" tabindex="0">Financial Aid Course Eligibility</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/graduate/prospective/index.shtml" tabindex="0">Prospective Students</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/graduate/newly-admitted-and-current/index.shtml" tabindex="0">Admitted &amp; Current Students</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="5" tabindex="0">Other Programs<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--5">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/other-programs/summer/index.shtml" tabindex="0">Summer Session</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/other-programs/veterans.shtml" tabindex="0">Veterans</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/other-programs/college-of-professional-and-global-education.shtml" tabindex="0">College of Professional and Global Education</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/other-programs/certificate-programs.shtml" tabindex="0">Certificate Programs</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/other-programs/cross-enrollment.shtml" tabindex="0">Cross Enrollment</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/other-programs/study-abroad.shtml" tabindex="0">Study Abroad</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="6" tabindex="0">Scholarships<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--6">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/scholarships/department-staff-and-faculty-information.shtml" tabindex="0">Information for Department Staff and Faculty</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/scholarships/cal-poly-pomona-scholarships.shtml" tabindex="0">Cal Poly Pomona Scholarships</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/scholarships/csu-systemwide-scholarships.shtml" tabindex="0">CSU Systemwide Scholarships</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/scholarships/outside-scholarships.shtml" tabindex="0">Outside Scholarships</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/scholarships/scholarship-faqs.shtml" tabindex="0">Scholarship FAQs</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="7" tabindex="0">Federal Work Study<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--7">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/federal-work-study/index.shtml" tabindex="0">Federal Work Study</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/federal-work-study/student-information.shtml" tabindex="0">Information for Students</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/federal-work-study/on-campus-employers-information.shtml" tabindex="0">Information for On Campus Employers</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/federal-work-study/faqs.shtml" tabindex="0">Frequently Asked Questions</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="8" tabindex="0">Resources<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--8">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/fafsa-simplification/index.shtml" tabindex="0">FAFSA Simplification</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/using-broncodirect-financial-aid-information.shtml" tabindex="0">Using BroncoDirect- Financial Aid Information</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/appeals.shtml" tabindex="0">Appeals</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/announcements.shtml" tabindex="0">Announcements</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/campus-resources.shtml" tabindex="0">Campus Resources</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/fafsa-dream-workshops.shtml" tabindex="0">FAFSA/CA Dream Act Workshops</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/financial-aid-policies.shtml" tabindex="0">Financial Aid Policies</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/financial-aid-outreach.shtml" tabindex="0">Financial Aid Presentations and Outreach Requests</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/financial-wellness.shtml" tabindex="0">Financial Wellness</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/faqs.shtml" tabindex="0">Frequently Asked Questions</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/heerf/index.shtml" tabindex="0">HEERF Student Aid</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/loan-information.shtml" tabindex="0">Loan Information</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/question-of-the-month.shtml" tabindex="0">Question of the Month</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/understanding-aid-program-limits.shtml" tabindex="0">Understanding Aid Program Limits</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/understanding-enrollment-requirements.shtml" tabindex="0">Understanding Enrollment Requirements</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/understanding-repeat-coursework-and-aid-eligibility.shtml" tabindex="0">Understanding Repeat Coursework and Aid Eligibility</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/understanding-return-of-federal-aid.shtml" tabindex="0">Understanding Return of Federal Aid Due to Withdrawals (R2T4)</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/understanding-sap.shtml" tabindex="0">Understanding SAP</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/understanding-state-university-grant-eligibility.shtml" tabindex="0">Understanding State University Grant Eligibility</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/understanding-unit-maximums.shtml" tabindex="0">Understanding Unit Maximums</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/understanding-verification.shtml" tabindex="0">Understanding Verification</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/aid-offer-notification.shtml" tabindex="0">Understanding Your Aid Offer and Next Steps</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/writing-a-successful-sap-appeal.shtml" tabindex="0">Writing a Successful SAP Appeal</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+    </div>
+</div>
+
+
+
+
+</nav>
+<script type="text/javascript">
+    $(".button").attr("data-dropdown-id", "dropdownMenuBtn").on("click", function(event) {
+        var dropdownMenu = $("#dropdownMenu");
+        var nestedDropdownMenus = $(".sub-nav__nested-dropdown");
+        
+        if ($(this).attr("aria-expanded") === "false") {
+            $(this).attr("aria-expanded", "true");
+        } else {
+            $(this).attr("aria-expanded", "false");
+        }
+
+        toggleDropdown(dropdownMenu);;
+        
+        // close all nested dropdown menus if open
+        nestedDropdownMenus.each(function() {
+            if ($(this).hasClass("show")) {
+                $(this).removeClass("show");
+                $(this).addClass("hidden");
+            }
+        })
+    })
+    $(".sub-nav__nested-button").on("click", function(event) {
+        var currentButtonId = $(this).attr("id")
+        var nestedDropdownMenu = $(`#nestedDropdownMenu--${currentButtonId}`)
+        $(this).find(".chevron").toggleClass("active");
+
+        if ($(this).attr("aria-expanded") === "false") {
+            $(this).attr("aria-expanded", "true");
+        } else {
+            $(this).attr("aria-expanded", "false");
+        }
+
+        toggleDropdown(nestedDropdownMenu);
+    })
+    function toggleDropdown(menu) {
+        if (menu.hasClass("hidden")) {
+            menu.removeClass("hidden");
+            menu.addClass("show");
+            
+            //add click listener to check for clicks outside of the nav
+            //https://stackoverflow.com/questions/152975/how-do-i-detect-a-click-outside-an-element/3028037#3028037
+            $(document).click(function(event) { 
+                var $target = $(event.target);
+                if(!$target.closest('#subNavContainer').length) {
+                    closeDropdown(menu);
+                }
+            });
+            
+            //add listener for escape key
+            $(document).on('keydown', function(event) {
+                if (event.key == "Escape") {
+                    closeDropdown(menu);
+            }});
+        } else {
+            menu.removeClass("show");
+            menu.addClass("hidden");
+        }
+    }
+
+    function closeDropdown(menu) {
+        var dropdownMenu = $("#dropdownMenu");
+        var nestedDropdownMenus = $(".sub-nav__nested-dropdown");  
+        $(".button").attr("data-dropdown-id", "dropdownMenuBtn").attr("aria-expanded", "false");
+        nestedDropdownMenus.each(function() {
+            if ($(".button").attr("data-dropdown-id", "dropdownMenuBtn").hasClass("show")) {
+                $(".button").attr("data-dropdown-id", "dropdownMenuBtn").removeClass("show");
+                $(".button").attr("data-dropdown-id", "dropdownMenuBtn").addClass("hidden");
+            }
+        })
+        menu.removeClass("show");
+        menu.addClass("hidden");
+    }
+
+</script>
+</header>
+<div class="cqw-wrapper" id="main">
+ <div class="organism-spacer">
+    <section class="content-sub-page">
+        <div class="container">
+            <div class="row">
+                <div class="col-6 col-lg-8">
+                    <h1 class="h2__proxima content-sub-page__header">Resources</h1>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+
+        
+         
+ 
+        
+                
+                
+                    
+                        
+                                   
+                            <div class="organism-spacer cta-green-card__header spacer__padding-top--small spacer__padding-bottom--small">
+                                <section class="standard-text body2 cta-green-card" id="content-section-1">
+                        <div class="container">
+                            <div class="row">
+                               
+                                     <header class="cta-green-card__header text-start col-12 col-sm-8">
+                                                                        <h2 class="h4__proxima">Question of the Month</h2>
+                                                                </header>
+                            </div>
+                            <div class="row">
+                                <div class="body2 text-start col-12 col-sm-8"><p>Our goal with the Financial Aid Question of the Month is to increase transparency and provide our campus partners with a broader understanding of the various student aid eligibility rules and regulations.</p>
+<p><img alt="" class="img img-original-size" height="158" src="../img/fas_question_graphic.jpg" width="600"/></p></div>  
+                            </div>
+                       </div>
+                    </section>
+                </div>
+                                          
+                    
+        
+
+
+        
+         
+ 
+        
+                                
+        
+                <div class="organism-spacer spacer__padding-top--small spacer__padding-bottom--small">
+            <section class="faq">
+                <div class="container">
+                    <div class="row">
+                        <header class="faq__header col-lg-9">
+                            <h2 class="h5__proxima">Question &amp; Answers</h2><br/>
+                            <p class="body2"></p>
+                        </header>
+                        <div class="accordion__items col-lg-9">
+                            
+                                                                                    
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="February 2024: Is there a list of known 2024-2025 FAFSA Issues?" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">February 2024: Is there a list of known 2024-2025 FAFSA Issues?</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p>Yes. The new FAFSA has been a pain point for some students and families struggling to fill it out as they experience technical glitches and other obstacles.&#160; The U.S. Department of Education (ED) is compiling a list of <a href="https://fsapartners.ed.gov/knowledge-center/topics/fafsa-simplification-information/2024-25-fafsa-issue-alerts"><strong>2024-2025 FAFSA Issue Alerts</strong></a>, and providing workarounds when available. Be sure to check back frequently as new issues are added and older ones are resolved.</p>
+<p>Users should report any difficulties with the application to the Federal Student Aid information center at (800) 433-3243 so that ED:</p>
+<ul>
+<li>Becomes aware of the issue and can log it</li>
+<li>Can see if it is related to a known issue</li>
+<li>Can troubleshoot the issue and give instruction on what to do next</li>
+</ul>
+<p>Despite difficulties with the U.S. Department of Education's soft launch of the <a href="https://studentaid.gov/h/apply-for-aid/fafsa">2024-2025 FAFSA</a>, students and families should persist and if necessary, seek help getting it filed.</p>
+<p>Need assistance with completing your 2024-2025 FAFSA?&#160; Check out our <a href="fafsa-simplification/students-and-families.shtml">FAFSA Simplification webpage</a> or attend one of our <a href="fafsa-dream-workshops.shtml">upcoming workshops</a>.</p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="December 2023: On what date is a student's FAFSA considered submitted?" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">December 2023: On what date is a student's FAFSA considered submitted?</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p>A student&#8217;s FAFSA is considered complete and submitted on the date that <strong>all contributors</strong> (student, spouse, parent as applicable) complete and submit their sections.&#160; The date that all contributors have completed and submitted their sections is the official Application Receipt Date; this is true even if there is a delay between when the student started the application and when all contributors have completed their sections.</p>
+<p>This date is important as the Application Receipt Date is the date used by the Student Aid Commission to determine a student&#8217;s eligibility for California State Grants and the date Cal Poly Pomona uses to determine eligibility for State University Grant.&#160; For 2024-2025, if a student's FAFSA is received by the FAFSA Processing System by April 2<sup>nd</sup>, 2024, the student is in the pool of students considered for Cal Grant, Middle Class Scholarship, and State University Grant funds.</p>
+<h3><span style="font-size: 12pt;"><strong>Scenario 1:</strong></span></h3>
+<ul>
+<li>The student submits their section on 1/15 and sends the invite to the parent contributor.</li>
+<li>The parent submits their section on 2/15, so the FAFSA is complete.</li>
+<li>The FAFSA is considered to be <strong>complete and submitted as of 2/15</strong> (Application Receipt Date is 2/15).</li>
+</ul>
+<h3><span style="font-size: 12pt;"><strong>Scenario 2:</strong></span></h3>
+<ul>
+<li>The student submits their section on 1/15 and sends the invite to the parent contributor.</li>
+<li>There is no activity on the FAFSA and the parent does NOT submit their section within 45 days, so the current FAFSA is deleted by Federal Student Aid.</li>
+<li>The student starts the FAFSA process over, submits their section on 5/15, and sends the invite to the parent contributor.</li>
+<li>The parent submits their part on 5/18, so the FAFSA is complete.</li>
+<li>The FAFA is considered to be <strong>complete and submitted as of 5/18</strong> (Application Receipt Date is 5/18).</li>
+</ul></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="October 2023: Will an FSA ID be required to file an online FAFSA starting with the 2024-2025 aid year?" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">October 2023: Will an FSA ID be required to file an online FAFSA starting with the 2024-2025 aid year?</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p>Yes. In its <a href="https://www.youtube.com/watch?v=kSHQmtSQFvo">FAFSA Changes: An Overview webinar</a>, the U.S. Department of Education (ED) stated, beginning with the 2024-25 FAFSA, all students and FAFSA contributors <strong>must </strong>create a <strong><em>Federal Student Aid ID</em></strong> (FSA username and password).</p>
+<p>Users will no longer be allowed to access, create, or submit an online FAFSA using just their personally identifiable information (PII). They must be authenticated using an FSA ID. &#160;ED has confirmed all contributors to the FAFSA, including those without a social security number (SSN), will be able to create an FSA ID starting with the 2024-25 FAFSA cycle.</p>
+<ul>
+<li>If the contributor has an SSN, that SSN will be used to create the FSA ID.</li>
+<li>For a contributor&#160;without an SSN, there will be a knowledge-based match to validate/authenticate their identity. Guidance and instructions for using the updated FSA ID process will be forthcoming (timeframe unspecified).</li>
+<li>Foreign tax filers will continue to self-report their tax information on the FAFSA. They will also be able to create an FSA ID to access the online FAFSA even if they don't have an SSN.</li>
+</ul>
+<p><strong>Student Eligibility: </strong>Under <a href="https://www.nasfaa.org/Part_668_General_Provisions#subc66832d">34 CFR 668.32(d)</a> and <a href="https://www.nasfaa.org/Part_668_General_Provisions#subc66833">668.33</a>, a student must still be a U.S. citizen or eligible noncitizen to be eligible for federal student aid. Also, under <a href="https://www.nasfaa.org/Part_668_General_Provisions#subc66832i">668.32(i)</a>, except for students from the Freely Associated States, all students must have an SSN to be eligible for Title IV aid. Students from the Freely Associated States (Marshall Islands, Micronesia, and Palau) are assigned pseudo-SSNs.</p>
+<p><strong>Paper FAFSA: </strong>The student or contributor does not need an FSA ID to file the paper FAFSA.&#160; The student applies using the paper FAFSA and obtains wet signatures from <strong>all contributors</strong>, including the parents who also affirm their consent.</p>
+<p>Review this <a href="https://cpp.financialaidtv.com/play/1766-applying-financial-aid/38872-fafsa-creating-fsa-id" rel="noopener" target="_blank">video</a> for help in creating an FSA ID now (for those with an SSN).</p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="August 2023: When is the CA priority filing date for the 2024-2025 FAFSA &amp; Dream Applications?" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">August 2023: When is the CA priority filing date for the 2024-2025 FAFSA &amp; Dream Applications?</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p>The FAFSA application and delivery system is changing for <strong>2024-25</strong>.&#160;As a result, the application will not be available until December 2023. To accommodate this later availability, the CA State Legislature has extended the FAFSA/CADAA priority filing date for California to <strong>April 2, 2024. </strong>The extended deadline applies to the Cal Grant and the CA Middle Class Scholarship, as well as to the CSU State University Grant.</p>
+<p><em>The <a href="https://studentaid.gov/help-center/answers/article/fafsa-simplification-act">FAFSA Simplification Act</a> represents a significant overhaul of the processes and systems used to award federal student aid starting with the 2024&#8211;25 award year. This includes the Free Application for Federal Student Aid (FAFSA&#174;) form, need analysis, and many policies and procedures for schools that participate in federal student aid programs.&#160;</em></p>
+<p><em>These changes are aimed at making it easier for students and their families to apply for financial aid with a more streamlined application process.&#160;&#160;</em></p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="July 2023: Can Financial Aid pay for a course that does not count toward a student's degree completion requirements?" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">July 2023: Can Financial Aid pay for a course that does not count toward a student's degree completion requirements?</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p>No. If a course is not required for completion of the student's academic program, it is considered an ineligible course. Federal (and State) law prohibit schools from including an ineligible course in a student's enrollment status or cost of attendance (COA), and the school cannot award federal or state funds to pay for the course.</p>
+<p>According to guidance under <strong><em>Restriction on coursework/learning which is not Title IV-eligible</em></strong> in Volume 1 of&#160;the <em>Federal Student Aid (FSA) Handbook</em>, unless a course is a remedial course, it cannot be used to determine enrollment status if it does not count toward a degree, certificate, or recognized credential. Therefore, the student cannot receive Title IV aid for those courses.&#160;<strong>This also means that a student who completes the academic requirements for a program but does not yet have the degree or certificate may not receive additional Title IV funds for that program.</strong></p>
+<p>To be eligible for federal (and state) funds, a student must be a regular student as defined in&#160;<a href="https://www.nasfaa.org/Part_600_Institutional_Eligibility#suba6002">34 CFR 600.2</a>&#160;of the Institutional Eligibility regulations. A regular student is defined as: &#8220;A person who is enrolled or accepted for enrollment at an institution for the purpose of obtaining a degree, certificate, or other recognized educational credential offered by that institution.&#8221; Therefore, the school cannot award federal or state aid for course work that will not count towards the completion of that student's degree program requirements (or otherwise result in a degree, certificate, or credential).</p>
+<p>Many degree programs include <strong><em>elective courses</em></strong> and, as such, students may receive federal and state aid only for those elective courses which are a required part of the program completion requirements. If audited or <em>pass/fail</em> courses are elective courses and the credits received will count towards program completion, they may be included in the student&#8217;s enrollment status. The same would be true for graduate level courses taken while enrolled in an undergraduate program; the student can only be awarded Title IV aid to cover the graduate courses if one or more of those graduate courses counted as elective credit towards the student's undergraduate degree program requirements.</p>
+<p><strong>This restriction is not new.</strong></p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="June 2023: Is Academic Standing the same as Satisfactory Academic Progress (SAP) for Financial Aid?" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">June 2023: Is Academic Standing the same as Satisfactory Academic Progress (SAP) for Financial Aid?</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p>No.&#160; While Academic Standing and SAP for Financial Aid are both related to a student&#8217;s academic performance, the two policies differ.&#160; Therefore it is possible for a student to be in Good Academic Standing with the University, but not with financial aid.</p>
+<ul>
+<li><strong>Academic Standing</strong> is defined by a student&#8217;s cumulative, Cal Poly Pomona and/or major grade point averages (GPAs). A student&#8217;s <strong>Academic Standing</strong> may restrict a student&#8217;s eligibility to register for classes at Cal Poly Pomona.<br/><br/></li>
+<li><strong>Satisfactory Academic Progress for Financial Aid </strong>only applies to a student&#8217;s eligibility for financial aid. In addition to a student&#8217;s cumulative GPA, the SAP policy reviews both pace of progress (or completion) and maximum time frame; all attempted credit hours are included in reviewing student eligibility.</li>
+</ul></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="May 2023: Why is full-time for the summer term considered 12 units (for undergraduate students)?" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">May 2023: Why is full-time for the summer term considered 12 units (for undergraduate students)?</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p>For <strong>undergraduate programs</strong>, the definition of a full-time student,&#160;<a href="https://www.nasfaa.org/Part_668_General_Provisions#suba6682b">34 CFR&#160;668.2(b)</a> requires a program that measures progress in credit hours and uses standard terms to establish <strong>12 hours per academic term as the minimum definition of full-time</strong>.</p>
+<p>Federal law requires the Office of Financial Aid to apply its Federal Student Aid (FSA) full-time enrollment standards consistently to all students enrolled in the same program of study for all FSA (and state aid) purposes; this means we must use 12 hours as full-time for all terms, <strong>including the summer term</strong>.&#160;</p>
+<p>We must use the same enrollment status standards and Federal Pell Grant Formula to calculate awards for summer as we do for the rest of our fall/spring academic year.&#160; Since many students utilize some form of financial aid during the summer, the 12-unit definition was adopted for the academic standard during summer to avoid confusion and ensure consistent treatment for all students.</p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="April 2023: Since Orientation is Mandatory, Can the Orientation Fee be Paid with Financial Aid?" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">April 2023: Since Orientation is Mandatory, Can the Orientation Fee be Paid with Financial Aid?</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p>No.</p>
+<p>Financial Aid funds can only be applied towards institutional charges under <a href="https://www.nasfaa.org/Part_668_General_Provisions#subk668164d1">34 CFR 668.164(d)(1)</a>&#160;if the charges are:</p>
+<ol>
+<li>Current, and</li>
+<li>Allowable.</li>
+</ol>
+<p>That is, the fee must be charged to a specific block of students <strong>and</strong> be related to the student's educational pursuit. In order to be considered <em>current</em>, the orientation activity must take place <em>within</em> the academic year to be considered a current charge.&#160;</p>
+<p>The Financial Aid year begins with the Fall term and ends with the Summer term.&#160; Since Orientation takes place outside of this timeframe (during the summer prior to the start of the Fall term the students are admitted into) the fee cannot be paid with financial aid, nor can it be included in the student&#8217;s Cost of Attendance budget.</p>
+<p>Additionally, Orientation as a standalone activity cannot be considered instructional time.&#160; Per <a href="https://www.nasfaa.org/Part_668_General_Provisions#suba6688b">34 CFFR 668.8(b)(3)(ii)</a>: "Instructional time does not include any vacation periods, homework, or periods of orientation or counseling."</p>
+<p>In order for Orientation to be considered a current and allowable charge, it would need to be integrated into the existing dates for the Fall semester, it would need to contain activities that are related to a student&#8217;s educational pursuit, and it would need to begin on or after the first day of Fall classes (for Fall admits), or the first day of Spring classes (for Spring admits).</p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="February 2023: Why does the Financial Aid Office require some students to submit additional documents?" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">February 2023: Why does the Financial Aid Office require some students to submit additional documents?</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p>Every year, the U.S. Department of Education and California Student Aid Commission select a percentage of aid applicants (FAFSA or CA Dream) to have their information reviewed for accuracy. This process is called verification. Students selected for verification may have to provide additional documentation before they can receive a financial aid offer.</p>
+<h3>Verification process</h3>
+<p>Students selected for verification will have to have their information verified by the Office of Financial Aid and Scholarships before receiving a financial aid package. The office will request the needed documents through BroncoDirect, and students are encouraged to submit all requested documents as soon as possible.&#160; Following a review, a member of the financial aid team will verify accuracy and submit any adjustments to the U.S. Department of Education or to the Student Aid Commission.</p>
+<p>Required documentation will vary for each student. The most common documents required for resolution of conflicting information are:</p>
+<ul>
+<li>Verification of household size or number of household members attending college</li>
+<li>Income documents (IRS Tax Return, W-2, 1099, schedule C)</li>
+<li>Asset form (form provided by Cal Poly Pomona)</li>
+<li>Marital status (marriage certificate, divorce degree, documentation of separation)</li>
+<li>Amended tax return</li>
+<li>Documentation of non-tax filing status</li>
+<li>Documentation showing support of a dependent&#160;</li>
+<li>Documentation verifying Identity and a statement of Education Purpose</li>
+<li>Documentation verifying citizenship status</li>
+</ul>
+<ul>
+<li>In some instances, Cal Poly Pomona may select a student&#8217;s application for review because of inconsistent information within the application and other information on file at the university.</li>
+</ul>
+<p>The process can take several weeks, especially during the summer, so students should submit any requested documents to the Office of Financial Aid &amp; Scholarships as soon as possible to ensure that their financial aid is ready prior to the fee payment deadlines.&#160; Review the information below for help on completing this process.</p>
+<h3>Other important information about the verification process</h3>
+<ul>
+<li>Students are required to submit the required documents by the <strong>priority document submission deadline</strong> in order to have their file reviewed and aid packaged prior to the fee payment deadline.</li>
+<li>Students are encouraged to contact the Financial Aid Office with questions about the verification process.</li>
+<li>Data is checked against the <a href="https://www.irs.gov/">Internal Revenue Service</a>, <a href="https://www.ssa.gov/">Social Security Administration</a>, <a href="https://www.uscis.gov/portal/site/uscis">Immigration and Naturalization Service</a>, <a href="https://www.va.gov/">Veterans Administration</a>, <a href="https://www.sss.gov">Selective Service System</a> and <a href="https://nsldsfap.ed.gov/nslds_FAP/">National Student Loan Data Base</a> to ensure that individual status and benefits are being reported correctly.</li>
+</ul>
+<h3>Priority Document Submission Deadlines for 2023-2024</h3>
+<p><strong>May 5, 2023</strong>: Students attending Cal Poly Pomona Fall 2023 have until May 5th to complete their verification requirements to ensure a financial aid package is made available prior to the fee payment deadlines, and that funding can be released by the start of the fall term.</p>
+<p><strong>December 1, 2023</strong>: Students attending Cal Poly Pomona starting in Spring 2024 have until December 1st to complete their verification requirements to ensure a financial aid package is made available prior to the fee payment deadlines, and that funding can be released by the start of the Spring term.</p>
+<p>Review our <a href="understanding-verification.shtml">Understanding Verification</a> page for more details on the verification process at Cal Poly Pomona.</p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="January 2023: Can the Financial Aid Office share student FAFSA Data with other offices on campus?" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">January 2023: Can the Financial Aid Office share student FAFSA Data with other offices on campus?</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p>The Financial Aid Office is prohibited from sharing FAFSA data with other departments on campus &#8211; <strong>unless the purpose is specifically for the application, awarding, or administration of financial aid.</strong></p>
+<p>Under <a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1090&amp;num=0&amp;edition=prelim">Section 483(a)(3)(E) of the Higher Education Act of 1965 (HEA)</a>, as amended, [20 USC 1090],&#160;FAFSA data, which includes information related to expected family contributions (EFCs) and awards, &#8220;<strong>shall be used only for the application, award, and administration of aid awarded under federal student aid programs, state aid, or aid awarded by eligible institutions</strong>&#8230;.&#8221;&#160;The <a href="https://www.govinfo.gov/content/pkg/CPRT-115HPRT29374/pdf/CPRT-115HPRT29374.pdf">Consolidated Appropriation's Act, 2018 (PDF)</a> (FY 2018 spending bill) allows&#160;schools to share FAFSA data with scholarship providers and tribal organizations, also with the student&#8217;s written consent. The <a href="https://www.congress.gov/115/bills/hr6157/BILLS-115hr6157enr.pdf">Department of Defense and Labor, Health and Human Services, and Education Appropriations Act, 2019 (PDF)</a> (FY 2019 spending bill) expands that language to also allow an institution to share FAFSA data&#8212;with the student's written consent&#8212;with an organization "assisting the applicant in applying for and receiving Federal, State, local, or tribal assistance that is designated by the applicant to assist the applicant in applying for and receiving financial assistance for any component of the applicant's cost of attendance." This statutory language is self-implementing, which means ED will not be providing implementation guidance and you must consult with your school&#8217;s legal counsel for assistance in determining whether a disclosure meets the statutory requirement.</p>
+<p><strong>What Is Considered FAFSA Data For Purposes Of Data Sharing?</strong></p>
+<p>According to the U.S. Department of Education's (ED) and/or ED's Privacy and Technical Assistance Center (PTAC), <strong>FAFSA data include all of the following</strong>:</p>
+<ul>
+<li>The fact that the FAFSA was filed in and of itself;</li>
+<li>Answers to over 100&#160;questions the student and parents are required to answer on the FAFSA for the calculation of&#160;the expected family contribution (EFC);</li>
+<li>Institutional Student Information Record (ISIR) and Student Aid Report (SAR) data;</li>
+<li>Key processing&#160;results;</li>
+<li>EFC;</li>
+<li>Student&#8217;s financial aid history&#160;as reflected in the National Student Loan Data System (NSLDS);</li>
+<li>ISIR data to determine award eligibility, and the resulting awards and&#160;disbursement data;</li>
+<li>Federal Work-Study (FWS) awards and pay dates;</li>
+<li>Information contained in the Common Origination and Disbursement (COD)&#160;System;</li>
+<li>Whether or not a student is Pell Grant eligible.</li>
+</ul>
+<p>It is important for financial aid offices to keep this data separate from other&#160;data collected from the student to ensure that it is only used for the awarding and administration of financial aid.</p>
+<p>According to guidance received from ED, cost of attendance (COA), <u>total</u>&#160;estimated financial assistance (EFA),&#160;and enrollment period information are not considered FAFSA data, so they are not subject to the HEA restriction below. Family Education Rights and Privacy Act (FERPA) restrictions still apply.</p>
+<p>Even if a disclosure meets the HEA criteria noted above, other conditions must also be met under FERPA&#8212;<a href="https://www.ecfr.gov/cgi-bin/text-idx?c=ecfr&amp;SID=9aa00c41516c32b7edc9fdd8b3b57d4e&amp;tpl=/ecfrbrowse/Title34/34cfr99_main_02.tpl">34 CFR 99</a>.</p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="December 2022: When is the Student Loan Payment Pause ending?" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">December 2022: When is the Student Loan Payment Pause ending?</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p>The <a href="https://studentaid.gov/announcements-events/covid-19">student loan payment pause</a> was set to expire on Dec. 31, 2022, but has now been extended up to <strong>June 30, 2023</strong> - with President Biden saying that borrowers should not have to pay monthly student loans bills until the courts reach a decision on the legality of student debt forgiveness. The extension allows the Supreme Court time to hear the case in its current term.</p>
+<p>The pause on student loan payments began at the beginning of the COVID-19 pandemic under former President Trump to give relief to struggling Americans. It has been extended under the Trump and Biden administrations at least six times.&#160;</p>
+The pause has now been extended a final time, until the U.S. Department of Education is permitted to implement the debt relief program or the litigation is resolved. Payments will restart 60 days later. If the debt relief program has not been implemented and the litigation has not been resolved by June 30, 2023 &#8212; payments will resume 60 days after that. The Department of Education will notify borrowers before payments restart.</p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="November 2022: What is happening with the Student Debt Relief Program?" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">November 2022: What is happening with the Student Debt Relief Program?</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p>More than 23 million people applied for student loan relief before various legal challenges forced the Education Department to halt administering the program in mid-November, until the Supreme Court rules on the matter.&#160;</p>
+<p>Although the Education Department has had to pull the loan forgiveness application off its website, it still has the information for the millions who applied so far, and has remained in communication with those borrowers.&#160;</p>
+In the meantime, the Biden administration has encouraged borrowers to <a href="https://www.ed.gov/subscriptions">sign up for updates</a> from the Department of Education regarding the program so borrowers can know when any updates are available.</p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="October 2022: Will the new California Ban on Private Scholarship Displacement (AB 288) change how finanical aid is processed at Cal Poly Pomona?" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">October 2022: Will the new California Ban on Private Scholarship Displacement (AB 288) change how finanical aid is processed at Cal Poly Pomona?</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p><strong>Answer:&#160; No.&#160; </strong>The new California law will not require any changes to how financial aid is processed at Cal Poly Pomona.</p>
+<p><strong>Private </strong><strong>Scholarship Displacement</strong> is a practice where colleges and universities displace previously awarded financial aid when a student is awarded a <strong>private scholarship</strong>, effectively reducing the amount of financial aid awarded and resulting in a zero net gain for the student.</p>
+<p>At <strong>Cal Poly Pomona</strong>, we believe that private scholarships should supplement, not supplant grants, tuition waivers or stipends provided by institutions of higher education to students who have a proven financial need. Limiting a student&#8217;s ability to pay for college can have significant consequences, including postponing graduation or dropping out of school, and runs counter to making a college degree financially attainable.</p>
+<p>There are times, however, when a reduction of grant or other aid may be required in order to remain compliant with federal or other state financial aid regulations.</p>
+<p>Our long-standing approach at Cal Poly Pomona is consistent with the newly signed <a href="https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202120220AB288">Assembly Bill 288</a> (AB 288), which enacts the <strong>California Ban on Scholarship Displacement Act of 2021.<br/></strong></p>
+<h3><strong><span style="font-size: 12pt;">Assembly Bill 288 - California Ban on Scholarship Displacement Act of 2021</span></strong></h3>
+<p><a href="https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202120220AB288">Assembly Bill 288</a> (AB 288), signed into law on September 30, 2022, enacts the <strong>California Ban on Scholarship Displacement Act of 2021</strong>, which is intended to ensure that <strong><em>private scholarships</em></strong> for students supplement, and do not supplant, gift aid, grants, scholarships, tuition waivers, and fellowship stipends provided by institutions of higher education to California students who have financial need.</p>
+<p>AB 288 applies to private institutions of higher (postsecondary) education in California that receive, or benefit from, state-funded financial assistance or enroll students who receive state-funded student financial assistance, as well as students who are California residents who enroll in any public or private institution of higher education to obtain an undergraduate degree.</p>
+<p>Commencing with the 2023&#8211;2024 academic year, AB 288 prohibits covered institutions of higher education from reducing the institutional gift aid offer of a student who is eligible to receive a Federal Pell Grant award or financial assistance under the California Dream Act for an academic year as a result of private scholarship awards designated for the student unless the student&#8217;s gift aid exceeds the student&#8217;s annual cost of attendance. A student&#8217;s <strong>institutional gift aid</strong> offer may be reduced, however, by no more than the amount of the student&#8217;s gift aid that is in excess of the student&#8217;s annual cost of attendance.</p>
+<ul>
+<li><strong>Gift aid</strong> means all financial aid designated for the student&#8217;s educational expenses, including a grant, scholarship, tuition waiver, fellowship stipend, or other third-party payment, that is not a loan or pursuant to a work-study program.</li>
+<li><strong>Institutional gift aid</strong> means gift aid that is paid for by the institution of higher education from its funds and the recipient of the aid is selected by the institution.</li>
+</ul>
+<p>An institution of higher education is further prohibited from considering receipt or anticipated receipt of private scholarships when considering a student who is eligible to receive a Federal Pell Grant award or financial assistance under the California Dream Act for qualification for <strong>institutional gift aid</strong>.</p>
+<p>AB 288 encourages institutions of higher education to implement efforts to avoid scholarship displacement through consultation with scholarship providers and students to avoid situations where institutional gift aid and private scholarships can only be used for specific purposes.</p>
+<p>The provisions of AB 288 are severable, which means that if any provision of AB 288 or its application is held invalid due to a conflict with federal requirements, the other valid provisions or applications remain in effect.</p>
+<h3><strong><span style="font-size: 12pt;">Compliance with Federal and State financial aid rules are still required</span></strong></h3>
+<p>Even with the ban on Private Scholarship Displacement, there are times when a reduction of grant or other aid may be required in order to remain compliant with federal or other financial aid regulations, (including provisions surrounding the <a href="https://www.nasfaa.org/Part_685_Federal_Direct_Loan_Program#suba685102">treatment of estimated financial assistance</a>):</p>
+<ul>
+<li>A student&#8217;s Federal Pell Grant <strong><em>will never be reduced</em></strong>, regardless of other aid a student is receiving.</li>
+<li>If a student is receiving more than one type of aid that can only be used for specific purposes, such as a private scholarship specifically designated for the Tuition Fee and a State University Grant or Cal Grant Tuition Grant.</li>
+<li>If a student is receiving aid that is required to be adjusted based on other aid received (Federal Subsidized Loan, Federal Work Study, California Middle Class Scholarship)</li>
+<li>If a student is receiving aid (other than a Federal Pell Grant and Scholarships) that exceeds their Cost of Attendance.</li>
+</ul>
+<p>At Cal Poly Pomona, we remain in constant consultation with institutional and private scholarship providers to see if scholarship and gift aid can be used for books, room and board or other fees not covered in a student&#8217;s aid package. In those instances when we do need to adjust aid, we will make adjustments in a way that most benefits the student, beginning with reducing any student loans or Work-Study offers &#8211; so that gift aid is maximized and loan debt is kept to a minimum.</p>
+<p><strong>AB 288 takes effect on January 1, 2023 &#8211; with the 2023 &#8211; 2024 academic year.</strong></p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="September 2022: Is a Scholarship or Fellowship considered Estimated Financial Assistance if it is awarded for a period of nonattendance?" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">September 2022: Is a Scholarship or Fellowship considered Estimated Financial Assistance if it is awarded for a period of nonattendance?</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p><strong>Answer:</strong> Yes, the award is considered estimated financial assistance (EFA) <strong><em>even if it is received for a period of nonattendance</em></strong>, such as a summer period. The only exception to this rule would be for any non-need-based employment portion of a fellowship (or assistantship or internship).&#160;</p>
+<p>The following is guidance from the U.S. Department of Education (ED):</p>
+<p>The definition of estimated financial assistance in <a href="https://www.nasfaa.org/Part_685_Federal_Direct_Loan_Program#suba685102">34 CFR 685.102(b)</a>, specifically, clause (1)(iii), states: "<em>Estimated financial assistance</em>:</p>
+<ul>
+<li>The estimated amount of assistance for a period of enrollment that a student (or a parent on behalf of a student) will receive from Federal, State, institutional, or other sources, such as scholarships, grants, net earnings from need-based employment, or loans, including but not limited to- ... (iii) <strong>Any educational benefits paid because of enrollment in a postsecondary education institution, or to cover postsecondary education expenses</strong>;..."</li>
+</ul>
+<p>The assumption for this part of the definition is that the student would not be receiving the assistance if he or she was not enrolled at a postsecondary institution. [685.102(b)] See also <a href="https://www.nasfaa.org/part_673_campus-based_common_provisions#subb6735">673.5(c) <em>Estimated financial assistance</em></a>.</p>
+<p>Under <a href="https://uscode.house.gov/view.xhtml?req=(title:%20section:1087kk%20edition:prelim)%20OR%20(granuleid:USC-prelim-title-section1087kk)&amp;f=treesort&amp;edition=prelim&amp;num=0&amp;jumpTo=true">Section 471 of the Higher Education Act of 1965 (HEA)</a>, as amended, [20 USC 1087kk], the amount of need for a student for Title IV assistance during a period of enrollment is equal to the cost of attendance (COA) for the student, minus his or her expected family contribution (EFC), and minus his or her estimated financial assistance (EFA).</p>
+<p>If an award covers an educational expense that can be included in the student's cost of attendance (COA), any funds paid to the student to cover that expense are considered EFA, regardless of whether funds were paid directly to the student or reimbursed on behalf of the student. Additionally, even if funds are earmarked to cover costs that are not included in the COA (such as a recommended optional enrichment activity or expenses paid outside of the period of enrollment), <strong><em>those funds are still EFA if they are awarded or paid to students because of postsecondary enrollment</em></strong>.</p>
+<p>Section 472 of the HEA provides the elements that are allowed in constructing a COA for an enrolled student based only on the costs for the period of enrollment. Since the recipients of the summer scholarships or fellowships are not enrolled in the summer, the COA for the period of enrollment may not include the summer expenses and there is not a separate COA allowed for the summer period of non-enrollment.</p>
+Further, per ED, it does not matter whether summer is a header or trailer. If the scholarship, fellowship, assistantship, or internship (or need-based work study) is awarded during a period of nonattendance, <strong>it must be treated as EFA</strong> <strong>in the upcoming award year/academic year</strong>.<br/> <br/> <strong>Note: </strong>The above guidance applies regardless of what the award is called, and it includes such awards as scholarships, fellowships, assistantships, and internships with grant/scholarship and work components, as well as need-based employment programs (Federal Work Study, Learning Aligned Employment Program).</p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="August 2022: Is there a limit to how long a student can receive financial aid? " class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">August 2022: Is there a limit to how long a student can receive financial aid? </h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p><span data-contrast="auto">Financial aid is a great benefit to those pursuing higher education opportunities. Without the potential of financial aid, whether Federal Student Aid, CA State Aid, other types of institutional aid, many students would be unable to afford college.</span><span data-ccp-props="{&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559740&quot;:240}">&#160;</span></p>
+<p><span data-contrast="auto">Unfortunately, financial aid is not unlimited.</span><span data-ccp-props="{&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559740&quot;:240}">&#160;</span></p>
+<p><span data-contrast="auto">First, there is a </span><strong><span data-contrast="auto">Maximum Timeframe</span></strong><span data-contrast="auto"> in the SAP Policy that limits the amount of attempted units a student can receive financial aid for at Cal Poly Pomona.&#160; This limit applies to a student&#8217;s overall aid eligibility for federal, state, and most CPP grant programs.</span><span data-ccp-props="{&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559740&quot;:240}">&#160;</span></p>
+<p><span data-contrast="auto">Second, there are </span><strong><span data-contrast="auto">limits to specific programs</span></strong><span data-contrast="auto"> under the federal and state financial aid programs. Both the Federal Pell Grant and the Cal Grant have limits to the number of semesters a student can receive the grant.&#160; The Federal Loan programs have specific annual and lifetime borrowing limits.&#160; The CSU&#8217;s State University Grant has specific </span><strong><span data-contrast="auto">earned unit maximums</span></strong><span data-contrast="auto"> which vary based on the program and degree a student is pursuing.&#160;</span><span data-ccp-props="{&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559740&quot;:240}">&#160;</span></p>
+<p><span data-contrast="auto">You can read more about the various limits for specific aid programs on our </span><a href="https://www.cpp.edu/financial-aid/resources/understanding-aid-program-limits.shtml"><span data-contrast="none">Understanding Aid Program Limits</span></a><span data-contrast="auto"> page.&#160; Also be sure to visit our </span><a href="https://www.cpp.edu/financial-aid/resources/understanding-unit-maximums.shtml"><span data-contrast="none">Understanding Unit Maximums</span></a><span data-contrast="auto"> page for details on unit limits associated with the SAP Maximum Timeframe and State University Grant eligibility.&#160;&#160;</span><span data-ccp-props="{&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559740&quot;:240}">&#160;</span></p>
+<p><span data-contrast="auto">Also, be sure to check out the following video from our 24/7 Get Answers video channel on the <a href="https://cpp.financialaidtv.com/play/1003-grant-programs-including-ccpg/10004-what-lifetime-eligibility-used-leu-pell-grants">Pell Grant Limit.</a></span></p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="July 2022: Beginning with Fall 2022, the Grant Recalculation Date for Fall &amp; Spring semesters will be the day after the Add / Drop Period ends (the 10th day of classes). Why the change?" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">July 2022: Beginning with Fall 2022, the Grant Recalculation Date for Fall &amp; Spring semesters will be the day after the Add / Drop Period ends (the 10th day of classes). Why the change?</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><ul>
+<li>Most students have finalized their enrollment for the term&#160;</li>
+<li>Aligns with the tuition fee assessment is finalized for the term, and&#160;</li>
+<li>Aligns with aid recipients remaining balance due date&#160;</li>
+</ul>
+<p><br/><strong>Aligning Grant Eligibility Enrollment Status with the End of Add/Drop&#160;&#160;</strong><br/>The Grant Recalculation Date (previously referred to as the financial aid census date)&#8239;is when the Financial Aid Office finalizes a student&#8217;s Grant eligibility based on their&#8239;enrollment status (full-time, three-quarter, half or less-than half time) for the term.&#8239; We have aligned the finalized enrollment status to be in sync with the day after the academic calendar&#8217;s add/drop date. &#8239;&#160;</p>
+<p>&#160;</p>
+<p><strong>Grant Recalculation Stops After the Finalized Enrollment&#160;&#160;&#160;</strong><br/>Financial Aid releases aid as early as 10 days before classes start. As students change their enrollment status by adding or dropping classes, we recalculate their grant aid when their enrollment status has changed from their previous enrollment status, i.e., Full-time to Three-quarter time; or Half-time to Full-time.&#160;&#160;</p>
+<ul>
+<li>Students who reduced their enrollment may need to return funds. The Office of Financial Aid will email a Billing Warning email when students that reduced their enrollment, and the reduction will result in a balance due.&#8239; &#8239;&#160;&#160;</li>
+<li>Classes added after the Recalculation Date will not count towards a student&#8217;s Grant eligibility, regardless of class start date.&#160;&#160;&#160;</li>
+<li>Similarly, classes dropped after the Recalculation Date will not reduce Grants (unless the student fully withdraws from the term)&#160;</li>
+</ul>
+<p><br/><strong>Programs Impacted by the Grant Recalculation Date</strong>&#160;<br/>Grant programs subject to the Grant Recalculation Date:&#160;</p>
+<ul>
+<li>Federal Pell Grant&#160;</li>
+<li>Cal Grant (Tuition &amp; Access Grants)&#160;</li>
+<li>State University Grant&#160;</li>
+<li>Middle Class Scholarship&#160;</li>
+<li>EOP Grant&#160;</li>
+<li>Federal TEACH Grant&#160;</li>
+</ul>
+Direct Loans are not impacted by the Grant Recalculation Date.</p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="June 2022: Can a school review Satisfactory Academic Progress (SAP) for Fall and Spring Terms but not for the Summer Term? " class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">June 2022: Can a school review Satisfactory Academic Progress (SAP) for Fall and Spring Terms but not for the Summer Term? </h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p><strong><span data-contrast="none">Answer: No</span></strong><span data-contrast="none">. A school&#8217;s satisfactory academic progress (SAP) evaluation must include all periods of the student&#8217;s enrollment in his or her program of study. In general, all periods of enrollment count when evaluating SAP for students, </span><strong><span data-contrast="none">even periods in which federal or state financial aid was not received</span></strong><span data-contrast="none">.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:160,&quot;335559740&quot;:259}">&#160;</span></p>
+<ul>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="&#61623;" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559684&quot;:-2,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&#61623;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="8"><span data-contrast="none">If a student&#8217;s status is </span><strong><span data-contrast="none">Financial Aid Warning</span></strong><span data-contrast="none"> entering into the Summer term, and the student attends classes during the Summer, then the Summer is considered that student&#8217;s &#8220;Warning&#8221; semester.&#160; This is true whether or not the student receives financial aid for the Summer term.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:160,&quot;335559740&quot;:259}">&#160;</span></li>
+</ul>
+<p><span data-contrast="none">For students who attend the Summer term, their SAP status will be evaluated again (once summer grades have been finalized) to determine their eligibility for financial aid entering into the Fall term.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:160,&quot;335559740&quot;:259}">&#160;</span></p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="May 2022: How is eligibility for Summer Federal Work Study determined? Are students who are not enrolled in summer courses eligible? " class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">May 2022: How is eligibility for Summer Federal Work Study determined? Are students who are not enrolled in summer courses eligible? </h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p><strong><span data-contrast="auto">Scenario:</span></strong><span data-contrast="auto"> A department wants to hire a few students for the summer term using Federal Work Study funds. Two of the students are enrolled in summer coursework, but two of the students are not enrolled. Can the students who are not enrolled in courses during the summer still be hired using Summer Federal Work Study?</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}">&#160;</span></p>
+<p><strong><span data-contrast="auto">Answer: </span></strong><span data-contrast="auto">Yes, students utilizing their Federal Work Study (FWS) awards may also work during the summer.&#160;&#160;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}">&#160;</span></p>
+<p><span data-contrast="auto">The Federal Work-Study Program&#8239;(FWS) allows CPP students to gain valuable work experience while earning money to help pay for college. Eligibility for Summer FWS, and the impact on the student&#8217;s aid package, will differ based on whether or not the student is enrolled in courses for the summer term.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}">&#160;</span></p>
+<p><span data-contrast="auto">Unlike the academic year, Summer FWS Offers are only processed by employer request. This is due to limited funding to support Summer FWS (funds for Summer FWS come from CPP&#8217;s FWS allocation for the NEXT year) &#8211; as well as the student eligibility review that is required.&#160;&#160;</span><span data-contrast="auto"></span></p>
+<p aria-level="3"><strong><span data-contrast="none">Students who ARE enrolled in classes during the Summer Term:</span></strong><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:40,&quot;335559739&quot;:0,&quot;335559740&quot;:259}">&#160;</span></p>
+<p><span data-contrast="none">For students who ARE enrolled in </span><strong><i><span data-contrast="none">at least one unit</span></i></strong><span data-contrast="none"> of coursework during the Summer term, eligibility for Summer FWS is based on their current year FAFSA (2021-2022 for Summer 2022).&#160;&#160;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559685&quot;:720,&quot;335559739&quot;:160,&quot;335559740&quot;:259}">&#160;</span></p>
+<ul>
+<li aria-setsize="-1" data-aria-level="2" data-aria-posinset="1" data-font="Courier New" data-leveltext="o" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559684&quot;:-2,&quot;335559685&quot;:1440,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Courier New&quot;,&quot;469769242&quot;:[9675],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;o&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1"><span data-contrast="none">The maximum amount the student can be offered/earn through Summer FWS is the student&#8217;s summer cost of attendance minus any other grants or scholarships they are receiving for the summer.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:120,&quot;335559740&quot;:259}">&#160;</span></li>
+<li aria-setsize="-1" data-aria-level="2" data-aria-posinset="2" data-font="Courier New" data-leveltext="o" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559684&quot;:-2,&quot;335559685&quot;:1440,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Courier New&quot;,&quot;469769242&quot;:[9675],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;o&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1"><span data-contrast="none">These students are limited to working no more than 20 hours per week.&#160;&#160;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:160,&quot;335559740&quot;:259}">&#160;</span></li>
+<li aria-setsize="-1" data-aria-level="2" data-aria-posinset="3" data-font="Courier New" data-leveltext="o" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559684&quot;:-2,&quot;335559685&quot;:1440,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Courier New&quot;,&quot;469769242&quot;:[9675],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;o&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1"><span data-contrast="none">The amount offered and earned under Summer FWS is considered part of the student&#8217;s overall current year Financial Aid Package (2021 &#8211; 2022 for Summer 2022)&#160;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:160,&quot;335559740&quot;:259}">&#160;</span></li>
+</ul>
+<p aria-level="3"><strong><span data-contrast="none">Students who ARE NOT enrolled during the Summer Term:</span></strong><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:40,&quot;335559739&quot;:0,&quot;335559740&quot;:259}">&#160;</span></p>
+<p><span data-contrast="none">A student may earn FWS funds during a period of nonattendance, such as summer, if they are planning to attend the following period of enrollment (the fall term). Eligibility for Summer FWS for these students is dependent on their student&#8217;s FWS eligibility for the upcoming academic year (2022-2023 FAFSA for Summer 2022). In order to be considered for Summer FWS, these students must submit their financial aid application and all required documents prior to May 5</span><span data-contrast="none">th</span><span data-contrast="none">&#160; &#8211; </span><strong><span data-contrast="none">AND</span></strong><span data-contrast="none"> must have already registered for classes for the Fall term in order to have their eligibility reviewed.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559685&quot;:720,&quot;335559739&quot;:120,&quot;335559740&quot;:259}">&#160;</span></p>
+<ul>
+<li aria-setsize="-1" data-aria-level="2" data-aria-posinset="1" data-font="Courier New" data-leveltext="o" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559684&quot;:-2,&quot;335559685&quot;:1440,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Courier New&quot;,&quot;469769242&quot;:[9675],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;o&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1"><span data-contrast="none">The maximum amount the student can be offered/earn through Summer FWS is their upcoming year cost of attendance minus any other grants or scholarships they may receive.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:120,&quot;335559740&quot;:259}">&#160;</span></li>
+<li aria-setsize="-1" data-aria-level="2" data-aria-posinset="2" data-font="Courier New" data-leveltext="o" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559684&quot;:-2,&quot;335559685&quot;:1440,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Courier New&quot;,&quot;469769242&quot;:[9675],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;o&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1"><span data-contrast="none">These students may work up to 40 hours per week.&#160;&#160;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:120,&quot;335559740&quot;:259}">&#160;</span></li>
+<li aria-setsize="-1" data-aria-level="2" data-aria-posinset="3" data-font="Courier New" data-leveltext="o" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559684&quot;:-2,&quot;335559685&quot;:1440,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Courier New&quot;,&quot;469769242&quot;:[9675],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;o&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1"><span data-contrast="none">The amount earned through Summer FWS is considered part of the student&#8217;s aid package </span><strong><span data-contrast="none">for the upcoming year </span></strong><span data-contrast="none">(2022-2023 for Summer 2022)</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:160,&quot;335559740&quot;:259}">&#160;</span></li>
+</ul>
+<p><strong><span data-contrast="none">Impact of Summer FWS on Student&#8217;s Aid Package for the Upcoming Year (for non-enrolled students):</span></strong><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559685&quot;:720,&quot;335559739&quot;:160,&quot;335559740&quot;:259}">&#160;</span></p>
+<p><span data-contrast="none">The funds a student earns during the summer break (period of non-enrollment) are specifically designed to meet their educational expenses during the upcoming academic year.&#160; For students who earn FWS during this period of non-enrollment, the FWS funds are required (</span><i><span data-contrast="none">by federal regulations, under</span></i> <a href="https://www.nasfaa.org/part_675_federal_work-study_program#suba67525"><i><span data-contrast="none">34 CFR 675.25(b)</span></i></a><span data-contrast="none">) to be considered part of the student's financial aid package for the upcoming year.&#160;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559685&quot;:720,&quot;335559739&quot;:160,&quot;335559740&quot;:259}">&#160;</span></p>
+<p><span data-contrast="none">This means that a student's eligibility for other aid for the upcoming year </span><strong><i><span data-contrast="none">could be reduced</span></i></strong><span data-contrast="none"> due to the receipt of Summer FWS funds.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559685&quot;:720,&quot;335559739&quot;:160,&quot;335559740&quot;:259}">&#160;</span></p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="April 2022: Are Graduation Prizes or Post-Enrollment Awards Considered Estimated Financial Assistance (EFA) for the Prior Year?" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">April 2022: Are Graduation Prizes or Post-Enrollment Awards Considered Estimated Financial Assistance (EFA) for the Prior Year?</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p><strong><span data-contrast="auto">Scenario:</span></strong><span data-contrast="auto"> A department or college wants to give a monetary graduation prize to students, rather than offering the funds as a scholarship during the academic year.&#160; Do these funds need to be reported to the Office of Financial Aid &amp; Scholarships and included (retroactively) in the student&#8217;s financial aid package as estimated financial aid assistance?. </span><span>&#160;<br/></span><span>&#160;<br/></span><span data-contrast="auto">Answer: Yes, according to guidance from the U.S. Department of Education (ED), the funds would be considered to be estimated financial assistance (EFA) and must be reported to the Office of Financial Aid &amp; Scholarships. </span><a href="https://www.nasfaa.org/part_673_campus-based_common_provisions#subb6735"><span data-contrast="none">34 CFR 673.5(c)</span></a><span data-contrast="auto">&#8239;and </span><a href="https://www.nasfaa.org/Part_685_Federal_Direct_Loan_Program#suba685102"><span data-contrast="none">685.102(b)</span></a><span data-contrast="auto"> specify the definition of&#8239;EFA as:</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}">&#160;</span></p>
+<p><span data-contrast="auto">The estimated amount of assistance for a period of enrollment that a student (or a parent on behalf of a student) will receive from federal, state, institutional, or other sources, such as scholarships, grants, net earnings from need-based employment, or loans, </span><strong><span data-contrast="auto">including</span></strong> <strong><span data-contrast="auto">but not limited to</span></strong><span data-contrast="auto">, among other things, any educational benefits </span><strong><span data-contrast="auto">paid because of enrollment in a postsecondary education institution</span></strong><span data-contrast="auto">, or to cover postsecondary education expenses.&#160;&#160;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559685&quot;:720,&quot;335559739&quot;:160,&quot;335559740&quot;:259}">&#160;</span></p>
+<p><span data-contrast="auto">Since the money is paid because of postsecondary enrollment it must be included as EFA and Federal and State financial aid adjustments would need to occur to reduce any overaward (receipt of aid that exceeds the student&#8217;s Cost of Attendance &#8211; or financial need)</span><span data-contrast="none">.&#160;</span></p>
+<p><strong><span data-contrast="none">A note of caution from the U.S. Department of Education: </span></strong><span data-contrast="none">Post-enrollment and graduation awards are EFA if they are awarded due to postsecondary enrollment or to pay postsecondary costs (even retroactively).</span> <span data-contrast="none">If the award in question is from the institution itself, or if the institution has any say in how that award is set up, an auditor and program reviewer </span><strong><i><span data-contrast="none">will question whether the institution is</span></i></strong> <strong><i><span data-contrast="none">intentionally delaying</span></i></strong><span data-contrast="none"> the receipt of the award in order to circumvent the intent of the&#8239;law and&#8239;regulation (which has the force of law) related to the treatment of EFA.&#160; This could jeopardize the institution&#8217;s continued participation in the federal student aid programs as well as state aid programs.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}">&#160;</span></p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="March 2022: Can the Orientation fee be paid with a student's financial aid? " class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">March 2022: Can the Orientation fee be paid with a student's financial aid? </h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p><strong><span data-contrast="auto">Scenario:</span></strong><span data-contrast="auto"> All incoming Undergraduate Students must attend New Student Orientation, which has a fee of $87 that is charged to all participants. Can the Orientation Fee be covered by a student's Fall semester financial aid?</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}">&#160;</span></p>
+<p><strong><span data-contrast="auto">Answer:</span></strong><span data-contrast="auto">&#8239;Unfortunately, no.&#160;&#160;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}">&#160;</span></p>
+<p><span data-contrast="auto">Federal (Title IV) financial aid funds can be applied towards institutional charges under </span><a href="https://www.nasfaa.org/Part_668_General_Provisions#subk668164d1"><span>34 CFR 668.164(d)(1)</span></a><span data-contrast="auto">&#8239;</span><strong><span data-contrast="auto">if the charges are</span></strong><span data-contrast="auto"> current and allowable.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}">&#160;</span></p>
+<p><span data-contrast="auto">To be considered an allowable charge, the fee must be charged to a specific block of students and be related to the student's educational pursuit. The orientation </span><strong><span data-contrast="auto">activity</span></strong><span data-contrast="auto"> must take place within the academic year to be considered a current charge.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}">&#160;</span></p>
+<p><span data-contrast="auto">While the Orientation Fee </span><strong><span data-contrast="auto">is</span></strong><span data-contrast="auto"> charged to a specific group of students (all incoming Undergraduate students), the Orientation activity takes place during the summer &#8211; which is outside (prior) to the start of the academic year.&#160;</span></p>
+<p><span><strong>Additionally</strong></span><span>, under </span><a href="https://www.nasfaa.org/Part_668_General_Provisions#subc66832"><span>34 CFR 668.32</span></a><span> a student is considered a </span><span><strong>regular student</strong></span><span> if they have been accepted into an eligible program of study. At Cal Poly Pomona, students are considered accepted for admission </span><span><strong>effective </strong></span><span>with the</span><span><strong> Fall term (or Spring </strong></span><span>&#8211; for Spring admits). As such, the Orientation Activity is taking place prior to when the students meet the definition of a </span><span><strong>regular student</strong></span><span>. The student</span><span>'</span><span>s financial aid cannot be applied to charges for an activity that occurs prior to when they meet the definition of a regular student.&#160;&#160;&#160;&#160;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}">&#160;</span></p>
+<p><span>As a result, at Cal Poly Pomona the orientation fee cannot be included in the student's Financial Aid Cost of Attendance budget </span><span><strong>nor</strong></span><span> paid with federal or state financial aid</span><span data-contrast="none">.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}">&#160;</span></p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="February 2022: Are Emergency Grants or Gift Cards from a department required to be coordinated with the Office of Financial Aid &amp; Scholarships in all cases?   " class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">February 2022: Are Emergency Grants or Gift Cards from a department required to be coordinated with the Office of Financial Aid &amp; Scholarships in all cases?   </h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p><span data-contrast="auto">Yes, </span><strong><span data-contrast="auto">emergency aid or grant programs</span></strong><span data-contrast="auto"> administered by the school are considered estimated financial assistance (EFA), and must be coordinated with the financial aid office to ensure a student receiving such assistance is not overawarded with Title IV aid.&#160; This is true whether the emergency aid is from the </span><i><span data-contrast="auto">Broncos Care Basic Needs Program</span></i><span data-contrast="auto"> or is from a specific College or Department wishing to provide emergency grant aid.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}">&#160;</span></p>
+<p><span data-contrast="auto">The rules governing financial aid are such that </span><strong><i><span data-contrast="auto">any support</span></i></strong><span data-contrast="auto"> that comes from the campus (</span><strong><span data-contrast="auto">including gift cards</span></strong><span data-contrast="auto">)</span> <span data-contrast="auto">is considered estimated financial assistance (EFA) and must be incorporated into the financial aid package. This also applies to gift cards or certificates for groceries, Amazon, VISA, etc.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}">&#160;</span></p>
+<p><span data-contrast="auto">The coordination of resources and COA is required by federal regulations. Additionally, CSU has established policy regarding the required coordination of monetary awards, grants, scholarships and stipends with the student&#8217;s other financial aid:&#160;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}">&#160;</span></p>
+<ul>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="&#61623;" data-listid="4"><span data-contrast="auto">The definition of </span><strong><span data-contrast="auto">estimated financial assistance</span></strong><span data-contrast="auto"> is in </span><a href="https://www.nasfaa.org/Part_685_Federal_Direct_Loan_Program#suba685102b"><span data-contrast="none">34 CFR&#8239;685.102(b)</span></a><span data-contrast="none">.</span><span data-contrast="auto"> Generally speaking, assistance provided to a student because of his or her enrollment in a postsecondary education program is EFA. Funds from the institution </span><strong><span data-contrast="auto">are not excluded</span></strong><span data-contrast="auto"> from the definition of EFA. Neither are funds awarded on the basis of an emergency experienced by the student. The school </span><strong><span data-contrast="auto">must treat the funds as EFA</span></strong><span data-contrast="auto">.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}">&#160;</span></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="2" data-font="Symbol" data-leveltext="&#61623;" data-listid="4"><span data-contrast="auto">Section 668.16(b)(3) of the administrative capability regulations requires all campus offices to report to the financial aid office any information which may have bearing on a student's receipt of Title IV federal student aid. [34 CFR </span><a href="https://www.nasfaa.org/Part_668_General_Provisions#subb66816"><span data-contrast="none">668.16(b)(3)</span></a><span data-contrast="auto">; </span><a href="https://www.nasfaa.org/part_673_campus-based_common_provisions#subb6735"><span data-contrast="none">673.5</span></a><span data-contrast="auto">; </span><a href="https://www.nasfaa.org/Part_685_Federal_Direct_Loan_Program#subb685201"><span data-contrast="none">685.201</span></a><span data-contrast="auto">]</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}">&#160;</span></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="3" data-font="Symbol" data-leveltext="&#61623;" data-listid="4"><a href="https://www.calstate.edu/csu-system/administration/codedmemos/Academic%20Affairs%20Coded%20Memos/AA-2004-15.pdf"><strong><span data-contrast="none">CSU Academic Affairs Coded Memo AA-2004-15 (PDF)</span></strong></a><span data-contrast="auto"> issued May 2004, in response to audit findings, reminded campuses of the need to coordinate information and resources related to student financial aid eligibility.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}">&#160;</span></li>
+</ul>
+<ul>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="&#61623;" data-listid="4"><a href="https://www.calstate.edu/csu-system/administration/codedmemos/Academic%20Affairs%20Coded%20Memos/ASA-2016-28.pdf"><strong><span data-contrast="none">CSU Academic Affairs Coded Memo ASA 2016-28 (PDF)</span></strong></a><span data-contrast="auto"> issued November 2016 (and revised December 2021) reiterated that if a student receives awards that would cause their total aid </span><strong><i><span data-contrast="auto">from all sources</span></i></strong><span data-contrast="auto"> to exceed the COA, then adjustments must be made. The Memo specified that, &#8220;in general, unless the award is considered wages, it is other financial assistance and must be factored in.&#8221;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:160,&quot;335559739&quot;:120,&quot;335559740&quot;:259}">&#160;</span></li>
+</ul>
+<p aria-level="2"><strong><span data-contrast="none">Reporting grants or gift cards to the Office of Financial Aid &amp; Scholarships HELPS students!</span></strong><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:40,&quot;335559739&quot;:0,&quot;335559740&quot;:259}">&#160;</span></p>
+<p><span data-contrast="auto">In some cases, the institutional emergency grant or gift card is awarded because the student is experiencing an unanticipated expense. Another reason for the financial aid office to be made aware of these situations and student circumstances is that our office can determine whether the use of </span><strong><span data-contrast="auto">professional judgment (PJ)</span></strong><span data-contrast="auto"> would be appropriate.&#160;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}">&#160;</span></p>
+<ul>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="2" data-font="Wingdings" data-leveltext="&#61656;" data-listid="5"><span data-contrast="auto">For example, the Financial Aid staff may determine, based on the circumstances that the student is experiencing that an override to the student&#8217;s dependency status &#8211; or an adjustment to their family&#8217;s income may be warranted.&#160; In these instances &#8211; the student could end up being </span><strong><span data-contrast="auto">eligible for additional grants</span></strong><span data-contrast="auto"> or other need-based aid.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:120,&quot;335559740&quot;:259}">&#160;</span></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="3" data-font="Wingdings" data-leveltext="&#61656;" data-listid="5"><span data-contrast="auto">Alternatively, our office might determine that an increase to the student's cost of attendance (COA) is warranted. The COA increase </span><strong><span data-contrast="auto">might offset the EFA</span></strong><span data-contrast="auto">, with the net effect that the student's eligibility for Title IV funds is not impacted. As with all PJ decisions, documentation of the student's circumstances and the rationale of the decision must be maintained.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:120,&quot;335559740&quot;:259}">&#160;</span></li>
+</ul></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="January 2022: How does pursuit of a Double-Major impact an undergraduate student’s financial aid?" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">January 2022: How does pursuit of a Double-Major impact an undergraduate student’s financial aid?</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p><span data-contrast="auto">Students do not receive additional financial aid eligibility when pursuing more than one major. Additionally, once students meet the degree requirements to complete one of the majors, they are considered to have earned a degree, even if they are still completing the requirements for their other major.&#160; As a result, they are not eligible to receive any further federal or state aid.&#160;</span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:240}"> <br/></span></p>
+<p><span data-contrast="auto">For example, a student is pursuing a Bachelor&#8217;s of Science degree with majors in Chemical Engineering and Chemistry. At the end of spring semester the student meets the requirements to complete the Chemical Engineering degree, but will not finish the Chemistry major until after the end of the fall semester. This student is not eligible for any federal, state of California, or Cal Poly Pomona Grant aid (including the State University Grant) for the fall semester, because the student is considered to have already earned a first Bachelor&#8217;s degree.&#160; The student could still be eligible for Scholarships (from institutional or external sources)&#160; or for private education loans.</span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:240}"><br/></span></p>
+<p><span data-contrast="auto">Students with more than one major must also adhere to the Cal Poly Pomona </span><a href="https://www.cpp.edu/financial-aid/resources/understanding-sap.shtml"><span data-contrast="none">Satisfactory Academic Progress Standards for Aid Recipients </span></a><span data-contrast="auto">(including the Maximum Time Frame Standard) and are limited by </span><a href="https://studentaid.gov/understand-aid/types/loans/subsidized-unsubsidized"><span data-contrast="none">Aggregate Loan Limits</span></a><span data-contrast="auto"> for Federal Direct Loans.&#160;</span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:240}">&#160;</span></p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                         
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+        
+    
+            
+                
+                    
+               
+
+</div>
+
+
+    <div class="footer__gradient-section">
+<div class="container">
+<div class="row">
+
+     <div class="col-12 col-lg-4">
+        <h2 class="footer__gradient-header">Financial Aid and Scholarships</h2>
+      </div>
+      <div class="col-12 col-lg-8 footer__gradient-socials-wrapper">
+        <h3 class="footer__gradient-social-header button2__transducer">Follow Us:</h3>
+        <div class="footer__gradient-socials">
+              <a href="https://www.instagram.com/cpp.admissions/" target="_blank">
+            <span aria-live="assertive" class="screen-reader-text">Instagram opens a new window</span>
+            <img alt="Instagram" src="/common/green-and-gold/assets/icons/social/insta-reverse.svg"/>
+          </a>
+                               </div>
+ </div>
+ <style>
+    .footer__rip-wrapper {
+         background: none;
+     }
+ </style>
+        <script src="https://ai.ocelotbot.com/embed/standard/7b54fd2d-1135-40d3-9b64-110becef5e33" type="text/javascript"></script>
+
+
+
+
+</div>
+</div>
+</div>
+
+
+
+
+
+
+         
+<style>
+     @media screen and (min-width: 992px) {
+    .mini-footer .footer__socials-buttons {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}
+
+.mini-footer .button1__transducer {
+    font-size: 12px;
+    letter-spacing: .5px;
+}
+
+.mini-footer .button {
+	margin-top: 0;
+    padding: 8px 20px 8px 20px;
+
+}
+.mini-footer .footer-line {
+    border-top: thin solid #a4d65e;
+    margin-top: 39px;
+    padding-top: 15px;
+}
+ </style>
+<footer class="footer mini-footer">
+    <div class="footer__rip-wrapper">
+        <img class="footer__rip" alt="" src="/common/green-and-gold/assets/images/green-rip.svg" alt="Ripped green paper." />
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-2">
+                <div class="footer__logo-wrapper">
+                    <a href="/" aria-label="CPP Logo">
+                        <img class="footer__logo" src="/common/green-and-gold/assets/logos/cpp_primary_1c_gold_rgb.png" alt="Cal Poly Pomona logo, building with a palm tree." />
+                    </a>
+                </div>
+            </div>
+            <div class="col-12 col-lg-6 offset-lg-4">
+                <div class="footer__socials">
+                    <div class="footer__socials-buttons">
+                        <a class="button button__secondary button1__transducer" href="/apply/">Apply</a>
+                        <a class="button button__secondary button1__transducer" href="https://maps.cpp.edu/">Maps</a>
+                        <a class="button button__secondary button1__transducer" href="/outreach/tours.shtml">Visit</a>
+                        <a class="button button__secondary button1__transducer" href="/contact.shtml">Contact Us</a>
+                    </div>
+                    <div class="footer__socials-icons">
+                        <a href="https://www.instagram.com/calpolypomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram opens a new window" />
+                        </a>
+                        <a href="https://www.linkedin.com/school/cal-poly-pomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn opens a new window" />
+                        </a>
+                        <a href="https://www.youtube.com/user/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="YouTube opens a new window" />
+                        </a>
+                        <a href="https://www.facebook.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook opens a new window" />
+                        </a>
+                        <a href="https://twitter.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X opens a new window" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 footer-line">
+                <div class="footer__errata">
+                    <p class="footer__copyright" style="line-height: 1.8em">Copyright ©2025 California State Polytechnic University, Pomona.  All Rights Reserved 
+                        
+                        <br />A campus of 
+                        
+                        <a class="footer__errata-link" style="display: inline" href="https://www.calstate.edu/">The California State University</a>.
+                    
+                    </p>
+                    <div class="footer__errata-links">
+                        <a class="footer__errata-link" href="https://www.cpp.edu/website-feedback.shtml">Feedback</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/privacy.shtml">Privacy</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/accessibility.shtml">Accessibility</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/file-viewers.shtml">Document Readers</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer__gradient-bottom"></div>
+</footer>
+
+    </body>
+</html>

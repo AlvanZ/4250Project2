@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<!-- Required meta tags -->
+		<meta charset="utf-8"/>
+		<meta content="width=device-width, initial-scale=1" name="viewport"/>
+		<title>
+			Walkability and Urban Sprawls: How Jayvion Campbell Weaves Art and Accessibility into Architecture
+		</title>
+		
+		
+		<title>Walkability and Urban Sprawls: How Jayvion Campbell Weaves Art and Accessibility into Architecture</title>
+<!--  Essential META Tags -->
+<meta content="Walkability and Urban Sprawls: How Jayvion Campbell Weaves Art and Accessibility into Architecture" property="og:title"/>
+<meta content="article" property="og:type"/>
+<meta content="https://www.cpp.edu/news/img/news/2025/04/javion-cambell-6.jpg" property="og:image"/>
+<meta content="https://www.cpp.edu/news/content/2025/04/walkability-and-urban-sprawls-how-jayvion-campbell-weaves-art-and-accessibility-into-architecture/index.shtml" property="og:url"/>
+<!-- Twitter Meta Tags -->
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="cpp.edu" property="twitter:domain"/>
+<meta content="ttps://www.cpp.edu/news/content/2025/04/walkability-and-urban-sprawls-how-jayvion-campbell-weaves-art-and-accessibility-into-architecture/index.shtml" property="twitter:url"/>
+<meta content="Walkability and Urban Sprawls: How Jayvion Campbell Weaves Art and Accessibility into Architecture" name="twitter:title"/>
+<meta content="https://www.cpp.edu/news/img/news/2025/04/javion-cambell-6.jpg" name="twitter:image"/>
+<meta content="Javion Campbell" name="twitter:image:alt"/>
+<!-- Google search thumbnail -->
+
+  <PageMap>
+    <DataObject type="thumbnail">
+      <Attribute name="src" value="https://www.cpp.edu/news/img/news/2025/04/javion-cambell-6.jpg"/>
+      <Attribute name="width" value="150"/>
+      <Attribute name="height" value="120"/>
+    </DataObject>
+  </PageMap>
+
+
+<meta content="https://www.cpp.edu/news/img/news/2025/04/javion-cambell-6.jpg" name="thumbnail"/>
+		<!-- Google Tag Manager -->
+		
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSKJRNV');</script>
+
+		<!-- End Google Tag Manager -->
+		<!-- Bootstrap CSS -->
+		<link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" rel="stylesheet"/>
+		<link href="/news/inc/template/news.css" rel="stylesheet"/>
+		<script crossorigin="anonymous" defer="defer" integrity="sha384-FW78RPcSpi13vjx77nPWQIrQbNSLkPBopb0qGzLCxD2x4Kr6FA8V05C/6cpgkKPL" src="https://pro.fontawesome.com/releases/v5.10.1/js/all.js"></script>
+	</head>
+	<body>
+		<!-- Google Tag Manager (noscript) -->
+		<noscript>
+			<iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-PSKJRNV" style="display:none;visibility:hidden" width="0"></iframe>
+		</noscript>
+		<!-- End Google Tag Manager (noscript) -->
+		<div id="alert">
+</div>
+<div id="printheader">
+	<img class="w-100" src="/news/img/print-header.png" alt="print header, cpp news" />
+</div>
+<header id="wacheader">
+	<div id="newsgreenbar">
+		<h1>
+			<a href="/news/index.shtml"><span class="cppwhitetxt">CPP</span>
+			<span class="newsyellowtxt">NEWS</span></a>
+		</h1>
+	</div>
+	<div class="row d-flex align-items-center" id="newsgraybar">
+	    <div class="col-sm-3" id="cpp-logo">
+		<a href="https://www.cpp.edu">
+			<img id="cpplogo" src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png" alt="cal poly pomona">
+			</a>
+		</div>
+			<nav class="col-sm-6" id="newsnav">
+				<ul>
+					<li>
+						<a href="/news/all-news.shtml">News</a>
+					</li>
+					<li>
+						<a href="/news/social-media-directory.shtml">Social Media</a>
+					</li>
+					<li>
+						<a href="/news/for-the-media.shtml">For the Media</a>
+					</li>
+				</ul>
+			</nav>
+			<div class="col-sm-3" id="search">
+				<form action="/news/search.shtml" autocomplete="off" id="search-form" method="GET">
+					<label class="sr-only" for="searchbox">Search Box</label>
+					<input id="searchbox" name="q" type="text" placeholder="Search" />
+					<label class="sr-only" for="submit">Submit</label>
+					<button id="submit" name="submit" type="submit">
+						<svg fill="#008345" height="18" viewbox="0 0 13 13" width="18">
+							<title>search</title>
+							<path d="m4.8495 7.8226c0.82666 0 1.5262-0.29146 2.0985-0.87438 0.57232-0.58292 0.86378-1.2877 0.87438-2.1144 0.010599-0.82666-0.28086-1.5262-0.87438-2.0985-0.59352-0.57232-1.293-0.86378-2.0985-0.87438-0.8055-0.010599-1.5103 0.28086-2.1144 0.87438-0.60414 0.59352-0.8956 1.293-0.87438 2.0985 0.021197 0.8055 0.31266 1.5103 0.87438 2.1144 0.56172 0.60414 1.2665 0.8956 2.1144 0.87438zm4.4695 0.2115 3.681 3.6819-1.259 1.284-3.6817-3.7 0.0019784-0.69479-0.090043-0.098846c-0.87973 0.76087-1.92 1.1413-3.1207 1.1413-1.3553 0-2.5025-0.46363-3.4417-1.3909s-1.4088-2.0686-1.4088-3.4239c0-1.3553 0.4696-2.4966 1.4088-3.4239 0.9392-0.92727 2.0864-1.3969 3.4417-1.4088 1.3553-0.011889 2.4906 0.45771 3.406 1.4088 0.9154 0.95107 1.379 2.0924 1.3909 3.4239 0 1.2126-0.38043 2.2588-1.1413 3.1385l0.098834 0.090049z"></path>
+						</svg>
+					</button>
+				</form>
+			</div>
+		</div>
+	</header>
+		<div id="main">
+			
+
+    <article class="container">
+    <h1>Walkability and Urban Sprawls: How Jayvion Campbell Weaves Art and Accessibility into Architecture</h1>
+        
+     
+                                                                                                                                                                                                                                                                                                                                                                                                                                                          <ul class="tags">
+        
+        <li class="CollegeofEnvironmentalDesign"><a href="/news/all-news.shtml?category=3">College of Environmental Design</a></li>
+        
+                   
+                <li class="StudentSuccess"><a href="/news/all-news.shtml?category=20">Student Success</a></li>
+                                <li class="PolyX"><a href="/news/all-news.shtml?category=$cat13ndex">PolyX</a></li>
+                
+    </ul>
+    <p class="byline">April 22, 2025 | <a href="/news/all-news.shtml?author=CPP News Editor"><span class="cpp-byline">cpp</span> news editor</a></p>
+   <aside class="share">
+       <h2>Share</h2>
+       <ul>
+           <li>
+              <a href="#" onclick="copyLink();return false;" title="copy article link to clipboard"><i class="far fa-link" style="color: #31814b;"></i></a>
+           </li>
+          <li>
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.cpp.edu/news/content/2025/04/walkability-and-urban-sprawls-how-jayvion-campbell-weaves-art-and-accessibility-into-architecture/index.shtml" title="share this article on facebook"><i class="fab fa-facebook" style="color: #31814b;"></i></a>
+          </li> 
+           <li>
+            <a href="https://twitter.com/intent/tweet?text=https://www.cpp.edu/news/content/2025/04/walkability-and-urban-sprawls-how-jayvion-campbell-weaves-art-and-accessibility-into-architecture/index.shtml" title="share this article on twitter">
+                <svg xmlns="http://www.w3.org/2000/svg" class="bi bi-twitter-x" fill="currentColor" height="16" style="color: #31814b;" viewBox="0 0 16 16" width="16">
+  <path d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865z"/>
+</svg>
+           </a>
+          </li> 
+            <li>
+                
+            <a title="share this article on linked in" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.cpp.edu/news/content/2025/04/walkability-and-urban-sprawls-how-jayvion-campbell-weaves-art-and-accessibility-into-architecture/index.shtml"><i class="fab fa-linkedin-in" style="color: #31814b;"></i></a>
+                
+          </li> 
+        <li>
+            <a href="mailto:?subject=Check out this article from Cal Poly Pomona News&amp;body=Check out this article - Walkability and Urban Sprawls: How Jayvion Campbell Weaves Art and Accessibility into Architecture, https://www.cpp.edu/news/content/2025/04/walkability-and-urban-sprawls-how-jayvion-campbell-weaves-art-and-accessibility-into-architecture/index.shtml" title="Share by Email"><i class="fas fa-envelope" style="color: #31814b;"></i></a>
+          </li> 
+            <li>
+            <a href="#" onclick="window.print();return false;" title="Print this article"><i class="fas fa-print" style="color: #31814b;"></i></a>
+          </li> 
+       </ul>
+   </aside>
+                        <figure class="top-figure">
+                                 <img alt="Javion Campbell" class="w-100" src="../../../../img/news/2025/04/javion-cambell-6.jpg"/>
+                               
+                <figcaption>
+                    
+                </figcaption>
+            </figure>
+        
+                   
+    
+   
+    
+    
+                    <p>Art has always been part of Jayvion Campbell&#8217;s agenda. College, however, was not.</p>
+<p>Campbell grew up with a passion for art and creativity flowing through him, but his dream of becoming an animator was quickly dismissed by his parents. Campbell, however, was not ready to let go.</p>
+<p>&#8220;I thought,&#8221; he said, &#8220;maybe we can strike a balance.&#8221;</p>
+<p><img alt="Javion draws on a white board." class="image-300px-float-right" height="700" src="../../../../img/news/2025/04/javion-whiteboard-1.jpg" width="1100"/>That's how Campbell found architecture in high school, which he views as a way to help the world through design and creativity. Coupled with the Temecula resident&#8217;s infatuation with urban skylines and sprawl, he was inspired to pursue architecture and apply to Cal Poly Pomona.</p>
+<p>Campbell admires the layout and walkability of urban cities like San Francisco, Tokyo and Singapore, the city of his birth.</p>
+<p>Los Angeles, however, is one of many cities that Campbell says has unwalkable conditions and limited public transit options. As an architect, he hopes to make cities accessible and travelable for everyone.</p>
+<p>&#8220;My objective has always been to change the world with my art in some sort of way,&#8221; he said.</p>
+<h2>Nowhere to Somewhere</h2>
+<p>At CPP, Campbell was introduced to the on-campus chapter of <a href="https://www.cpp.edu/env/architecture/about/nomas.shtml">National Organization of Minority Architects</a> (NOMAS), which aims to advance minorities in the architecture field and diversity, equity, inclusion and representation in the industry.</p>
+<p><img alt="CPP NOMAS team." class="image-300px-float-left" height="700" src="../../../../img/news/2025/04/cpp-nomas-team-3.jpg" width="1100"/>Joining CPPNOMAS was a transformative experience for Campbell, who gained valuable networking skills and opportunities through the chapter and expanded his circle in the architecture field.</p>
+<p>He joined the CPPNOMAS team in the 2024 Barbara G. Laurie Student Design Competition, helping to design a multi-modal transit center to respond to the locals and residents who were displaced by the Highway to Nowhere, a failed infrastructure project in Baltimore that displaced a thriving, predominantly black community.</p>
+<p>The competition challenged more than 40 teams of students from across the country to design a transit hub, affordable housing and community spaces, while adhering to historic preservation guidelines.</p>
+<p>Cal Poly Pomona&#8217;s team of 20 spent six months on the project, winning first place in the Southern California region and securing a spot in nationals for the first time in university history.</p>
+<p>&#8220;Our concept was stitching or weaving the community back together, because there were so many communities and residents who were displaced because of the establishment of the highway,&#8221; said Campbell, who helped design and present the project at the competition in October 2024.</p>
+<p><img alt="Rendering of transit hub" class="image-300px-float-right" height="700" src="../../../../img/news/2025/04/highway-to-nowhere-2.jpg" width="1100"/>From the competition, Campbell took home more than just a spot at nationals. In working with a large group of people, he learned how to communicate with a sizable team and gained an appreciation for the importance of design decisions. This, coupled with competing against several schools across the nation are all opportunities that Campbell appreciates.</p>
+<p>&#8220;Going to Baltimore and seeing students from different schools in an entirely different environment from California was unforgettable,&#8221; Campbell said.</p>
+<h2>Become by Believing</h2>
+<p><img alt="NOMAS team photo in Baltimore" class="image-300px-float-left" height="700" src="../../../../img/news/2025/04/baltimore-trip-5.jpg" width="1100"/>While academically successful at Cal Poly Pomona, Campbell admitted to having trouble facing the pressure of pursing architecture. The major demands of several physical projects throughout the semester, along with constant critiques from professors and supervisors. With stressful deadlines and long hours spent on projects, Campbell had to sacrifice much of his time spent on drawing, video games and social activities.</p>
+<p>&#8220;The question if architecture was for me was definitely a question that I had first year,&#8221; he said. &#8220;I was trying to decide whether or not this would be for me, because I wasn&#8217;t 100 percent sure.&#8221;</p>
+<p>Campbell credits his peer-mentor Marco Zhou (&#8217;24, <a href="https://www.cpp.edu/env/architecture/index.shtml">architecture</a>) with helping him navigate the stress of the major, along with helping land his first internship with TOLO Architecture.</p>
+<p>Now, Campbell is designing a multifamily housing project in Santa Ana for a school project, which will be entered into a competition alongside his classmates.</p>
+<p>&#8220;I don&#8217;t think I was born to do architecture, but I can see myself in this career even 30 to 50 years down the line. I can see myself doing this, and that&#8217;s why I love to do it.&#8221;</p>
+<p>To see how Jayvion and other Broncos become by doing, watch the video and find more stories <a href="https://www.cpp.edu/aboutcpp/become-by-doing.shtml">here</a>.</p> 
+    
+                                 
+            
+    
+    
+         
+<div id="sitetags">
+    <h2>Tags </h2>
+    <ul>
+                   <li><a href="/news/all-news.shtml?tag=architecture">architecture</a></li>
+                   <li><a href="/news/all-news.shtml?tag=College of Environmental Design">College of Environmental Design</a></li>
+                   <li><a href="/news/all-news.shtml?tag=Jayvion Campbell">Jayvion Campbell</a></li>
+                   <li><a href="/news/all-news.shtml?tag=National Organization of Minority Architects">National Organization of Minority Architects</a></li>
+                   <li><a href="/news/all-news.shtml?tag=NOMAS">NOMAS</a></li>
+                   <li><a href="/news/all-news.shtml?tag=CPPNOMAS">CPPNOMAS</a></li>
+                   <li><a href="/news/all-news.shtml?tag=2024 Barbara G. Laurie Student Design Competition">2024 Barbara G. Laurie Student Design Competition</a></li>
+                   <li><a href="/news/all-news.shtml?tag=Marco Zhou">Marco Zhou</a></li>
+                   <li><a href="/news/all-news.shtml?tag=TOLO Architecture">TOLO Architecture</a></li>
+                   <li><a href="/news/all-news.shtml?tag=students">students</a></li>
+            </ul>
+</div>         
+</article>
+
+
+
+
+		</div>
+		<footer>
+			<section class="container" id="bottom-nav">
+	<div class="row">
+		<div class="card col-md-3 news-card">
+			<div class="card-body">
+				<h2 class="card-title">News</h2>
+				<ul>
+					<li>
+						<a class="card-link" href="/news/all-news.shtml">View All News</a>
+					</li>
+						<li>
+						<a class="card-link" href="/news/browse-by-topic.shtml">Browse by Topic</a>
+					</li>
+						<li>
+						<a class="card-link" href="https://www.cpp.edu/stratcomm/cpp-news-and-stories.shtml">Submit a Story Idea</a>
+					</li>
+				</ul>
+				
+		
+			</div>
+		</div>
+		<div class="card social-card col-md-3">
+			<div class="card-body">
+				<h2 class="card-title">Social Media</h2>
+				<ul>
+					<li>
+						<a class="card-link" href="/news/social-media-directory.shtml">Social Media Directory</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="card press-card col-md-3">
+			<div class="card-body">
+				<h2 class="card-title">For the Media</h2>
+				<ul>
+					<li>
+						<a class="card-link" href="/news/for-the-media.shtml">Media Relations</a>
+					</li>
+					<li>
+						<a class="card-link" href="https://experts.cpp.edu/" target="_blank">Experts Database 
+                            <svg title="Opens in new window"
+										xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-box-arrow-up-right" viewBox="0 0 16 16">
+										<path fill-rule="evenodd" d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5"/>
+										<path fill-rule="evenodd" d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0z"/>
+									</svg>
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+				<div class="card publications-card col-md-3">
+					<div class="card-body">
+						<h2 class="card-title">Publications</h2>
+						<ul>
+							<li>
+								<a class="card-link" href="https://www.cpp.edu/cppmag/" target="_blank" >CPP Magazine 
+									<svg title="Opens in new window"
+										xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-box-arrow-up-right" viewBox="0 0 16 16">
+										<path fill-rule="evenodd" d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5"/>
+										<path fill-rule="evenodd" d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0z"/>
+									</svg>
+								</a>
+							</li>
+							<li>
+								<a class="card-link" href="https://broncomag.cpp.edu/"  target="_blank">Bronco Digital Magazine 
+        											<svg title="Opens in new window"
+												xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-box-arrow-up-right" viewBox="0 0 16 16">
+												<path fill-rule="evenodd" d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5"/>
+												<path fill-rule="evenodd" d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0z"/>
+											</svg>
+										</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section>
+				<footer class="container-fluid">
+					<div class="row">
+						<img class="footer-logo" src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png" alt="calpoly pomona">
+							<p class="footer-address">3801 W. TEMPLE AVE. POMONA, CA 91768</p>
+					  
+    							<ul id="footer-social">
+                                  <li>
+                                    <a href="https://www.facebook.com/calpolypomona"><i class="fab fa-facebook"></i><span class="sr-only">Facebook</span></a>
+                                  </li>
+                                   <li>
+                                    <a href="https://www.instagram.com/calpolypomona"><i class="fab fa-instagram"></i><span class="sr-only">Instagram</span></a>
+                                  </li> 
+                                   <li>
+                                    <a href="https://www.youtube.com/user/calpolypomona"><i class="fab fa-youtube-square"></i><span class="sr-only">Youtube</span></a>
+                                  </li> 
+                                   <li>
+                                    <a href="https://www.twitter.com/calpolypomona">
+                                    <svg style="margin-top: -5px;" xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-twitter-x" viewBox="0 0 16 16">
+  <path d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865z"/>
+</svg>    
+                                    <span class="sr-only">Twitter</span></a>
+                                  </li> 
+                                    <li>
+                                    <a href="https://www.linkedin.com/edu/school?id=17815"><i class="fab fa-linkedin-in"></i><span class="sr-only">Linked In</span></a>
+                                  </li> 
+                               </ul>
+                           
+							<p class="footer-bottom"><a href="https://www.cpp.edu/stratcomm/">CPP News is managed by the Department of Strategic Communications.</a></p>
+						</div>
+					</footer>
+<script>
+    
+    function copyLink(copyText) {
+          // Select the text field
+          copyText = window.location.href;
+          navigator.clipboard.writeText(copyText);
+          // Alert the copied text
+          alert("Copied the article link: " + copyText);
+}
+</script>
+
+		</footer>
+		<script crossorigin="anonymous" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" type="text/javascript"></script>
+		<script crossorigin="anonymous" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+		<script src="/news/_files/js/functions.js" type="text/javascript"></script>
+	</body>
+</html>

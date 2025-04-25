@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<!-- Required meta tags -->
+		<meta charset="utf-8"/>
+		<meta content="width=device-width, initial-scale=1" name="viewport"/>
+		<title>
+			Q&amp;A: Alumna Pamela Galera Discusses her Journey in Landscape Architecture
+		</title>
+		
+		
+		<title>Q&amp;A: Alumna Pamela Galera Discusses her Journey in Landscape Architecture</title>
+<!--  Essential META Tags -->
+<meta content="Q&amp;A: Alumna Pamela Galera Discusses her Journey in Landscape Architecture" property="og:title"/>
+<meta content="article" property="og:type"/>
+<meta content="https://www.cpp.edu/news/img/news/2024/08/galera-pamela10.gif" property="og:image"/>
+<meta content="https://www.cpp.edu/news/content/2024/08/qa-alumna-pamela-galera-discusses-her-journey-in-landscape-architecture/index.shtml" property="og:url"/>
+<!-- Twitter Meta Tags -->
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="cpp.edu" property="twitter:domain"/>
+<meta content="ttps://www.cpp.edu/news/content/2024/08/qa-alumna-pamela-galera-discusses-her-journey-in-landscape-architecture/index.shtml" property="twitter:url"/>
+<meta content="Q&amp;A: Alumna Pamela Galera Discusses her Journey in Landscape Architecture" name="twitter:title"/>
+<meta content="https://www.cpp.edu/news/img/news/2024/08/galera-pamela10.gif" name="twitter:image"/>
+<meta content="Pamela Galera" name="twitter:image:alt"/>
+<!-- Google search thumbnail -->
+
+  <PageMap>
+    <DataObject type="thumbnail">
+      <Attribute name="src" value="https://www.cpp.edu/news/img/news/2024/08/galera-pamela10.gif"/>
+      <Attribute name="width" value="150"/>
+      <Attribute name="height" value="120"/>
+    </DataObject>
+  </PageMap>
+
+
+<meta content="https://www.cpp.edu/news/img/news/2024/08/galera-pamela10.gif" name="thumbnail"/>
+		<!-- Google Tag Manager -->
+		
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSKJRNV');</script>
+
+		<!-- End Google Tag Manager -->
+		<!-- Bootstrap CSS -->
+		<link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" rel="stylesheet"/>
+		<link href="/news/inc/template/news.css" rel="stylesheet"/>
+		<script crossorigin="anonymous" defer="defer" integrity="sha384-FW78RPcSpi13vjx77nPWQIrQbNSLkPBopb0qGzLCxD2x4Kr6FA8V05C/6cpgkKPL" src="https://pro.fontawesome.com/releases/v5.10.1/js/all.js"></script>
+	</head>
+	<body>
+		<!-- Google Tag Manager (noscript) -->
+		<noscript>
+			<iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-PSKJRNV" style="display:none;visibility:hidden" width="0"></iframe>
+		</noscript>
+		<!-- End Google Tag Manager (noscript) -->
+		<div id="alert">
+</div>
+<div id="printheader">
+	<img class="w-100" src="/news/img/print-header.png" alt="print header, cpp news" />
+</div>
+<header id="wacheader">
+	<div id="newsgreenbar">
+		<h1>
+			<a href="/news/index.shtml"><span class="cppwhitetxt">CPP</span>
+			<span class="newsyellowtxt">NEWS</span></a>
+		</h1>
+	</div>
+	<div class="row d-flex align-items-center" id="newsgraybar">
+	    <div class="col-sm-3" id="cpp-logo">
+		<a href="https://www.cpp.edu">
+			<img id="cpplogo" src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png" alt="cal poly pomona">
+			</a>
+		</div>
+			<nav class="col-sm-6" id="newsnav">
+				<ul>
+					<li>
+						<a href="/news/all-news.shtml">News</a>
+					</li>
+					<li>
+						<a href="/news/social-media-directory.shtml">Social Media</a>
+					</li>
+					<li>
+						<a href="/news/for-the-media.shtml">For the Media</a>
+					</li>
+				</ul>
+			</nav>
+			<div class="col-sm-3" id="search">
+				<form action="/news/search.shtml" autocomplete="off" id="search-form" method="GET">
+					<label class="sr-only" for="searchbox">Search Box</label>
+					<input id="searchbox" name="q" type="text" placeholder="Search" />
+					<label class="sr-only" for="submit">Submit</label>
+					<button id="submit" name="submit" type="submit">
+						<svg fill="#008345" height="18" viewbox="0 0 13 13" width="18">
+							<title>search</title>
+							<path d="m4.8495 7.8226c0.82666 0 1.5262-0.29146 2.0985-0.87438 0.57232-0.58292 0.86378-1.2877 0.87438-2.1144 0.010599-0.82666-0.28086-1.5262-0.87438-2.0985-0.59352-0.57232-1.293-0.86378-2.0985-0.87438-0.8055-0.010599-1.5103 0.28086-2.1144 0.87438-0.60414 0.59352-0.8956 1.293-0.87438 2.0985 0.021197 0.8055 0.31266 1.5103 0.87438 2.1144 0.56172 0.60414 1.2665 0.8956 2.1144 0.87438zm4.4695 0.2115 3.681 3.6819-1.259 1.284-3.6817-3.7 0.0019784-0.69479-0.090043-0.098846c-0.87973 0.76087-1.92 1.1413-3.1207 1.1413-1.3553 0-2.5025-0.46363-3.4417-1.3909s-1.4088-2.0686-1.4088-3.4239c0-1.3553 0.4696-2.4966 1.4088-3.4239 0.9392-0.92727 2.0864-1.3969 3.4417-1.4088 1.3553-0.011889 2.4906 0.45771 3.406 1.4088 0.9154 0.95107 1.379 2.0924 1.3909 3.4239 0 1.2126-0.38043 2.2588-1.1413 3.1385l0.098834 0.090049z"></path>
+						</svg>
+					</button>
+				</form>
+			</div>
+		</div>
+	</header>
+		<div id="main">
+			<article class="container">
+    <h1>Q&amp;A: Alumna Pamela Galera Discusses her Journey in Landscape Architecture</h1>
+        
+     
+                                                                                                                                                                                                                                                                                                                                                                                                                                                      <ul class="tags">
+        
+        <li class="CollegeofEnvironmentalDesign"><a href="/news/all-news.shtml?category=3">College of Environmental Design</a></li>
+        
+                   
+                <li class="Alumni"><a href="/news/all-news.shtml?category=9">Alumni</a></li>
+                        
+    </ul>
+    <p class="byline">August 14, 2024 | <a href="/news/all-news.shtml?author=Ana Cerna Martinez">ana cerna martinez</a></p>
+   <aside class="share">
+       <h2>Share</h2>
+       <ul>
+           <li>
+              <a href="#" onclick="copyLink();return false;" title="copy article link to clipboard"><i class="far fa-link" style="color: #31814b;"></i></a>
+           </li>
+          <li>
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.cpp.edu/news/content/2024/08/qa-alumna-pamela-galera-discusses-her-journey-in-landscape-architecture/index.shtml" title="share this article on facebook"><i class="fab fa-facebook" style="color: #31814b;"></i></a>
+          </li> 
+           <li>
+            <a href="https://twitter.com/intent/tweet?text=https://www.cpp.edu/news/content/2024/08/qa-alumna-pamela-galera-discusses-her-journey-in-landscape-architecture/index.shtml" title="share this article on twitter">
+                <svg xmlns="http://www.w3.org/2000/svg" class="bi bi-twitter-x" fill="currentColor" height="16" style="color: #31814b;" viewBox="0 0 16 16" width="16">
+  <path d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865z"/>
+</svg>
+           </a>
+          </li> 
+            <li>
+                
+            <a title="share this article on linked in" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.cpp.edu/news/content/2024/08/qa-alumna-pamela-galera-discusses-her-journey-in-landscape-architecture/index.shtml"><i class="fab fa-linkedin-in" style="color: #31814b;"></i></a>
+                
+          </li> 
+        <li>
+            <a href="mailto:?subject=Check out this article from Cal Poly Pomona News&amp;body=Check out this article - Q&amp;A: Alumna Pamela Galera Discusses her Journey in Landscape Architecture, https://www.cpp.edu/news/content/2024/08/qa-alumna-pamela-galera-discusses-her-journey-in-landscape-architecture/index.shtml" title="Share by Email"><i class="fas fa-envelope" style="color: #31814b;"></i></a>
+          </li> 
+            <li>
+            <a href="#" onclick="window.print();return false;" title="Print this article"><i class="fas fa-print" style="color: #31814b;"></i></a>
+          </li> 
+       </ul>
+   </aside>
+                        <figure class="top-figure">
+                                 <img alt="Pamela Galera" class="w-100" src="../../../../img/news/2024/08/galera-pamela10.gif"/>
+                               
+                <figcaption>
+                    
+                </figcaption>
+            </figure>
+        
+                        
+       
+    
+                    <p>In college, Pamela Galera (&#8216;92, landscape architecture) made a name for herself in the <a href="https://www.cpp.edu/env/landscape-architecture/index.shtml">landscape architecture department</a>, serving as the president of Cal Poly Pomona&#8217;s student chapter of the American Society of Landscape Architects (ASLA) from 1990 to 1992. Although becoming a landscape architect wasn&#8217;t&#160;her initial career plan, the director of Riverside Parks, Recreation and Community Services soon found that she had a passion for it.</p>
+<p>While at CPP, Galera had a class project involving the Los Angeles River. That <span>experience helped lay the foundation for several major professional projects along the Santa Ana River, where</span> she<span> designed parks, bike paths and walking trails. </span>Currently, her team oversees 3,000 acres of park/open land and 14 community centers. She is dedicated to climate resilience, as well as social infrastructure such as the paratransit services and Arts &amp; Cultural in Riverside.</p>
+<p>This fall, Galera will be honored as an ASLA fellow at the national conference, an honorable title only awarded to about 40 people annually across the nation. She reflects on milestones in her journey and life-changing choices made throughout the process.</p>
+<p><strong>Q: <span>What initially drew you to study landscape architecture and why here at Cal Poly Pomona?</span></strong></p>
+<p><span>A: When I was first in college, I was a math major at UC Irvine. I did not do well because it was a really hard major. When I realized that I could not compete well and could not complete that major, I took an aptitude test, and the aptitude test said that I should be a landscape architect. </span></p>
+<p><span>I applied to both Cal Poly San Luis Obispo and Cal Poly Pomona and got accepted to both, but I chose Cal Poly Pomona because I really wanted to work while I was in school. I grew up on the Central Coast</span><span>, and I knew there were</span><span> not a lot of work opportunities in landscape architecture up there at Cal Poly San Luis Obispo, even though it's a great university. But I was really drawn to Cal Poly Pomona. I'm so thrilled that I took that leap, and I feel that landscape architecture is the perfect career for me. There are a lot of reasons I feel that, but one of them is I think landscape architecture is the perfect blend of the left and right brain. You have to know your science for landscape architecture, but it's also very creative. You need to be an artist, a true artist.</span></p>
+<p><strong>Q: </strong><strong>Were there any campus events or traditions that you particularly enjoyed?</strong></p>
+<p>A: Every year, we would build a go-kart, and then, as a team, we would race the go-kart down a hill. We would compete against other colleges such as the school of engineering.</p>
+<p><strong>Q: How was your experience in ASLA, and what were some lasting impacts?</strong></p>
+<p>I got involved with that organization from day one at Cal Poly Pomona, and I ended up being the student chapter president for more than two years. I've continued my work with ASLA, and I am honored to be elevated as a fellow coming up this fall at the national conference. The title of fellow is a big deal for architects, landscape architects, engineers, and planners, because it is really like a lifetime achievement award. This year, there are only 40 people across the nation who are being honored with this title of fellow from ASLA.</p>
+<p>I love being a landscape architect because I like landscape architects. I think we&#8217;re really neat people. We&#8217;re very grounded, and most of our designs are for people, so we understand the needs of the community along with the needs of nature. A lot of my friends are landscape architects that I met through ASLA or from Cal Poly Pomona. Both ASLA and Cal Poly Pomona have done a lot for my career, and I hope that I've given back to them.</p>
+<p><strong>Q: </strong><span><strong>What was the most valuable lesson you learned during your time at Cal Poly Pomona?</strong></span></p>
+<p>A: I learned systems thinking. Under landscape architecture, our craft is systems, such as irrigation systems. Or a system of plants, where you understand how the plants are nourished and watered. We understand sun and shade patterns, and things like that.</p>
+<p>I think it's interesting nowadays how process thinking is being applied to so many different professions. My best friend at Cal Poly Pomona in landscape architecture went on to be a banker, and I asked him, &#8220;What is the connection between landscape architecture and banking?&#8221; He said, &#8220;Banking is systems thinking.&#8221;</p>
+<p>I think that real foundation and systems thinking is what I learned, and I think that can be attributed to the greatness of Cal Poly Pomona.</p>
+<p><strong>Q: </strong><strong>What was your first job after graduation, and how did you secure it?</strong></p>
+<p>A: I was really lucky. I graduated in 1992, and there was a big recession at that time. I interned with a company called Clark and Green Associates in Costa Mesa. I started interning with them when I was a freshman and had already worked for them for three years when I graduated. I remember that a lot of my friends would make fun of me because they were all waitresses, and in one week, they could make enough money to pay rent, whereas I wasn't making much money and also had to commute all the way down to Costa Mesa. But when I graduated, I had a job with them and ended up working with them for another three years before I went and got my master's and moved. So, it was time well spent.</p>
+<p><strong>Q: How has your career evolved since you graduated from Cal Poly Pomona?</strong></p>
+<p>A: It has evolved a lot. Landscape architecture is a really big profession. You can go into academics and be a teacher, you could go into the National Park Service, you could go into private design working for a developer, or even do residential design. You could do a lot of different things with landscape architecture. I realized early in my career that I really wanted to work in the public sector. I wanted to design parks for families to make their lives better. So, I ended up becoming a park planner. At first, after I got my master's, I went into transportation planning for a little while, and I'm glad I did that. But then, pretty early in my career, I went into park planning, and I love it. I really feel like I have made a difference.</p>
+    
+                     
+    
+    
+         
+<div id="sitetags">
+    <h2>Tags </h2>
+    <ul>
+                   <li><a href="/news/all-news.shtml?tag=Pamela Galera">Pamela Galera</a></li>
+                   <li><a href="/news/all-news.shtml?tag=alumna">alumna</a></li>
+                   <li><a href="/news/all-news.shtml?tag=American Society of Landscape Architects">American Society of Landscape Architects</a></li>
+                   <li><a href="/news/all-news.shtml?tag=ASLA">ASLA</a></li>
+                   <li><a href="/news/all-news.shtml?tag=Los Angeles River">Los Angeles River</a></li>
+                   <li><a href="/news/all-news.shtml?tag=landscape architecture">landscape architecture</a></li>
+            </ul>
+</div>         
+</article>
+
+
+
+
+		</div>
+		<footer>
+			<section class="container" id="bottom-nav">
+	<div class="row">
+		<div class="card col-md-3 news-card">
+			<div class="card-body">
+				<h2 class="card-title">News</h2>
+				<ul>
+					<li>
+						<a class="card-link" href="/news/all-news.shtml">View All News</a>
+					</li>
+						<li>
+						<a class="card-link" href="/news/browse-by-topic.shtml">Browse by Topic</a>
+					</li>
+						<li>
+						<a class="card-link" href="https://www.cpp.edu/stratcomm/cpp-news-and-stories.shtml">Submit a Story Idea</a>
+					</li>
+				</ul>
+				
+		
+			</div>
+		</div>
+		<div class="card social-card col-md-3">
+			<div class="card-body">
+				<h2 class="card-title">Social Media</h2>
+				<ul>
+					<li>
+						<a class="card-link" href="/news/social-media-directory.shtml">Social Media Directory</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="card press-card col-md-3">
+			<div class="card-body">
+				<h2 class="card-title">For the Media</h2>
+				<ul>
+					<li>
+						<a class="card-link" href="/news/for-the-media.shtml">Media Relations</a>
+					</li>
+					<li>
+						<a class="card-link" href="https://experts.cpp.edu/" target="_blank">Experts Database 
+                            <svg title="Opens in new window"
+										xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-box-arrow-up-right" viewBox="0 0 16 16">
+										<path fill-rule="evenodd" d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5"/>
+										<path fill-rule="evenodd" d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0z"/>
+									</svg>
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+				<div class="card publications-card col-md-3">
+					<div class="card-body">
+						<h2 class="card-title">Publications</h2>
+						<ul>
+							<li>
+								<a class="card-link" href="https://www.cpp.edu/cppmag/" target="_blank" >CPP Magazine 
+									<svg title="Opens in new window"
+										xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-box-arrow-up-right" viewBox="0 0 16 16">
+										<path fill-rule="evenodd" d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5"/>
+										<path fill-rule="evenodd" d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0z"/>
+									</svg>
+								</a>
+							</li>
+							<li>
+								<a class="card-link" href="https://broncomag.cpp.edu/"  target="_blank">Bronco Digital Magazine 
+        											<svg title="Opens in new window"
+												xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-box-arrow-up-right" viewBox="0 0 16 16">
+												<path fill-rule="evenodd" d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5"/>
+												<path fill-rule="evenodd" d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0z"/>
+											</svg>
+										</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section>
+				<footer class="container-fluid">
+					<div class="row">
+						<img class="footer-logo" src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png" alt="calpoly pomona">
+							<p class="footer-address">3801 W. TEMPLE AVE. POMONA, CA 91768</p>
+					  
+    							<ul id="footer-social">
+                                  <li>
+                                    <a href="https://www.facebook.com/calpolypomona"><i class="fab fa-facebook"></i><span class="sr-only">Facebook</span></a>
+                                  </li>
+                                   <li>
+                                    <a href="https://www.instagram.com/calpolypomona"><i class="fab fa-instagram"></i><span class="sr-only">Instagram</span></a>
+                                  </li> 
+                                   <li>
+                                    <a href="https://www.youtube.com/user/calpolypomona"><i class="fab fa-youtube-square"></i><span class="sr-only">Youtube</span></a>
+                                  </li> 
+                                   <li>
+                                    <a href="https://www.twitter.com/calpolypomona">
+                                    <svg style="margin-top: -5px;" xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-twitter-x" viewBox="0 0 16 16">
+  <path d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865z"/>
+</svg>    
+                                    <span class="sr-only">Twitter</span></a>
+                                  </li> 
+                                    <li>
+                                    <a href="https://www.linkedin.com/edu/school?id=17815"><i class="fab fa-linkedin-in"></i><span class="sr-only">Linked In</span></a>
+                                  </li> 
+                               </ul>
+                           
+							<p class="footer-bottom"><a href="https://www.cpp.edu/stratcomm/">CPP News is managed by the Department of Strategic Communications.</a></p>
+						</div>
+					</footer>
+<script>
+    
+    function copyLink(copyText) {
+          // Select the text field
+          copyText = window.location.href;
+          navigator.clipboard.writeText(copyText);
+          // Alert the copied text
+          alert("Copied the article link: " + copyText);
+}
+</script>
+
+		</footer>
+		<script crossorigin="anonymous" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" type="text/javascript"></script>
+		<script crossorigin="anonymous" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+		<script src="/news/_files/js/functions.js" type="text/javascript"></script>
+	</body>
+</html>

@@ -1,0 +1,2057 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+		<title>
+			Customer Support &amp; Workflow
+		</title>
+		<!-- Required meta tags -->
+		<meta charset="utf-8"/>
+		<meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
+		<meta content="Administrative Affairs" property="cludo:category"/>
+<meta content="2024-11-12T08:53Z" property="date"/>
+<link href="https://www.cpp.edu/fpm/departments/customer.shtml" rel="canonical"/>
+		
+		
+		
+    <div lang="en">
+
+
+                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                <script src="https://cdn.levelaccess.net/accessjs/YW1wX2NwcDExMDM/access.js"></script>
+<script>// <![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSKJRNV');
+// ]]></script>
+<link href="/common/green-and-gold/assets/icons/gg-favicon.svg" rel="icon" type="image/svg+xml"/> <link crossorigin="anonymous" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" rel="stylesheet"/>
+<script crossorigin="anonymous" defer="defer" integrity="sha384-FW78RPcSpi13vjx77nPWQIrQbNSLkPBopb0qGzLCxD2x4Kr6FA8V05C/6cpgkKPL" src="https://pro.fontawesome.com/releases/v5.10.1/js/all.js"></script>
+<link href="https://www.cpp.edu/common/2018/assets/css/cpp-base-styles.css" rel="stylesheet"/> <link href="https://www.cpp.edu/common/2018/assets/css/cpp-extended-styles.css" rel="stylesheet"/> <link href="https://use.typekit.net/fia5dle.css" rel="stylesheet"/> <link href="/common/green-and-gold/assets/css/cpp-fonts.css" rel="stylesheet"/> <link href="/common/green-and-gold/assets/css/gg-header-footer.css" rel="stylesheet"/>
+
+</div>
+    
+		
+		
+	</head>
+	<body>
+		
+		 
+<header class="nav fixed">
+    <nav class="container">
+        <ul class="row nav__main" id="mainNavMenu">
+            <li id="main-logo" class="col-6 col-lg-3 nav__logo">
+                <a href="/" aria-label="Cal Poly Pomona Home" tabindex="0">
+                    <div class="nav__logo--horizontal">
+                        <img src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png" alt="Cal Poly Pomona Logo" />
+                    </div>
+                </a>
+            </li>
+            <li class="nav__links col-6" id="head-links">
+             <a class="nav__link nav__link--desktop col-1" href="/commencement/" tabindex="0">
+                    <svg
+                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 6px;
+    width: auto;
+">
+                        <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                        <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#005030"></path>
+                    </svg>
+                    <span class="sr-only">commencement</span>
+                </a>
+                <a class="nav__link nav__link--desktop" href="/apply/" tabindex="0">apply</a>
+                <a class="nav__link nav__link--desktop" href="/outreach/tours.shtml" tabindex="0">visit</a>
+                <a class="nav__link nav__link--desktop" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="0">info</a>
+                <a class="nav__link nav__link--desktop" href="/giving/" tabindex="0">give</a>
+                <a class="nav__link nav__link--desktop" href="https://my.cpp.edu" tabindex="0">mycpp</a>
+                <button id="search-open" class="nav__search" aria-expanded="false" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/search-dark-green.svg" alt="Search" />
+                </button>
+                <button class="nav__menu" id="menuButton" aria-expanded="false" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/menu.svg" alt="menu" />
+                </button>
+            </li>
+        </ul>
+    </nav>
+</header>
+<header id="search-header" style="display:none">
+    <div class="row">
+        <div class="col-md-6"></div>
+        <div id="searchbox" class="col-md-6">
+            <div id="search-slide">
+                <label for="#gsc-i-id1" class="sr-only">Search</label>
+                <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+                <div class="gcse-searchbox-only" data-resultsurl="https://www.cpp.edu/search.shtml"></div>
+                <button class="nav__menu col-1" id="search-close" aria-expanded="false" tabindex="0" aria-label="Menu icon">
+                    <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close icon">
+                    </button>
+                </div>
+            </div>
+            <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+            <style>
+
+     .gstl_50 gssb_c {
+         position:fixed !important;
+         }
+       #search-close img {
+         width: auto !important;
+       }
+
+       #searchbox {
+         height: 93px;
+         overflow: hidden;
+       }
+
+       #search-header {
+         position: fixed;
+         height: 100px;
+         width: 100%;
+         height: 93px;
+         z-index: 99999;
+         top: 0;
+       }
+
+       #gsc-i-id1 {
+         height: 40px;
+         width: 70%;
+         border-radius: 4px;
+         border: none;
+         padding: 15px;
+       }
+
+       #search-submit {
+         margin: 15px;
+       }
+
+       #search-close {
+         width: 23px;
+         height: 21px;
+         position: absolute;
+         top: 32px;
+       }
+
+       #search-slide {
+         width: 0px;
+         right: -100%;
+         padding: 20px 15px;
+         position: relative;
+         background: #005030;
+         height: 100%;
+         transition: all .5s ease 0s
+       }
+
+       #search-slide.slideup {
+         right: 0;
+         width: 100%;
+         position: relative;
+       }
+
+       @media screen and (max-width:991px) {
+         #search-slide {
+           height: 77px !important;
+           padding: 12px 10px;
+         }
+       }
+
+       @media screen and (max-width:767px) {
+         #search-header {
+           position: relative !important;
+         }
+
+         #search-slide {
+           text-align: center !important;
+         }
+       }
+
+     .gsc-search-button-v2 svg {
+    width: auto;
+    height: 25px;
+    position: relative;
+    top: 8px;
+}
+
+       .gsc-search-button-v2,
+       .gsc-search-button-v2:hover,
+       .gsc-search-button-v2:focus {
+         border: none !important;
+         background: none !important;
+       }
+
+       form.gsc-search-box {
+         font-size: 13px;
+         margin-top: 0;
+         margin-right: 0;
+         margin-bottom: 4px;
+         margin-left: 0;
+         width: 100%;
+         display: inline-block;
+       }
+
+       #___gcse_0 {
+         width: 70%;
+         display: inline-block;
+       }
+
+       table.gsc-search-box td.gsc-input {
+         padding-right: 0;
+       }
+
+       #gsc-i-id1 {
+         width: 100%;
+         padding: 0px;
+         border: none;
+         margin: -0.0625em 0px 0px;
+         height: 40px !important;
+         background: rgb(255, 255, 255);
+         outline: none;
+         font-size: 20px;
+         font-weight: 200;
+       }
+
+       .gstl_50.gssb_c {
+         z-index: 99999;
+       }
+
+       .gsq_a {
+         font-weight: 200;
+         font-size: 18px;
+         padding: 2px;
+       }
+
+       .gssb_a img {
+         display: none;
+       }
+
+       .side-nav__links--small-bottom {
+           margin-left:-15px;
+       }
+       .nav__links .nav__links--mobile {
+           margin-top: 50px;
+            margin-bottom: -50px;
+            margin-left: 50px
+       }
+       .nav__link--mobile {
+        	padding:0px;
+        }
+     /*   .side-nav__container, .side-nav__container--small {
+          
+            padding-left: 50px;
+        }*/
+        .side-nav__container--small-bottom {
+           padding-left: 35px;
+        }
+         @media screen and (max-width:991px) {
+             .nav__links--mobile {
+                 display:flex;
+             }
+         }
+          @media screen and (min-width:992px) {
+             .nav__links--mobile {
+                 display:none !important;
+             }
+          }
+         .nav__link--mobile {
+             color: #ffb81c;
+         }
+       </style>
+        </div>
+    </header>
+    <section class="side-nav" id="sideNavOverlay">
+        <header class="side-nav__overlay relative">
+            <nav class="container">
+                <ul class="row nav__overlay" id="sideNavMenu">
+                    <li class="nav__logo col-12 col-md-10 col-lg-3" id="navLogoOverlay">
+                        <a href="/" aria-label="Cal Poly Pomona Home" tabindex="-1">
+                            <img src="/common/green-and-gold/assets/logos/cpp_horizontal_1c_gold_rgb.png" alt="Cal Poly Pomona Logo" />
+                        </a>
+                    </li>
+                    <div class="nav__overlay--right col-12 col-lg-9">
+                        <li class="nav__links nav__links--desktop col-12 col-lg-6">
+                             <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 6px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                            <a class="nav__link nav__link--mobile" href="/apply/" tabindex="-1">apply</a>
+                            <a class="nav__link nav__link--mobile" href="/outreach/tours.shtml" tabindex="-1">visit</a>
+                            <a class="nav__link nav__link--mobile" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="-1">info</a>
+                            <a class="nav__link nav__link--mobile" href="/giving/" tabindex="-1">give</a>
+                            <a class="nav__link nav__link--mobile" href="https://my.cpp.edu" tabindex="-1">mycpp</a>
+                        </li>
+                        <li class="nav__icons">
+                            <button id="search-open-green" class="nav__search" aria-expanded="false" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/search-white.svg" alt="Search" />
+                            </button>
+                            <button class="nav__close" id="closeButton" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close menu" />
+                            </button>
+                        </li>
+                    </div>
+                </ul>
+            </nav>
+        </header>
+        
+            <div class="mobile_overlay_nav nav__links nav__links--mobile col-12 col-lg-6">
+                 <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 6px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                <a class="nav__link nav__link--mobile" href="/apply/" tabindex="0">apply </a>
+                <a class="nav__link nav__link--mobile" href="/outreach/tours.shtml" tabindex="0">visit </a>
+                <a class="nav__link nav__link--mobile" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="0">info </a>
+                <a class="nav__link nav__link--mobile" href="/giving/" tabindex="0">give </a>
+                <a class="nav__link nav__link--mobile" href="https://my.cpp.edu" tabindex="0">mycpp </a>
+            </div>
+       
+        <nav class="container side-nav__container">
+            <ul class="row side-nav__links">
+                <li id="home-button" class="side-nav__link">
+                    <a class="h3__proxima" href="/" tabindex="-1" aria-label="Cal Poly Pomona Home page">Home</a>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--0">
+                    <button class="h3__proxima" id="0" aria-expanded="false" tabindex="-1" aria-label="Link">
+                        <span>about</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--1">
+                    <button class="h3__proxima" id="1" aria-expanded="false" tabindex="-1" aria-label="Admissions & Aid">
+                        <span>admissions &amp; aid</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--2">
+                    <button class="h3__proxima" id="2" aria-expanded="false" tabindex="-1" aria-label="academics">
+                        <span>academics</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--3">
+                    <button class="h3__proxima" id="3" aria-expanded="false" tabindex="-1" aria-label="life at CPP">
+                        <span>life at CPP</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small">
+            <ul class="row">
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="https://broncoathletics.com/" tabindex="-1">athletics</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/alumni/" tabindex="-1">alumni</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/news/" tabindex="-1">news &amp; events</a>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small-bottom">
+            <ul class="col-12 col-lg-7 side-nav__links--small-bottom">
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/prospective-student-gateway/" tabindex="-1">future students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/student-gateway/" tabindex="-1">current students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/family/" tabindex="-1">families</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/faculty-staff-gateway/" tabindex="-1">faculty &amp; staff</a>
+                </li>
+            </ul>
+            <ul class="col-12 col-lg-5 social-icons">
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.instagram.com/calpolypomona/" aria-label="Instagram" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.linkedin.com/school/cal-poly-pomona/" aria-label="LinkedIn " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.youtube.com/user/calpolypomona" aria-label="Youtube " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="Youtube" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.facebook.com/calpolypomona" aria-label="Facebook " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://twitter.com/calpolypomona" aria-label="X (Twitter)" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X" />
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </section>
+		                                                                                                                                                        																										                                                            															    		                                            
+
+
+            
+
+    <header title="Facilities Planning &amp; Management">
+
+
+
+      
+        
+    <custom/> 
+
+    
+        </header>
+
+                        <nav class="navbar navbar-expand-md navbar-light d-block " id="horizontalnav">
+        <button aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler navbar-toggler-right" data-target="#navbarSupportedContent" data-toggle="collapse" id="site-menu-expand-button" type="button">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="nav nav-pills nav-fill center-pills" id="site-nav">
+                
+                                <li class="nav-item" id="li-1">
+                    <a class="nav-link" data-parent="#site-nav" href="/fpm/index.shtml">Home</a>    
+                </li>
+                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                
+                                                
+                                                
+                                                                                    
+                                                                                            <li class="nav-item dropdown" id="li-2">
+
+                                    <a aria-expanded="false" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">About</a>
+                                                                             <div class="dropdown-menu dropdown-menu-left">
+                                                                           
+                                                                                                                                    
+                                                
+                                                                                    
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/fpm/about/index.shtml">
+                                                                                                            About Us
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/fpm/protected/leadership.shtml">Facilities Leadership Team</a>
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/fpm/docs/updated-october-2024-fpm-org-chart.pdf">Organization Chart</a>
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/fpm/protected/departments.shtml">Departments</a>
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/fpm/forms/new-november-2024-facilities-contact-listing.pdf">Facilities Contact Listing</a>
+                                                                                    
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/fpm/about/emergency.shtml">
+                                                                                                            Emergency Response Contact List
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/fpm/about/current-projects.shtml">
+                                                                                                            Current Projects
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/fpm/about/professional-development.shtml">
+                                                                                                            Professional Development
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/fpm/about/faqs.shtml">
+                                                                                                            Frequently Asked Questions
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                        
+                                    </div>
+                                </li>
+                                
+                                                                                                                                     
+                                                                                                                                                                
+                                                
+                                                
+                                                
+                                                                                    
+                                                                                            <li class="nav-item dropdown" id="li-3">
+
+                                    <a aria-expanded="false" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">I want to …  </a>
+                                                                             <div class="dropdown-menu dropdown-menu-left">
+                                                                           
+                                                                                            <a class="dropdown-item" href="https://cpp.webtma.com/Login/Validate/?tkn=SboHm-UZAIO087oGLiSH9h6LtygUOM58FUrHdfhhcCZePvlrrREGq776RI10jHnGMTVtmRb-d6WOmtQcXiRbNLUs74kdWfns1D5kMii7JNQe289trmwodmHhaDN7RwX3uXAtAEJSN9lywiWNpob7UIYIvi--GTMU7Im1uILsWURHYRPwXDsJcLH3zTdR61RtnRD4oFl0Ek34v3YyYPsuvRwjpi8v9B_hI8kDbId_yIlw7drWG2PB0bPqUD2NRg6Rc_BLAaxPpxT4AwiNjhGM9A">Submit a service request </a>
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/fpm/forms/apriil-2022-service-request-form.pdf">Request maintenance services</a>
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/fpm/docs/forms/key-request-form.pdf">Make a key request</a>
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/fpm/forms/project-intake-form.pdf">Request project services </a>
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/fpm/forms/apriil-2022-service-request-form.pdf">Request waste disposal</a>
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/fpm/docs/forms/site-assessment-form.pdf">Get an EHS Site Assessment Form</a>
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/fpm/forms/apriil-2022-service-request-form.pdf">Request other services</a>
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/fpm/professional-development/recruitment.shtml">Apply for a student job</a>
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/fpm/campus-deputy-building-official.shtml">Review the Campus Deputy Building Official&#8217;s role</a>
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/fpm/docs/forms/document-resource-center-form.pdf">Request floor plans and maps</a>
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/compass/index.shtml">See alerts and outage notifications</a>
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/fpm/pdc/master-plan/index.shtml">Assess the Campus Master Plan</a>
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/safer-return/index.shtml">Access the campus health and safety plan</a>
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/fpm/services/how-are-we-doing.shtml">Provide feedback</a>
+                                                                                    
+                                                                                                                        
+                                    </div>
+                                </li>
+                                
+                                                                                                                                     
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+                                                
+                                                
+                                                
+                                                                                    
+                                                                                            <li class="nav-item dropdown" id="li-4">
+
+                                    <a aria-expanded="false" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">Forms and Resources</a>
+                                                                             <div class="dropdown-menu dropdown-menu-right">
+                                                                            
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/fpm/forms/index.shtml">
+                                                                                                            Forms
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/fpm/forms/directions.shtml">
+                                                                                                            Directions
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/fpm/forms/resources.shtml">
+                                                                                                            Resources
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/fpm/forms/reports.shtml">
+                                                                                                            Reports
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                        
+                                    </div>
+                                </li>
+                                
+                                                                                                                                     
+                                                                                                                                                                
+                                                
+                                                
+                                                
+                                                                                    
+                                                                                                
+                                                                    <li class="nav-item" id="li-5">
+                                         <a class="nav-link" data-parent="#site-nav" href="/fpm/policies-and-procedures/index.shtml">Operational Directives</a>    
+                                    </li>
+
+                                                                                                                                        
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </ul>
+        </div>
+    </nav>
+             
+    
+
+
+    <main class="container flex-grow">
+
+           <div class="row">
+                            <div class="col-12" id="main">
+                                    <h1 class="cpp-h1">Customer Support &amp; Workflow</h1>
+            
+
+
+    
+                                            
+                                    <section class="text-images" id="s0">
+                                
+                                                        
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                            <h2>Meet the Team</h2>
+            </section>
+                            
+                  
+       
+	
+	
+ 
+         
+    
+
+    
+                    
+                         
+                   
+                                            
+    
+            <section class="row card-section" id="s1">
+                      
+                 
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                                                                      
+                                                                                                        
+              
+        
+                    <div class="col-lg-4 col-md-4 col-sm-12 single-card">
+                            
+            
+                                                            <div class="card h-100">
+                                                    
+                                                                                        <div class="card-body d-flex flex-column align-items-start text-left">
+                            
+                            <h2 id="ch-0">Vanessa Garcia</h2>
+                                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                        Customer Support &amp; Workflow Manager&#160;<br/>(909) 869-3844 <br/><a href="mailto:%20vanessalg@cpp.edu">vanessalg@cpp.edu</a>  
+                        
+                        
+                                                    
+       
+                            </div>
+                            </div>
+                            
+                            
+    
+            </div>
+                                                
+                                                                                                        
+              
+        
+                    <div class="col-lg-4 col-md-4 col-sm-12 single-card">
+                            
+            
+                                                            <div class="card h-100">
+                                                    
+                                                                                        <div class="card-body d-flex flex-column align-items-start">
+                            
+                            <h2 id="ch-1">Sarah Aiken</h2>
+                                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                        <p>Customer Service Lead&#160;<br/>(909) 869-3336<br/><a href="mailto:%20scfroid@cpp.edu">scfroid@cpp.edu</a></p>  
+                        
+                        
+                                                    
+       
+                            </div>
+                            </div>
+                            
+                            
+    
+            </div>
+                                                
+                                                                                                        
+              
+        
+                    <div class="col-lg-4 col-md-4 col-sm-12 single-card">
+                            
+            
+                                                            <div class="card h-100">
+                                                    
+                                                                                        <div class="card-body d-flex flex-column align-items-start">
+                            
+                            <h2 id="ch-2">Samantha Mowrer</h2>
+                                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                        Customer Service Representative<br/>(909) 869-4259<br/><a href="mailto:smmowrer@cpp.edu">smmowrer@cpp.edu</a>  
+                        
+                        
+                                                    
+       
+                            </div>
+                            </div>
+                            
+                            
+    
+            </div>
+                                                
+                                                                                                        
+              
+        
+                    <div class="col-lg-4 col-md-4 col-sm-12 single-card">
+                            
+            
+                                                            <div class="card h-100">
+                                                    
+                                                                                        <div class="card-body d-flex flex-column align-items-start">
+                            
+                            <h2 id="ch-3">Erica Stolz</h2>
+                                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                        Customer Service Representative<br/>(909) 869-3387<br/><a href="mailto:esstolz@cpp.edu">esstolz@cpp.edu</a>  
+                        
+                        
+                                                    
+       
+                            </div>
+                            </div>
+                            
+                            
+                
+            </div>
+        </section>
+          
+       
+	
+	
+ 
+         
+    
+
+    
+                                            
+                                    <section class="text-images" id="s2">
+                                
+                                                        
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                            <h2>About</h2>
+<p>The Customer Service Center (CSC) is the hub of Facilities Planning &amp; Management, providing support services to Facilities Planning, Facilities Design &amp; Construction and Facilities Management. This service-oriented department strives to meet the day-to-day operational needs of the university, and coordinates routine, non-routine, and emergency maintenance services requested by the campus community.</p>
+<p class="boxcolor-lightyellowprimary">Customer Service Center hours are Monday through Friday from 8 a.m. to 5 p.m. <br/>Email: <a href="mailto:fmcustomer@cpp.edu">fmcustomer@cpp.edu</a> <br/>Phone: (909) 869-3030 <br/>Key Desk: (909) 869-3027</p>
+<p class="boxcolor-lightyellowprimary"><strong>Have an Emergency? </strong> <br/>For emergencies involving life, safety and/or property damage or after-hours and weekend requests, contact the University Police Department at <strong>(909) 869-3070</strong> or <strong>Ext.</strong> <strong>911</strong> from a campus phone.</p>
+<br/>
+<h2>What We Do</h2>
+<p>All service requests are received by the Customer Service Center, then forwarded to the appropriate Facilities Management trades team to perform the work or to the planning and estimating department. The center also can check the status of a service request, charge-back estimate or any service issue. The Customer Service Center is the initial point of contact for obtaining information on service requests. The Key Desk along with the Lock Shop have responsibility for the maintenance of locks, lock hardware, issuing of keys, record keeping, coding and storing of keys, and similar devices. In addition, CSC staff members issue campus-wide broadcasts regarding construction impacts, utility outages and emergency updates.&#160;</p>
+            </section>
+                            
+                  
+       
+	
+	
+ 
+         
+    
+
+    
+                    
+                  
+        
+                 
+                          
+                     
+                          
+                     
+                          
+                 
+    	
+            
+                                       <div class="accordion" id="accordion-3">
+                                    
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading1">
+                <h2 class="m-0">
+                    <button aria-controls="collapse3-1" aria-expanded="false" class="btn btn-link" data-target="#collapse3-1" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  Services
+                    </button>
+                </h2>
+            </div>
+                            <div aria-labelledby="heading1" class="collapse " data-parent="#accordion-3" id="collapse3-1">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                <ul>
+<li>Triage calls, service requests and emails to ensure appropriate call referral and action</li>
+<li>Dispatch trade services, as appropriate</li>
+<li>Create, monitor and close service requests</li>
+<li>Oversee estimate requests for facilities work</li>
+<li>Administer and process key requests</li>
+</ul>
+<p><strong>How to Submit a Service Request</strong></p>
+<p>There are three methods:</p>
+<ul>
+<li>Website: <a href="http://www.cpp.edu/fpm">www.cpp.edu/fpm</a>. Click on the Services menu bar, select Services, select Service Requests. Fill out the <a href="../forms/apriil-2022-service-request-form.pdf">Service Request Form</a> online and submit. Please refer to these <u>instructions</u> to help navigate how to input an FP&amp;M Service Request.</li>
+<li>Phone: (909) 869-3030</li>
+<li>Email: Submit request to <a href="mailto:fmcustomer@cpp.edu">fmcustomer@cpp.edu</a></li>
+</ul>
+<p><strong>What Happens After You Submit a Service Request?&#160;&#160;&#160; </strong></p>
+<p>A work order will be generated within 24 hours (during normal business hours). Your request will be evaluated by the Customer Service Center and the Director of Facilities Operations &amp; Maintenance. The request will be routed to the appropriate shop supervisor for scheduling.&#160;</p>
+<p>The team will determine whether the project is considered routine maintenance (non-billable) or a billable project request. Some projects may require planning and design, review and approval by the State Fire Marshal, Americans With Disabilities Act (ADA) accessibility review, plan approval and building permits, and final inspections. Allow time for these potential steps. Updates will be provided during the process.</p>
+<p>If a department is planning a major renovation, it is best to begin budgeting and planning at least a year in advance. Contact the Customer Service Center to get started.</p>
+<p>For a status update on any service request, call the Customer Service Center at Ext. 3030 or submit an inquiry to <a href="mailto:fmcustomer@cpp.edu">fmcustomer@cpp.edu</a> .</p>
+<p>For challenges or concerns with a request, contact the Customer Service Center for special assistance.</p>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                            
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading2">
+                <h2 class="m-0">
+                    <button aria-controls="collapse3-2" aria-expanded="false" class="btn btn-link" data-target="#collapse3-2" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  Service Request Priority Levels
+                    </button>
+                </h2>
+            </div>
+                            <div aria-labelledby="heading2" class="collapse " data-parent="#accordion-3" id="collapse3-2">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                <p>Maintaining the infrastructure, buildings, and grounds of Cal Poly Pomona is an enormous task. In addition to existing projects and planned maintenance, the service desk receives more than 11,000 work requests every year. In order to give appropriate attention to all requests, the Customer Service Center representatives assign each work order a priority level ranging from one to five based on the stated need for the work, the potential mission impact, the resources involved in completing the work, and the urgency of the request when compared to other requests. The priorities outlined serve as a guide on the appropriate response time:</p>
+<p><strong><u>Emergency</u></strong></p>
+<p>Imminent threat to life, property, security or environment. Emergencies receive immediate responses and are mitigated until a permanent repair can be made. Examples are an electrical power failure, an overflowing toilet, inoperable elevators, chemical odors, flooding and overflows, or broken windows that pose an imminent risk. These requests take precedence over other requests.</p>
+<p><strong><u>Urgent </u></strong></p>
+<p>A situation posing a threat of personal injury, equipment damage or serious disruption to university operations. Urgent requests will be responded to as soon as possible. If circumstances prevent an immediate response, then it will be addressed within 48 hours. Examples are malfunctioning heating and cooling systems, plumbing (continuously running toilets/faucets), graffiti, flickering office lights and problems affecting the security of facilities.</p>
+<p><strong><u>Routine</u></strong></p>
+<p>Normal maintenance or service that does not pose an immediate risk to facilities, systems, equipment or components. Examples are repairing or replacing door hardware; patching and repainting; checking, inspecting, servicing, and adjusting system components; pruning, trimming, mowing, and fertilizing grounds; repairing or replacing obsolete, worn, broken, missing or damaged ceiling tiles; and systems or components that don't immediately interfere with the university&#8217;s mission.&#160;</p>
+<p><strong><u>Unplanned</u></strong></p>
+<p>Service interruptions that occur in the field when technicians are responding to planned or scheduled service requests or a technician identifies a repair that wasn&#8217;t scheduled but can be performed in 10 minutes or less. If the repair requires more than 10 minutes, the technician will create a service request as a scheduled service.</p>
+<p><strong><u>Scheduled</u></strong></p>
+<p>Normal maintenance or service that does not pose an immediate risk to facilities, systems, equipment, or components but must be scheduled for completion within 90 days of the request. Examples are projects, improvements or enhancements to existing infrastructure/equipment/assets, purchasing of parts are required.</p>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                            
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading3">
+                <h2 class="m-0">
+                    <button aria-controls="collapse3-3" aria-expanded="false" class="btn btn-link" data-target="#collapse3-3" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  Facilities Funded Services (non-billable) vs Recharge Services (billable)&#160;&#160;&#160; 
+                    </button>
+                </h2>
+            </div>
+                            <div aria-labelledby="heading3" class="collapse " data-parent="#accordion-3" id="collapse3-3">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                <p>Facilities Planning &amp; Management funds the routine care and maintenance of state-owned buildings, grounds, and the campus road and utility infrastructure.&#160;</p>
+<p>Any improvements or maintenance of improvements due to change of use are performed on a recharge basis (billable). The cost recovery process, as required by the CSU, requires departments to pay for services that are not routine maintenance. Maintenance of non-state buildings are performed on a recharge basis (billable).</p>
+<p>Office moves, building a wall, hanging pictures, or moving furniture are not routine maintenance and the requesting department will be charged. An account number will be required at the time of the request. The Customer Service Center (CSC) will process the request in compliance with university procedures. The CSC representative will advise of the following:</p>
+<ul>
+<li>When the work will be performed</li>
+<li>If some or all of the work will be contracted out, capital planning will assign a project manager to be the point of contact between the department and the approved contractor.</li>
+</ul>
+<p>&#160;</p>
+<table aria-rowcount="19" class="table table-striped table-bordered" data-tablelook="1184" data-tablestyle="MsoNormalTable">
+<tbody>
+<tr aria-rowindex="1">
+<td data-celllook="69905">
+<p><strong><span data-contrast="none">Trade</span></strong></p>
+</td>
+<td data-celllook="69905">
+<p><strong>Routine Service (non-billable)</strong></p>
+</td>
+<td data-celllook="69905">
+<p><strong>Extra Service (billable)</strong></p>
+</td>
+</tr>
+<tr aria-rowindex="3">
+<td data-celllook="69905">
+<p>Carpentry</p>
+</td>
+<td data-celllook="69905">
+<p>Broken windows<br/>Missing or damages ceiling tiles<br/>Door not opening or closing<br/>properly<br/>Exit door/gate problems</p>
+</td>
+<td data-celllook="69905">
+<p>Whiteboard installation<br/>A/V installation<br/>Keyboard tray installation<br/>Bookcase or shelf installation<br/>Furniture assembly<br/>Name/desk/door plates</p>
+</td>
+</tr>
+<tr aria-rowindex="4">
+<td data-celllook="69905">
+<p>Paint</p>
+</td>
+<td data-celllook="69905">
+<p>Graffiti removal<br/>Paint using standard colors, per<br/>regular maintenance schedule</p>
+</td>
+<td data-celllook="69905">
+<p>Paint, new custom non-standard colors</p>
+</td>
+</tr>
+<tr aria-rowindex="5">
+<td data-celllook="69905">
+<p>Lock Shop</p>
+</td>
+<td data-celllook="69905">
+<p>Sticky lock<br/>Key not opening the lock<br/>Latch inoperable<br/>Locked classrooms</p>
+</td>
+<td data-celllook="69905">
+<p>Re-key<br/>Security keypad installations<br/>Lock keys and re-keying</p>
+</td>
+</tr>
+<tr aria-rowindex="5">
+<td data-celllook="69905">
+<p>Electric Shop</p>
+</td>
+<td data-celllook="69905">
+<p>Burned-out light bulbs<br/>Light ballasts not working<br/>Diffusers broken/hanging<br/>Power outage and tripped breakers<br/>Clock repairs</p>
+</td>
+<td data-celllook="69905">
+<p>New outlet (additional power)<br/>A/V installation<br/>Electrical set-up for special events</p>
+</td>
+</tr>
+<tr aria-rowindex="5">
+<td data-celllook="69905">
+<p>HVAC</p>
+</td>
+<td data-celllook="69905">Heating/cooling issues</td>
+<td data-celllook="69905">Air conditioning, above building HVAC</td>
+</tr>
+<tr aria-rowindex="5">
+<td data-celllook="69905">
+<p>Custodial</p>
+</td>
+<td data-celllook="69905">Custodial services (routine)<br/>Restocking restroom supplies<br/>Restock hand sanitizer machines</td>
+<td data-celllook="69905">Floor cleaning (beyond routine<br/>custodial)<br/>Fabric chair/fabric furniture cleaning</td>
+</tr>
+<tr aria-rowindex="5">
+<td data-celllook="69905">
+<p>EH&amp;S</p>
+</td>
+<td data-celllook="69905">Emergency response and clean-up<br/>Gas leaks<br/>Pest control/removal</td>
+<td data-celllook="69905"></td>
+</tr>
+<tr aria-rowindex="5">
+<td data-celllook="69905">
+<p>Project Services</p>
+</td>
+<td data-celllook="69905">Concrete repairs or replacement<br/>Roof leaks<br/>Utility repairs</td>
+<td data-celllook="69905">Building or room renovations</td>
+</tr>
+</tbody>
+</table>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                    </div>   
+               
+	
+	
+ 
+         
+    
+
+    
+                    
+                  
+        
+                 
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                 
+    	
+            
+                    
+                       <section aria-labelledby="qa-h2-4" class="mt-4">
+        <h2 id="qa-h2-4">FAQs</h2>
+                        <div class="accordion" id="accordion-4">
+                                    
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading1">
+                <h3 class="m-0">
+                    <button aria-controls="collapse4-1" aria-expanded="true" class="btn btn-link" data-target="#collapse4-1" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  What is the procedure for requesting Facilities services?
+                    </button>
+                </h3>
+            </div>
+                            <div aria-labelledby="heading1" class="collapse show" data-parent="#accordion-4" id="collapse4-1">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                <p>Email a request or inquiry to <a href="mailto:fmcustomer@cpp.edu">fmcustomer@cpp.edu</a>.</p>
+<p>Call Ext. 3030 and a representative will assist.</p>
+<p>Fill out a Service Request Form and submit it via fax (Ext. 4363) or email it to <a href="mailto:fmcustomer@cpp.edu">fmcustomer@cpp.edu</a>.</p>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                            
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading2">
+                <h3 class="m-0">
+                    <button aria-controls="collapse4-2" aria-expanded="true" class="btn btn-link" data-target="#collapse4-2" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  Who oversees various areas within FP&amp;M? 
+                    </button>
+                </h3>
+            </div>
+                            <div aria-labelledby="heading2" class="collapse show" data-parent="#accordion-4" id="collapse4-2">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                <p>Administrators, directors and managers are listed on the <a href="../docs/forms/updated-facilities-contact-listing-february-2022.pdf">FP&amp;M contact list</a>.</p>
+<p>Also, reference the <a href="../docs/about/fpm-org-chart-updated-april-2022.pdf">FP&amp;M organizational chart</a>.</p>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                            
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading3">
+                <h3 class="m-0">
+                    <button aria-controls="collapse4-3" aria-expanded="true" class="btn btn-link" data-target="#collapse4-3" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  Where is FP&amp;M located?
+                    </button>
+                </h3>
+            </div>
+                            <div aria-labelledby="heading3" class="collapse show" data-parent="#accordion-4" id="collapse4-3">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                <p>The department is situated in Building 81, located off Eucalyptus Lane and Citrus Lane. Directions to the building: <a href="https://www.cpp.edu/fpm/fm/docs/directions-to-facilities.pdf">https://www.cpp.edu/fpm/fm/docs/directions-to-facilities.pdf</a>.</p>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                            
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading4">
+                <h3 class="m-0">
+                    <button aria-controls="collapse4-4" aria-expanded="true" class="btn btn-link" data-target="#collapse4-4" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  Who is responsible for unlocking buildings/classrooms?
+                    </button>
+                </h3>
+            </div>
+                            <div aria-labelledby="heading4" class="collapse show" data-parent="#accordion-4" id="collapse4-4">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                <p><span>Custodial Services locks and unlocks academic buildings in the morning and evenings Monday through Friday. Classrooms are the responsibility of the department scheduling the class and card access is authorized through IT. Card key access is done by the dean&#8217;s office in each college. If assistance is needed, contact the Customer Service Center (909) 869-3030. For after-hours access, call Cal Poly Pomona&#8217;s University Police Department at (909) 869-3070.</span></p>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                            
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading5">
+                <h3 class="m-0">
+                    <button aria-controls="collapse4-5" aria-expanded="true" class="btn btn-link" data-target="#collapse4-5" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  Does the Custodial staff dispose of empty toner cartridges and batteries? Where can they be left? 
+                    </button>
+                </h3>
+            </div>
+                            <div aria-labelledby="heading5" class="collapse show" data-parent="#accordion-4" id="collapse4-5">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                <p>Used batteries and toner cartridges can be placed in blue recycle bins. They will be retrieved by the Custodial staff and properly disposed of.</p>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                            
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading6">
+                <h3 class="m-0">
+                    <button aria-controls="collapse4-6" aria-expanded="true" class="btn btn-link" data-target="#collapse4-6" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  How often will my office be cleaned?
+                    </button>
+                </h3>
+            </div>
+                            <div aria-labelledby="heading6" class="collapse show" data-parent="#accordion-4" id="collapse4-6">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                
+<p><span data-contrast="none">Generally, offices are cleaned once a week. </span></p>
+<p><span data-contrast="none">Routine campus cleaning is performed in three shifts:</span></p>
+<p><span data-contrast="none">Early&#160;morning:&#160;Monday&#160;through&#160;Friday&#160;from&#160;3&#160;a.m.&#160;to&#160;11:30&#160;a.m.</span><span>&#160;</span><span>&#160;<br/></span><span data-contrast="none">Day&#160;shift: Monday&#160;through&#160;Friday&#160;from&#160;11:30 a.m.&#160;to&#160;8&#160;p.m.</span><span>&#160;</span><span>&#160;<br/></span><span data-contrast="none">Graveyard&#160;shift:&#160;Sunday through Thursday&#160;from&#160;10&#160;p.m.&#160;to&#160;6:30&#160;a.m., Friday&#160;from&#160;6&#160;p.m.&#160;to 2:30&#160;a.m.&#160;</span><span>&#160;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559685&quot;:720,&quot;335559739&quot;:160,&quot;335559740&quot;:254}">&#160;</span></p>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                            
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading7">
+                <h3 class="m-0">
+                    <button aria-controls="collapse4-7" aria-expanded="true" class="btn btn-link" data-target="#collapse4-7" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  What is considered routine cleaning?
+                    </button>
+                </h3>
+            </div>
+                            <div aria-labelledby="heading7" class="collapse show" data-parent="#accordion-4" id="collapse4-7">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                <p>Please refer to the cleaning matrix: <a href="https://www.cpp.edu/safer-return/pdfs/cleaning-disinfection-matrix-04292021.pdf">https://www.cpp.edu/safer-return/pdfs/cleaning-disinfection-matrix-04292021.pdf</a></p>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                            
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading8">
+                <h3 class="m-0">
+                    <button aria-controls="collapse4-8" aria-expanded="true" class="btn btn-link" data-target="#collapse4-8" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  What is the turnaround time frame for Service Requests?
+                    </button>
+                </h3>
+            </div>
+                            <div aria-labelledby="heading8" class="collapse show" data-parent="#accordion-4" id="collapse4-8">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                <p>A work order number will be generated within 24 hours (during business hours). Please keep in mind that a project may not be as simple as it seems.&#160;Some projects may require planning and design, review and approval by the State Fire Marshal, Americans With Disabilities Act (ADA) accessibility review, plan approval and building permits, final inspections or parts to be ordered.&#160;Allow time for these potential steps.&#160;Updates will be provided during the process.</p>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                            
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading9">
+                <h3 class="m-0">
+                    <button aria-controls="collapse4-9" aria-expanded="true" class="btn btn-link" data-target="#collapse4-9" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  Can I borrow a tool (ladder, hammer, etc.)?
+                    </button>
+                </h3>
+            </div>
+                            <div aria-labelledby="heading9" class="collapse show" data-parent="#accordion-4" id="collapse4-9">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                <p>No, the department does not loan out items.&#160;Please submit a work request to <a href="mailto:fmcustomer@cpp.edu">fmcustomer@cpp.edu</a> or by calling the Facilities Service Center at Ext. 3030.</p>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                            
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading10">
+                <h3 class="m-0">
+                    <button aria-controls="collapse4-10" aria-expanded="true" class="btn btn-link" data-target="#collapse4-10" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  How do I request floor plans?
+                    </button>
+                </h3>
+            </div>
+                            <div aria-labelledby="heading10" class="collapse show" data-parent="#accordion-4" id="collapse4-10">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                <p>Fill out a <a href="../docs/forms/document-resource-center-form.pdf">Document Request Form</a> and submit it to <a href="mailto:fpmdrc@cpp.edu">fpmdrc@cpp.edu</a>.</p>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                            
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading11">
+                <h3 class="m-0">
+                    <button aria-controls="collapse4-11" aria-expanded="true" class="btn btn-link" data-target="#collapse4-11" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  What is the turnaround time frame for key requests?
+                    </button>
+                </h3>
+            </div>
+                            <div aria-labelledby="heading11" class="collapse show" data-parent="#accordion-4" id="collapse4-11">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                <p>A key request is processed within 24 hours. However, it can take up to a week for a key to be cut by the locksmith if the key is not in the inventory. Campus policy states: &#8220;The key shop will make every effort to respond to all key requests within 72 hours of receipt of a completed original Key Request Form.&#8221;</p>
+<p>Please complete the Key Request Form at <a href="https://www.cpp.edu/fpm/docs/forms/key_request_2018.pdf">https://www.cpp.edu/fpm/docs/forms/key_request_2018.pdf</a> and submit to <a href="mailto:fmkeydesk@cpp.edu">fmkeydesk@cpp.edu</a> or fax to (909) 869-4363.</p>
+<p>For up-to-date information on Key Policy Issuance: <a href="https://www.cpp.edu/fpm/administration/7-12-21-campus-key-policy---issuance--control.pdf">https://www.cpp.edu/fpm/administration/7-12-21-campus-key-policy---issuance--control.pdf</a>.</p>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                            
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading12">
+                <h3 class="m-0">
+                    <button aria-controls="collapse4-12" aria-expanded="true" class="btn btn-link" data-target="#collapse4-12" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  Where is the Japanese Garden located and when is it open? &#160;
+                    </button>
+                </h3>
+            </div>
+                            <div aria-labelledby="heading12" class="collapse show" data-parent="#accordion-4" id="collapse4-12">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                <p>The Japanese Garden is open Monday through Friday from 8 a.m. to 5 p.m. A one-day parking pass is $8 and can be purchased from a ticket kiosk Lot F10 or Lot C. Directions to the Japanese Garden: <a href="https://www.cpp.edu/fpm/fm/docs/directions-to-gardens.pdf">https://www.cpp.edu/fpm/fm/docs/directions-to-gardens.pdf</a></p>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                    </div>   
+            </section>
+           
+	
+	
+ 
+         
+    
+
+</div>
+</div>
+</main>
+
+		
+    <div lang="en">
+
+
+                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                 
+<style>
+     @media screen and (min-width: 992px) {
+    .mini-footer .footer__socials-buttons {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}
+
+.mini-footer .button1__transducer {
+    font-size: 12px;
+    letter-spacing: .5px;
+}
+
+.mini-footer .button {
+	margin-top: 0;
+    padding: 8px 20px 8px 20px;
+
+}
+.mini-footer .footer-line {
+    border-top: thin solid #a4d65e;
+    margin-top: 39px;
+    padding-top: 15px;
+}
+ </style>
+<footer class="footer mini-footer">
+    <div class="footer__rip-wrapper">
+        <img class="footer__rip" alt="" src="/common/green-and-gold/assets/images/green-rip.svg" alt="Ripped green paper." />
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-2">
+                <div class="footer__logo-wrapper">
+                    <a href="/" aria-label="CPP Logo">
+                        <img class="footer__logo" src="/common/green-and-gold/assets/logos/cpp_primary_1c_gold_rgb.png" alt="Cal Poly Pomona logo, building with a palm tree." />
+                    </a>
+                </div>
+            </div>
+            <div class="col-12 col-lg-6 offset-lg-4">
+                <div class="footer__socials">
+                    <div class="footer__socials-buttons">
+                        <a class="button button__secondary button1__transducer" href="/apply/">Apply</a>
+                        <a class="button button__secondary button1__transducer" href="https://maps.cpp.edu/">Maps</a>
+                        <a class="button button__secondary button1__transducer" href="/outreach/tours.shtml">Visit</a>
+                        <a class="button button__secondary button1__transducer" href="/contact.shtml">Contact Us</a>
+                    </div>
+                    <div class="footer__socials-icons">
+                        <a href="https://www.instagram.com/calpolypomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram opens a new window" />
+                        </a>
+                        <a href="https://www.linkedin.com/school/cal-poly-pomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn opens a new window" />
+                        </a>
+                        <a href="https://www.youtube.com/user/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="YouTube opens a new window" />
+                        </a>
+                        <a href="https://www.facebook.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook opens a new window" />
+                        </a>
+                        <a href="https://twitter.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X opens a new window" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 footer-line">
+                <div class="footer__errata">
+                    <p class="footer__copyright" style="line-height: 1.8em">Copyright ©2025 California State Polytechnic University, Pomona.  All Rights Reserved 
+                        
+                        <br />A campus of 
+                        
+                        <a class="footer__errata-link" style="display: inline" href="https://www.calstate.edu/">The California State University</a>.
+                    
+                    </p>
+                    <div class="footer__errata-links">
+                        <a class="footer__errata-link" href="https://www.cpp.edu/website-feedback.shtml">Feedback</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/privacy.shtml">Privacy</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/accessibility.shtml">Accessibility</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/file-viewers.shtml">Document Readers</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer__gradient-bottom"></div>
+</footer>
+
+
+<script   src="https://code.jquery.com/jquery-3.2.1.min.js"   integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="   crossorigin="anonymous">
+</script><script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script src="https://www.cpp.edu/common/green-and-gold/assets/js/cpp-legacy.js" ></script>
+<script src="https://www.cpp.edu/common/2018/assets/js/tabs.js" ></script>
+<script src="/common/green-and-gold/assets/js/nav.js"></script>
+
+
+</div>
+    
+		
+		
+	</body>
+</html>

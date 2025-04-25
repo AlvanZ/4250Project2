@@ -1,0 +1,840 @@
+<!DOCTYPE html>
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US" class="no-js">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+			<link rel="profile" href="https://gmpg.org/xfn/11" />
+	<script>document.documentElement.classList.add('fivo-docs-js');</script>
+		<style>
+			:root {
+						}
+
+					</style>
+		<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO plugin v24.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Financial Services - Cal Poly Pomona Enterprises</title>
+	<link rel="canonical" href="https://cppenterprises.org/services/financial-services/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Financial Services - Cal Poly Pomona Enterprises" />
+	<meta property="og:description" content="Enterprises Financial Services Accounting Enterprises Financial Services Accounting Department is responsible for accounts payable (payments to vendors, individuals and the University), purchase orders, purchasing cards, travel, fixed assets and risk&hellip;" />
+	<meta property="og:url" content="https://cppenterprises.org/services/financial-services/" />
+	<meta property="og:site_name" content="Cal Poly Pomona Enterprises" />
+	<meta property="article:modified_time" content="2025-02-21T16:55:55+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Est. reading time" />
+	<meta name="twitter:data1" content="1 minute" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://cppenterprises.org/services/financial-services/","url":"https://cppenterprises.org/services/financial-services/","name":"Financial Services - Cal Poly Pomona Enterprises","isPartOf":{"@id":"https://cppenterprises.org/#website"},"datePublished":"2024-03-29T16:29:39+00:00","dateModified":"2025-02-21T16:55:55+00:00","breadcrumb":{"@id":"https://cppenterprises.org/services/financial-services/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://cppenterprises.org/services/financial-services/"]}]},{"@type":"BreadcrumbList","@id":"https://cppenterprises.org/services/financial-services/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cppenterprises.org/"},{"@type":"ListItem","position":2,"name":"Services","item":"https://cppenterprises.org/services/"},{"@type":"ListItem","position":3,"name":"Financial Services"}]},{"@type":"WebSite","@id":"https://cppenterprises.org/#website","url":"https://cppenterprises.org/","name":"Cal Poly Pomona Enterprises","description":"","publisher":{"@id":"https://cppenterprises.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://cppenterprises.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://cppenterprises.org/#organization","name":"Cal Poly Pomona Enterprises","url":"https://cppenterprises.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://cppenterprises.org/#/schema/logo/image/","url":"https://cppenterprises.org/wp-content/uploads/Top_Logo_Horizontal-e1736190780873.png","contentUrl":"https://cppenterprises.org/wp-content/uploads/Top_Logo_Horizontal-e1736190780873.png","width":200,"height":42,"caption":"Cal Poly Pomona Enterprises"},"image":{"@id":"https://cppenterprises.org/#/schema/logo/image/"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Cal Poly Pomona Enterprises &raquo; Feed" href="https://cppenterprises.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Cal Poly Pomona Enterprises &raquo; Comments Feed" href="https://cppenterprises.org/comments/feed/" />
+<link rel="alternate" type="text/calendar" title="Cal Poly Pomona Enterprises &raquo; iCal Feed" href="https://cppenterprises.org/events/?ical=1" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/cppenterprises.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\ud83d\udd25","\ud83d\udc26\u200b\ud83d\udd25")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='filebird-block-filebird-gallery-style-inline-css'>
+ul.filebird-block-filebird-gallery{margin:auto!important;padding:0!important;width:100%}ul.filebird-block-filebird-gallery.layout-grid{display:grid;grid-gap:20px;align-items:stretch;grid-template-columns:repeat(var(--columns),1fr);justify-items:stretch}ul.filebird-block-filebird-gallery.layout-grid li img{border:1px solid #ccc;box-shadow:2px 2px 6px 0 rgba(0,0,0,.3);height:100%;max-width:100%;-o-object-fit:cover;object-fit:cover;width:100%}ul.filebird-block-filebird-gallery.layout-masonry{-moz-column-count:var(--columns);-moz-column-gap:var(--space);column-gap:var(--space);-moz-column-width:var(--min-width);columns:var(--min-width) var(--columns);display:block;overflow:auto}ul.filebird-block-filebird-gallery.layout-masonry li{margin-bottom:var(--space)}ul.filebird-block-filebird-gallery li{list-style:none}ul.filebird-block-filebird-gallery li figure{height:100%;margin:0;padding:0;position:relative;width:100%}ul.filebird-block-filebird-gallery li figure figcaption{background:linear-gradient(0deg,rgba(0,0,0,.7),rgba(0,0,0,.3) 70%,transparent);bottom:0;box-sizing:border-box;color:#fff;font-size:.8em;margin:0;max-height:100%;overflow:auto;padding:3em .77em .7em;position:absolute;text-align:center;width:100%;z-index:2}ul.filebird-block-filebird-gallery li figure figcaption a{color:inherit}
+
+</style>
+<link rel='stylesheet' id='fivo-docs-css' href='https://cppenterprises.org/wp-content/plugins/fivo-docs/build/main.css?ver=2.0.1' media='all' />
+<style id='fivo-docs-inline-css'>
+.fivo-docs { --fivo-docs--color--primary: #2e5dba;--fivo-docs--color--primary-contrast: #fff;--fivo-docs--color--secondary: #f6f7f9;--fivo-docs--color--secondary-contrast: #333;--fivo-docs--color--base: #fff;--fivo-docs--color--contrast: #444;--fivo-docs--color--contrast-highlight: #333;--fivo-docs--color--contrast-dim: #777;--fivo-docs--color--contrast-disabled: #aaa;--fivo-docs--color--link-hover: #2e5dba;--fivo-docs--color--border: #e7e7e7;--fivo-docs--color--scrollbar-track: #fafafa;--fivo-docs--color--scrollbar-thumb: rgba(0, 0, 0, 0.15);--fivo-docs--border-radius: 4px }
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #FFF;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--accent: #004f30;--wp--preset--color--dark-gray: #111;--wp--preset--color--light-gray: #767676;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='rt-fontawsome-css' href='https://cppenterprises.org/wp-content/plugins/the-post-grid/assets/vendor/font-awesome/css/font-awesome.min.css?ver=7.7.15' media='all' />
+<link rel='stylesheet' id='rt-tpg-css' href='https://cppenterprises.org/wp-content/plugins/the-post-grid-pro/assets/css/thepostgrid.min.css?ver=7.7.9' media='all' />
+<link rel='stylesheet' id='tribe-events-v2-single-skeleton-css' href='https://cppenterprises.org/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-single-skeleton.min.css?ver=6.10.1.1' media='all' />
+<link rel='stylesheet' id='tribe-events-v2-single-skeleton-full-css' href='https://cppenterprises.org/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-single-full.min.css?ver=6.10.1.1' media='all' />
+<link rel='stylesheet' id='tec-events-elementor-widgets-base-styles-css' href='https://cppenterprises.org/wp-content/plugins/the-events-calendar/src/resources/css/integrations/plugins/elementor/widgets/widget-base.min.css?ver=6.10.1.1' media='all' />
+<link rel='stylesheet' id='the7-font-css' href='https://cppenterprises.org/wp-content/themes/dt-the7/fonts/icomoon-the7-font/icomoon-the7-font.min.css?ver=12.3.0' media='all' />
+<link rel='stylesheet' id='the7-awesome-fonts-css' href='https://cppenterprises.org/wp-content/themes/dt-the7/fonts/FontAwesome/css/all.min.css?ver=12.3.0' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://cppenterprises.org/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.27.4' media='all' />
+<link rel='stylesheet' id='elementor-post-1401-css' href='https://cppenterprises.org/wp-content/uploads/elementor/css/post-1401.css?ver=1745529546' media='all' />
+<link rel='stylesheet' id='the7_horizontal-menu-css' href='https://cppenterprises.org/wp-content/themes/dt-the7/css/compatibility/elementor/the7-horizontal-menu-widget.min.css?ver=12.3.0' media='all' />
+<link rel='stylesheet' id='the7-e-sticky-effect-css' href='https://cppenterprises.org/wp-content/themes/dt-the7/css/compatibility/elementor/the7-sticky-effects.min.css?ver=12.3.0' media='all' />
+<link rel='stylesheet' id='e-sticky-css' href='https://cppenterprises.org/wp-content/plugins/elementor-pro/assets/css/modules/sticky.min.css?ver=3.27.3' media='all' />
+<link rel='stylesheet' id='the7-vertical-menu-widget-css' href='https://cppenterprises.org/wp-content/themes/dt-the7/css/compatibility/elementor/the7-vertical-menu-widget.min.css?ver=12.3.0' media='all' />
+<link rel='stylesheet' id='widget-heading-css' href='https://cppenterprises.org/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.27.4' media='all' />
+<link rel='stylesheet' id='widget-text-editor-css' href='https://cppenterprises.org/wp-content/plugins/elementor/assets/css/widget-text-editor.min.css?ver=3.27.4' media='all' />
+<link rel='stylesheet' id='elementor-post-1913-css' href='https://cppenterprises.org/wp-content/uploads/elementor/css/post-1913.css?ver=1745530055' media='all' />
+<link rel='stylesheet' id='tablepress-default-css' href='https://cppenterprises.org/wp-content/tablepress-combined.min.css?ver=26' media='all' />
+<link rel='stylesheet' id='tablepress-datatables-fixedheader-css' href='https://cppenterprises.org/wp-content/plugins/tablepress-premium/modules/css/build/datatables.fixedheader.css?ver=3.0.3' media='all' />
+<link rel='stylesheet' id='tablepress-datatables-fixedcolumns-css' href='https://cppenterprises.org/wp-content/plugins/tablepress-premium/modules/css/build/datatables.fixedcolumns.css?ver=3.0.3' media='all' />
+<link rel='stylesheet' id='tablepress-datatables-scroll-buttons-css' href='https://cppenterprises.org/wp-content/plugins/tablepress-premium/modules/css/build/datatables.scroll-buttons.css?ver=3.0.3' media='all' />
+<link rel='stylesheet' id='tablepress-responsive-tables-css' href='https://cppenterprises.org/wp-content/plugins/tablepress-premium/modules/css/build/responsive-tables.css?ver=3.0.3' media='all' />
+<link rel='stylesheet' id='tablepress-datatables-serverside-processing-css' href='https://cppenterprises.org/wp-content/plugins/tablepress-premium/modules/css/build/datatables.serverside-processing.css?ver=3.0.3' media='all' />
+<link rel='stylesheet' id='dt-web-fonts-css' href='https://fonts.googleapis.com/css?family=Roboto:400,600,700%7COpen+Sans:400,600,700%7CRoboto+Condensed:400,600,700%7COpen+Sans+Condensed:400,600,700&#038;display=swap' media='all' />
+<link rel='stylesheet' id='dt-main-css' href='https://cppenterprises.org/wp-content/themes/dt-the7/css/main.min.css?ver=12.3.0' media='all' />
+<style id='dt-main-inline-css'>
+body #load {
+  display: block;
+  height: 100%;
+  overflow: hidden;
+  position: fixed;
+  width: 100%;
+  z-index: 9901;
+  opacity: 1;
+  visibility: visible;
+  transition: all .35s ease-out;
+}
+.load-wrap {
+  width: 100%;
+  height: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  text-align: center;
+  display: -ms-flexbox;
+  display: -ms-flex;
+  display: flex;
+  -ms-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -ms-flex-flow: column wrap;
+  flex-flow: column wrap;
+  -ms-flex-pack: center;
+  -ms-justify-content: center;
+  justify-content: center;
+}
+.load-wrap > svg {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+#load {
+  background: var(--the7-elementor-beautiful-loading-bg,#ffffff);
+  --the7-beautiful-spinner-color2: var(--the7-beautiful-spinner-color,rgba(51,51,51,0.3));
+}
+
+</style>
+<link rel='stylesheet' id='the7-custom-scrollbar-css' href='https://cppenterprises.org/wp-content/themes/dt-the7/lib/custom-scrollbar/custom-scrollbar.min.css?ver=12.3.0' media='all' />
+<link rel='stylesheet' id='the7-css-vars-css' href='https://cppenterprises.org/wp-content/uploads/the7-css/css-vars.css?ver=aaf61086f1e3' media='all' />
+<link rel='stylesheet' id='dt-custom-css' href='https://cppenterprises.org/wp-content/uploads/the7-css/custom.css?ver=aaf61086f1e3' media='all' />
+<link rel='stylesheet' id='dt-media-css' href='https://cppenterprises.org/wp-content/uploads/the7-css/media.css?ver=aaf61086f1e3' media='all' />
+<link rel='stylesheet' id='the7-mega-menu-css' href='https://cppenterprises.org/wp-content/uploads/the7-css/mega-menu.css?ver=aaf61086f1e3' media='all' />
+<link rel='stylesheet' id='the7-elements-css' href='https://cppenterprises.org/wp-content/uploads/the7-css/post-type-dynamic.css?ver=aaf61086f1e3' media='all' />
+<link rel='stylesheet' id='style-css' href='https://cppenterprises.org/wp-content/themes/dt-the7-child/style.css?ver=12.3.0' media='all' />
+<link rel='stylesheet' id='the7-elementor-global-css' href='https://cppenterprises.org/wp-content/themes/dt-the7/css/compatibility/elementor/elementor-global.min.css?ver=12.3.0' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap&#038;ver=6.8' media='all' />
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><script src="https://cppenterprises.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://cppenterprises.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script id="dt-above-fold-js-extra">
+var dtLocal = {"themeUrl":"https:\/\/cppenterprises.org\/wp-content\/themes\/dt-the7","passText":"To view this protected post, enter the password below:","moreButtonText":{"loading":"Loading...","loadMore":"Load more"},"postID":"1913","ajaxurl":"https:\/\/cppenterprises.org\/wp-admin\/admin-ajax.php","REST":{"baseUrl":"https:\/\/cppenterprises.org\/wp-json\/the7\/v1","endpoints":{"sendMail":"\/send-mail"}},"contactMessages":{"required":"One or more fields have an error. Please check and try again.","terms":"Please accept the privacy policy.","fillTheCaptchaError":"Please, fill the captcha."},"captchaSiteKey":"","ajaxNonce":"65aa9ba954","pageData":{"type":"page","template":"page","layout":null},"themeSettings":{"smoothScroll":"off","lazyLoading":false,"desktopHeader":{"height":100},"ToggleCaptionEnabled":"disabled","ToggleCaption":"Navigation","floatingHeader":{"showAfter":160,"showMenu":true,"height":70,"logo":{"showLogo":true,"html":"<img class=\" preload-me\" src=\"https:\/\/cppenterprises.org\/wp-content\/uploads\/Top_Logo_Horizontal-e1736190780873.png\" srcset=\"https:\/\/cppenterprises.org\/wp-content\/uploads\/Top_Logo_Horizontal-e1736190780873.png 200w, https:\/\/cppenterprises.org\/wp-content\/uploads\/Top_Logo_Horizontal-e1736190780873.png 200w\" width=\"200\" height=\"42\"   sizes=\"200px\" alt=\"Cal Poly Pomona Enterprises\" \/>","url":"https:\/\/cppenterprises.org\/"}},"topLine":{"floatingTopLine":{"logo":{"showLogo":false,"html":""}}},"mobileHeader":{"firstSwitchPoint":1150,"secondSwitchPoint":992,"firstSwitchPointHeight":70,"secondSwitchPointHeight":70,"mobileToggleCaptionEnabled":"disabled","mobileToggleCaption":"Menu"},"stickyMobileHeaderFirstSwitch":{"logo":{"html":"<img class=\" preload-me\" src=\"https:\/\/cppenterprises.org\/wp-content\/uploads\/Top_Logo_Horizontal-e1736190780873.png\" srcset=\"https:\/\/cppenterprises.org\/wp-content\/uploads\/Top_Logo_Horizontal-e1736190780873.png 200w, https:\/\/cppenterprises.org\/wp-content\/uploads\/Top_Logo_Horizontal-e1736190780873.png 200w\" width=\"200\" height=\"42\"   sizes=\"200px\" alt=\"Cal Poly Pomona Enterprises\" \/>"}},"stickyMobileHeaderSecondSwitch":{"logo":{"html":"<img class=\" preload-me\" src=\"https:\/\/cppenterprises.org\/wp-content\/uploads\/Top_Logo_Horizontal-e1736190780873.png\" srcset=\"https:\/\/cppenterprises.org\/wp-content\/uploads\/Top_Logo_Horizontal-e1736190780873.png 200w, https:\/\/cppenterprises.org\/wp-content\/uploads\/Top_Logo_Horizontal-e1736190780873.png 200w\" width=\"200\" height=\"42\"   sizes=\"200px\" alt=\"Cal Poly Pomona Enterprises\" \/>"}},"sidebar":{"switchPoint":990},"boxedWidth":"1340px"},"elementor":{"settings":{"container_width":0}}};
+var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Share on X","pinterest":"Pin it","linkedin":"Share on Linkedin","whatsapp":"Share on Whatsapp"},"overlayOpacity":"80"};
+</script>
+<script src="https://cppenterprises.org/wp-content/themes/dt-the7/js/above-the-fold.min.js?ver=12.3.0" id="dt-above-fold-js"></script>
+<link rel="https://api.w.org/" href="https://cppenterprises.org/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://cppenterprises.org/wp-json/wp/v2/pages/1913" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://cppenterprises.org/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.8" />
+<meta name="generator" content="Fivo Docs 2.0.1" />
+<link rel='shortlink' href='https://cppenterprises.org/?p=1913' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://cppenterprises.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcppenterprises.org%2Fservices%2Ffinancial-services%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://cppenterprises.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcppenterprises.org%2Fservices%2Ffinancial-services%2F&#038;format=xml" />
+
+		<script>
+
+			jQuery(window).on('elementor/frontend/init', function () {
+				var previewIframe = jQuery('#elementor-preview-iframe').get(0);
+
+				// Attach a load event listener to the preview iframe
+				jQuery(previewIframe).on('load', function () {
+					var tpg_selector = tpg_str_rev("nottub-tropmi-gpttr nottub-aera-noitces-dda-rotnemele");
+
+					var logo = "https://cppenterprises.org/wp-content/plugins/the-post-grid";
+					var log_path = "/assets/images/icon-40x40.svg"; //tpg_str_rev("gvs.04x04-noci/segami/stessa/");
+
+					jQuery('<div class="' + tpg_selector + '" style="vertical-align: bottom;margin-left: 5px;"><img src="' + logo + log_path + '" alt="TPG"/></div>').insertBefore(".elementor-add-section-drag-title");
+				});
+
+			});
+		</script>
+		<style>
+			:root {
+				--tpg-primary-color: #0d6efd;
+				--tpg-secondary-color: #0654c4;
+				--tpg-primary-light: #c4d0ff
+			}
+
+					</style>
+
+		<meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://cppenterprises.org"><link rel="alternate" href="https://cppenterprises.org/wp-json/tribe/events/v1/" /><meta name="generator" content="Elementor 3.27.4; features: e_font_icon_svg; settings: css_print_method-external, google_font-enabled, font_display-swap">
+<style>
+	.elementor-widget-image-box .elementor-image-box-description{color:#000000;}
+</style>
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<meta name="generator" content="Powered by Slider Revolution 6.7.28 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<script type="text/javascript" id="the7-loader-script">
+document.addEventListener("DOMContentLoaded", function(event) {
+	var load = document.getElementById("load");
+	if(!load.classList.contains('loader-removed')){
+		var removeLoading = setTimeout(function() {
+			load.className += " loader-removed";
+		}, 300);
+	}
+});
+</script>
+		<link rel="icon" href="https://cppenterprises.org/wp-content/uploads/cropped-cppe_site_icon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://cppenterprises.org/wp-content/uploads/cropped-cppe_site_icon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://cppenterprises.org/wp-content/uploads/cropped-cppe_site_icon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://cppenterprises.org/wp-content/uploads/cropped-cppe_site_icon-270x270.png" />
+<script>function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;
+				try {
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) || (e.l=="fullwidth" || e.layout=="fullwidth") ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);
+					if(e.layout==="fullscreen" || e.l==="fullscreen")
+						newh = Math.max(e.mh,window.RSIH);
+					else{
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,
+							sl;
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}
+					var el = document.getElementById(e.c);
+					if (el!==null && el) el.style.height = newh+"px";
+					el = document.getElementById(e.c+"_wrapper");
+					if (el!==null && el) {
+						el.style.height = newh+"px";
+						el.style.display = "block";
+					}
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}
+			//});
+		  };</script>
+		<style id="wp-custom-css">
+			.scroll-top {
+    display: none !important;
+}
+
+
+/*   
+.scroll-top {
+    bottom: 100px !important;
+    right: 20px !important;
+    z-index: 9999; 
+}  */		</style>
+		<style id='the7-custom-inline-css' type='text/css'>
+.alignfull {
+  margin-top: calc(2 * 1rem);
+  margin-right: 0;
+  margin-bottom: calc(2 * 1rem);
+  margin-left: 0;
+  max-width: 100%;
+}
+
+.wp-block-image.alignfull img {
+  width: 100vw;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* this adds outline to links for accessbility alex */
+#the7-body a:focus {
+    outline: auto;
+}
+
+
+.elementor-widget-text-editor{color:#444444;} /*most text colors*/
+ 
+ 
+.searchform input[type=text] {color:green;}
+
+.mini-search input.field {color:#ffffff; background-color:#000000;}
+.screen-reader-text{color:#ffffff; background-color:#000000;} /* social Media Icon Accessbility */
+.address{color:#ffffff; background-color:#004F30;}/* address header accessiblity - change based on background color*/
+
+
+
+.assistive-text{color:#ffffff; background-color:#004F30;} /* page title bread crumb accessbility*/
+
+
+/*
+.mini-contacts {color:#000000; background-color:#004F30;}
+.address show-on-desktop {color:#000000; background-color:#004F30;}
+
+.in-top-bar-left {color:#ffffff; background-color:#004F30;}*/
+
+
+
+
+/*
+.multipurpose_3{visibility:hidden;} */
+
+/*updated file in main template under template parts> header searchform.php added: aria-label="search form" to the link - multiple entries */
+
+.wp-element-button{color:#ffffff; background-color:#004F30;} /*color of buttons on website, also remove the style as it's hard coded. let this take over the color */
+
+
+
+
+
+
+.header-elements-button-1:not(:hover) span {color: #ffffff;} /*fixes my intranet */
+
+
+.mini-contacts, .multipurpose_3, .show-on-desktop, .near-logo-first-switch, .in-menu-second-switch {color:#ffffff; background-color:#004F30;}   /* check again, fixes the menu contrast issue */
+
+
+/* this is to increase the font in mycpp and UKG icons */
+
+/* Apply the style only on mobile screens (max-width 768px) */
+@media only screen and (max-width: 768px) {
+    .microwidget-btn span {
+        font-size: 25px; line-height:29px; /* Adjust the font size as needed */
+    }
+}
+
+
+
+</style>
+</head>
+<body id="the7-body" class="wp-singular page-template page-template-elementor_header_footer page page-id-1913 page-parent page-child parent-pageid-1911 wp-custom-logo wp-embed-responsive wp-theme-dt-the7 wp-child-theme-dt-the7-child the7-core-ver-2.7.10 rttpg rttpg-7.7.15 radius-frontend rttpg-body-wrap tribe-no-js dt-responsive-on right-mobile-menu-close-icon ouside-menu-close-icon mobile-hamburger-close-bg-enable mobile-hamburger-close-bg-hover-enable  fade-medium-mobile-menu-close-icon fade-medium-menu-close-icon srcset-enabled btn-flat custom-btn-color custom-btn-hover-color phantom-sticky phantom-shadow-decoration phantom-main-logo-on sticky-mobile-header top-header first-switch-logo-left first-switch-menu-right second-switch-logo-left second-switch-menu-right right-mobile-menu layzr-loading-on popup-message-style the7-ver-12.3.0 dt-fa-compatibility elementor-default elementor-template-full-width elementor-clear-template elementor-kit-1401 elementor-page elementor-page-1913">
+<!-- The7 12.3.0 -->
+<div id="load" class="hourglass-loader">
+	<div class="load-wrap"><style type="text/css">
+    .the7-spinner {
+        width: 60px;
+        height: 72px;
+        position: relative;
+    }
+    .the7-spinner > div {
+        animation: spinner-animation 1.2s cubic-bezier(1, 1, 1, 1) infinite;
+        width: 9px;
+        left: 0;
+        display: inline-block;
+        position: absolute;
+        background-color:var(--the7-beautiful-spinner-color2);
+        height: 18px;
+        top: 27px;
+    }
+    div.the7-spinner-animate-2 {
+        animation-delay: 0.2s;
+        left: 13px
+    }
+    div.the7-spinner-animate-3 {
+        animation-delay: 0.4s;
+        left: 26px
+    }
+    div.the7-spinner-animate-4 {
+        animation-delay: 0.6s;
+        left: 39px
+    }
+    div.the7-spinner-animate-5 {
+        animation-delay: 0.8s;
+        left: 52px
+    }
+    @keyframes spinner-animation {
+        0% {
+            top: 27px;
+            height: 18px;
+        }
+        20% {
+            top: 9px;
+            height: 54px;
+        }
+        50% {
+            top: 27px;
+            height: 18px;
+        }
+        100% {
+            top: 27px;
+            height: 18px;
+        }
+    }
+</style>
+
+<div class="the7-spinner">
+    <div class="the7-spinner-animate-1"></div>
+    <div class="the7-spinner-animate-2"></div>
+    <div class="the7-spinner-animate-3"></div>
+    <div class="the7-spinner-animate-4"></div>
+    <div class="the7-spinner-animate-5"></div>
+</div></div>
+</div>
+<div id="page" >
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+<div class="masthead inline-header justify widgets full-height full-width shadow-mobile-header-decoration medium-mobile-menu-icon mobile-menu-icon-bg-on mobile-menu-icon-hover-bg-on dt-parent-menu-clickable show-sub-menu-on-hover"  role="banner">
+
+	<div class="top-bar top-bar-line-hide">
+	<div class="top-bar-bg" ></div>
+	<div class="left-widgets mini-widgets"><div class="soc-ico show-on-desktop in-top-bar-right in-menu-second-switch disabled-bg custom-border border-on hover-custom-bg hover-disabled-border  hover-border-off"><a title="Linkedin page opens in new window" href="https://www.linkedin.com/company/cal-poly-pomona-foundation-inc-/" target="_blank" class="linkedin"><span class="soc-font-icon"></span><span class="screen-reader-text">Linkedin page opens in new window</span></a><a title="YouTube page opens in new window" href="https://www.youtube.com/user/cppfoundation" target="_blank" class="you-tube"><span class="soc-font-icon"></span><span class="screen-reader-text">YouTube page opens in new window</span></a><a title="Instagram page opens in new window" href="/news/social-media/" target="_blank" class="instagram"><span class="soc-font-icon"></span><span class="screen-reader-text">Instagram page opens in new window</span></a><a title="Facebook page opens in new window" href="/news/social-media/" target="_blank" class="facebook"><span class="soc-font-icon"></span><span class="screen-reader-text">Facebook page opens in new window</span></a><a title="X page opens in new window" href="/news/social-media/" target="_blank" class="twitter"><span class="soc-font-icon"></span><span class="screen-reader-text">X page opens in new window</span></a></div></div><div class="right-widgets mini-widgets"><div class="mini-search show-on-desktop in-menu-first-switch in-menu-second-switch animate-search-width custom-icon"><form class="searchform mini-widget-searchform" role="search" method="get" action="https://cppenterprises.org/">
+
+	<div class="screen-reader-text">Search:</div>
+
+	
+		<input type="text" aria-label="Search" class="field searchform-s" name="s" value="" placeholder="Search..." title="Search form"/>
+		<a href="" aria-label="search form" class="search-icon"><i class="the7-mw-icon-search-bold"></i></a>
+
+			<input type="submit" class="assistive-text searchsubmit" value="Go!"/>
+</form>
+</div><span class="mini-contacts address show-on-desktop in-top-bar-left in-top-bar"><i class="fa-fw the7-mw-icon-address-bold"></i>3801 West Temple Ave, Building 55, Pomona CA 91768</span></div></div>
+
+	<header class="header-bar">
+
+		<div class="branding">
+	<div id="site-title" class="assistive-text">Cal Poly Pomona Enterprises</div>
+	<div id="site-description" class="assistive-text"></div>
+	<a class="same-logo" href="https://cppenterprises.org/"><img class=" preload-me" src="https://cppenterprises.org/wp-content/uploads/Top_Logo_Horizontal-e1736190780873.png" srcset="https://cppenterprises.org/wp-content/uploads/Top_Logo_Horizontal-e1736190780873.png 200w, https://cppenterprises.org/wp-content/uploads/Top_Logo_Horizontal-e1736190780873.png 200w" width="200" height="42"   sizes="200px" alt="Cal Poly Pomona Enterprises" /></a></div>
+
+		<ul id="primary-menu" class="main-nav bg-outline-decoration hover-bg-decoration active-bg-decoration level-arrows-on outside-item-remove-margin"><li class="ppr-nofollow menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2431 first has-children depth-0"><a href='https://cppenterprises.org/organization/' rel='nofollow' data-level='1'><span class="menu-item-text"><span class="menu-text">Organization</span></span></a><ul class="sub-nav hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2432 first depth-1"><a href='https://cppenterprises.org/organization/about-cppe/' data-level='2'><span class="menu-item-text"><span class="menu-text">About CPPE</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2433 depth-1"><a href='https://cppenterprises.org/organization/leadership/' data-level='2'><span class="menu-item-text"><span class="menu-text">Leadership Team</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2434 depth-1"><a href='https://cppenterprises.org/organization/donations-scholarships/' data-level='2'><span class="menu-item-text"><span class="menu-text">Donations &amp; Scholarships</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2435 depth-1"><a href='https://cppenterprises.org/organization/faq/' data-level='2'><span class="menu-item-text"><span class="menu-text">FAQ</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2561 depth-1"><a href='https://cppenterprises.org/organization/maps-and-driving-directions/' data-level='2'><span class="menu-item-text"><span class="menu-text">Maps and Driving Directions</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11265 depth-1"><a href='https://cppenterprises.org/organization/contact-us-directory/' data-level='2'><span class="menu-item-text"><span class="menu-text">Contact Us Directory</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2424 has-children depth-0"><a href='https://cppenterprises.org/governance/' data-level='1'><span class="menu-item-text"><span class="menu-text">Governance</span></span></a><ul class="sub-nav hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3284 first depth-1"><a href='https://cppenterprises.org/governance/board/' data-level='2'><span class="menu-item-text"><span class="menu-text">Board &#038;  Meetings</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3118 depth-1"><a href='https://cppenterprises.org/governance/financials-documents-disclosures/' data-level='2'><span class="menu-item-text"><span class="menu-text">Financials, Documents, Disclosures</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2429 depth-1"><a href='https://cppenterprises.org/governance/corporate-policies/' data-level='2'><span class="menu-item-text"><span class="menu-text">Corporate Policies</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2539 has-children depth-0"><a href='https://cppenterprises.org/services/post-award-office-sponsored-programs-administration/' data-level='1'><span class="menu-item-text"><span class="menu-text">Grants</span></span></a><ul class="sub-nav hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2540 first depth-1"><a href='https://cppenterprises.org/services/post-award-office-sponsored-programs-administration/training-guides/' data-level='2'><span class="menu-item-text"><span class="menu-text">Training Guides</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2541 depth-1"><a href='https://www.cpp.edu/research/sponsored-program/' data-level='2'><span class="menu-item-text"><span class="menu-text">Office of Research &#038; Sponsored Programs</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2606 has-children depth-0"><a href='https://cppenterprises.org/news/' data-level='1'><span class="menu-item-text"><span class="menu-text">News</span></span></a><ul class="sub-nav hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5478 first depth-1"><a href='/news/news-articles-announcements/' data-level='2'><span class="menu-item-text"><span class="menu-text">News, Anouncements &#038; More</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2495 depth-1"><a href='https://cppenterprises.org/news/social-media/' data-level='2'><span class="menu-item-text"><span class="menu-text">Social Media</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-2615 act has-children depth-0"><a href='https://cppenterprises.org/services/' data-level='1'><span class="menu-item-text"><span class="menu-text">Services</span></span></a><ul class="sub-nav hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1647 first has-children depth-1"><a href='https://cppenterprises.org/services/employment-services/' data-level='2'><span class="menu-item-text"><span class="menu-text">Employment Services</span></span></a><ul class="sub-nav hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1599 first depth-2"><a href='https://cppenterprises.org/services/employment-services/employment-opportunities/' data-level='3'><span class="menu-item-text"><span class="menu-text">Employment Opportunities</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1610 depth-2"><a href='https://idp.cpp.edu/idp/profile/SAML2/Unsolicited/SSO?providerId=https://secure4.saashr.com/ta/6041387' data-level='3'><span class="menu-item-text"><span class="menu-text">UKG Login</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1592 depth-2"><a href='https://cppenterprises.org/services/employment-services/employee-benefits/' data-level='3'><span class="menu-item-text"><span class="menu-text">Employee Benefits</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1590 depth-2"><a href='https://cppenterprises.org/services/employment-services/forms-information/' data-level='3'><span class="menu-item-text"><span class="menu-text">Forms &#038; Information</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1655 depth-2"><a href='https://www.cpp.edu/safer-return/checklist/prior-to-campus.shtml' data-level='3'><span class="menu-item-text"><span class="menu-text">Covid-19 Reporting</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4055 depth-2"><a href='https://cppenterprises.org/services/employment-services/contact-es/' data-level='3'><span class="menu-item-text"><span class="menu-text">Contact ES</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1913 current_page_item menu-item-has-children menu-item-2739 act has-children depth-1"><a href='https://cppenterprises.org/services/financial-services/' data-level='2'><span class="menu-item-text"><span class="menu-text">Financial Services</span></span></a><ul class="sub-nav hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2502 first depth-2"><a href='https://cppenterprises.org/services/financial-services/forms/' data-level='3'><span class="menu-item-text"><span class="menu-text">Forms</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2526 depth-2"><a href='https://cppenterprises.org/services/financial-services/policies-procedure/' data-level='3'><span class="menu-item-text"><span class="menu-text">Policies/Procedure</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2525 depth-2"><a href='https://cppenterprises.org/services/financial-services/one-solution/' data-level='3'><span class="menu-item-text"><span class="menu-text">One Solution</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14882 depth-2"><a href='https://wellsoffice.wellsfargo.com/' data-level='3'><span class="menu-item-text"><span class="menu-text">P-Card Login</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14883 depth-2"><a href='https://login.adaptiveinsights.com/app' data-level='3'><span class="menu-item-text"><span class="menu-text">Adaptive Login</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2523 depth-2"><a href='https://cppenterprises.org/services/financial-services/contact-fs/' data-level='3'><span class="menu-item-text"><span class="menu-text">Contact FS</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2744 depth-1"><a href='https://cppenterprises.org/services/information-technology/' data-level='2'><span class="menu-item-text"><span class="menu-text">Information Technology</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2642 depth-1"><a href='https://cppenterprises.org/services/marketing/' data-level='2'><span class="menu-item-text"><span class="menu-text">Marketing</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2542 depth-1"><a href='https://broncoonecard.com/' data-level='2'><span class="menu-item-text"><span class="menu-text">Bronco One Card</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2621 has-children depth-0"><a href='https://cppenterprises.org/commercial-services/' data-level='1'><span class="menu-item-text"><span class="menu-text">Commercial Services</span></span></a><ul class="sub-nav hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1648 first depth-1"><a href='https://www.broncobookstore.com/' data-level='2'><span class="menu-item-text"><span class="menu-text">Bronco Bookstore</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1649 has-children depth-1"><a href='https://foundation.cpp.edu/dining/' data-level='2'><span class="menu-item-text"><span class="menu-text">Dining Services</span></span></a><ul class="sub-nav hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10521 first depth-2"><a href='/dining-hours/' data-level='3'><span class="menu-item-text"><span class="menu-text">Dining Hours</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1650 depth-2"><a href='https://broncoonecard.com/bronco-bucks/' data-level='3'><span class="menu-item-text"><span class="menu-text">Load Funds – Bronco One Card</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1657 depth-2"><a href='https://broncoonecard.com/commuter-meal-plans/' data-level='3'><span class="menu-item-text"><span class="menu-text">Buy a Commuter Meal Plan</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2543 depth-2"><a href='https://cppcampuscatering.catertrax.com/index.asp' data-level='3'><span class="menu-item-text"><span class="menu-text">Catering</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1653 depth-1"><a href='https://www.kelloggwest.com/' data-level='2'><span class="menu-item-text"><span class="menu-text">Kellogg West Conference Center &#038; Hotel</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1654 depth-1"><a href='https://www.kellogghouse.com/' data-level='2'><span class="menu-item-text"><span class="menu-text">Kellogg House</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2627 has-children depth-1"><a href='https://cppenterprises.org/commercial-services/real-estate/' data-level='2'><span class="menu-item-text"><span class="menu-text">Real Estate</span></span></a><ul class="sub-nav hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2604 first depth-2"><a href='https://cppenterprises.org/commercial-services/real-estate/faculty-staff-housing-assistance/' data-level='3'><span class="menu-item-text"><span class="menu-text">Affordable Faculty Staff Housing Assistance</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2603 depth-2"><a href='https://cppenterprises.org/commercial-services/real-estate/homes/' data-level='3'><span class="menu-item-text"><span class="menu-text">Homes for Sale</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1658 depth-2"><a href='https://www.fairoakswalk.com/' data-level='3'><span class="menu-item-text"><span class="menu-text">Fair Oaks Walk Housing</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2602 depth-2"><a href='https://cppenterprises.org/commercial-services/real-estate/filming-locations/' data-level='3'><span class="menu-item-text"><span class="menu-text">Filming Locations</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1652 depth-2"><a href='https://www.innovationvillage.org/' data-level='3'><span class="menu-item-text"><span class="menu-text">Innovation Village</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1656 depth-2"><a href='https://www.innovationvillage.org/ctti.html' data-level='3'><span class="menu-item-text"><span class="menu-text">CTTi at Innovation Village</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2599 depth-2"><a href='https://cppenterprises.org/commercial-services/real-estate/real-estate-resources/' data-level='3'><span class="menu-item-text"><span class="menu-text">Real Estate Resources</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2601 depth-2"><a href='https://cppenterprises.org/commercial-services/real-estate/contact-real-estate/' data-level='3'><span class="menu-item-text"><span class="menu-text">Contact Real Estate</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1651 depth-1"><a href='https://www.cppvillage.com/' data-level='2'><span class="menu-item-text"><span class="menu-text">University Village &#8211; Student Housing</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2614 last has-children depth-0"><a href='https://cppenterprises.org/resources/' data-level='1'><span class="menu-item-text"><span class="menu-text">Resources</span></span></a><ul class="sub-nav hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2563 first depth-1"><a href='https://cppenterprises.org/resources/forms-directory/' data-level='2'><span class="menu-item-text"><span class="menu-text">Forms Directory</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2562 depth-1"><a href='https://cppenterprises.org/resources/work-orders-directory/' data-level='2'><span class="menu-item-text"><span class="menu-text">Work Orders Directory</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3814 depth-1"><a href='https://cppenterprises.org/resources/hours-directory/' data-level='2'><span class="menu-item-text"><span class="menu-text">Hours Directory</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3815 depth-1"><a href='https://cppenterprises.org/resources/policies-directory/' data-level='2'><span class="menu-item-text"><span class="menu-text">Policies Directory</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2564 depth-1"><a href='https://www.cpp.edu/admissions/clery-notice-of-availability.shtml' data-level='2'><span class="menu-item-text"><span class="menu-text">Annual Security Report /Fire Safety Report (Clery Act)</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2565 depth-1"><a href='https://www.youtube.com/watch?v=TPJd4r82f9M' data-level='2'><span class="menu-item-text"><span class="menu-text">Earthquake Preparedness Video</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2566 depth-1"><a href='https://www.cpp.edu/em/files/eop.pdf' data-level='2'><span class="menu-item-text"><span class="menu-text">Campus Emergency Plan</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2568 depth-1"><a href='https://www.cpp.edu/' data-level='2'><span class="menu-item-text"><span class="menu-text">Cal Poly Pomona</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2567 depth-1"><a href='https://www.cpp.edu/aboutcpp/visitor-information/index.shtml' data-level='2'><span class="menu-item-text"><span class="menu-text">CPP Visitor Information</span></span></a></li> </ul></li> </ul>
+		<div class="mini-widgets"><a href="https://livecsupomona.sharepoint.com/sites/cppe" class="microwidget-btn mini-button header-elements-button-1 show-on-desktop near-logo-first-switch hide-on-second-switch microwidget-btn-hover-bg-on border-on hover-border-on btn-icon-align-right" ><span>MY CPPE - Intranet</span><i class="fas fa-arrow-circle-right"></i></a><a href="https://idp.cpp.edu/idp/profile/SAML2/Unsolicited/SSO?providerId=https://secure4.saashr.com/ta/6041387" class="microwidget-btn mini-button header-elements-button-2 show-on-desktop near-logo-first-switch in-menu-second-switch microwidget-btn-bg-on microwidget-btn-hover-bg-on disable-animation-bg border-on hover-border-on btn-icon-align-right" ><span>UKG Login</span></a></div>
+	</header>
+
+</div>
+<div role="navigation" aria-label="Main Menu" class="dt-mobile-header mobile-menu-show-divider">
+	<div class="dt-close-mobile-menu-icon" aria-label="Close" role="button" tabindex="0"><div class="close-line-wrap"><span class="close-line"></span><span class="close-line"></span><span class="close-line"></span></div></div>	<ul id="mobile-menu" class="mobile-main-nav">
+		<li class="ppr-nofollow menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2431 first has-children depth-0"><a href='https://cppenterprises.org/organization/' rel='nofollow' data-level='1'><span class="menu-item-text"><span class="menu-text">Organization</span></span></a><ul class="sub-nav hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2432 first depth-1"><a href='https://cppenterprises.org/organization/about-cppe/' data-level='2'><span class="menu-item-text"><span class="menu-text">About CPPE</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2433 depth-1"><a href='https://cppenterprises.org/organization/leadership/' data-level='2'><span class="menu-item-text"><span class="menu-text">Leadership Team</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2434 depth-1"><a href='https://cppenterprises.org/organization/donations-scholarships/' data-level='2'><span class="menu-item-text"><span class="menu-text">Donations &amp; Scholarships</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2435 depth-1"><a href='https://cppenterprises.org/organization/faq/' data-level='2'><span class="menu-item-text"><span class="menu-text">FAQ</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2561 depth-1"><a href='https://cppenterprises.org/organization/maps-and-driving-directions/' data-level='2'><span class="menu-item-text"><span class="menu-text">Maps and Driving Directions</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11265 depth-1"><a href='https://cppenterprises.org/organization/contact-us-directory/' data-level='2'><span class="menu-item-text"><span class="menu-text">Contact Us Directory</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2424 has-children depth-0"><a href='https://cppenterprises.org/governance/' data-level='1'><span class="menu-item-text"><span class="menu-text">Governance</span></span></a><ul class="sub-nav hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3284 first depth-1"><a href='https://cppenterprises.org/governance/board/' data-level='2'><span class="menu-item-text"><span class="menu-text">Board &#038;  Meetings</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3118 depth-1"><a href='https://cppenterprises.org/governance/financials-documents-disclosures/' data-level='2'><span class="menu-item-text"><span class="menu-text">Financials, Documents, Disclosures</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2429 depth-1"><a href='https://cppenterprises.org/governance/corporate-policies/' data-level='2'><span class="menu-item-text"><span class="menu-text">Corporate Policies</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2539 has-children depth-0"><a href='https://cppenterprises.org/services/post-award-office-sponsored-programs-administration/' data-level='1'><span class="menu-item-text"><span class="menu-text">Grants</span></span></a><ul class="sub-nav hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2540 first depth-1"><a href='https://cppenterprises.org/services/post-award-office-sponsored-programs-administration/training-guides/' data-level='2'><span class="menu-item-text"><span class="menu-text">Training Guides</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2541 depth-1"><a href='https://www.cpp.edu/research/sponsored-program/' data-level='2'><span class="menu-item-text"><span class="menu-text">Office of Research &#038; Sponsored Programs</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2606 has-children depth-0"><a href='https://cppenterprises.org/news/' data-level='1'><span class="menu-item-text"><span class="menu-text">News</span></span></a><ul class="sub-nav hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5478 first depth-1"><a href='/news/news-articles-announcements/' data-level='2'><span class="menu-item-text"><span class="menu-text">News, Anouncements &#038; More</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2495 depth-1"><a href='https://cppenterprises.org/news/social-media/' data-level='2'><span class="menu-item-text"><span class="menu-text">Social Media</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-2615 act has-children depth-0"><a href='https://cppenterprises.org/services/' data-level='1'><span class="menu-item-text"><span class="menu-text">Services</span></span></a><ul class="sub-nav hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1647 first has-children depth-1"><a href='https://cppenterprises.org/services/employment-services/' data-level='2'><span class="menu-item-text"><span class="menu-text">Employment Services</span></span></a><ul class="sub-nav hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1599 first depth-2"><a href='https://cppenterprises.org/services/employment-services/employment-opportunities/' data-level='3'><span class="menu-item-text"><span class="menu-text">Employment Opportunities</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1610 depth-2"><a href='https://idp.cpp.edu/idp/profile/SAML2/Unsolicited/SSO?providerId=https://secure4.saashr.com/ta/6041387' data-level='3'><span class="menu-item-text"><span class="menu-text">UKG Login</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1592 depth-2"><a href='https://cppenterprises.org/services/employment-services/employee-benefits/' data-level='3'><span class="menu-item-text"><span class="menu-text">Employee Benefits</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1590 depth-2"><a href='https://cppenterprises.org/services/employment-services/forms-information/' data-level='3'><span class="menu-item-text"><span class="menu-text">Forms &#038; Information</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1655 depth-2"><a href='https://www.cpp.edu/safer-return/checklist/prior-to-campus.shtml' data-level='3'><span class="menu-item-text"><span class="menu-text">Covid-19 Reporting</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4055 depth-2"><a href='https://cppenterprises.org/services/employment-services/contact-es/' data-level='3'><span class="menu-item-text"><span class="menu-text">Contact ES</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1913 current_page_item menu-item-has-children menu-item-2739 act has-children depth-1"><a href='https://cppenterprises.org/services/financial-services/' data-level='2'><span class="menu-item-text"><span class="menu-text">Financial Services</span></span></a><ul class="sub-nav hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2502 first depth-2"><a href='https://cppenterprises.org/services/financial-services/forms/' data-level='3'><span class="menu-item-text"><span class="menu-text">Forms</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2526 depth-2"><a href='https://cppenterprises.org/services/financial-services/policies-procedure/' data-level='3'><span class="menu-item-text"><span class="menu-text">Policies/Procedure</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2525 depth-2"><a href='https://cppenterprises.org/services/financial-services/one-solution/' data-level='3'><span class="menu-item-text"><span class="menu-text">One Solution</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14882 depth-2"><a href='https://wellsoffice.wellsfargo.com/' data-level='3'><span class="menu-item-text"><span class="menu-text">P-Card Login</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14883 depth-2"><a href='https://login.adaptiveinsights.com/app' data-level='3'><span class="menu-item-text"><span class="menu-text">Adaptive Login</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2523 depth-2"><a href='https://cppenterprises.org/services/financial-services/contact-fs/' data-level='3'><span class="menu-item-text"><span class="menu-text">Contact FS</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2744 depth-1"><a href='https://cppenterprises.org/services/information-technology/' data-level='2'><span class="menu-item-text"><span class="menu-text">Information Technology</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2642 depth-1"><a href='https://cppenterprises.org/services/marketing/' data-level='2'><span class="menu-item-text"><span class="menu-text">Marketing</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2542 depth-1"><a href='https://broncoonecard.com/' data-level='2'><span class="menu-item-text"><span class="menu-text">Bronco One Card</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2621 has-children depth-0"><a href='https://cppenterprises.org/commercial-services/' data-level='1'><span class="menu-item-text"><span class="menu-text">Commercial Services</span></span></a><ul class="sub-nav hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1648 first depth-1"><a href='https://www.broncobookstore.com/' data-level='2'><span class="menu-item-text"><span class="menu-text">Bronco Bookstore</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1649 has-children depth-1"><a href='https://foundation.cpp.edu/dining/' data-level='2'><span class="menu-item-text"><span class="menu-text">Dining Services</span></span></a><ul class="sub-nav hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10521 first depth-2"><a href='/dining-hours/' data-level='3'><span class="menu-item-text"><span class="menu-text">Dining Hours</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1650 depth-2"><a href='https://broncoonecard.com/bronco-bucks/' data-level='3'><span class="menu-item-text"><span class="menu-text">Load Funds – Bronco One Card</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1657 depth-2"><a href='https://broncoonecard.com/commuter-meal-plans/' data-level='3'><span class="menu-item-text"><span class="menu-text">Buy a Commuter Meal Plan</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2543 depth-2"><a href='https://cppcampuscatering.catertrax.com/index.asp' data-level='3'><span class="menu-item-text"><span class="menu-text">Catering</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1653 depth-1"><a href='https://www.kelloggwest.com/' data-level='2'><span class="menu-item-text"><span class="menu-text">Kellogg West Conference Center &#038; Hotel</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1654 depth-1"><a href='https://www.kellogghouse.com/' data-level='2'><span class="menu-item-text"><span class="menu-text">Kellogg House</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2627 has-children depth-1"><a href='https://cppenterprises.org/commercial-services/real-estate/' data-level='2'><span class="menu-item-text"><span class="menu-text">Real Estate</span></span></a><ul class="sub-nav hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2604 first depth-2"><a href='https://cppenterprises.org/commercial-services/real-estate/faculty-staff-housing-assistance/' data-level='3'><span class="menu-item-text"><span class="menu-text">Affordable Faculty Staff Housing Assistance</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2603 depth-2"><a href='https://cppenterprises.org/commercial-services/real-estate/homes/' data-level='3'><span class="menu-item-text"><span class="menu-text">Homes for Sale</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1658 depth-2"><a href='https://www.fairoakswalk.com/' data-level='3'><span class="menu-item-text"><span class="menu-text">Fair Oaks Walk Housing</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2602 depth-2"><a href='https://cppenterprises.org/commercial-services/real-estate/filming-locations/' data-level='3'><span class="menu-item-text"><span class="menu-text">Filming Locations</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1652 depth-2"><a href='https://www.innovationvillage.org/' data-level='3'><span class="menu-item-text"><span class="menu-text">Innovation Village</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1656 depth-2"><a href='https://www.innovationvillage.org/ctti.html' data-level='3'><span class="menu-item-text"><span class="menu-text">CTTi at Innovation Village</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2599 depth-2"><a href='https://cppenterprises.org/commercial-services/real-estate/real-estate-resources/' data-level='3'><span class="menu-item-text"><span class="menu-text">Real Estate Resources</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2601 depth-2"><a href='https://cppenterprises.org/commercial-services/real-estate/contact-real-estate/' data-level='3'><span class="menu-item-text"><span class="menu-text">Contact Real Estate</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1651 depth-1"><a href='https://www.cppvillage.com/' data-level='2'><span class="menu-item-text"><span class="menu-text">University Village &#8211; Student Housing</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2614 last has-children depth-0"><a href='https://cppenterprises.org/resources/' data-level='1'><span class="menu-item-text"><span class="menu-text">Resources</span></span></a><ul class="sub-nav hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2563 first depth-1"><a href='https://cppenterprises.org/resources/forms-directory/' data-level='2'><span class="menu-item-text"><span class="menu-text">Forms Directory</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2562 depth-1"><a href='https://cppenterprises.org/resources/work-orders-directory/' data-level='2'><span class="menu-item-text"><span class="menu-text">Work Orders Directory</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3814 depth-1"><a href='https://cppenterprises.org/resources/hours-directory/' data-level='2'><span class="menu-item-text"><span class="menu-text">Hours Directory</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3815 depth-1"><a href='https://cppenterprises.org/resources/policies-directory/' data-level='2'><span class="menu-item-text"><span class="menu-text">Policies Directory</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2564 depth-1"><a href='https://www.cpp.edu/admissions/clery-notice-of-availability.shtml' data-level='2'><span class="menu-item-text"><span class="menu-text">Annual Security Report /Fire Safety Report (Clery Act)</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2565 depth-1"><a href='https://www.youtube.com/watch?v=TPJd4r82f9M' data-level='2'><span class="menu-item-text"><span class="menu-text">Earthquake Preparedness Video</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2566 depth-1"><a href='https://www.cpp.edu/em/files/eop.pdf' data-level='2'><span class="menu-item-text"><span class="menu-text">Campus Emergency Plan</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2568 depth-1"><a href='https://www.cpp.edu/' data-level='2'><span class="menu-item-text"><span class="menu-text">Cal Poly Pomona</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2567 depth-1"><a href='https://www.cpp.edu/aboutcpp/visitor-information/index.shtml' data-level='2'><span class="menu-item-text"><span class="menu-text">CPP Visitor Information</span></span></a></li> </ul></li> 	</ul>
+	<div class='mobile-mini-widgets-in-menu'></div>
+</div>
+
+		<div class="page-title title-center solid-bg breadcrumbs-mobile-off page-title-responsive-enabled">
+			<div class="wf-wrap">
+
+				<div class="page-title-head hgroup"><h1 >Financial Services</h1></div><div class="page-title-breadcrumbs"><div class="assistive-text">You are here:</div><ol class="breadcrumbs text-small" itemscope itemtype="https://schema.org/BreadcrumbList"><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="https://cppenterprises.org/" title="Home"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="https://cppenterprises.org/services/" title="Services"><span itemprop="name">Services</span></a><meta itemprop="position" content="2" /></li><li class="current" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><span itemprop="name">Financial Services</span><meta itemprop="position" content="3" /></li></ol></div>			</div>
+		</div>
+
+		
+
+<div id="main" class="sidebar-none sidebar-divider-off">
+
+	
+	<div class="main-gradient"></div>
+	<div class="wf-wrap">
+	<div class="wf-container-main">
+
+	
+
+
+	<div id="content" class="content" role="main">
+
+				<div data-elementor-type="wp-page" data-elementor-id="1913" class="elementor elementor-1913" data-elementor-post-type="page">
+				<div class="elementor-element elementor-element-7bbbc8cf e-con-full e-flex e-con e-parent" data-id="7bbbc8cf" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-2a881009 e-con-full e-flex e-con e-child" data-id="2a881009" data-element_type="container">
+		<div class="elementor-element elementor-element-1edeae01 e-flex e-con-boxed e-con e-child" data-id="1edeae01" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-b98cec3 elementor-widget__width-inherit parent-item-clickable-yes horizontal-menu--dropdown-tablet mob-menu-dropdown sub-menu-position-left dt-sub-menu_align-left sub-icon_position-right sub-icon_align-with_text toggle-align-center toggle-icon_position-right elementor-widget elementor-widget-global elementor-global-11222 elementor-widget-the7_horizontal-menu" data-id="b98cec3" data-element_type="widget" data-settings="{&quot;parent_is_clickable&quot;:&quot;yes&quot;,&quot;dropdown&quot;:&quot;tablet&quot;,&quot;dropdown_type&quot;:&quot;dropdown&quot;}" data-widget_type="the7_horizontal-menu.default">
+				<div class="elementor-widget-container">
+					<div class="horizontal-menu-wrap"><div class="horizontal-menu-toggle hidden-on-load" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false"><span class="right menu-toggle-icons" aria-hidden="true" role="presentation"><svg class="open-button e-font-icon-svg e-fas-bars" aria-hidden="true" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M16 132h416c8.837 0 16-7.163 16-16V76c0-8.837-7.163-16-16-16H16C7.163 60 0 67.163 0 76v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16z"></path></svg><svg class="icon-active e-font-icon-svg e-fas-times" aria-hidden="true" viewBox="0 0 352 512" xmlns="http://www.w3.org/2000/svg"><path d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"></path></svg></span><span class="toggle-text">Menu</span></div><nav class="dt-nav-menu-horizontal--main dt-nav-menu-horizontal__container justify-content-center widget-divider-"><ul class="dt-nav-menu-horizontal d-flex flex-row justify-content-center"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11203 first depth-0"><a href='#' data-level='1'><span class="item-content"><span class="menu-item-text  "><span class="menu-text"><b style="font-size:1.2em;">Quick Links | </b></span></span><span class="submenu-indicator" ><svg aria-hidden="true" class="desktop-menu-icon e-font-icon-svg e-fas-caret-down" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"></path></svg><span class="submenu-mob-indicator" ><svg aria-hidden="true" class="mobile-menu-icon e-font-icon-svg e-fas-caret-down" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"></path></svg><svg aria-hidden="true" class="mobile-act-icon e-font-icon-svg e-fas-caret-up" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"></path></svg></span></span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14385 depth-0"><a href='https://wellsoffice.wellsfargo.com/' data-level='1'><span class="item-content"><span class="menu-item-text  "><span class="menu-text">P-Card Login</span></span><span class="submenu-indicator" ><svg aria-hidden="true" class="desktop-menu-icon e-font-icon-svg e-fas-caret-down" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"></path></svg><span class="submenu-mob-indicator" ><svg aria-hidden="true" class="mobile-menu-icon e-font-icon-svg e-fas-caret-down" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"></path></svg><svg aria-hidden="true" class="mobile-act-icon e-font-icon-svg e-fas-caret-up" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"></path></svg></span></span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11205 depth-0"><a href='https://cppenterprises.org/governance/board/' data-level='1'><span class="item-content"><span class="menu-item-text  "><span class="menu-text">Board &#038; Meetings</span></span><span class="submenu-indicator" ><svg aria-hidden="true" class="desktop-menu-icon e-font-icon-svg e-fas-caret-down" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"></path></svg><span class="submenu-mob-indicator" ><svg aria-hidden="true" class="mobile-menu-icon e-font-icon-svg e-fas-caret-down" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"></path></svg><svg aria-hidden="true" class="mobile-act-icon e-font-icon-svg e-fas-caret-up" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"></path></svg></span></span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11215 depth-0"><a href='https://cppenterprises.org/services/financial-services/forms/' data-level='1'><span class="item-content"><span class="menu-item-text  "><span class="menu-text">Financial Forms</span></span><span class="submenu-indicator" ><svg aria-hidden="true" class="desktop-menu-icon e-font-icon-svg e-fas-caret-down" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"></path></svg><span class="submenu-mob-indicator" ><svg aria-hidden="true" class="mobile-menu-icon e-font-icon-svg e-fas-caret-down" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"></path></svg><svg aria-hidden="true" class="mobile-act-icon e-font-icon-svg e-fas-caret-up" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"></path></svg></span></span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11204 depth-0"><a href='https://cppenterprises.org/services/employment-services/employment-opportunities/' data-level='1'><span class="item-content"><span class="menu-item-text  "><span class="menu-text">Jobs</span></span><span class="submenu-indicator" ><svg aria-hidden="true" class="desktop-menu-icon e-font-icon-svg e-fas-caret-down" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"></path></svg><span class="submenu-mob-indicator" ><svg aria-hidden="true" class="mobile-menu-icon e-font-icon-svg e-fas-caret-down" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"></path></svg><svg aria-hidden="true" class="mobile-act-icon e-font-icon-svg e-fas-caret-up" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"></path></svg></span></span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11207 depth-0"><a href='https://broncoonecard.com/bronco-bucks/' data-level='1'><span class="item-content"><span class="menu-item-text  "><span class="menu-text">Load Bronco Bucks</span></span><span class="submenu-indicator" ><svg aria-hidden="true" class="desktop-menu-icon e-font-icon-svg e-fas-caret-down" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"></path></svg><span class="submenu-mob-indicator" ><svg aria-hidden="true" class="mobile-menu-icon e-font-icon-svg e-fas-caret-down" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"></path></svg><svg aria-hidden="true" class="mobile-act-icon e-font-icon-svg e-fas-caret-up" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"></path></svg></span></span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11206 depth-0"><a href='https://cppenterprises.org/resources/hours-directory/' data-level='1'><span class="item-content"><span class="menu-item-text  "><span class="menu-text">Hours Directory</span></span><span class="submenu-indicator" ><svg aria-hidden="true" class="desktop-menu-icon e-font-icon-svg e-fas-caret-down" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"></path></svg><span class="submenu-mob-indicator" ><svg aria-hidden="true" class="mobile-menu-icon e-font-icon-svg e-fas-caret-down" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"></path></svg><svg aria-hidden="true" class="mobile-act-icon e-font-icon-svg e-fas-caret-up" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"></path></svg></span></span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11208 last depth-0"><a href='/contact-us-directory/' data-level='1'><span class="item-content"><span class="menu-item-text  "><span class="menu-text">Contact Us Directory</span></span><span class="submenu-indicator" ><svg aria-hidden="true" class="desktop-menu-icon e-font-icon-svg e-fas-caret-down" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"></path></svg><span class="submenu-mob-indicator" ><svg aria-hidden="true" class="mobile-menu-icon e-font-icon-svg e-fas-caret-down" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"></path></svg><svg aria-hidden="true" class="mobile-act-icon e-font-icon-svg e-fas-caret-up" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"></path></svg></span></span></span></a></li> </ul></nav></div>				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-37e645c5 e-con-full e-flex e-con e-parent" data-id="37e645c5" data-element_type="container">
+		<div class="elementor-element elementor-element-84a4b70 e-con-full e-flex e-con e-child" data-id="84a4b70" data-element_type="container">
+				<div class="elementor-element elementor-element-b7d46ae elementor-widget__width-initial e-transform elementor-hidden-mobile dt-nav-menu_align-left dt-sub-menu_align-left elementor-widget elementor-widget-global elementor-global-13368 elementor-widget-the7_nav-menu" data-id="b7d46ae" data-element_type="widget" data-settings="{&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;],&quot;submenu_display&quot;:&quot;always&quot;,&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0,&quot;sticky_anchor_link_offset&quot;:0,&quot;_transform_rotateZ_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_tablet&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_mobile&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="the7_nav-menu.default">
+				<div class="elementor-widget-container">
+					<h3 class="rp-heading">Services</h3><nav class="dt-nav-menu--main dt-nav-menu__container dt-sub-menu-display-always dt-icon-align- dt-icon-position- dt-sub-icon-position- dt-sub-icon-align-"><ul class="dt-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1913 current_page_item menu-item-has-children menu-item-6780 act first last has-children depth-0"><a href='https://cppenterprises.org/services/financial-services/' data-level='1'><span class="item-content"><span class="menu-item-text"><span class="menu-text">Financial Services</span></span></span><span class="" data-icon = ""> </span></a><ul class="the7-e-sub-nav vertical-sub-nav hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6781 first depth-1"><a href='https://cppenterprises.org/services/financial-services/forms/' data-level='2'><span class="item-content"><span class="menu-item-text"><span class="menu-text">Forms</span></span></span><span class="" data-icon = ""> </span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6782 depth-1"><a href='https://cppenterprises.org/services/financial-services/policies-procedure/' data-level='2'><span class="item-content"><span class="menu-item-text"><span class="menu-text">Policies/Procedure</span></span></span><span class="" data-icon = ""> </span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6784 depth-1"><a href='https://cppenterprises.org/services/financial-services/one-solution/' data-level='2'><span class="item-content"><span class="menu-item-text"><span class="menu-text">One Solution</span></span></span><span class="" data-icon = ""> </span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14876 depth-1"><a href='https://wellsoffice.wellsfargo.com/' data-level='2'><span class="item-content"><span class="menu-item-text"><span class="menu-text">P-Card Login</span></span></span><span class="" data-icon = ""> </span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14878 depth-1"><a href='https://login.adaptiveinsights.com/app' data-level='2'><span class="item-content"><span class="menu-item-text"><span class="menu-text">Adaptive Login</span></span></span><span class="" data-icon = ""> </span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6783 depth-1"><a href='https://cppenterprises.org/services/financial-services/contact-fs/' data-level='2'><span class="item-content"><span class="menu-item-text"><span class="menu-text">Contact FS</span></span></span><span class="" data-icon = ""> </span></a></li> </ul></li> </ul></nav>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-755f9725 e-con-full e-flex e-con e-child" data-id="755f9725" data-element_type="container">
+		<div class="elementor-element elementor-element-70420a03 e-con-full e-flex e-con e-child" data-id="70420a03" data-element_type="container">
+				<div class="elementor-element elementor-element-af03b7b elementor-widget elementor-widget-heading" data-id="af03b7b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Enterprises Financial Services</h2>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-5da54a56 e-con-full e-flex e-con e-child" data-id="5da54a56" data-element_type="container">
+				<div class="elementor-element elementor-element-81a0686 elementor-widget elementor-widget-text-editor" data-id="81a0686" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<h4><strong>Accounting</strong></h4><p>Enterprises Financial Services Accounting Department is responsible for accounts payable (payments to vendors, individuals and the University), purchase orders, purchasing cards, travel, fixed assets and risk management for Enterprises commercial operations, and campus program accounts.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-b0e7fb7 elementor-widget elementor-widget-text-editor" data-id="b0e7fb7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<h4><strong>Financial Systems</strong></h4><p>Financial Systems are responsible for OneSolution/finance enterprise related issues, banking (wire transfer), credit card setup/inquiries (chargeback), distribution of Enterprises Programs Financial Systems, and new account setup.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-177bff0 elementor-widget elementor-widget-text-editor" data-id="177bff0" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<h4><strong>General Financial</strong></h4><p>General Financial is responsible for budgeting, accounts receivable, non-sufficient funds, Inter-departmental transfers (IDT), deposits, Endowments, donations, financial reporting, bronco bucks, gift cards, petty cash audit, sales tax issues.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-010d185 elementor-widget elementor-widget-text-editor" data-id="010d185" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<h4><strong>Grants and Contracts</strong></h4><p>The Enterprises contributes to the University by serving as the contracting agent for grants and contracts awarded to Cal Poly Pomona by governmental and private institutions.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-b6326d5 elementor-widget elementor-widget-text-editor" data-id="b6326d5" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<h4><strong>Information Technology (IT)</strong></h4><p>The Enterprises IT department is dedicated to providing comprehensive and high quality information technology services to the Enterprises&#8217; many customers including students, faculty, staff, administrators, alumni and other members of the University community. Visit the <a href="/services/information-technology/" target="_blank" rel="noopener"><span style="text-decoration: underline;">IT webpage</span></a> for more information.</p>								</div>
+				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		
+	</div><!-- #content -->
+
+	
+
+
+			</div><!-- .wf-container -->
+		</div><!-- .wf-wrap -->
+
+	
+	</div><!-- #main -->
+
+	
+
+
+	<!-- !Footer -->
+	<footer id="footer" class="footer solid-bg footer-outline-decoration full-width">
+
+		
+			<div class="wf-wrap">
+				<div class="wf-container-footer">
+					<div class="wf-container">
+						<section id="text-2" class="widget widget_text wf-cell wf-1-4"><div class="widget-title">Investing In Ourselves</div>			<div class="textwidget"><div style="width: 90%;">
+<div class="widget-title">About the Enterprises</div>
+<p>The Cal Poly Pomona Enterprises, established in 1966, is an integral component of the educational mission of the University.</p>
+<p>The Enterprises exists to enhance the university and community experience through optimized solutions and resource generation&#8230; </p>
+<p>[ <a href="/organization/about-cppe/">Read More About The Enterprises&#8217; Commitment</a> ]</p>
+</div>
+<p>&nbsp;</p>
+<div style="width: 90%;">
+<div class="widget-title">Support Our Campus. Buy On Campus.</div>
+<p>When you support the services that are owned and operated by the non-profit Cal Poly Pomona Enterprises, you help students obtain on-campus jobs, and help fund scholarships, campus programs and educational grants&#8230;  <br />[ <a href="/organization/about-cppe/">Read More About Support Our Campus. Buy On Campus.</a> ]</p>
+</div>
+</div>
+		</section><section id="nav_menu-3" class="widget widget_nav_menu wf-cell wf-1-4"><div class="widget-title">Quicklinks</div><div class="menu-quicklinks-container"><ul id="menu-quicklinks" class="menu"><li id="menu-item-13959" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13959"><a href="https://cppfoundation.formstack.com/forms/cppe_intranet_request">Request CPPE Intranet Access</a></li>
+<li id="menu-item-3623" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3623"><a href="https://secure6.saashr.com/ta/6041387.careers?CareersSearch">Job Opportunities</a></li>
+<li id="menu-item-3662" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3662"><a href="https://cppenterprises.org/resources/hours-directory/">Hours Directory</a></li>
+<li id="menu-item-10459" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10459"><a href="https://broncoonecard.com/bronco-bucks/">Load Funds &#8211; Bronco One Card</a></li>
+<li id="menu-item-10460" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10460"><a href="https://broncoonecard.com/commuter-meal-plans/">Buy a Commuter Meal Plan</a></li>
+<li id="menu-item-3625" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3625"><a href="https://cppenterprises.org/news/social-media/">Social Media</a></li>
+<li id="menu-item-3626" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3626"><a href="https://cppenterprises.org/governance/board/">Board Meetings</a></li>
+<li id="menu-item-3627" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3627"><a href="https://cppenterprises.org/services/financial-services/forms/">Financial Forms</a></li>
+<li id="menu-item-11351" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11351"><a href="https://cppenterprises.org/organization/contact-us-directory/">Contact Us Directory</a></li>
+<li id="menu-item-9702" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9702"><a href="https://www.cpp.edu/">Cal Poly Pomona</a></li>
+</ul></div></section><section id="nav_menu-5" class="widget widget_nav_menu wf-cell wf-1-4"><div class="widget-title">CPPE Companies</div><div class="menu-cppe-divisions-container"><ul id="menu-cppe-divisions" class="menu"><li id="menu-item-1556" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1556"><a href="https://www.broncobookstore.com/">Bronco Bookstore</a></li>
+<li id="menu-item-1562" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1562"><a href="https://www.centerpointedining.com/">Centerpointe Dining</a></li>
+<li id="menu-item-1558" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1558"><a href="https://cppdining.com/">Dining Services</a></li>
+<li id="menu-item-1561" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1561"><a href="https://www.ibrewworks.com/">Innovation Brew Works</a></li>
+<li id="menu-item-1560" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1560"><a href="https://www.kellogghouse.com/">Kellogg House</a></li>
+<li id="menu-item-1557" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1557"><a href="https://kelloggwest.com/">Kellogg West Conference Center &#038; Hotel</a></li>
+<li id="menu-item-10457" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10457"><a href="https://cppenterprises.org/commercial-services/real-estate/">Real Estate (Affordable Faculty/Staff Housing)</a></li>
+<li id="menu-item-1559" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1559"><a href="https://cppvillage.com/">University Village (Student Housing)</a></li>
+</ul></div></section><section id="text-5" class="widget widget_text wf-cell wf-1-4"><div class="widget-title">Cal Poly Pomona Enterprises, Inc</div>			<div class="textwidget"><p>3801 W. Temple Ave., Building 55<br />
+Pomona, CA 91768</p>
+<p>909-869-2950 Voice<br />
+909-869-4549 Fax</p>
+<p>Office Hours (Building 55):</p>
+<p>M-F: 8 a.m. – 5 p.m.</p>
+<p><u><a href="/resources/maps-and-driving-directions/">Maps and Directions </a></u></p>
+</div>
+		</section><section id="block-12" class="widget widget_block widget_text wf-cell wf-1-4">
+<p></p>
+</section>					</div><!-- .wf-container -->
+				</div><!-- .wf-container-footer -->
+			</div><!-- .wf-wrap -->
+
+			
+<!-- !Bottom-bar -->
+<div id="bottom-bar" class="logo-center" role="contentinfo">
+    <div class="wf-wrap">
+        <div class="wf-container-bottom">
+
+			<div id="branding-bottom"><a class="" href="https://cppenterprises.org/"><img class=" preload-me" src="https://cppenterprises.org/wp-content/uploads/Bottom_Logo_Primary-e1736808169305.png" srcset="https://cppenterprises.org/wp-content/uploads/Bottom_Logo_Primary-e1736808169305.png 245w, https://cppenterprises.org/wp-content/uploads/Bottom_Logo_Primary-e1736808169305.png 245w" width="245" height="113"   sizes="245px" alt="Cal Poly Pomona Enterprises" /></a></div>
+                <div class="wf-float-left">
+
+					© Cal Poly Pomona Enterprises - 2024. All rights reserved.
+                </div>
+
+			
+            <div class="wf-float-right">
+
+				<div class="bottom-text-block"><h3 style=" font-weight:bold; font-size:1.25em; ">Safety Resources</h3>
+<p><a href="https://www.cpp.edu/admissions/clery-notice-of-availability.shtml" data-level="1">Annual Security Report /Fire Safety Report (Clery Act)<span data-icon=""> </span></a> | <a href="https://www.youtube.com/watch?v=TPJd4r82f9M" data-level="1">Earthquake Preparedness Video<span data-icon=""> </span></a>| <a href="https://www.cpp.edu/em/files/eop.pdf" data-level="1">Campus Emergency Plan</a></p>
+<p style=" font-weight:bold; font-size:1.25em;">&nbsp;</p>
+<h3 style=" font-weight:bold; font-size:1.25em;">Document Readers</h3>
+<p text-align:left;">Content on the Enterprises website may require additional plugins or software in order to be viewed. The list below provides download links for free document readers of various content types.</p>
+<p><a href="http://www.adobe.com/products/acrobat/readstep2.html">Download Adobe Acrobat Reader</a>  | <a href="https://products.office.com/en-US/office-online/view-office-documents-online?legRedir=true&amp;CorrelationId=d6766691-4893-4273-a563-6cf51540b3c0">Download 	Microsoft Word Viewer</a>  | <a href="https://products.office.com/en-us/free-microsoft-office?tab=opc">Download Microsoft Excel Viewer</a>  | <a href="https://support.office.com/en-us/article/View-a-presentation-without-PowerPoint-2f1077ab-9a4e-41ba-9f75-d55bd9b231a6">Download Microsoft PowerPoint Viewer</a>   </p>
+<p style="padding-top:15px;">  To report any broken links or website issues please contact Webmaster. [<a href="/services/marketing/contact-marketing/"   title="Webmaster">Contact Webmaster</a>]. | <a href="https://www.cpp.edu/~policies/">CPP IT Policy</a> | <a href="http://www.cpp.edu/accessibility.shtml">Accessibility</a> | <a href="https://www.cpp.edu/privacy.shtml">Privacy</a> | <a href="http://www.cpp.edu/">Cal Poly Pomona</a></p>
+</div>
+            </div>
+
+        </div><!-- .wf-container-bottom -->
+    </div><!-- .wf-wrap -->
+</div><!-- #bottom-bar -->
+	</footer><!-- #footer -->
+
+<a href="#" class="scroll-top"><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<path d="M11.7,6.3l-3-3C8.5,3.1,8.3,3,8,3c0,0,0,0,0,0C7.7,3,7.5,3.1,7.3,3.3l-3,3c-0.4,0.4-0.4,1,0,1.4c0.4,0.4,1,0.4,1.4,0L7,6.4
+	V12c0,0.6,0.4,1,1,1s1-0.4,1-1V6.4l1.3,1.3c0.4,0.4,1,0.4,1.4,0C11.9,7.5,12,7.3,12,7S11.9,6.5,11.7,6.3z"/>
+</svg><span class="screen-reader-text">Go to Top</span></a>
+
+</div><!-- #page -->
+
+
+		<script>
+			window.RS_MODULES = window.RS_MODULES || {};
+			window.RS_MODULES.modules = window.RS_MODULES.modules || {};
+			window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
+			window.RS_MODULES.defered = true;
+			window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
+			window.RS_MODULES.type = 'compiled';
+		</script>
+		<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/dt-the7-child\/*","\/wp-content\/themes\/dt-the7\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+		<!-- Start of StatCounter Code -->
+		<script>
+			<!--
+			var sc_project=13082176;
+			var sc_security="1094bd4c";
+			var sc_invisible=1;
+		</script>
+        <script type="text/javascript" src="https://www.statcounter.com/counter/counter.js" async></script>
+		<noscript><div class="statcounter"><a title="web analytics" href="https://statcounter.com/"><img class="statcounter" src="https://c.statcounter.com/13082176/0/1094bd4c/1/" alt="web analytics" /></a></div></noscript>
+		<!-- End of StatCounter Code -->
+				<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+		<script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};/* ]]> */ </script>			<script>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			            <script>
+                jQuery(document).ready(function () {
+
+                    jQuery(".rttpg-toc-main-wrapper").each(function () {
+                        jQuery(this).css({'opacity': 1})
+                        jQuery(this).parent().css({'display': 'block'})
+                    })
+
+                    jQuery('body').on("click", ".tpg-toc-collapseable-btn", function () {
+                        jQuery(this).toggleClass("collapsed");
+                        jQuery(this).closest(".tpg-table-of-contents-wrapper").find(".rttpg-toc-inner").slideToggle(300);
+                    });
+
+                    jQuery(".tpg-table-of-contents-wrapper a").on('click', function (event) {
+                        var hash = this.hash;
+                        if (hash !== "") {
+                            event.preventDefault();
+                            jQuery(".tpg-table-of-contents-wrapper a").removeClass('rttpg-toc-active');
+                            jQuery(this).closest('li').addClass('rttpg-toc-active');
+                            jQuery('html, body').animate({
+                                scrollTop: (jQuery(hash).offset().top - 150)
+                            }, 500, function () {
+                                jQuery(hash).addClass('rttpg-toc-active');
+                                setTimeout(function () {
+                                    jQuery(hash).removeClass('rttpg-toc-active');
+                                }, 800)
+                            });
+                        }
+                    });
+
+
+                })
+            </script>
+			<link rel='stylesheet' id='rs-plugin-settings-css' href='//cppenterprises.org/wp-content/plugins/revslider/sr6/assets/css/rs6.css?ver=6.7.28' media='all' />
+<style id='rs-plugin-settings-inline-css'>
+#rs-demo-id {}
+</style>
+<script src="https://cppenterprises.org/wp-content/themes/dt-the7/js/compatibility/elementor/frontend-common.min.js?ver=12.3.0" id="the7-elementor-frontend-common-js"></script>
+<script src="https://cppenterprises.org/wp-content/themes/dt-the7/js/main.min.js?ver=12.3.0" id="dt-main-js"></script>
+<script src="https://cppenterprises.org/wp-content/plugins/fivo-docs/build/main.js?ver=2.0.1" id="fivo-docs-js"></script>
+<script id="chatbot-script-js-after">
+(function() {
+        if (!window.chatbase || window.chatbase("getState") !== "initialized") {
+            window.chatbase = (...arguments) => {
+                if (!window.chatbase.q) {
+                    window.chatbase.q = []
+                }
+                window.chatbase.q.push(arguments)
+            };
+            window.chatbase = new Proxy(window.chatbase, {
+                get(target, prop) {
+                    if (prop === "q") {
+                        return target.q
+                    }
+                    return (...args) => target(prop, ...args)
+                }
+            })
+        }
+        const onLoad = function() {
+            const script = document.createElement("script");
+            script.src = "https://www.chatbase.co/embed.min.js";
+            script.id = "NhkIu0BQDRmXYtRB9--CX";
+            script.domain = "www.chatbase.co";
+            document.body.appendChild(script)
+        };
+        if (document.readyState === "complete") {
+            onLoad()
+        } else {
+            window.addEventListener("load", onLoad)
+        }
+    })();
+</script>
+<script src="//cppenterprises.org/wp-content/plugins/revslider/sr6/assets/js/rbtools.min.js?ver=6.7.28" defer async id="tp-tools-js"></script>
+<script src="//cppenterprises.org/wp-content/plugins/revslider/sr6/assets/js/rs6.min.js?ver=6.7.28" defer async id="revmin-js"></script>
+<script src="https://cppenterprises.org/wp-content/themes/dt-the7/js/compatibility/elementor/the7-horizontal-menu.min.js?ver=12.3.0" id="the7_horizontal-menu-js"></script>
+<script src="https://cppenterprises.org/wp-content/themes/dt-the7/lib/jquery-sticky/jquery-sticky.min.js?ver=12.3.0" id="the7-e-sticky-js"></script>
+<script src="https://cppenterprises.org/wp-content/themes/dt-the7/js/compatibility/elementor/sticky-effects.min.js?ver=12.3.0" id="the7-e-sticky-effect-js"></script>
+<script src="https://cppenterprises.org/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.27.3" id="e-sticky-js"></script>
+<script src="https://cppenterprises.org/wp-content/themes/dt-the7/js/compatibility/elementor/the7-vertical-menu.min.js?ver=12.3.0" id="the7_nav-menu-js"></script>
+<script src="https://cppenterprises.org/wp-content/themes/dt-the7/js/legacy.min.js?ver=12.3.0" id="dt-legacy-js"></script>
+<script src="https://cppenterprises.org/wp-content/plugins/the-post-grid-pro/assets/vendor/jquery.mousewheel.min.js?ver=3.1.13" id="jquery-mousewheel-js"></script>
+<script src="https://cppenterprises.org/wp-content/themes/dt-the7/lib/custom-scrollbar/custom-scrollbar.min.js?ver=12.3.0" id="the7-custom-scrollbar-js"></script>
+<script src="https://cppenterprises.org/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.27.3" id="elementor-pro-webpack-runtime-js"></script>
+<script src="https://cppenterprises.org/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.27.4" id="elementor-webpack-runtime-js"></script>
+<script src="https://cppenterprises.org/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.27.4" id="elementor-frontend-modules-js"></script>
+<script src="https://cppenterprises.org/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+<script src="https://cppenterprises.org/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/cppenterprises.org\/wp-admin\/admin-ajax.php","nonce":"ce5bb9fb99","urls":{"assets":"https:\/\/cppenterprises.org\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/cppenterprises.org\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":false},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/cppenterprises.org\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script src="https://cppenterprises.org/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.27.3" id="elementor-pro-frontend-js"></script>
+<script src="https://cppenterprises.org/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"3.27.4","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"container":true,"e_swiper_latest":true,"e_onboarding":true,"theme_builder_v2":true,"home_screen":true,"landing-pages":true,"nested-elements":true,"editor_v2":true,"link-in-bio":true,"floating-buttons":true},"urls":{"assets":"https:\/\/cppenterprises.org\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/cppenterprises.org\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/cppenterprises.org\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"a4e6d962c9"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":1913,"title":"Financial%20Services%20-%20Cal%20Poly%20Pomona%20Enterprises","excerpt":"","featuredImage":false}};
+</script>
+<script src="https://cppenterprises.org/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.27.4" id="elementor-frontend-js"></script>
+<script src="https://cppenterprises.org/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.27.3" id="pro-elements-handlers-js"></script>
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+	<div class="pswp__bg"></div>
+	<div class="pswp__scroll-wrap">
+		<div class="pswp__container">
+			<div class="pswp__item"></div>
+			<div class="pswp__item"></div>
+			<div class="pswp__item"></div>
+		</div>
+		<div class="pswp__ui pswp__ui--hidden">
+			<div class="pswp__top-bar">
+				<div class="pswp__counter"></div>
+				<button class="pswp__button pswp__button--close" title="Close (Esc)" aria-label="Close (Esc)"></button>
+				<button class="pswp__button pswp__button--share" title="Share" aria-label="Share"></button>
+				<button class="pswp__button pswp__button--fs" title="Toggle fullscreen" aria-label="Toggle fullscreen"></button>
+				<button class="pswp__button pswp__button--zoom" title="Zoom in/out" aria-label="Zoom in/out"></button>
+				<div class="pswp__preloader">
+					<div class="pswp__preloader__icn">
+						<div class="pswp__preloader__cut">
+							<div class="pswp__preloader__donut"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+				<div class="pswp__share-tooltip"></div> 
+			</div>
+			<button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)" aria-label="Previous (arrow left)">
+			</button>
+			<button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)" aria-label="Next (arrow right)">
+			</button>
+			<div class="pswp__caption">
+				<div class="pswp__caption__center"></div>
+			</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using Disk: Enhanced 
+
+Served from: cppenterprises.org @ 2025-04-24 23:46:32 by W3 Total Cache
+-->

@@ -1,0 +1,1958 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+		<title>
+			Master of Landscape Architecture
+		</title>
+		<!-- Required meta tags -->
+		<meta charset="utf-8"/>
+		<meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
+		<meta content="ENV" property="cludo:category"/>
+<meta content="2024-12-20T12:37Z" property="date"/>
+<link href="https://www.cpp.edu/env/landscape-architecture/degrees-admissions/masters.shtml" rel="canonical"/>
+		<meta content="CPPMLA, Cal Poly Pomona Master of Landscape Architecture" name="keywords"/>
+		<meta content="California State Polytechnic University, Pomona is the only public university in Southern California offering a Master of Landscape Architecture (MLA) degree. Established in 1972 by John T. Lyle, our fully-accredited program has a rich history of developing professionals who move into leadership positions in public, private and non-profit sectors.&#13;&#10;Landscape architecture is a STEM* discipline integrating knowledge of ecological systems, social systems, human behavior, technology, the arts and the humanities in the development of solutions to society’s most pressing challenges, including responses to climate change and inequities. The consequences of climate change threaten the health of natural ecosystems, and the health of cities and populations potentially exposed to extreme heat, drought, changing weather patterns and sea level rise. These impacts only exacerbate historic inequities in our society concerning exposure to environmental negatives such as pollution, as well as access to environmental positives such as parks, healthy foods, natural experiences, and safe streets." name="description"/>
+		
+    <div lang="en">
+
+
+                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                <script src="https://cdn.levelaccess.net/accessjs/YW1wX2NwcDExMDM/access.js"></script>
+<script>// <![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSKJRNV');
+// ]]></script>
+<link href="/common/green-and-gold/assets/icons/gg-favicon.svg" rel="icon" type="image/svg+xml"/> <link crossorigin="anonymous" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" rel="stylesheet"/>
+<script crossorigin="anonymous" defer="defer" integrity="sha384-FW78RPcSpi13vjx77nPWQIrQbNSLkPBopb0qGzLCxD2x4Kr6FA8V05C/6cpgkKPL" src="https://pro.fontawesome.com/releases/v5.10.1/js/all.js"></script>
+<link href="https://www.cpp.edu/common/2018/assets/css/cpp-base-styles.css" rel="stylesheet"/> <link href="https://www.cpp.edu/common/2018/assets/css/cpp-extended-styles.css" rel="stylesheet"/> <link href="https://use.typekit.net/fia5dle.css" rel="stylesheet"/> <link href="/common/green-and-gold/assets/css/cpp-fonts.css" rel="stylesheet"/> <link href="/common/green-and-gold/assets/css/gg-header-footer.css" rel="stylesheet"/>
+
+</div>
+    
+		
+		
+	</head>
+	<body>
+		
+		
+	
+    <div lang="en">
+
+
+                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                 
+<header class="nav fixed">
+    <nav class="container">
+        <ul class="row nav__main" id="mainNavMenu">
+            <li id="main-logo" class="col-6 col-lg-3 nav__logo">
+                <a href="/" aria-label="Cal Poly Pomona Home" tabindex="0">
+                    <div class="nav__logo--horizontal">
+                        <img src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png" alt="Cal Poly Pomona Logo" />
+                    </div>
+                </a>
+            </li>
+            <li class="nav__links col-6" id="head-links">
+             <a class="nav__link nav__link--desktop col-1" href="/commencement/" tabindex="0">
+                    <svg
+                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 6px;
+    width: auto;
+">
+                        <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                        <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#005030"></path>
+                    </svg>
+                    <span class="sr-only">commencement</span>
+                </a>
+                <a class="nav__link nav__link--desktop" href="/apply/" tabindex="0">apply</a>
+                <a class="nav__link nav__link--desktop" href="/outreach/tours.shtml" tabindex="0">visit</a>
+                <a class="nav__link nav__link--desktop" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="0">info</a>
+                <a class="nav__link nav__link--desktop" href="/giving/" tabindex="0">give</a>
+                <a class="nav__link nav__link--desktop" href="https://my.cpp.edu" tabindex="0">mycpp</a>
+                <button id="search-open" class="nav__search" aria-expanded="false" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/search-dark-green.svg" alt="Search" />
+                </button>
+                <button class="nav__menu" id="menuButton" aria-expanded="false" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/menu.svg" alt="menu" />
+                </button>
+            </li>
+        </ul>
+    </nav>
+</header>
+<header id="search-header" style="display:none">
+    <div class="row">
+        <div class="col-md-6"></div>
+        <div id="searchbox" class="col-md-6">
+            <div id="search-slide">
+                <label for="#gsc-i-id1" class="sr-only">Search</label>
+                <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+                <div class="gcse-searchbox-only" data-resultsurl="https://www.cpp.edu/search.shtml"></div>
+                <button class="nav__menu col-1" id="search-close" aria-expanded="false" tabindex="0" aria-label="Menu icon">
+                    <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close icon">
+                    </button>
+                </div>
+            </div>
+            <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+            <style>
+
+     .gstl_50 gssb_c {
+         position:fixed !important;
+         }
+       #search-close img {
+         width: auto !important;
+       }
+
+       #searchbox {
+         height: 93px;
+         overflow: hidden;
+       }
+
+       #search-header {
+         position: fixed;
+         height: 100px;
+         width: 100%;
+         height: 93px;
+         z-index: 99999;
+         top: 0;
+       }
+
+       #gsc-i-id1 {
+         height: 40px;
+         width: 70%;
+         border-radius: 4px;
+         border: none;
+         padding: 15px;
+       }
+
+       #search-submit {
+         margin: 15px;
+       }
+
+       #search-close {
+         width: 23px;
+         height: 21px;
+         position: absolute;
+         top: 32px;
+       }
+
+       #search-slide {
+         width: 0px;
+         right: -100%;
+         padding: 20px 15px;
+         position: relative;
+         background: #005030;
+         height: 100%;
+         transition: all .5s ease 0s
+       }
+
+       #search-slide.slideup {
+         right: 0;
+         width: 100%;
+         position: relative;
+       }
+
+       @media screen and (max-width:991px) {
+         #search-slide {
+           height: 77px !important;
+           padding: 12px 10px;
+         }
+       }
+
+       @media screen and (max-width:767px) {
+         #search-header {
+           position: relative !important;
+         }
+
+         #search-slide {
+           text-align: center !important;
+         }
+       }
+
+     .gsc-search-button-v2 svg {
+    width: auto;
+    height: 25px;
+    position: relative;
+    top: 8px;
+}
+
+       .gsc-search-button-v2,
+       .gsc-search-button-v2:hover,
+       .gsc-search-button-v2:focus {
+         border: none !important;
+         background: none !important;
+       }
+
+       form.gsc-search-box {
+         font-size: 13px;
+         margin-top: 0;
+         margin-right: 0;
+         margin-bottom: 4px;
+         margin-left: 0;
+         width: 100%;
+         display: inline-block;
+       }
+
+       #___gcse_0 {
+         width: 70%;
+         display: inline-block;
+       }
+
+       table.gsc-search-box td.gsc-input {
+         padding-right: 0;
+       }
+
+       #gsc-i-id1 {
+         width: 100%;
+         padding: 0px;
+         border: none;
+         margin: -0.0625em 0px 0px;
+         height: 40px !important;
+         background: rgb(255, 255, 255);
+         outline: none;
+         font-size: 20px;
+         font-weight: 200;
+       }
+
+       .gstl_50.gssb_c {
+         z-index: 99999;
+       }
+
+       .gsq_a {
+         font-weight: 200;
+         font-size: 18px;
+         padding: 2px;
+       }
+
+       .gssb_a img {
+         display: none;
+       }
+
+       .side-nav__links--small-bottom {
+           margin-left:-15px;
+       }
+       .nav__links .nav__links--mobile {
+           margin-top: 50px;
+            margin-bottom: -50px;
+            margin-left: 50px
+       }
+       .nav__link--mobile {
+        	padding:0px;
+        }
+     /*   .side-nav__container, .side-nav__container--small {
+          
+            padding-left: 50px;
+        }*/
+        .side-nav__container--small-bottom {
+           padding-left: 35px;
+        }
+         @media screen and (max-width:991px) {
+             .nav__links--mobile {
+                 display:flex;
+             }
+         }
+          @media screen and (min-width:992px) {
+             .nav__links--mobile {
+                 display:none !important;
+             }
+          }
+         .nav__link--mobile {
+             color: #ffb81c;
+         }
+       </style>
+        </div>
+    </header>
+    <section class="side-nav" id="sideNavOverlay">
+        <header class="side-nav__overlay relative">
+            <nav class="container">
+                <ul class="row nav__overlay" id="sideNavMenu">
+                    <li class="nav__logo col-12 col-md-10 col-lg-3" id="navLogoOverlay">
+                        <a href="/" aria-label="Cal Poly Pomona Home" tabindex="-1">
+                            <img src="/common/green-and-gold/assets/logos/cpp_horizontal_1c_gold_rgb.png" alt="Cal Poly Pomona Logo" />
+                        </a>
+                    </li>
+                    <div class="nav__overlay--right col-12 col-lg-9">
+                        <li class="nav__links nav__links--desktop col-12 col-lg-6">
+                             <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 6px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                            <a class="nav__link nav__link--mobile" href="/apply/" tabindex="-1">apply</a>
+                            <a class="nav__link nav__link--mobile" href="/outreach/tours.shtml" tabindex="-1">visit</a>
+                            <a class="nav__link nav__link--mobile" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="-1">info</a>
+                            <a class="nav__link nav__link--mobile" href="/giving/" tabindex="-1">give</a>
+                            <a class="nav__link nav__link--mobile" href="https://my.cpp.edu" tabindex="-1">mycpp</a>
+                        </li>
+                        <li class="nav__icons">
+                            <button id="search-open-green" class="nav__search" aria-expanded="false" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/search-white.svg" alt="Search" />
+                            </button>
+                            <button class="nav__close" id="closeButton" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close menu" />
+                            </button>
+                        </li>
+                    </div>
+                </ul>
+            </nav>
+        </header>
+        
+            <div class="mobile_overlay_nav nav__links nav__links--mobile col-12 col-lg-6">
+                 <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 6px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                <a class="nav__link nav__link--mobile" href="/apply/" tabindex="0">apply </a>
+                <a class="nav__link nav__link--mobile" href="/outreach/tours.shtml" tabindex="0">visit </a>
+                <a class="nav__link nav__link--mobile" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="0">info </a>
+                <a class="nav__link nav__link--mobile" href="/giving/" tabindex="0">give </a>
+                <a class="nav__link nav__link--mobile" href="https://my.cpp.edu" tabindex="0">mycpp </a>
+            </div>
+       
+        <nav class="container side-nav__container">
+            <ul class="row side-nav__links">
+                <li id="home-button" class="side-nav__link">
+                    <a class="h3__proxima" href="/" tabindex="-1" aria-label="Cal Poly Pomona Home page">Home</a>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--0">
+                    <button class="h3__proxima" id="0" aria-expanded="false" tabindex="-1" aria-label="Link">
+                        <span>about</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--1">
+                    <button class="h3__proxima" id="1" aria-expanded="false" tabindex="-1" aria-label="Admissions & Aid">
+                        <span>admissions &amp; aid</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--2">
+                    <button class="h3__proxima" id="2" aria-expanded="false" tabindex="-1" aria-label="academics">
+                        <span>academics</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--3">
+                    <button class="h3__proxima" id="3" aria-expanded="false" tabindex="-1" aria-label="life at CPP">
+                        <span>life at CPP</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small">
+            <ul class="row">
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="https://broncoathletics.com/" tabindex="-1">athletics</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/alumni/" tabindex="-1">alumni</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/news/" tabindex="-1">news &amp; events</a>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small-bottom">
+            <ul class="col-12 col-lg-7 side-nav__links--small-bottom">
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/prospective-student-gateway/" tabindex="-1">future students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/student-gateway/" tabindex="-1">current students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/family/" tabindex="-1">families</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/faculty-staff-gateway/" tabindex="-1">faculty &amp; staff</a>
+                </li>
+            </ul>
+            <ul class="col-12 col-lg-5 social-icons">
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.instagram.com/calpolypomona/" aria-label="Instagram" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.linkedin.com/school/cal-poly-pomona/" aria-label="LinkedIn " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.youtube.com/user/calpolypomona" aria-label="Youtube " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="Youtube" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.facebook.com/calpolypomona" aria-label="Facebook " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://twitter.com/calpolypomona" aria-label="X (Twitter)" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X" />
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </section>
+
+</div>
+    
+
+		                                                                                                                                                        																										                                                            															    		                                            
+
+
+            
+
+    <header title="Landscape Architecture">
+
+
+
+      
+            
+        
+    <custom/> 
+
+    
+                         <div id="dept-title">
+                            Landscape Architecture
+                    </div>
+    </header>
+
+                        <nav class="navbar navbar-expand-md navbar-light d-block " id="horizontalnav">
+        <button aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler navbar-toggler-right" data-target="#navbarSupportedContent" data-toggle="collapse" id="site-menu-expand-button" type="button">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="nav nav-pills nav-fill center-pills" id="site-nav">
+                
+                                <li class="nav-item" id="li-1">
+                    <a class="nav-link" data-parent="#site-nav" href="/env/landscape-architecture/index.shtml">Home</a>    
+                </li>
+                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                
+                                                
+                                                
+                                                                                    
+                                                                                            <li class="nav-item dropdown" id="li-2">
+
+                                    <a aria-expanded="false" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">About</a>
+                                                                             <div class="dropdown-menu dropdown-menu-left">
+                                                                           
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/landscape-architecture/about/vision-mission.shtml">
+                                                                                                            Vision &amp; Mission
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                                    
+                                                
+                                                                                    
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/landscape-architecture/about/about-the-profession.shtml">
+                                                                                                            About the Profession
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/landscape-architecture/about/faculty-staff.shtml">
+                                                                                                            Faculty / Staff
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/env/landscape-architecture/about/department-history/index.shtml">Department History</a>
+                                                                                    
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/landscape-architecture/about/laab-accreditation.shtml">
+                                                                                                            LAAB Accreditation
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/landscape-architecture/about/professional-advisory-board.shtml">
+                                                                                                            Landscape Architecture Professional Advisory Board
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/landscape-architecture/about/asla-socal-asla.shtml">
+                                                                                                            ASLA + SoCal ASLA
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                        
+                                    </div>
+                                </li>
+                                
+                                                                                                                                     
+                                                                                                                                                                
+                                                
+                                                
+                                                
+                                                                                    
+                                                                                            <li class="nav-item dropdown" id="li-3">
+
+                                    <a aria-expanded="false" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">Degrees / Admissions</a>
+                                                                             <div class="dropdown-menu dropdown-menu-left">
+                                                                           
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/landscape-architecture/degrees-admissions/index.shtml">
+                                                                                                            Overview
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/landscape-architecture/degrees-admissions/masters.shtml">
+                                                                                                            Cal Poly Pomona Master of Landscape Architecture
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/landscape-architecture/degrees-admissions/bachelors.shtml">
+                                                                                                            BS in Landscape Architecture
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/landscape-architecture/degrees-admissions/minor.shtml">
+                                                                                                            Minor in Landscape Architecture
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                        
+                                    </div>
+                                </li>
+                                
+                                                                                                                                     
+                                                                                                                                                                
+                                                
+                                                
+                                                
+                                                                                    
+                                                                                            <li class="nav-item dropdown" id="li-4">
+
+                                    <a aria-expanded="false" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">Academic &amp; Student Resources</a>
+                                                                             <div class="dropdown-menu dropdown-menu-left">
+                                                                           
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/landscape-architecture/academic-student-resources/courses.shtml">
+                                                                                                            Courses
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/landscape-architecture/academic-student-resources/technology-resources.shtml">
+                                                                                                            Technology Resources
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/landscape-architecture/academic-student-resources/computer-requirements.shtml">
+                                                                                                            Computer Requirements
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/landscape-architecture/academic-student-resources/international-programs.shtml">
+                                                                                                            International Programs
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/env/student-success-advising-center/index.shtml">ENV Student Success Advising Center</a>
+                                                                                    
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/landscape-architecture/academic-student-resources/advising-forms.shtml">
+                                                                                                            Advising + Forms
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/landscape-architecture/academic-student-resources/financial-aid.shtml">
+                                                                                                            Financial Aid
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/landscape-architecture/academic-student-resources/scholarships.shtml">
+                                                                                                            Scholarships
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                        
+                                    </div>
+                                </li>
+                                
+                                                                                                                                     
+                                                                                                                                                                
+                                                
+                                                
+                                                
+                                                                                    
+                                                                                            <li class="nav-item dropdown" id="li-5">
+
+                                    <a aria-expanded="false" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">News / Events</a>
+                                                                             <div class="dropdown-menu dropdown-menu-right">
+                                                                            
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/env/landscape-architecture/news-events/news/index.shtml">News</a>
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/env/landscape-architecture/news-events/events/index.shtml">Events</a>
+                                                                                    
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/landscape-architecture/news-events/amici-di-env.shtml">
+                                                                                                            Amici di ENV
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/landscape-architecture/news-events/public-lectures.shtml">
+                                                                                                            Public Lectures
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                        
+                                    </div>
+                                </li>
+                                
+                                                                                                                                     
+                                                                                                                                                                                                                                                                
+                                                
+                                                
+                                                
+                                                                                    
+                                                                                            <li class="nav-item dropdown" id="li-6">
+
+                                    <a aria-expanded="false" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">Contact</a>
+                                                                             <div class="dropdown-menu dropdown-menu-right">
+                                                                            
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/landscape-architecture/contact/index.shtml">
+                                                                                                            Contact the Department
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                        
+                                    </div>
+                                </li>
+                                
+                                                                                                                                     
+                                                                                                                                                                
+                                                
+                                                
+                                                
+                                                                                    
+                                                                                                
+                                                                    <li class="nav-item" id="li-7">
+                                         <a class="nav-link" data-parent="#site-nav" href="/env/landscape-architecture/alumni-supporters/index.shtml">Alumni + Supporters</a>    
+                                    </li>
+
+                                                                                                                                        
+                                                                                                                                                                
+                                                
+                                                
+                                                
+                                                                                    
+                                                                                            <li class="nav-item dropdown" id="li-8">
+
+                                    <a aria-expanded="false" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">Giving</a>
+                                                                             <div class="dropdown-menu dropdown-menu-right">
+                                                                            
+                                                                                                                                                
+                                                    <a class="dropdown-item" href="/env/landscape-architecture/giving/make-a-gift.shtml">
+                                                                                                            Make a Gift
+                                                                                                        </a>
+                                                    
+                                                                                                                                             
+                                                
+                                                                                    
+                                                                                                                        
+                                    </div>
+                                </li>
+                                
+                                                                                                                                     
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </ul>
+        </div>
+    </nav>
+             
+    
+
+
+    <main class="container flex-grow">
+
+           <div class="row">
+                            <div class="col-12" id="main">
+                                    <h1 class="cpp-h1">Master of Landscape Architecture</h1>
+            
+
+
+    
+                                            
+                                    <section class="text-images" id="s0">
+                                
+                                                        
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                            <p><img alt="MLA Gathering Event - 2023" class="" height="861" src="../img/mla_gathering.jpg" width="1713"/></p>
+<p style="text-align: center;"><span style="font-size: 10pt;"><em>Cal Poly Pomona MLA Program Faculty and Student Gathering - 2023</em></span></p>
+            </section>
+                            
+                  
+       
+	
+	
+ 
+         
+    
+
+    
+                    
+                  
+        
+                 
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                 
+    	
+            
+                                       <div class="accordion" id="accordion-1">
+                                    
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading1">
+                <h2 class="m-0">
+                    <button aria-controls="collapse1-1" aria-expanded="false" class="btn btn-link" data-target="#collapse1-1" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  Overview
+                    </button>
+                </h2>
+            </div>
+                            <div aria-labelledby="heading1" class="collapse " data-parent="#accordion-1" id="collapse1-1">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                <h3>About the Program</h3>
+<p>California State Polytechnic University, Pomona is the only public university in Southern California offering a Master of Landscape Architecture (MLA) degree. Established in 1972 by John T. Lyle, our fully-accredited program has a rich history of developing professionals who move into leadership positions in public, private and non-profit sectors.</p>
+<p>The CPP Master of Landscape Architecture (M.L.A.) program prepares students to solve emerging environmental and social issues of the 21st century by instilling advanced theoretical, methodological, and technical knowledge of landscape architecture, developing creative and critical thinking skills, and establishing strong, well-defined, and mutually life-sustaining relationships between people and the land.</p>
+<p>Fully accredited by <a href="https://www.asla.org/accreditationlaab.aspx">Landscape Architectural Accreditation Board (LAAB)</a> (MLA: LR Spring 2023/NR Spring 2029), CPP M.L.A. is an exceptional program of academic excellence. It is nationally recognized for applying advanced research methods and creative approaches toward professional landscape architecture practice. The program prepares students to be socially proactive, environmentally responsible, theoretically sophisticated, and technically robust, thus becoming both scientifically rational and curiously critical in making decisions to protect and improve our society's environmental and social aspects. Upon graduation, they are prepared to solve complicated environmental and social problems and enhance social and ecological sustainability with professional integrity.</p>
+<p>Our <a href="https://www.asla.org/accreditationlaab.aspx">LAAB accredited</a> Master of Landscape Architecture (MLA) curriculum (see below) emphasizes evidence-based landscape archtiecture practice and collaborative learn-by-doing assignments at scales varying from small sites to large complex regions, with a focus on projects that address critical environmental and social issues. Faculty and students in the program closely collaborate with public agencies from federal to local levels and engage various stakeholders, especially those from disadvantaged and underserved communities. Our studio culture embraces collaboration as a means of enable every student to excel based on their individual abilities, interests, and values. Our graduate studios are next to each other in the Boltz Courtyard of Building 2, the cultural heart of our BSLA and MLA programs (see below on Studio Space Tab).</p>
+<h3>STEM STATUS</h3>
+<p><span class="Subhead2">Landscape Architecture is a STEM Discipline.&#160;</span>The U.S. Department of Homeland Security has<span>&#160;</span><a href="https://www.asla.org/NewsReleaseDetails.aspx?id=63963" title="designated landscape architecture a STEM discipline">designated landscape architecture a STEM discipline</a>. The designation recognizes the high degree of science, technology, engineering and mathematics course work required in landscape architecture collegiate programs. For more information about Landscape Architecture's STEM Status, please refer to the <a href="https://www.asla.org/ContentDetail.aspx?id=57146&#160;">ASLA</a> webpage.&#160;&#160;</p>
+<h3>Program Ranking</h3>
+<p>In 2025, Cal Poly Pomona was ranked <a href="https://www.cpp.edu/aboutcpp/why-cpp/well-ranked.shtml">the #2&#160;best public college in the west by US News</a>! More significantly to the CPP community and our mission, is that we are consistently at the top of the <a href="https://www.cpp.edu/aboutcpp/why-cpp/well-ranked.shtml#:&#126;:text=In%20addition%2C%20Cal%20Poly%20Pomona,(SMI)%20has%20been%20published.">Social Mobility Index</a>.&#160;<strong>The Wall Street Journal<span>&#160;</span></strong><span>ranked Cal Poly Pomona at No. 21 on its &#8220;</span><a data-outlook-id="132b21e1-3435-4af7-b443-1ce30557599f" href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.wsj.com%2Frankings%2Fcollege-rankings%2Fbest-colleges-2025%3Fmod%3Dcollegerankings2025_rankings&amp;data=05%7C02%7Csbgonzaga%40cpp.edu%7Cc3a95de3684a4bd8d86d08dcd12c7567%7C164ba61e39ec4f5d89ffaa1f00a521b4%7C0%7C0%7C638615236077309121%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=n2StyeWj6mPU5JV8AperUgwhpMcf5icNXIy9t10aUwc%3D&amp;reserved=0">2025 Best Colleges in America</a><span>&#8221; listing after analyzing 500 universities. CPP was also recognized as No. 7 Top Public University.&#160;</span></p>
+<p>The Master of Landscape Architect (MLA) program was ranked 14th most-admired Landscape Architecture School nationwide in the <a href="https://www.di-rankings.com/most-admired-schools-landscape-architecture/">2019-2020 Design Intelligence Rankings,</a> ranked in the <a href="https://www.di-rankings.com/most-hired-from-schools-landscape-architecture/">most hired from landscape architecture schools</a> two years in a row. Among Design Intelligence's <a href="https://www.di-rankings.com/twelve-focus-areas-landscape-architecture/">12 Key Focus areas</a>, CPP&#8217;s MLA program is ranked 10th in Design Technologies, 9th in Engineering Fundamentals, 6th in Healthy Built Environments, and 7th in Sustainable Built Environments/Adaptive Design/Resilient Design.</p>
+<p class="p1">Beyond rankings, our tuition, as part of the CSU system, remains among the most affordable for accredited MLA programs nationwide. For detailed information on tuition and fees, please visit the university&#8217;s official website&#160;<a href="https://www.cpp.edu/student-accounting/tuition-fees/index.shtml">tuition information</a>.</p>
+<h3>MLA FALL 2025 ADMISSION</h3>
+<p>Applications to the MLA program for the following Fall opens on October 1<sup>st</sup> each year, and there is a two-step process submitting both the A) <a href="https://www.calstate.edu/apply">CSU Apply Application</a> by February 15th, and B) MLA Supplemental Application&#160;by March 1<sup>st</sup>. The MLA program currently admit students to its both&#160;<strong>MLA I - General Standing Track (72-unit/3-year)</strong> and&#160;<strong>MLA II - Advanced Standing Track (48-unit/2-year)</strong> tracks. The program also offers unique learning experience such as study abroad in Europe and Asia, and its reputable MLA culminating master project experience, formerly known as the 606 studio.&#160;</p>
+<p>For more information about the program, please refer to the following tabs of <a href="#Mission">Mission</a>, <a href="#ProgramFocusesandTracks">Program Focuses and Tracks</a>, <a href="#Admissions">Admissions</a>, <a href="#Curricula">Curricula</a>, <a href="#FAQ">Frequently Asked Questions</a>, <a href="#Culminating_Experience">MLA Master Culminating Experience</a>, and <a href="#Program_Life">MLA Program Life and Student Experience</a>.&#160;</p>
+<p>We invite you to learn more about our program, faculty, curriculum, campus, and the admission process by downloading the <a href="https://cpp-env-static.s3-us-west-2.amazonaws.com/prod/attached_files/MLA_Program_Guide_2020_2021.pdf"><strong>2023 MLA PROGRAM APPLICANT GUIDE</strong></a> and further exploring our website.</p>
+<p>Recently we have hosted the MLA Information Session for Fall 2025 Admission. Email <a href="mailto:mla@cpp.edu">mla@cpp.edu</a>&#160;to request a link to the recording if you are interested in reveiwing it.&#160;</p>
+<p>&#160;<img alt="MLA Information Session Fall 2025 Admission" class="" height="282" src="../img/mla_information_session_v1.jpg" width="500"/></p>
+<h4>Contact</h4>
+<p>We look forward to hearing from you at <a href="mailto:MLA@cpp.edu">MLA@cpp.edu</a>&#160;to connect with us to receive program updates and annoucements about the admission process, ask about specific questions not covered on our webpages and the above Applicant Guide, and/or to arrange a tour of our campus. In the subject line, please mention if you want to schedule a tour or have questions.&#160;</p>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                            
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading2">
+                <h2 class="m-0">
+                    <button aria-controls="collapse1-2" aria-expanded="false" class="btn btn-link" data-target="#collapse1-2" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  Mission
+                    </button>
+                </h2>
+            </div>
+                            <div aria-labelledby="heading2" class="collapse " data-parent="#accordion-1" id="collapse1-2">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                <p>Landscape architecture is a STEM* discipline integrating knowledge of ecological systems, social systems, human behavior, technology, the arts and the humanities in the development of solutions to society&#8217;s most pressing challenges, including responses to climate change and inequities. The consequences of climate change threaten the health of natural ecosystems, and the health of cities and populations potentially exposed to extreme heat, drought, changing weather patterns and sea level rise. These impacts only exacerbate historic inequities in our society concerning exposure to environmental negatives such as pollution, as well as access to environmental positives such as parks, healthy foods, natural experiences, and safe streets.</p>
+<h3>Mission</h3>
+<p>The mission of our MLA program is to develop leaders in evidence-based landscape architecture, who are proactive, creative in leveraging opportunities, and socially conscious of their actions. The curriculum stresses academic excellence focused on developing awareness of current issues and opportunities, experimenting with innovative methods and technologies to develop solutions, and synthesizing interdisciplinary knowledge, community-based knowledge, connecting personal values to analyses, policies, and designs at multiple scales. We use evidence that support the planning and design process is derived from academic research literature, community engagement, and the wealth of data that is increasingly accessible to inform decision-making and design.</p>
+<h3>Education Goals</h3>
+<p>To accomplish this mission, our MLA curriculum is grounded in the following goals:</p>
+<ol>
+<li>Cultivating leadership to address pressing environmental and social challenges facing communities.</li>
+<li>Developing strength in design as an iterative process engaging multiple scales.</li>
+<li>Effectively utilizing data and evidence to inform decision-making and design.</li>
+<li>Grounding insights and solutions in academic research literature.</li>
+<li>Developing a sophisticated understanding of community engagement on a continuum between extractive and empowering practice.&#160;</li>
+<li>Understanding historical and theoretical foundations of diverse traditions in landscape architecture.</li>
+</ol>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                            
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading3">
+                <h2 class="m-0">
+                    <button aria-controls="collapse1-3" aria-expanded="false" class="btn btn-link" data-target="#collapse1-3" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  Program Focuses and Tracks
+                    </button>
+                </h2>
+            </div>
+                            <div aria-labelledby="heading3" class="collapse " data-parent="#accordion-1" id="collapse1-3">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                <h3>Foundation: Human Eco-Systematic Landscape Design</h3>
+<p>Since 1972, the M.L.A. program at Cal Poly Pomona has built an expansive legacy of human eco-systematic landscape design as initiated by the late professor John T. Lyle (1934-1998) and contributed by generations of faculty and students. The human eco-systematic focus is featured with extensive research into the bio-physical and socio-cultural inventory of the landscape system and the interplay among them; in-depth analysis on the patterns, trends, and relations of highly relevant natural and social processes and other playing factors; considerate programming based on client, stakeholder, and community input collected via social surveys, public meetings, focused groups, and activities; rational systematic planning to create strong sustainability and connectivity; and creative site design solutions to construct vibrant, safe, and cultural friendly places. It serves as the major studio approach in projects ranging from watershed master planning, urban park plan design, open space and habitat management, greenways and trail system planning, stormwater infrastructure planning and design, multi-functional landscape systems, community landscape stewardship, brown and gray field revitalization, etc.</p>
+<h3>Current Issues and Trends</h3>
+<p>While its foundation on human eco-systematic landscape design continues, the program embraces new directions reflecting the ever-changing issues and needs of the landscape and human society that calls for new theories, principles and methods. These new directions in the curriculum include but not limited to:</p>
+<ol>
+<li>Climate change adaption design, which address knowledge on landscape mitigation strategies that if employed at mass scale, can help reduce GHG emissions (ASLA, 2016), adjust global and micro-climate, protect natural resources and wildlife habitats, promote local agriculture, and foster community resiliency against climate change;</li>
+<li>Participatory design and social practice, which seeks to create places that reflect and serve diverse cultural, racial and economic communities by involving users in the entire process of creating and improving their own landscape.</li>
+<li>Geodesign, which embraces and utilizes big data, Artifical Intelligence (AI), machine-learning and other latest geospatial technologies to empower human capability in scientific rationalization and sophisticated outreach and engagement to public agencies and various stakeholders to address complex and systematic landscape design challenges that are otherwise difficult to address; and</li>
+<li>Urban sustainable landscape design that brings in creative landscape strategies to sequester carbon, clean the air and water, increase energy efficiency, restore habitats, and create value through significant economic, social and, environmental benefits (ASLA, 2016).</li>
+</ol>
+<p>Additionally, CPP&#8217;s <a href="https://www.cpp.edu/env/lyle/">John T. Lyle Center for Regenerative Studies</a> and the other graduate programs offered by the <a href="https://www.cpp.edu/env/index.shtml">College of Environmental Design</a> (ENV) and CPP provide a tremendous range of electives for our students.</p>
+<h3>MLA Program Tracks</h3>
+<p>We offer two MLA program tracks:</p>
+<ul>
+<li><strong>MLA I - General Standing: (72-unit/3-year ) &#8211;</strong> Our <a href="https://catalog.cpp.edu/preview_program.php?catoid=68&amp;poid=18623&amp;hl=%22landscape+architecture%22&amp;returnto=search">MLA 1 General Standing 72-unit curriculum</a> is crafted for students without a design background, providing the essential foundation of professional and advanced skills in three years. for applicants with undergraduate degrees in non-design disciplines. General Standing students complete a year-long series of foundational courses preparing students for the intermediate and advanced courses in the second and third years of the program.<br/><br/></li>
+<li><strong>MLA II - Advanced Standing: (48-unit/2-year) &#8211;</strong> For students with a prior accredited environmental design baccalaureate degree that focus on studio-based learning, e.g., landscape architecture, architecture, urban design, etc., our <a href="https://catalog.cpp.edu/preview_program.php?catoid=61&amp;poid=15849&amp;returnto=4876">48-unit MLA 2 Advanced Standing track</a> provides opportunities to develop deeper expertise and critical abilities in two years.&#160; Applicants with an accredited degrees in landscape architecture or other environmental design disciplines, will be admitted to join the General Standing students in the second and third years of the program.</li>
+</ul>
+<ul>
+<li><strong>Credit for Prior Learning (CPL) <strong>&#8211;&#160;</strong></strong>As per Cal Poly Pomona Policy No. 1412, graduate students may be eligible to receive course, general education area, or elective unit credit through Credit for Prior Learning (CPL). Students are ineligible for CPL if they have previously received credit for a course containing similar or advanced material from the same subject matter field or if they are currently enrolled in that course.<br/><br/>Applicants without an accredited environmental design degree focusing on studio learning (so don&#8217;t qualify for the Advanced Standing track), but with landscape architecture related coursework may apply for CPL.&#160;&#160;<span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1rem;">The Master of Landscape Architecture (MLA) program permits general standing track students to apply for up to 9 units of CPL toward their total credit requirement of 72-semester units. To apply for CPL, students must complete the designated form, sign it, and submit it to the graduate coordinator, Dr. Weimin Li (wli@cpp.edu), or the faculty member serving in that capacity.<br/><br/></span>Supporting documentation for CPL may include, but is not limited to:<br/>1. Prior Academic Coursework: Completion of relevant college or graduatelevel courses in landscape architecture or aligned disciplines at accredited institutions, with grades of B or higher.<br/>2. Professional Experience: Demonstrated real-world practice in institutional or employment settings closely related to landscape architecture or environmental design.<br/>3. Portfolio or Documentation: Submission of a portfolio or other forms of documentation that substantiate the applicant&#8217;s qualifications, showing that they meet the learning outcomes of the courses under review for credit.<br/><br/>Approval of CPL requests is at the discretion of the graduate coordinator, in consultation with the graduate curricula/study committee of the MLA Program. Approval is based on a careful evaluation of the submitted materials.</li>
+</ul>
+<p>General Standing and Advanced Standing programs begin in Fall Semester. The CPPMLA do not currently accept Spring Admission for new students but may allow returning students to start in spring semester.</p>
+<h3>Unique Learning Experience&#160;</h3>
+<p><strong><br/>Study Abroad Programs: </strong>MLA students are welcome to participate in the fall Italy Study Abroad Program (15-units), our our new summer Paris Study Abroad Program (6-unit), or one of the electives featuring international travel over Spring Break. See <a href="https://www.cpp.edu/env/landscape-architecture/academic-student-resources/international-programs.shtml">International Programs page.</a>&#160;</p>
+<p><strong>MLA Culminating Master Project: </strong>The last year of study in the MLA program is a year-long collaborative Master&#8217;s Project Studio (formerly known as the &#8216;606 Studio&#8217;) that works with a public agency, non-profit community/environmental organization, and/or local comunities providing funded or&#160;<em>pro bono analysis, planning,</em>&#160;design, and other technical support and services. See <a href="#Culminating_Experience">MLA Culminating Master Project Tab</a> for additional information.</p>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                            
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading4">
+                <h2 class="m-0">
+                    <button aria-controls="collapse1-4" aria-expanded="false" class="btn btn-link" data-target="#collapse1-4" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  Admissions
+                    </button>
+                </h2>
+            </div>
+                            <div aria-labelledby="heading4" class="collapse " data-parent="#accordion-1" id="collapse1-4">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                <p>The Department of Landscape Architecture at Cal Poly Pomona (CPPLA) welcomes graduate students with a&#160;<span>baccalaureate degree of</span> any academic discipline from an accredited university. We encourage applicants from all socioeconomic and cultural backgrounds who wish to pursue careers in the public or private sector, designing sustainable landscapes, creating just and healthy communities, or managing conservation programs and land trusts. We have a 50+ year legacy of training graduate students in advanced human-ecosystemic design methods to establish strong, well-defined, and mutually life-sustaining and enhancing relationships between people and the land.&#160;</p>
+<p>We invite you to learn more about our program, the faculty, our award-winning Master&#8217;s Project Studio projects, and the admission process by downloading the <a href="https://cpp-env-static.s3-us-west-2.amazonaws.com/prod/attached_files/MLA_Program_Guide_2020_2021.pdf"><strong>MLA APPLICANT GUIDE</strong></a> and exploring our website.</p>
+<p>To initiate the application process, please fill out the <a href="https://forms.office.com/r/esvjZ37dL9"><strong>Department Record of Application for Graduate Admission</strong></a> to receive updates about our program and admissions events. This form also serves as the checklist for the MLA Supplemental Application.</p>
+<h3>Eligibility</h3>
+<p>MLA applicants must have a baccalaureate degree (or will complete their degree prior to starting the program), and have an overall undergraduate grade point average of at least 2.5 to meet Cal Poly Pomona admission req. The MLA program recommends a GPA of 3.0 or better. International students must meet or exceed the CSU minimum English Proficiency test scores. GRE scores are not currently required.</p>
+<p>Applicants from non-design academic disciplines are invited to apply for the 72-unit three-year long <strong>MLA General Standing (first professional degree) program</strong>. General standing courses may be satisfied by alternate means including waivers of selected courses based on previous academic and professional experience, or qualified units transferred from other academic programs upon the MLA Graduate Coordinator's approval. Waivers and transferred units are not guaranteed, and will be approved on a case-by-case.</p>
+<p>Applicants holding an accredited degree in Landscape Architecture or a closely aligned environmental design discipline, are invited to apply to the 48-unit two-year<strong> Advanced Standing (Post-Professional) MLA graduate program</strong>. Applicants interested in Advanced Standing track should demonstrate their additional academic preparation and/or professional experience in their portfolio and transcript, in addition to meeting all the General Standing admission requirements. Admission to the Advanced standing program is not guaranteed, and based on an applicant's overall qualifications, experience, and available space. Contact the MLA Graduate Coordinator <a href="mailto:MLA@cpp.edu">MLA@cpp.edu</a> to be considered for the Advanced Standing.</p>
+<p>All applicants are required to undergo transcript evaluation and portfolio review during the admission process. Unofficial transcripts can be used for this review process, but an official transcript must be submitted to the University's Admission Office before registering for MLA Courses.</p>
+<p>Limited space in the MLA program may be available for transfer applicants currently enrolled in another accredited MLA program, or for students who wish to change majors from another graduate program at Cal Poly Pomona. Please contact the graduate coordinator (<a href="mailto:mla@cpp.edu">mla@cpp.edu</a>) for specifics about transferring or changing majors.</p>
+<h4>International Applicants</h4>
+<p>Known for our outstanding academic programs, Cal Poly Pomona offers an excellent education for international students who wish to pursue a graduate degree in the United States. International students who have a Bachelor degree in environmental design disciplines focused on studio learning experience such as landscape architecture or architecture can apply to the 48-unit Advanced Standing program. Applicants without environmental design background should apply to the General Standing Program. Applicants should consult the graduate coordinator if they are not sure if they are eligible for the Advanced Standing Track. Applicants who attended a university where instruction was provided in a language other than English must submit TOEFL/IELTS/Duolingo scores.</p>
+<p>Prospective international applicants must contact CPP&#8217;s <a href="https://www.cpp.edu/international/students/new-students/index.shtml">International Students and Scholars Office</a> for information regarding visas, guidelines for maintaining academic progress, and procedures for internships and post-graduation work at <a href="mailto:international@cpp.edu">international@cpp.edu</a></p>
+<p>For additional information on Incoming International Students and requirements, please refer to: <a href="https://www.cpp.edu/admissions/international/graduate.shtml">Office of Admissions - Apply as an International Student</a> page.</p>
+<h3>Application Process and Deadlines</h3>
+<p>The MLA program is committed to provide a smooth application experience to all applicants, helping applicants through every single application steps and address application questions timely. To allow the program to assist effectively, applicants should carefully review and follow the application process.&#160;</p>
+<p>Application to the MLA program requires completing <strong>TWO</strong> separate steps:</p>
+<ol>
+<li><a href="https://www2.calstate.edu/apply"><strong>Cal State Apply</strong></a> online application needs to be completed by <strong>February 15<sup>th&#160;</sup></strong>(applications open October 1<sup>st</sup>). Please visit <a href="https://www.cpp.edu/admissions/graduate/masters-requirements.shtml">Cal Poly Pomona's Office of Admission</a> and review the <a href="https://www.cpp.edu/admissions/graduate/apply.shtml">Graduate Application Guide</a> for detailed instructions about the CSU Apply process. You will submit the following information via CSU Apply:
+<ul>
+<li><strong>Biodemographic and Economic Information (by filling out the online application form)</strong></li>
+<li><strong>Academic History</strong></li>
+<li><strong>Citizenship/residency status</strong></li>
+<li><strong>Test Scores&#160;</strong></li>
+<li><strong>Application Fee ($70 for Fall 2025)</strong></li>
+<li><strong>All requested program materials<br/></strong>Applicants must submit the unofficial transcripts via Cal State Apply. They are recommended to submit all other application materials along with their application via CSUAPPLY. If an applicant is unable to submit all materials by February 15th, they should submit them directly to <a href="mailto:mla@cpp.edu">mla@cpp.edu</a>&#160;by March 1st.&#160;
+<ul>
+<li><strong>Unofficial Transcript(s) - Required for Cal State APPLY.</strong> (Applicants must also submit their official transcript digitally through their previously enrolled universities and instutions.&#160;</li>
+<li>Statement of Intent</li>
+<li>Portfolio&#160;</li>
+<li>Program Application Form&#160;(Please submit <a href="https://forms.office.com/r/esvjZ37dL9">here</a> and print a pdf copy)</li>
+<li>CV/Resume&#160;</li>
+<li>Test Score Reports</li>
+<li>Application Essay of other Writing Samples</li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+<p>For additional information on the Cal Poly Pomona/CSU admission requirements and deadlines, please refer to <a href="https://www.cpp.edu/admissions/graduate/masters-requirements.shtml">Masters Requirements</a>. questions regarding the CSU Apply application procedures, please contact the Office of Admissions and Outreach (909) 869-3210.</p>
+<p>You may see on <a href="https://www2.calstate.edu/apply"><em>Cal State Apply</em></a> or the CPP Graduate Program Application website that the deadline to apply for Fall for some programs as early as December 15<sup>th</sup>. We do not follow that deadline. But we appreciate receiving applications early, wo encouraged you to do so.</p>
+<p>Once you complete your CSU Apply application and your application fee is deposited, please inform the department by email <a href="mailto:MLA@cpp.edu?subject=CSU%20Apply%20Application%20is%20sumbittted">MLA@cpp.edu</a>.</p>
+<ol>
+<li><a href="https://forms.office.com/pages/responsepage.aspx?id=HqZLFuw5XU-J_6ofAKUhtP2hbdzwXlZBg5rBGxrYxFJUOThaTTU4SUowTE02MjNITjZORkhJR0pHMS4u&amp;route=shorturl"><strong>MLA Supplemental Application</strong></a> &#8211; <strong>Deadline is March 1<sup>st</sup> </strong>for admissions consideration into the MLA 1 or MLA 2 program. The list cover the application materials that were requsted through Cal State Apply plus letters of recommendations. You can use this submission to directly connect to program administrators and use the opportunity to complete your submission of all the application materials. Regardless whether you have submit the following materials, you should send a copy to <a href="mailto:mla@cpp.edu">mla@cpp.edu.</a>&#160;See below for detailed instructions for each items. Required materials include:</li>
+</ol>
+<ol>
+<li style="list-style-type: none;">
+<ol>
+<li><strong>Cover Page </strong>indicating which track you are applying to, e.g., General Standinng Track or Advanced Standing Track</li>
+<li><strong>Cal Stay Apply application form </strong>(attache a pdf copy)</li>
+<li><strong>Program Application Form&#160;</strong>(Please submit <a href="https://forms.office.com/r/esvjZ37dL9">here</a> and attach a pdf copy&#65289;</li>
+<li><strong>C.V.&#160;</strong></li>
+<li><strong>Unofficial transcript(s)</strong></li>
+<li><strong>Test scores</strong> (English proficiency for international students, e.g., TOEFL, IELTS, Duolingo)</li>
+<li><strong>MLA Portfolio</strong></li>
+<li><strong>MLA Statement of Intent</strong> (600-words)</li>
+<li><strong>MLA Scholarly Writing</strong> Sample - Application Essay (400-words)</li>
+<li><strong>Two Letters of References</strong> [sent directly to <a href="mailto:mla@cpp.edu">mla@cpp.edu</a>&#160;by the references]</li>
+</ol>
+</li>
+</ol>
+<p>Review of all MLA applications begins on March 1<sup>st</sup>, and admission notifications will be sent out beginning in early April. Our review and decision process may be delayed if all the application materials are not received on time. Late applicants will be considered case-by-case only if there is available space.</p>
+<h4>How to Submit your MLA Supplemental Application Package</h4>
+<p>Items in your Supplemental Application Package should be submitted to <a href="mailto:mla@cpp.edu">mla@cpp.edu</a>&#160;by one email. Applicant should limit submission size to 20MB in order to submit through email.&#160;</p>
+<ul>
+<li><strong>By Email</strong> your files as one attachment to <a href="mailto:mla@cpp.edu?subject=MLA%20Application%202022">MLA@cpp.edu</a> with "MLA Application - Current YEAR (e.g., 2025)" in the subject line. Please do not include application materials in the body of the email&#12290;&#160;</li>
+</ul>
+<p><em>Maximum file size (and the total size of all attachments) that we can receive via email is 20mb. For larger files, please use a file sharing/cloud storage website (see below). Even if you send it via online storage, your totla file size should not be greater than 25mb.&#160;</em></p>
+<ul>
+<li><strong>By File sharing/cloud storage</strong> website (Dropbox, OneDrive, Google Drive, other file sharing services), or digital portfolio publishing site (ISSUU, Portfolium) &#8211; by submitting the URL to <a href="mailto:mla@cpp.edu?subject=MLA%20Application%202022">MLA@cpp.edu</a>.</li>
+</ul>
+<p><em>Make sure to set the file&#8217;s permissions so anybody with the link can view and download the files.</em></p>
+<p>If you have technical difficulty in sending us your applicatiton materials to <a href="mailto:mla@cpp.edu">mla@cpp.edu</a>&#160;we will accept your application via mail. We recommend that you only use this option if you really can't do it digitally. To keep track of your application materials, we expect you to inform us that you are using mail to deliver your package via email or phone call to avoid potential delay of your application.&#160;<em>If you ship any of your supplemental application package items to us, make sure it will be delivered before March 1<sup>st</sup>, and share the tracking number with us at </em><em><a href="mailto:MLA@cpp.edu&#12290;">MLA@cpp.edu.&#160;</a></em></p>
+<ul>
+<li><strong>By Mail</strong> them (USPS, UPS, FedEx, DHL, or international mail) to:</li>
+</ul>
+<p>Attn: MLA Admissions<br/> Department of Landscape Architecture <br/> 3801 W. Temple Ave, Pomona<br/> CA 91768 USA</p>
+<p><strong>Letters of Reference</strong> should be submitted directly to the department by the letter writer via email to <a href="mailto:mla@cpp.edu">mla@cpp.edu</a> with a subject line including your name and &#8216;Letter of Reference&#8217;. Individuals who don't have access email or internet can mail their letter to the above address and ensure delivery by March 1st every year.&#160;</p>
+<p>File Naming</p>
+<p>For all digital files included in your Supplemental Package, please save each item as a separate PDF file, and use the following file naming format:</p>
+<p><em>Name_Program_Item</em>.pdf</p>
+<p>With:</p>
+<ul>
+<li><em>Name</em> = last name-first name</li>
+<li><em>Program</em> = 'MLA1' for General Standing applicants, or 'MLA2' for Advanced Standing applicants</li>
+<li><em>Item</em> = identify the file content: CSUApplyApp, Portfolio, Statement, WritingSample, Transcript, et cetera.</li>
+</ul>
+<p>Attention to the procedures and timely submission of all required materials will enhance your chances of acceptance to the program. Incomplete applications cannot be considered.</p>
+<p><em>IMPORTANT NOTICE: Please review all information presented on the Department&#8217;s webpage with all tabs unfolded. You need to submit application packages to BOTH the University Admission Office (via Cal State Apply) and the Department of Landscape Architecture. Missing any part of the application package will lead the significant delay of the application process. In addition to the following admission process on the webpage, you can download the application checklist for your own reference.</em></p>
+<h4>MLA Supplemental Application Instructions</h4>
+<p>The following supplemental materials must be received by the Department of Landscape Architecture by March 1<sup>st</sup>.&#160;</p>
+<ol>
+<li><strong>Unofficial Transcripts</strong></li>
+</ol>
+<p>The department needs (unofficial) copies of your transcripts from all colleges and universities you previously attended. You may attach them to an <a href="mailto:MLA@cpp.edu?subject=MLA%20Applicant%20Transcripts">email</a>, upload them to a cloud storage site and submit the URL via email, or print and mail them to the department.</p>
+<p>For international applicants with transcripts in other languages than English, certified English translations are required.</p>
+<p>Prior to registering for courses, official copies of your final transcripts from <strong>EACH college and university </strong>attended must be sent directly to Cal Poly Pomona&#8217;s Office of Admissions and Outreach from the college and universities. <strong>Failure to submit your OFFICIAL TRANSCRIPTS (SEALED AND MAILED or SENT DIRECTLY VIA EMAIL) will delay your ability to enroll.</strong></p>
+<p>Final Official Transcripts should be submitted digitally. If your sending institution does not offer electronic transcripts, we recommend that applicants use the following service: <a href="https://www.studentclearinghouse.org/">National Student Clearinghouse</a> or <a href="https://www.parchment.com/">Credential Solutions</a>. For PDF transcripts, please have them sent directtly to <a href="mailto:verify@cpp.edu">verify@cpp.edu</a>. Should these services not be available for your sending institution, please have them mail your transcript(s) to:</p>
+<p>Cal Poly Pomona<br/> Attn: Admissions &amp; Enrollment Planning<br/> 3801 W. Temple Avenue<br/> Pomona, CA 91768 USA</p>
+<ol start="2">
+<li><strong>English Proficiency Test Scores and/or GRE Score</strong></li>
+</ol>
+<p>International applicants with degrees from international colleges or university that are not taught in English need to provide copies of your English Proficiency Test results to the department.</p>
+<p>Please have official results of your TOEFL, IELTS, or Duolingo test sent directly to the University (ETS Code: 4082). For admission to any graduate program at Cal Poly Pomona, you would need to have a minimum TOEFL score of 80, IELTS score of 6.5, and Duolingo score of 105.</p>
+<p>Graduate Record Examination (GRE) scores are no longer required. Applicants who took the GRE sin the past five years are encouraged to submit their scores to the Department of Landscape Architecture. For more information, visit: <a href="http://www.ets.org/gre">http://www.ets.org/gre</a><u>.</u></p>
+<ol start="3">
+<li><strong>MLA Application Portfolio</strong></li>
+</ol>
+<p>A portfolio (20 pages maximum) that showcases your creativity is required. Examples of portfolios are available by emailing <a href="mailto:MLA@cpp.edu">MLA@cpp.edu</a>.</p>
+<p>The PDF of your portfolio can be submitted via <a href="mailto:MLA@cpp.edu?subject=MLA%20Applicant%20Portfolio">email</a>, via a file sharing site (Dropbox, Google Drive, OneDrive, et cetera) or digital portfolio publishing site (ISSUU or other) with the URL submitted by <a href="mailto:MLA@cpp.edu?subject=MLA%20Applicant%20Portfolio">email</a> or the <a href="https://forms.office.com/r/sKbrY1Q6XD">Supplemental Application</a>, or by printing a copy and mailing it to us (address is above). Mailed portfolios will not be returned.</p>
+<p><strong><em>Portfolio Content</em></strong></p>
+<p>Your portfolio does not need to feature landscape design work or be landscape architecture related. We recognize that many candidates come from academic backgrounds with little to no art or design experience. Feel free to include work that you think provides evidence that you are a creative thinker and problem solver. For example, past students have submitted knitting patterns, dance routines, cake decorating, original recipes, musical scores or recording, and computer programs that illustrate their creative problem-solving abilities. Please provide a sufficient explanation about each project to assist so our faculty can interpret your process and the significance of your accomplishment.</p>
+<p>Each project or type of project should have dedicated pages.</p>
+<p>We strongly encourage you to include a sample of your writing (up to 10 pages) in the portfolio - this could be a few pages from a report, a chapter out of a thesis, article, etc.</p>
+<p>A resume is recommended for Advanced Standing applicants, and is optional for General Standing applicants.</p>
+<p>To include videography/animation, performing arts/music, or interact media work in your portfolio, please include frame grabs/still images + URL to view/hear the full work (don&#8217;t embed the file in the PDF as this will bloat the file size). <em>Audio or video media files under 20mb can submitted via email separately from your PDF portfolio file. Media files larger than 20mb must be submitted by providing a URL to them on cloud sharing website via email.&#160;</em></p>
+<p>For any group/collaborative project, or professional work completed as an employee, please be sure to specify the role you played in the project, and to identify the other team members.</p>
+<p>All portfolios require a cover page with your name, contact information, address, phone number, email, and the program to which you are applying (MLA 1 or MLA 2).</p>
+<p><em>Portfolio Formatting and Creation Instructions</em></p>
+<p>Your portfolio should be submitted as single multi-page PDF file (or printed), with no more than 20 pages (8.5x11/letter-size or A4 size paper). Please don&#8217;t combine 2-page spreads into single 11x17 pages. PDF files are preferred.</p>
+<p>To create your portfolio, there many apps that allow you to easily layout multiple pages with a combination of images and text, such as: Adobe Illustrator, Adobe InDesign, MS Word, Google Docs, PowerPoint, or Keynote. It is essential that any software used allows saving the final version as a PDF. Any Windows, MacOS, and iOS app should be able to do this, either by &#8216;save as&#8230;&#8217; in the file menu or in the print dialog window.</p>
+<p>If you will not be printing your portfolio, you will generate a smaller file that displays better on a screen with images that are 8-bit RGB color mode or 8-bit gray scale (not CMYK or 12-bit color). Please optimize your image files so they have a final resolution of 100 to 200 pixels per inch using a photo editing application, by using the &#8216;compress images&#8217; tool available in many apps, or in the &#8216;save as&#8217; options. Higher resolution images will bloat the file size and are not recommended. For an image that is reproduced as 6&#8221; x 4&#8221; in the portfolio, the resolution should be at least 600x400 pixels and no more than 1200x800 pixels.</p>
+<p>If you only can provide a hard copy printed version of portfolio, please mail it to the Department address above. Printed portfolios should be printed on both sides of the page (double-sided), and bound to be easily opened/accessed and easy to leaf through (use staples, spiral or comb bindings, or insert the pages into a folio/binder). No loose pages/sheets accepted. Printed portfolios WILL NOT BE RETURNED, so please do not spend lots of money on a fancy binder/cover.</p>
+<p>See the file name format instructions above.</p>
+<p><em>Portfolio Checklist (inspired by Professor Emeritus Lee-Anne Milburn)</em></p>
+<ol>
+<li>Selection/curation of projects
+<ol>
+<li>Does the portfolio present a focused vision?</li>
+<li>Do the projects clearly illustrate your strengths and creative abilities?</li>
+<li>Does it show how you develop ideas and solve problems?</li>
+</ol>
+</li>
+<li>Organization
+<ol>
+<li>Are the projects presented chronologically (oldest to newest), or organized by theme, project type, or another logic?</li>
+<li>Do projects selected reflect your best and most recent work?</li>
+<li>For design projects, are you providing an overview of the final version, along with details, methodology/process, and context?</li>
+<li>Do the views/images/drawings of the work/projects make sense, and do subsequent views/pages expand upon and make clearer the previous pages?</li>
+<li>Is the significance of each project matched by the amount of space/pages dedicated to it?</li>
+</ol>
+</li>
+<li>Reviewing the overall layout:
+<ol>
+<li>Is there sufficient white space? Do the pages feel crowded?</li>
+<li>Are the borders clean and consistent?</li>
+<li>Is there a page organizing system that is consistently applied (without being boring)?</li>
+<li>Do you have to rotate the portfolio back and forth from landscape (horizontal) to portrait (vertical) to the extent that it is irritating?</li>
+<li>Is there a consistent graphic style expressed through organization, page layout, use of fonts, and color palette?</li>
+</ol>
+</li>
+<li>Images/graphics
+<ol>
+<li>Are the images/drawings presented sharply and clearly, with adequate contrast and resolution to see the details?</li>
+<li>Are the subjects in the photographs sharp and clear?</li>
+<li>If the images pixelated or otherwise of low quality, find a replacement or reduce the size of image on the page (aim for 100dpi or better for all photos/raster graphics).</li>
+<li>For high resolution original files, please reduce the resolution before placing them in the portfolio file so they reproduced in the portfolio at a resolution of 100dpi to 200dpi.</li>
+<li>Do any of the projects require being re-drawn or re-rendered?</li>
+</ol>
+</li>
+<li>Text
+<ol>
+<li>Is all text legible (big enough and with sufficient contrast)?</li>
+<li>Is there a consistent set of font sizes/styles used for the headers, captions, body text, et cetera?</li>
+<li>Have you checked the spelling and grammar?</li>
+<li>Is capitalization and punctuation consistent?</li>
+<li>Do the project statements/captions allow the reviewer to understand the material without having you there to explain it?</li>
+<li>Do you provide compelling outline the program, scope, concept and scale of the projects?</li>
+<li>Do you describe the location, project type, challenges, approach, and key innovations?</li>
+<li>For academic projects, do you identify the course number/name, instructor, and term/date?</li>
+</ol>
+</li>
+</ol>
+<ol start="4">
+<li><strong>MLA Statement of Intent</strong></li>
+</ol>
+<p>Use this Statement of Intent for both the CSU Apply and MLA Supplemental Application. It should be a maximum of 600 words long. Suggested content for your statement includes:</p>
+<ol>
+<li><strong>Relevant experience, interests or aptitudes</strong> that make you a great candidate for a career in landscape architecture? How did first discover landscape architecture and why do you want to become a landscape architect? Is there a specialization, type of project, or practice you want to pursue, what is it and why? Also make sure to highlight any interests or experiences that might otherwise be missed in your resume or package that inspired your interest in landscape architecture.</li>
+<li><strong>Fit to the program - What experiences, interests, or aptitudes</strong> make you a good "fit" for Cal Poly Pomona's landscape architecture program? Please discuss your perspectives toward societal challenges, design thinking, methods and approaches toward planning and design, collaborative experience, approach to teamwork, emotional resilience/temperament, work ethics, and experiences working with diverse communities.</li>
+<li><strong>Why do you want to enroll in our MLA program</strong> in particular? Why you want to study landscape architecture in Southern California. How did you first discover our program? What is the unique characteristics of the program attract you the most? If you were inspired by one of our faculty&#8217;s research or courses, who, what, and how you are inspired, and how you encountered their work. What do you think you can gain from our MLA program that is distinct from the other programs you are applying too?</li>
+</ol>
+<ol start="5">
+<li><strong>MLA Scholarly Writing Sample</strong></li>
+</ol>
+<p>To help us learn more about your values/interests, critical thinking, and writing ability, please write a <strong>short essay (400-word maximum) </strong>responding to following:</p>
+<ol>
+<li>What are the top three challenges facing our society today?</li>
+<li>Why do you consider these the most significant challenges?</li>
+<li>What can landscape architecture do to address these challenges?</li>
+</ol>
+<p>Please support your rationale and perspective with at least 4 relevant bibliographic citations.</p>
+<ol start="6">
+<li><strong>Two Letters of Recommendation</strong></li>
+</ol>
+<p>Two letters of recommendation are required. For recent graduates:</p>
+<ul>
+<li>At least one of your reference letters is from a faculty member at your most recently attended university or college program who can assess your academic strengths and weaknesses, critical thinking/design aptitude,</li>
+<li>The other reference letter can be from professional mentor, a supervisor/boss, volunteer position, or other individuals familiar with your work, capabilities, interests, and problem-solving/creative aptitudes.</li>
+</ul>
+<p>For applicants who graduated more than five years with their Bachelor's degree:</p>
+<ul>
+<li>Both letters of recommendation can be from either academic or non-academic references who can assess your work, capabilities, interests, and problem-solving/creative aptitudes.</li>
+</ul>
+<p>It is the applicant's responsibility to contact the references as early as possible to request they provide a letters of recommendation, and provide submission information about sending it directly to the Department of Landscape Architecture via email to <a href="mailto:mla@cpp.edu">mla@cpp.edu</a> or by mail.</p>
+<p>Please indicate which track you are applying to in all correspondence and on the Supplemental Application. If you have questions about which program you qualify for, please email us at <a href="mailto:MLA@cpp.edu">MLA@cpp.edu</a>.</p>
+<h4>Scholarship Opportunities for Incoming MLA Students</h4>
+<p>Scholarship applications are due&#160;<span>03/02/2025.&#160;</span></p>
+<table height="117" style="width: 706px;"><caption>Table.1 Department Scholarship for Incoming MLA Students</caption>
+<tbody>
+<tr>
+<td style="width: 345px;"><strong>Name</strong></td>
+<td style="width: 150px;"><strong>Amount</strong></td>
+<td style="width: 170.531px;"><strong>Application Link</strong></td>
+<td style="width: 227.469px;"><strong>Note</strong></td>
+</tr>
+<tr>
+<td style="width: 345px;">Dangermond Research Fellowship</td>
+<td style="width: 150px;">$5,000</td>
+<td style="width: 170.531px;"><a href="https://csupomona.academicworks.com/opportunities/13821">Apply Here</a></td>
+<td style="width: 227.469px;"></td>
+</tr>
+<tr>
+<td style="width: 345px;">B.L.A.C.K in L.A. Scholarship</td>
+<td style="width: 150px;">$3,000</td>
+<td style="width: 170.531px;"><a href="https://csupomona.academicworks.com/opportunities/18448">Apply Here</a></td>
+<td style="width: 227.469px;">FAFSA or CA Dream Act Application required</td>
+</tr>
+<tr>
+<td style="width: 345px;">ONA Scholars Scholarship</td>
+<td style="width: 150px;">$2,500</td>
+<td style="width: 170.531px;"><a href="https://csupomona.academicworks.com/opportunities/18876">Apply Here</a></td>
+<td style="width: 227.469px;"></td>
+</tr>
+<tr>
+<td style="width: 345px;">Lifescapes International Scholarship</td>
+<td style="width: 150px;">$1,000</td>
+<td style="width: 170.531px;"><a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcsupomona.academicworks.com%2Fopportunities%2F13977&amp;data=05%7C02%7Cwli%40cpp.edu%7C231d336510254d6b78b808dd20a47041%7C164ba61e39ec4f5d89ffaa1f00a521b4%7C0%7C0%7C638702612835112378%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=XV4p%2F%2BMovv1PrhmJ80W4%2Fqzjxhj3wUfWOj6g1A3uIHw%3D&amp;reserved=0">Apply Here</a></td>
+<td style="width: 227.469px;">FAFSA or CA Dream Act Application required</td>
+</tr>
+</tbody>
+</table>
+<p><br/>For more information, please contact <a href="mailto:mla@cpp.edu">mla@cpp.edu</a>&#160;for more information</p>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                            
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading5">
+                <h2 class="m-0">
+                    <button aria-controls="collapse1-5" aria-expanded="false" class="btn btn-link" data-target="#collapse1-5" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  Curricula
+                    </button>
+                </h2>
+            </div>
+                            <div aria-labelledby="heading5" class="collapse " data-parent="#accordion-1" id="collapse1-5">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                <p>To prepare students with comprehensive knowledge, advanced skills and rich practical experience to solve ecological, environmental and social issues of the 21st century through landscape design and planning, the MLA program is currently employing a curriculum that covers a wide variety of learning subjects pertinent to landscape architecture. The curriculum is a three-year sequence consisting of a 2-semesters preparatory year (required for students with non-design backgrounds) and two years of professional study of Landscape Architecture with an emphasis on human ecosystematic design and planning.</p>
+<p>The M.L.A. curriculum at Cal Poly Pomona covers a wide variety of subjects relevant to</p>
+<p>contemporary landscape architecture and meet the requirements of LAAB.</p>
+<ul>
+<li>Landscape Architecture history, theory and criticism.</li>
+<li>Natural, social, and cultural processes including principles of sustainability.</li>
+<li>Environmental and public policy and regulation.</li>
+<li>Design, planning and management at various scales from large regional landscape systems to human scale and applications including but not limited to pedestrian and vehicular circulation, grading, drainage, and stormwater management.</li>
+<li>Site design and implementation: materials, methods, technologies, application.</li>
+<li>Construction documentation and administration.</li>
+<li>Written, verbal and visual communication and documentation.</li>
+<li>Professional values, ethics, and practices.</li>
+<li>Plant ecology and ecosystems.</li>
+<li>Computer applications and advanced information technology.</li>
+<li>Research methodologies, projects, thesis and degree.</li>
+</ul>
+<h3>Foundation: Human Eco-Systematic Landscape Design</h3>
+<p>Since 1972, the M.L.A. program at Cal Poly Pomona has built an expansive legacy of human eco-systematic landscape design as initiated by the late professor John T. Lyle (1934-1998) and contributed by generations of faculty and students. The human eco-systematic focus is featured with extensive research into the bio-physical and socio-cultural inventory of the landscape system and the interplay among them; in-depth analysis on the patterns, trends, and relations of highly relevant natural and social processes and other playing factors; considerate programming based on client, stakeholder, and community input collected via social surveys, public meetings, focused groups, and activities; rational systematic planning to create strong sustainability and connectivity; and creative site design solutions to construct vibrant, safe, and cultural friendly places. It serves as the major studio approach in projects ranging from watershed master planning, urban park plan design, open space and habitat management, greenways and trail system planning, stormwater infrastructure planning and design, multi-functional landscape systems, community landscape stewardship, brown and gray field revitalization, etc.</p>
+<p>While its foundation on human eco-systematic landscape design continues, the program embraces new directions reflecting the ever-changing issues and needs of the landscape and human society that calls for new theories, principles and methods. These new directions in the curriculum include but not limited to:</p>
+<ol>
+<li>Climate change adaption design, which address knowledge on landscape mitigation strategies that if employed at mass scale, can help reduce GHG emissions (ASLA, 2016), adjust global and micro-climate, protect natural resources and wildlife habitats, promote local agriculture, and foster community resiliency against climate change;</li>
+<li>Participatory design and social practice, which seeks to create places that reflect and serve diverse cultural, racial and economic communities by involving users in the entire process of creating and improving their own landscape.</li>
+<li>Geodesign, which embraces and utilizes big data and the latest geospatial technologies to empower human capability in scientific rationalization to address complex and systematic landscape design challenges that are otherwise difficult to address; and</li>
+<li>Urban sustainable landscape design that brings in creative landscape strategies to sequester carbon, clean the air and water, increase energy efficiency, restore habitats, and create value through significant economic, social and, environmental benefits (ASLA, 2016).</li>
+</ol>
+<p>Additionally, CPP&#8217;s <a href="https://www.cpp.edu/env/lyle/">John T. Lyle Center for Regenerative Studies</a> and the other graduate programs offered by the <a href="https://www.cpp.edu/env/index.shtml">College of Environmental Design</a> (ENV) and CPP provide a tremendous range of electives for our students.</p>
+<h3>Policies</h3>
+<p>One can download the <a href="http://env.cpp.edu/sites/default/files/attached_files/MLA_Curriculum%20Flow%20Chart_rev2_16_18.pdf">Course Flow Chart</a>, <a href="http://env.cpp.edu/sites/default/files/attached_files/MLA_Curriculum%20Sheet_rev05_05_2019.pdf">Curricula Sheet</a> and <a href="http://env.cpp.edu/sites/default/files/attached_files/MLA_Semester_Curriculum_Chart_v_10_3_18.pdf">Curricula Flow Chart</a> for reference.</p>
+<p>A minimum 3.0 cumulative GPA is required in all courses taken to earn as part of the MLA program in order to receive the degree. A "C" or better grade is required for students to receive credit toward the MLA program. Please refer to the University Catalog and Graduate Studies for more information. All MLA Coursework must be completed within 7 years of beginning the program.</p>
+<p>Students admitted with General Standing need to complete all General Standing courses (15 units) + MLA Core Courses (36-units) + 9-units of MLA Electives + either Project or Thesis Track courses (12-units) = 72-units.</p>
+<p>Advanced Standing students take the MLA Core Courses (36-units) + 9-units of Electives + either Project or Thesis Track Course (12-units) = 48-units.</p>
+<h3>Program and Student Learning Outcomes</h3>
+<p>Program Learning Outcomes (PLO)</p>
+<ul>
+<li><strong>PLO1 </strong>Graduates show critical knowledge of landscape architecture.</li>
+<li><strong>PLO2 </strong>Graduates can apply landscape architecture knowledge and techniques to solve complex environmental and social problems and challenges through landscape planning and design practice in multiple scales.</li>
+<li><strong>PLO3 </strong>Graduates can communicate and work effectively with integrity and ethics in individual and group settings.</li>
+<li><strong>PLO4 </strong>Graduates will advocate the value of sustainability, environmental conscience, land stewardship, and social justice in diverse and multicultural contexts.</li>
+</ul>
+<p>Student Learning Outcomes (SLO)</p>
+<ul>
+<li><strong>SLO1 Critical Thinking - </strong>Demonstrate critical thinking skills and creatively apply them to resolve ecological, social, and spatial problems, while advancing current disciplinary concerns within the context of environmental design.</li>
+<li><strong>SLO2 Design Foundation - </strong>Demonstrate a strong understanding of design theory, history, and methods of communication-based on the principles of sustainability, regeneration, and ecosystemic design.</li>
+<li><strong>SLO3 Ecological Processes - </strong>Identify and interpret ecological patterns and processes at multiple scales and relate them to the development of design, planning, and vegetative strategies to address ecological problems, including, preservation, restoration, regenerative design, and sustainable use of resources.</li>
+<li><strong>SLO4 Cultural Processes - </strong>Identify and interpret cultural and historical patterns and processes at multiple scales as needed for designing for a diverse society.</li>
+<li><strong>SLO5 Disciplinary Knowledge - </strong>Creatively apply theories, techniques, skills, and tools necessary for landscape architecture, with explicit regards to ecological sustainability, resiliency, and the protection of public health, safety, and welfare.</li>
+<li><strong>SLO6 Digital Skills - </strong>Apply hands-on computer skills and information technologies in the planning and design process and products.</li>
+<li><strong>SLO7 Professional Responsibility - </strong>Show a sense of responsibility, integrity, and ethical concern as related to ecological, social, and cultural issues related to the professional practice of landscape architecture.</li>
+<li><strong>SLO8 Professional Development - </strong>Demonstrate teamwork and leadership skills in a variety of professional roles and contexts, including individual and team projects, as well as interdisciplinary collaboration and participatory settings.</li>
+<li><strong>SLO9 Communication - </strong>Effectively express and deliver design ideas, information, and solutions visually, verbally, and in writing to a variety of audiences.</li>
+<li><strong>SLO10 Multi-Cultural Perspectives - </strong>Pursue challenging educational and service opportunities to the public within the diverse and evolving multicultural regional context of southern California.</li>
+</ul>
+<p><strong>SLO11 Research -</strong> Pursue scholarly or practical research with appropriately developed research questions, qualitative or quantitative methods, and documentation in the context of</p>
+<h3>MLA General Standing Track (15-units)</h3>
+<p>(Please refer to <a href="https://catalog.cpp.edu/"><strong>University Catalog</strong></a> for most updated information).</p>
+<p>All MLA Core Courses are taught in sequence and are 3-units each. Seminars and lectures meet 3-hours, one day/week. Labs/Studios meet 3-hours/day on Mondays, Wednesdays, and Fridays.</p>
+<p><a href="https://catalog.cpp.edu/preview_course_nopop.php?catoid=61&amp;coid=299468">LA 5111L Design I (Lab/Studio)</a></p>
+<p>This course is an introduction to the discipline of landscape architecture and design foundations as a result of personal awareness. This course will specifically challenge students to understand the relationships of the body in space including the presence and reflection of the self and others in space. Multiple methods of personal and public recording and engagement will be utilized to reveal the latent potential and issues of space and site.</p>
+<p><a href="https://catalog.cpp.edu/preview_course_nopop.php?catoid=61&amp;coid=299481">LA 5121L Design II (Lab/Studio)</a></p>
+<p>This course is an introduction to the discipline of landscape architecture and design foundations as a result of a public awareness and public space. This course will specifically challenge students to understand the relationships of the public or a community to designed public space. Multiple methods of information collection, comparative study and measurement of capacity will be utilized to reveal the latent potential and issues of space and site beyond current conditions.</p>
+<p><a href="https://catalog.cpp.edu/preview_course_nopop.php?catoid=61&amp;coid=299457">LA 5581 Graphic Communication</a></p>
+<p>Introduction to visual communication for landscape architecture. Addresses the basic theory and intent of visual communication as applied to environmental design. Focuses on the exploration of what designers draw, why, and how, and the concepts of notation, observation, diagramming, measuring, and communicating. Uses problem-based learning to critically evaluate audience, tools, venue, and mechanics of visual communication. Integration of manual and digital tools.</p>
+<p><a href="https://catalog.cpp.edu/preview_course_nopop.php?catoid=61&amp;coid=299482">LA 5771 Landscape Awareness and Assessment</a></p>
+<p>Focuses on the development of awareness and skills related to reading the landscape around us: what is under, on and above the ground, and its implications for design. Introduction to methods of landscape documentation, inventory, analysis and assessment, including traditional site inventory and analysis, McHargian analysis, SWOT analysis, natural resources inventories, phenomenological approaches, behavioral observation, natural areas inventories, environmental impact analysis, archival research, still and motion picture photography as documentation, among others. Students will evaluate the appropriateness of various inventory, analysis and assessment tools and their connection to design. A series of field trips is required to provide opportunities to critically assess the California landscape as a product of human intervention and natural resilience.</p>
+<p><a href="https://catalog.cpp.edu/preview_course_nopop.php?catoid=61&amp;coid=300914">LA 5611 Construction I:&#160; Manipulation + Making</a></p>
+<p>Explores fundamental technical theories, concepts, methods and processes associated with primary categories of constructing the built environment as associated with landscape architecture. Emphasis is placed on site engineering, water management, tectonic structure and project construction workflow. Additional content may include general survey and technical soils.</p>
+<h3>MLA Core Courses (36-units)</h3>
+<p>General Standing and Advanced Standing Track</p>
+<p><a href="https://catalog.cpp.edu/preview_course_nopop.php?catoid=61&amp;coid=299455">LA 4771 Professional Practice</a></p>
+<p>The practice of landscape architecture, covering professional responsibilities and ethics, client and contractor relationships. Analysis and discussion of the structure and organization of the profession of landscape architecture; its history and future. Case studies of professional firms and organizations in the Los Angeles region.</p>
+<p><a href="https://catalog.cpp.edu/preview_course_nopop.php?catoid=61&amp;coid=300784">LA 5261 Grad Landscape Architecture History</a></p>
+<p>An overview of historic developments and foundations of landscape design and the profession of Landscape Architecture from prehistory to the 20th century. Students will understand the role of biophysical and socio-cultural contexts in design development, and the connections between past landscape design and present practice. Students will develop skills in analysis of landscapes, library research, and written communication of ideas.</p>
+<p><a href="https://catalog.cpp.edu/preview_course_nopop.php?catoid=61&amp;coid=300895">LA 5582 Geodesign Fundamentals for Environmental Designers</a></p>
+<p>Study of fundamental knowledge, principles, processes, models, and skills of geodesign in the context of environmental design with a focus in landscape architecture. Application of geospatial thinking, geospatial data, geo-processing and other contents of contemporary Geographic Information Systems (GIS) to solve sustainable planning and design problems defined by a wide range of ecological, environmental and social conditions at different scales.</p>
+<p><a href="https://catalog.cpp.edu/preview_course_nopop.php?catoid=61&amp;coid=300915">LA 5621 Construction II: Methods + Materials + Measuring</a></p>
+<p>Introduction to the technical processes, concepts, methods and performance metrics associated with materials and the making/building of the urban landscape. Focuses on the structure and attachment of built elements with an emphasis on both the cultural and ecological performance measures of built landscapes.</p>
+<p><a href="https://catalog.cpp.edu/preview_course_nopop.php?catoid=61&amp;coid=300783">LA 5772 Environmental Design Theory</a></p>
+<p>An exploration of design, urban, aesthetic, evolutionary, behavioral, and ecosystem theory to explain human landscape preference, perception, and ecological functioning within a context of design problem-solving in urban and non-urban environments at a range of scales. Landscape as a lens to understand civilization.</p>
+<p><a href="https://catalog.cpp.edu/preview_course_nopop.php?catoid=61&amp;coid=299564">LA 6111L Design III: Design for Change (Lab/Studio)</a></p>
+<p>Examination of concerns underlying landscape design and planning and processes for dealing with them at all scales from the small project to the regional. Emphasis on applied ecology, systems techniques, and environmental policy and management as well as design and planning techniques. Techniques for predictions of alterations in social and natural processes brought about by human use of the land and the application of such assessments to environmental management.</p>
+<p><a href="https://catalog.cpp.edu/preview_course_nopop.php?catoid=61&amp;coid=298923">LA 6121L Design IV: Complex Systems (Lab/Studio)</a></p>
+<p>Explores energy, food, water, land, air, habitat, fire, and other key landscape systems as core design requirements for ecological and human health and maximizing natural capital. Site typologies under study will include marginal agricultural land/rangeland, mine/quarries/landfills, power lines and transportation corridors (including highways and railroads), flood control (spreading grounds, debris basins, or floodways) and water supply infrastructure (aqueduct right-of-way, reservoirs or treatment plants), energy and resource landscapes, and logistic hubs or data centers.</p>
+<p><a href="https://catalog.cpp.edu/preview_course_nopop.php?catoid=61&amp;coid=299611">LA 6441 Plant and Ecology</a></p>
+<p>An introduction to plant ecology and design issues relevant to the profession of landscape architecture. Special emphasis is placed upon plant communities and association of plants most appropriate to the Southern California region and the environmental factors that control these communities as related to planting design theory and application. Identification of native and adapted species; introduction to cultural, functional, and aesthetic criteria in the organization of design associations of plants. Special emphasis is placed upon the study and application of plant ecology and design in urban ecosystems. Introduction to the challenges encountered in urban ecosystems with a focus on sustainable and resource-efficient planting design. Identification of plant species adapted to urban conditions.</p>
+<p><a href="https://catalog.cpp.edu/preview_course_nopop.php?catoid=61&amp;coid=298924">LA 6451 Coupled Human and Natural Systems</a></p>
+<p>Studies the interface and reciprocal interactions that link human (e.g., economic, social) and natural (e.g., hydrologic, atmospheric, biological) systems. Addresses the complex nature of reciprocating interactions and feedbacks between humans on the environment, the effect of the environment on humans, and tools to anticipate impacts of design decisions on coupled human and natural systems.</p>
+<p><a href="https://catalog.cpp.edu/preview_course_nopop.php?catoid=61&amp;coid=299548">LA 6771 Research Methods for Environmental Design</a></p>
+<p>Introduction to the development and assessment of research questions, preparation and writing of literature reviews, matching of research questions to methods, strengths and weaknesses of methods, qualitative and quantitative data and their analysis, critique of existing research, and preparation of research reports. Also addresses research accessibility, quality of research, venues for communication, and common standards of rigor. Addresses data mining; visualization of data; experiments.</p>
+<p><a href="https://catalog.cpp.edu/preview_course_nopop.php?catoid=61&amp;coid=299563">LA 6071L Design V: Integrative Design and Planning (Lab/Studio)</a></p>
+<p>Group project related to large scale regional planning and design. Adopts an integrative issue-based approach to problem solving and documentation that is directed at identifying the problem, developing mapping tools to assist with problem-solving, and visual communication. Involves advanced application of geodesign technology, interaction with the public or other stakeholders, and other forms of primary data collection as required to solve the problem.</p>
+<p><a href="https://catalog.cpp.edu/preview_course_nopop.php?catoid=61&amp;coid=298922">LA 6081L Design VI: Project Documentation (Lab/Studio)</a></p>
+<p>Requires preparation of an extensive professional report documenting data collection, analysis, results, and recommendations related to a large-scale integrative design and planning project</p>
+<h3>MLA Directed Electives Courses (9-units)</h3>
+<p>A variety of electives courses will be offered each semester.</p>
+<p>LA4781 Urban Green Infrastructure</p>
+<p>Explores problems related to stormwater management, climate adaptation, urban heat island effect (etc.). Provides the tools required to optimize the design of natural and technical resource flows in the landscape from a systems perspective. Introduces design practices that reduce human impacts and optimize the built environment to restore degraded ecosystem services. Flows of water and human movement across the landscape are the primary focus.</p>
+<p>LA4782 Evolving Issues in Environmental Design</p>
+<p>Focuses on new and changing topics and methods in environmental design aimed at improving social, environmental and economic conditions. Principles will be learned through case studies, field trips, readings, and design exercises as appropriate to the topic. Historical basis of the issue, scope of the problem, impacts, and possible solutions will be examined.</p>
+<p>Topics will be announced each semester</p>
+<p>Topics will be announced each semester.</p>
+<p><u>LA5271 History II: Modern Landscape History</u></p>
+<p>Analysis of significant landscapes in the 20th and 21st Centuries in urban, suburban and rural contexts. Focuses on a range of landscape typologies that include parks, plazas, streetscapes, and notable residential projects. Addresses the emergence of landscape architecture as a profession; and the design concepts, firms and significant personalities who shaped the American landscape. Instruction emphasizes the historical, social, political, economic, and philosophical forces that influenced the profession's modern era.</p>
+<p><u>LA5782 Landscape Architecture Teaching Practicum</u></p>
+<p>Designed to give students actual teaching experience and developmental feedback. Practicum students are involved in course planning and implementation as well as assessment of students and of the course throughout the semester. Practicum students perform a variety of instructional roles, including, at a minimum, the independent teaching of a subject unit in the course and regular classroom attendance for a semester. Practicum students prepare an assessment instrument for the course, assist with lecture preparation and assignment design, as well as work in class with students.</p>
+<p><u>LA5990 Special Topics for Graduate Students</u></p>
+<p>Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.</p>
+<p><u>LA6772 Finding Problems</u></p>
+<p>Leadership in professional practice requires more than ethics and liability for ensuring the health, safety, and welfare of the public. LA6772 explores how projects are realized from the perspective of public practice, an emerging mode of professional activism that is entrepreneurial and proactively engaged in defining issues and projects that address them, then seeking funding for design and implementation. LA6772 also covers academic practice: from research and writing, through publication.</p>
+<p>LA 6910 Directed Research</p>
+<p>LA 6920 Independent Research</p>
+<p>Other Electives</p>
+<p>Additional pre-approved electives are listed in the MLA Handbook. Please consult with the MLA graduate coordinator about taking other courses as an elective.</p>
+<h3>Master&#8217;s Project or Thesis Track (12-units)</h3>
+<p>Since 2018, the MLA Thesis track has been suspended.</p>
+<p><a href="https://catalog.cpp.edu/preview_course_nopop.php?catoid=61&amp;coid=299586">LA 6941 Master's Thesis/Project Research</a></p>
+<p>Research and development of thesis project or faculty-approved master's project.</p>
+<p><a href="https://catalog.cpp.edu/preview_course_nopop.php?catoid=61&amp;coid=299587">LA 6951 Master's Project</a></p>
+<p>Development of a terminal creative or research project designed to demonstrate skills and knowledge achieved in the graduate program. Project focus and site will be selected by the student in consultation with Master's Project Advisor. Development of the Master's project is conducted under the supervision of a Master's Project Committee. Student selects Committee members, conducts original design research, and produce a report within a landscape-related theoretical framework.</p>
+<p><a href="https://catalog.cpp.edu/preview_course_nopop.php?catoid=61&amp;coid=300450">LA 6773 Master's Culminating Experience Seminar</a></p>
+<p>Take in Fall and Spring. Topics to be announced that align with the LA6071L and LA6081L projects. Thesis students will earn credit by making satisfactory progress on their work.</p>
+<p>LA6961 <a href="https://catalog.cpp.edu/preview_course_nopop.php?catoid=61&amp;coid=299588">Master's Thesis</a></p>
+<p>Development of a terminal thesis designed to demonstrate skills and knowledge achieved in the graduate program. Thesis subject and methods will be selected by the student in consultation with Master's Thesis Advisor. Development of the Master's Thesis is conducted under the supervision of a Master's Thesis Committee. Student selects Committee members, conducts original quantitative and/or qualitative research, and produce a report within a landscape-related theoretical framework.</p>
+<h3>International Program Courses</h3>
+<p>LA4811L <a href="https://catalog.cpp.edu/preview_course_nopop.php?catoid=61&amp;coid=299480">International Landscape Architecture Methods (Lab)</a></p>
+<p>Features the development of studio projects that focus on cultural and environmental issues within Italy and Western Europe developed within a context of critical dialogue about current cultural values, the role of leisure and pleasure in the landscape, the sacred and profane, the influence on religion on physical form and relationships, and evidence of past cultures and their impact on design thinking.</p>
+<p>LA4872 <a href="https://catalog.cpp.edu/preview_course_nopop.php?catoid=61&amp;coid=299839">History of International Landscapes</a> [or LA4251 <a href="https://catalog.cpp.edu/preview_course_nopop.php?catoid=61&amp;coid=298056">Asian Garden]</a></p>
+<p>Investigation of a selected urban site within the European region, with a focus on the contemporary function of the site&#8217;s urban landscape elements. Focuses on both the historic and contemporary contributions of selected urban center. Emphasis on transportation, pedestrian accommodation, and open space structure.</p>
+<p>LA4873 <a href="https://catalog.cpp.edu/preview_course_nopop.php?catoid=61&amp;coid=299840">International Professional Practice</a></p>
+<p>Exploration of the scope and nature of professional practice in Europe, including presentations by regional professionals. Addresses the practice of landscape architecture, covering professional responsibilities and ethics, client and contractor relationships. Analysis and discussion of the structure and organization of the profession of landscape architecture; its history and future. Case studies of professional firms and organizations in the European region. Addresses standards of practice in Europe, and compares European practice with practice in California.</p>
+<p>&#160;</p>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                            
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading6">
+                <h2 class="m-0">
+                    <button aria-controls="collapse1-6" aria-expanded="false" class="btn btn-link" data-target="#collapse1-6" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  Frequently Asked Questions
+                    </button>
+                </h2>
+            </div>
+                            <div aria-labelledby="heading6" class="collapse " data-parent="#accordion-1" id="collapse1-6">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                <p>Frequently Asked Questions</p>
+<ul>
+<li>I do not have a design background. What should be in my portfolio?</li>
+</ul>
+<p>Many applicants have not taken any design courses. In these cases, submit several samples of writing or other work that represent your critical and/or creative thinking skills. If you have taken graphics or design classes, or if you have done informal design related to landscape architecture, consider submitting examples of them. You can also submit other kinds of creative work, photography, arts, or crafts. The portfolio supplements your application, transcripts, statement of intent and letters of recommendation in representing your talents and potential to the graduate studies committee.</p>
+<ul>
+<li>Is there a form that I can give to the people writing my letters of recommendation?</li>
+</ul>
+<p><strong>Yes</strong>, when you apply through CSU Apply, you can send the invitation link there to your referees. They will received a digital form to fill in their rating on you and recommendation letter. On part of the recommendation form, please have them consider addressing several general predictors of success in landscape architecture graduate studies. Among these predictors are: your capacity and interest in natural and social systems and multiple scales, ability to work in team environments and handle interpersonal conflicts, capacity for complexity and ambiguity, ability to complete projects, interest in resolving difficult issues, and your understanding of the time commitments involved in graduate work in landscape architecture.</p>
+<ul>
+<li>Do I send my official transcripts directly to the department with my package?</li>
+</ul>
+<p><strong>No</strong>, please have your official transcripts sent directly to the Admissions office (see above). Unofficial copies should be provided with your CSU Apply application and to the department with your MLA Supplemental Package by the March 1st deadline for supplemental application materials.</p>
+<ul>
+<li>Do I need to take the Graduate Record Examination (GRE)?</li>
+</ul>
+<p><strong>No</strong>. GRE is no longer required. But if you have taken one, please have official scores from the Graduate Record Examination General Test sent directly to <a href="mailto:mla@cpp.edu">mla@cpp.edu</a> so that they can be received by March 1st deadline for supplemental application materials.</p>
+<ul>
+<li>Are there courses I should take that will prepare me for starting the program?</li>
+</ul>
+<p>Prior to starting our program, you will benefit from a basic field ecology or plant ID course, introductory landscape or garden design course, graphic design basics, and&#160; learning about the plant communities in Southern California. Experience in CAD, Adobe Software such as Illustrator, InDesign, PhotoShop, GIS, and hand drawing are also useful prior to beginning the program.</p>
+<ul>
+<li>Are there readings that can prepare me for starting the program?</li>
+</ul>
+<p>A reading list for incoming students will be provided in the MLA Program Handbook along the Fall schedule information. A general recommendation for all applicants is that they read, at a minimum, John T. Lyle&#8217;s Design for Human Ecosystems (1999. Island Press). This book gives a thorough introduction to many of the principles and practices of the graduate program.</p>
+<ul>
+<li>I have taken courses at other institutions related to landscape architecture, can they count toward my graduate degree?</li>
+</ul>
+<p>Please contact the graduate coordinator before you submit your application to request course waivers. Students can transfer a maximum of 9 semester units of upper division undergraduate, and higher courses that have not been used toward any degree to fulfill the requirement of the MLA degree. Only those courses that meet the requirement of the MLA program will be considered for credit transferring or course waivers. Any request to transfer units is pending for approval by the graduate coordinator.</p>
+<ul>
+<li>Can I take courses while I wait to be accepted and have them count toward my requirements?</li>
+</ul>
+<p>Some courses can serve as substitutes for required courses, such as a basic ecology course and introductory graphic courses. You should speak with the graduate coordinator about specific courses and your background. Keep in mind that a maximum of 9 semester units of upper level courses may be transferred into the graduate program from other universities. Only those courses that meet the requirement of the MLA program will be considered for credit transferring. Any request to transfer units is pending for approval by the graduate coordinator.</p>
+<p>Student in enrolled in an accredited MLA program in the United States may apply to transfer into the two-year Advanced Standing MLA II program.</p>
+<ul>
+<li>Can I begin the program during Spring semester?</li>
+</ul>
+<p>Our courses are taught in sequence, so General Standing applicants (without design backgrounds) must begin our program in Fall semester only.</p>
+<p>Applicants transferring from another accredited MLA program may request enrolling in Spring semester &#8211; please contact the graduate coordinator <a href="mailto:mla@cpp.edu">mla@cpp.edu</a> to find out if space is available. For consideration to begin in Spring, the complete application (CSU Apply + MLA Supplemental package) must be submitted by the December 15<sup>th</sup>.</p>
+<ul>
+<li>Where do I find information about financial aid?</li>
+</ul>
+<p>Cost and financial information can be found at <u>https</u><a href="http://www.cpp.edu/&#126;financial-aid/">://ww</a><u>w.c</u><a href="http://www.cpp.edu/&#126;financial-aid/">pp.edu/&#126;financial-aid/</a> <u>index.shtml</u> on the university webpage.</p>
+<p>See also <a href="http://www.asla.org/nonmembers/laf_section.cfm">www.asla.org/nonmembers/laf_section.</a>cfm for information about scholarships previously won by Cal Poly Pomona students. In addition, the department offers a range of scholarships, including several that applicants can apply for.&#160; Scholarship applications are due March 1st.</p>
+<p>&#160;</p>
+<p>Student assistantships occasionally are offered by the department on a case by case basis. Tuition for in-state students is quite inexpensive and domestic students from outside of California are eligible for in-state residency after one year. See Cost, Scholarships, Awards, and Financial Aid Resources section for more details.</p>
+<ul>
+<li>Can I be employed while in the program?</li>
+</ul>
+<p>There are many landscape architecture job opportunities in the Los Angeles area and many students are employed while studying in the graduate program. Based on experience, it is recommended that students do not take jobs in their first year and take no more than 15 hours per week in their second and third year. The program&#8217;s courses are generally concentrated during three of the five working days (Monday, Wednesday and Friday), allowing students time to be engaged outside of class with studies and employment. The last six months of the program, when students are engaged in their cumulating experience, are quite intense and students usually reduce workloads during that time.</p>
+<ul>
+<li>Where should I live while attending Cal Poly Pomona?</li>
+</ul>
+<p>Many students live in nearby communities of Pomona, Claremont, La Verne, Pasadena, West Covina, and elsewhere. Commuting long distances is workable, but at times difficult and moving closer to campus should be considered. On-campus housing is also available through <a href="http://www.cpp.edu/&#126;housing/index.shtml">http://www.cpp.edu/&#126;housing/index.shtml</a> and through the Lyle Center for Regenerative Studies <a href="http://env.cpp.edu/rs">http://env.cpp.edu/rs.</a> During the pandemic, teaching will be offered online and thus you can live wherever you want as long as you have good internet connection.</p>
+<ul>
+<li>Does the University offer housing option for married couples?</li>
+</ul>
+<p>Unfortunately, the university does not offer housing for married couples. There are many options at affordable cost in neighborhoods around campus, such as Pomona, Claremont, La Verne, Diamond Bar, Rowland Height, Chino Hills etc.</p>
+<ul>
+<li>Can I visit classes?</li>
+</ul>
+<p>Please feel free to visit campus at any time. A map is on the campus website (<u>http://</u> <a href="http://www.cpp.edu/maps/static/">www.cpp.edu/maps/static/)</a> and our graduate studios are in Building 2, rooms 128, 129, and 130. Other classrooms are for the department are in building 3 and 7. The <u>department website</u> will announce special presentations and year-end juries as well. Mondays tend to be the best days to visit the program because classes for all three years of the graduate program meet on Mondays and you can see a good cross-section of the program. Class visit opportunities are along available online during the pandemic. Reach out to the graduate coordinator (<a href="mailto:mla@cpp.edu">mla@cpp.edu</a>) for more information.</p>
+<ul>
+<li>Is there an optimal time to apply?</li>
+</ul>
+<p>Yes. For both domestic and international students, endeavor to submit all required materials early in January so that transcripts may be analyzed by the admissions office prior to the deadline.</p>
+<ul>
+<li>When will I know if I am accepted into the program?</li>
+</ul>
+<p>After the March 1st deadline for submitting materials, packages will be reviewed and acceptance/waiting list letters sent out in early April. Notification of acceptance is expected from admitted applicants by April 15th and then invitations are extended to waiting list candidates to fill any available spaces.</p>
+<ul>
+<li>Where do your alumni work following graduation?</li>
+</ul>
+<p>CPP MLA graduates are exceptional candidates for a wide range of landscape architecture careers in both private design firms and public sectors. MLA graduates working in private and public sections are about half-half. Public sectors which hired our graduates include but not limited to federal, state, regional and local governments and agencies as well as environmental and social none-profit organizations. Private sectors which hired our graduates include but not limited to large interdisciplinary design and planning firms, environmental consulting groups, as well as small landscape design and construction firms. In addition, there is a good portion of our alumni run their own landscape design and landscaping business in Los Angeles region and beyond.</p>
+<ul>
+<li>Do I have to write two different letters of Intent?</li>
+</ul>
+<p>No. The statement of intent submitted with your online application at <u>Cal State Apply</u> may be the same statement of intent that you submit to the Landscape Architecture Department.</p>
+<ul>
+<li>What is the University's policy on admission deferment?</li>
+</ul>
+<p>We do not defer admission as it is both CSU and Campus Policy. Students who would like to attend in a future term, must reapply as returning applicant (see application procedure section for details) for the desired term of attendance.</p>
+<ul>
+<li>When should I submit my transcript if I am still finishing my Bachelor Degree while applying for the MLA program?</li>
+</ul>
+<p>You need to submit your transcript as soon as you receive your degree from your current university/college. Without the document submitted to the Office of Admission and Outreach, you will not be able to register and start your study in the program.</p>
+<ul>
+<li>Is tuition waiver available for incoming students? How about graduate assistantship?</li>
+</ul>
+<p>As part of the CSU system, Cal Poly Pomona offers one of the lowest tuitions in the nation and thus is very affordable (see Tuition section for more information). Tuition waiver is unfortunately not available in the CSU system for its tuition is relatively low compared to other universities. Graduate assistantship is available at case-by-case situation after the students have been in the program for at least one semester. In another word, assistantship is normally not available to incoming students.</p>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                            
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading7">
+                <h2 class="m-0">
+                    <button aria-controls="collapse1-7" aria-expanded="false" class="btn btn-link" data-target="#collapse1-7" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  MLA Master Culminating Experience Projects
+                    </button>
+                </h2>
+            </div>
+                            <div aria-labelledby="heading7" class="collapse " data-parent="#accordion-1" id="collapse1-7">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                To be updated
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                            
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading8">
+                <h2 class="m-0">
+                    <button aria-controls="collapse1-8" aria-expanded="false" class="btn btn-link" data-target="#collapse1-8" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  MLA Program Life and Student Experience
+                    </button>
+                </h2>
+            </div>
+                            <div aria-labelledby="heading8" class="collapse " data-parent="#accordion-1" id="collapse1-8">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                To be updated
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                    </div>   
+               
+	
+	
+ 
+         
+    
+
+</div>
+</div>
+</main>
+
+		
+    <div lang="en">
+
+
+                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                 
+<style>
+     @media screen and (min-width: 992px) {
+    .mini-footer .footer__socials-buttons {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}
+
+.mini-footer .button1__transducer {
+    font-size: 12px;
+    letter-spacing: .5px;
+}
+
+.mini-footer .button {
+	margin-top: 0;
+    padding: 8px 20px 8px 20px;
+
+}
+.mini-footer .footer-line {
+    border-top: thin solid #a4d65e;
+    margin-top: 39px;
+    padding-top: 15px;
+}
+ </style>
+<footer class="footer mini-footer">
+    <div class="footer__rip-wrapper">
+        <img class="footer__rip" alt="" src="/common/green-and-gold/assets/images/green-rip.svg" alt="Ripped green paper." />
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-2">
+                <div class="footer__logo-wrapper">
+                    <a href="/" aria-label="CPP Logo">
+                        <img class="footer__logo" src="/common/green-and-gold/assets/logos/cpp_primary_1c_gold_rgb.png" alt="Cal Poly Pomona logo, building with a palm tree." />
+                    </a>
+                </div>
+            </div>
+            <div class="col-12 col-lg-6 offset-lg-4">
+                <div class="footer__socials">
+                    <div class="footer__socials-buttons">
+                        <a class="button button__secondary button1__transducer" href="/apply/">Apply</a>
+                        <a class="button button__secondary button1__transducer" href="https://maps.cpp.edu/">Maps</a>
+                        <a class="button button__secondary button1__transducer" href="/outreach/tours.shtml">Visit</a>
+                        <a class="button button__secondary button1__transducer" href="/contact.shtml">Contact Us</a>
+                    </div>
+                    <div class="footer__socials-icons">
+                        <a href="https://www.instagram.com/calpolypomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram opens a new window" />
+                        </a>
+                        <a href="https://www.linkedin.com/school/cal-poly-pomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn opens a new window" />
+                        </a>
+                        <a href="https://www.youtube.com/user/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="YouTube opens a new window" />
+                        </a>
+                        <a href="https://www.facebook.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook opens a new window" />
+                        </a>
+                        <a href="https://twitter.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X opens a new window" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 footer-line">
+                <div class="footer__errata">
+                    <p class="footer__copyright" style="line-height: 1.8em">Copyright ©2025 California State Polytechnic University, Pomona.  All Rights Reserved 
+                        
+                        <br />A campus of 
+                        
+                        <a class="footer__errata-link" style="display: inline" href="https://www.calstate.edu/">The California State University</a>.
+                    
+                    </p>
+                    <div class="footer__errata-links">
+                        <a class="footer__errata-link" href="https://www.cpp.edu/website-feedback.shtml">Feedback</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/privacy.shtml">Privacy</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/accessibility.shtml">Accessibility</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/file-viewers.shtml">Document Readers</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer__gradient-bottom"></div>
+</footer>
+
+
+<script   src="https://code.jquery.com/jquery-3.2.1.min.js"   integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="   crossorigin="anonymous">
+</script><script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script src="https://www.cpp.edu/common/green-and-gold/assets/js/cpp-legacy.js" ></script>
+<script src="https://www.cpp.edu/common/2018/assets/js/tabs.js" ></script>
+<script src="/common/green-and-gold/assets/js/nav.js"></script>
+
+
+</div>
+    
+		
+		
+	</body>
+</html>

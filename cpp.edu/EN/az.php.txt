@@ -1,0 +1,1064 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>A-Z Databases</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <script>
+        var is_bootstrap = true;
+    </script>
+        <!-- Public head code template -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noarchive"/>
+
+<!-- favicon.twig -->
+<link rel="apple-touch-icon" sizes="180x180" href="//d2jv02qf7xgjwx.cloudfront.net/apps/common/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="//d2jv02qf7xgjwx.cloudfront.net/apps/common/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="//d2jv02qf7xgjwx.cloudfront.net/apps/common/favicon/favicon-16x16.png">
+<link rel="manifest" href="//d2jv02qf7xgjwx.cloudfront.net/apps/common/favicon/site.webmanifest">
+<link rel="mask-icon" href="//d2jv02qf7xgjwx.cloudfront.net/apps/common/favicon/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="//d2jv02qf7xgjwx.cloudfront.net/apps/common/favicon/favicon.ico">
+<meta name="msapplication-TileColor" content="#ffc40d">
+<meta name="msapplication-config" content="//d2jv02qf7xgjwx.cloudfront.net/apps/common/favicon/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+<!-- !favicon.twig -->
+
+
+<link rel="stylesheet" href="https://static-assets-us.libguides.com/web/jquery/css/jquery-ui.min.css?2691"/>
+
+<link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"/>
+
+    <link rel="stylesheet" href="https://static-assets-us.libguides.com/web/css3.17.1/lg-public-bs5.min.css"/>
+
+    <script type="text/javascript" src="https://static-assets-us.libguides.com/web/jquery/js/jquery-3.7.0.min.js"></script>
+
+<!-- js_include_fallback_lg.twig -->
+<script src="//code.jquery.com/ui/1.13.2/jquery-ui.min.js"></script>
+<script>jQuery.ui || document.write('<script src="https://static-assets-us.libguides.com/web/jquery/js/jquery-ui.min.js?2691">\x3C/script>');</script>
+<!-- !js_include_fallback_lg.twig -->
+
+    <script type="text/javascript" src="https://static-assets-us.libguides.com/web/js3.17.1/lg-public-bs5.min.js"></script>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"/>
+
+    <script src="https://static-assets-us.libguides.com/web/select2/current/js/select2.min.js"></script>
+    <link rel="stylesheet" href="https://static-assets-us.libguides.com/web/select2/current/css/select2.min.css"/>
+
+
+    
+<script>
+    var springStats = springStats || {};
+    springStats.saConfig = springStats.saConfig || {
+        site_id: 1071,
+        tracking_parameters: {"_st_site_id":1071},
+        tracking_server_host: "libguides-proc.springyaws.com"
+    };
+</script>
+<script  src="https://static-assets-us.libguides.com/web/js/sa.min.js?3116"></script>
+
+
+<script type="text/javascript">
+    var title_base = "A-Z Databases";
+    var search_data = {"terms":""};
+    
+    springSpace.azPublicObj = new springSpace.azPublic.AZPublic({
+        languages: {
+            view_more: "View More",
+            view_less: "View Less",
+            search: "Search",
+            edit_filters : "Edit Filters",
+        }
+    });
+
+    jQuery(document).ready(function () {
+        if (window.history && history.pushState) {
+            jQuery(window).bind("popstate", function (e) {
+                // Don\'t reload list if this is the result of a skip link hash update.
+                if (location.hash !== "#s-lib-public-main" && springSpace.azList.historyEdited) {
+                    // location.search will return URL encoded values which will end up causing double-encoding when jQuery sends the loadAzList request.
+                    var search_terms = decodeURIComponent(springSpace.Util.getQSParam({
+                        name: "q",
+                        qs: location.search
+                    }));
+
+                    springSpace.azPublicObj.loadAzList({
+                        first: springSpace.Util.getQSParam({name: "a", qs: location.search}),
+                        subject_id: springSpace.Util.getQSParam({name: "s", qs: location.search}),
+                        type_id: springSpace.Util.getQSParam({name: "t", qs: location.search}),
+                        vendor_id: springSpace.Util.getQSParam({name: "v", qs: location.search}),
+                        access_mode_id: springSpace.Util.getQSParam({name: "am", qs: location.search}),
+                        page: springSpace.Util.getQSParam({name: "p", qs: location.search}),
+                        search: springSpace.Util.escapeHtml(search_terms),
+                        site_id: 1071,
+                        action: "back"
+                    });
+                }
+            });
+        }
+
+        springSpace.azPublicObj.initPage();
+        setTimeout(function() {
+            springSpace.azPublicObj.shortenAZBoxDescription();
+        }, 500);
+
+        jQuery('#az-search-form').on('submit', function (e) {
+            e.preventDefault();
+            springSpace.azPublicObj.filterAzBySearch(1071)
+        });
+
+        springSpace.azList.initSelections();
+
+        // note that loadAzList is called with handle_alpha_filter=true so we can apply any passed in first-letter
+        // filters after the search is complete
+        if (springSpace.azPublicObj.getSearchTerm() == "") {
+            springSpace.azPublicObj.loadAzList({
+                first: "",
+                subject_id: "",
+                type_id: "",
+                vendor_id: "",
+                access_mode_id: "",
+                page: 0,
+                search: search_data.terms,
+                site_id: 1071,
+                action: "init"
+            }, true);
+        }
+        // else, call filterAzBySearch so the passed in search string will be recorded
+        else {
+            springSpace.azPublicObj.filterAzBySearch(1071);
+        }
+
+            });
+
+    springSpace.azList = {
+        referrer: document.referrer,
+        az_preview: "",
+        az_sublist_id: 0,
+        locations: [],
+        historyEdited: false,
+        is_widget: 0,
+        site_domain: "",
+        init_filters: {
+            subject: "",
+            vendor: "",
+            type: "",
+            alpha: "",
+            search: search_data.terms
+        },
+        letter_selected: "", // "first" alpha letter selecte so we can keep track.
+        letter_alpha_map: {
+            pound: "#",
+            all: ""
+        },
+        getAlphaMap: function (letter) {
+            if (letter == "pound" || letter == "all") {
+                return this.letter_alpha_map[letter]
+            } else {
+                return letter;
+            }
+        },
+        reset: function () {
+            this.letter_selected = "";
+            jQuery(".s-lg-az-first").removeClass("bold");
+            jQuery(".s-lg-az-search").val("");
+            springSpace.azPublicObj.clearAzSelection("s-lg-sel-az-types");
+            springSpace.azPublicObj.clearAzSelection("s-lg-sel-subjects");
+            springSpace.azPublicObj.clearAzSelection("s-lg-sel-az-vendors");
+            springSpace.azPublicObj.clearAzSelection("s-lg-sel-az-access-modes");
+            springSpace.azPublicObj.loadAzList({
+                site_id: 1071
+            });
+
+            springSpace.azPublicObj.destroySelect2();
+            springSpace.azPublicObj.setSelect2();
+        },
+        initSelections: function () {
+            // subject filter
+            if (this.init_filters.subject == 0) {
+                springSpace.azPublicObj.clearAzSelection("s-lg-sel-subjects");
+            }
+
+            // type filter
+            if (this.init_filters.type == 0) {
+                springSpace.azPublicObj.clearAzSelection("s-lg-sel-az-types");
+            }
+
+            // vendor filter
+            if (this.init_filters.vendor == 0) {
+                springSpace.azPublicObj.clearAzSelection("s-lg-sel-az-vendors");
+            }
+
+            // access modes filter
+            if (this.init_filters.access_modes == 0) {
+                springSpace.azPublicObj.clearAzSelection("s-lg-sel-az-access-modes");
+            }
+
+            // this.init_filters.alpha must be handled after the search results come back, so handling was moved inside
+            // the loadAzList() call itself
+
+            // search term
+            if (this.init_filters.search == "") {
+                jQuery(".s-lg-az-search").val("");
+            } else {
+                jQuery(".s-lg-az-search").val(this.init_filters.search);
+            }
+        }
+    };
+
+    jQuery(window).on("visibilitychange", function() {
+        if (typeof (Storage) !== "undefined") {
+            localStorage.historyBackToList = false;
+            localStorage.historyScrollTo = jQuery(window).scrollTop();
+        }
+    });
+
+    
+        jQuery(document).ready(function () {
+            springSpace.springTrack.trackPage({_st_type_id: '29'});
+        });
+    
+</script>
+
+
+            <script>// This function makes the search input work > source is Ex Libris	
+
+function searchPrimo() {
+       console.log("testing this searchPrimo. How does this script even get loaded anyways?");
+		document.getElementById("primoQuery").value = "any,contains," + document.getElementById("primoQueryTemp").value.replace(/[,]/g, " ");
+		document.forms["searchForm"].submit();
+	}
+
+</script>
+
+
+    
+    <link rel="stylesheet" href="/lookfeel.css">
+            <style>/* ~~~~~~~~~~~~ Header styling ~~~~~~~~~~~  */
+#cpp-logobar {
+width: 100%;
+top: 0;
+background-color: rgba(244, 244, 244, 0.9);
+transition: background-color .7s;
+height: 60px;
+line-height: 60px;
+padding-left: 15px;
+}
+
+#cpp-logo-octo {
+left: -25px;
+top:-15px;
+position: relative;
+height: 90px;
+}
+
+#cpp-links > li > a {
+font-size: 16px;
+color: #464a4c;
+}
+
+#cpp-links a:hover, #cpp-links a:focus {
+text-decoration: underline;
+}
+
+div#cpp-search {
+background-color: #01426a;
+font-size: 16px;
+}
+
+div#cpp-search a {
+color: #FFF;
+text-decoration: none;
+}
+
+#cpp-search a:hover, #cpp-search a:focus {
+text-decoration: underline;
+}
+
+/*changing default Trail flag look*/
+.s-lg-az-result-badge-trial{
+color: #FFffff;
+background-color: #7851A9
+}
+
+/*all Accordion button header*/
+.accordion-item:first-of-type .accordion-button{
+color: #ffffff;
+background-color: #01426a 
+}
+
+/*for some reason the headers for the featured databases is called popular and also needs to be manually updated*/
+#s-lg-az-popular .accordion-item, #s-lg-az-popular h2.accordion-header>button {
+    color: #01426a;
+    background-color: #f5f5f5;
+}
+/*for some reason the headers for the trail databases needs to be manually updated*/
+#s-lg-az-trials .accordion-item, #s-lg-az-trials h2.accordion-header>button {
+    color: #01426a;
+    background-color: #eef6ff;
+}
+
+
+/*all Accordion button dropdown boxes*/
+/*.accordion-body {
+
+}*/
+
+/*reordering icons need to include .az-icon-legend-row:last-of-type css in order to maintain dashed line border*/
+#s-lg-az-icon-legend-body .accordion-body .d-flex.justify-content-start.az-icon-legend-row.align-items-center:nth-child(1) {
+/*streaming video*/
+  order: 4;
+}
+#s-lg-az-icon-legend-body .accordion-body .d-flex.justify-content-start.az-icon-legend-row.align-items-center:nth-child(2) {
+/*full text available*/
+  order: 1;
+}
+#s-lg-az-icon-legend-body .accordion-body .d-flex.justify-content-start.az-icon-legend-row.align-items-center:nth-child(3) {
+/* available in one search */
+  order: 2;
+}
+#s-lg-az-icon-legend-body .accordion-body .d-flex.justify-content-start.az-icon-legend-row.align-items-center:nth-child(4) {
+/* primary sources */
+  order: 5;
+}
+#s-lg-az-icon-legend-body .accordion-body .d-flex.justify-content-start.az-icon-legend-row.align-items-center:nth-child(5) {
+/*this is the last item of the newly ordered icons list and it is necessary to repad the bottom and get rid of the border in order to preserve look and feel */
+/*open access*/
+  order: 7;
+  border-bottom: 0;
+  padding-bottom: .4rem;
+  margin-top: .4rem;
+}
+#s-lg-az-icon-legend-body .accordion-body .d-flex.justify-content-start.az-icon-legend-row.align-items-center:nth-child(6) {
+ /*peer-reviewed*/
+  order: 3;
+}
+#s-lg-az-icon-legend-body .accordion-body .d-flex.justify-content-start.az-icon-legend-row.align-items-center:nth-child(7) {
+/*newspapers and magazines*/
+  order: 6;
+}
+.az-icon-legend-row:last-of-type {
+    border-bottom: 1px dashed #e4e6ef;
+    padding-bottom: .4rem;
+    margin-top: .4rem;
+}
+
+
+/* ~~~~~~~~~~~~ Footer styling ~~~~~~~~~~~ */
+
+#cpp-lib-footer {
+background-color: #01426a;
+font-size: 1.25em;
+color: #FFF;
+}
+#cpp-lib-footer a {
+color: #ffb500;
+}
+#cpp-lib-footer a:hover, #cpp-lib-footer a:focus {
+color: #fff;
+text-decoration: underline:
+}
+.lib-icon {
+margin-top: 15px;
+}
+
+</style>
+    </head>
+    <body class="s-lib-public-body">
+        <a id="s-lg-public-skiplink" class="alert-info" href="#s-lib-public-main">
+    Skip to Main Content
+</a>        
+    <header>
+        <div id="cpp-logobar" class="border-bottom border-2">
+    <div class="me-auto"> <a class="align-middle" href="https://www.cpp.edu/index.shtml" id="cpp-header-logo-link"> <img alt="Cal Poly Pomona with Octagon" id="cpp-logo-octo" src="https://libapps.s3.amazonaws.com/customers/1060/images/cpp-octo-web.png"> </a> </div>
+</div>
+<nav class="navbar navbar-expand-lg bg-light">
+    <div class="container-fluid"> <a class="navbar-brand" href="https://www.cpp.edu/library/index.shtml"><img class="img-fluid" alt="University Library" src="https://libapps.s3.amazonaws.com/customers/1060/images/library-justus-small.png" id="logo-img"></a> <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#custom-navbar" aria-controls="custom-navbar" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+        <div class="collapse navbar-collapse" id="custom-navbar">
+            <ul class="navbar-nav ms-auto" id="cpp-links">
+                <li class="nav-item"><a href="https://www.cpp.edu/library/library-research-help.shtml" class="nav-link">Research Help</a></li>
+                <li class="nav-item"><a href="https://www.cpp.edu/library/library-services.shtml" class="nav-link">Services</a></li>
+                <li class="nav-item"><a href="https://www.cpp.edu/library/library-spaces-tech.shtml" class="nav-link">Spaces &amp; Tech</a></li>
+                <li class="nav-item"><a href="https://www.cpp.edu/library/library-about.shtml" class="nav-link">About</a></li>
+                <li class="nav-item"><a href="https://www.cpp.edu/library/about/support-library/giving.shtml" class="nav-link">Give to the Library</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+<div class="container-fluid" id="cpp-search">
+    <form action="https://csu-cpp.primo.exlibrisgroup.com/discovery/search" enctype="application/x-www-form-urlencoded; charset=utf-8" id="simple" method="get" name="searchForm" onsubmit="searchPrimo()" target="_self">
+        <div class="row pt-3 pb-3">
+            <div class="col-xl-2 offset-xl-0 col-lg-2 offset-lg-2 col-md-3 col-sm-12 text-center"> <img src="https://libapps.s3.amazonaws.com/customers/1060/images/pomona175.png" class="img-fluid float-lg-end mb-2" alt="OneSearch logo" id="onesearch"> 
+            </div>
+            <div class="col-xl-4 col-lg-6 col-md-9 col-sm-12">
+                <div class="input-group">
+                    <!-- Customizable Parameters --> <input type="hidden" name="vid" value="01CALS_PUP:01CALS_PUP" /> <input type="hidden" name="tab" value="Everything" /> <input type="hidden" name="search_scope" value="Everything" /> <input type="hidden" name="lang" value="en" /> <!-- Fixed parameters --> <input type="hidden" name="query" id="primoQuery" /> <input type="text" class="form-control" id="primoQueryTemp" name="primoQueryTemp" placeholder="Search for books, articles, and more" aria-label="Search CPP Library for books, articles, and more" aria-describedby="Go-button" /> <!-- Search Button --> <button class="btn btn btn-success" type="button" id="Go-button" onclick="searchPrimo()">Go!</button>
+                </div>                              
+            </div>           
+            <div class="col-xl-2 col-lg-4 col-md-4 col-sm-12 text-center mt-lg-2 mt-sm-2 pt-2"><a href="https://csu-cpp.primo.exlibrisgroup.com/discovery/search?vid=01CALS_PUP:01CALS_PUP&lang=en&mode=advanced">Advanced Search</a></div>
+            <div class="col-xl-2 col-lg-4 col-md-4 col-sm-12 text-center mt-lg-2 mt-sm-2 pt-2"><a href="https://reserves.calstate.edu/pomona/">Course Reserves</a></div>
+            <div class="col-xl-2 col-lg-4 col-md-4 col-sm-12 text-center mt-lg-2 mt-sm-2 pt-2"><a href="https://csu-cpp.primo.exlibrisgroup.com/discovery/account?vid=01CALS_PUP:01CALS_PUP">My Library Account</a></div>
+            </div>
+    </form>
+</div>
+    </header>
+
+
+        <div id="s-lib-public-header" class="s-lib-header container s-lib-side-borders">
+            <nav id="s-lib-bc" aria-label="breadcrumb"><ol id="s-lib-bc-list" class="breadcrumb"><li id="s-lib-bc-customer" class="breadcrumb-item"><a href="http://www.cpp.edu/library">University Library</a></li><li id="s-lib-bc-site" class="breadcrumb-item"><a href="https://libguides.library.cpp.edu/">Guides</a></li><li id="s-lib-bc-page" class="active breadcrumb-item">A-Z Databases</li></ol></nav>
+            <h1 id="s-lib-public-header-title">
+                A-Z Databases
+            </h1>
+            <div id="s-lib-public-header-desc"
+                style="white-space: normal;">
+                <p>Find the best library databases for your research.</p>
+            </div>
+
+                    </div>
+
+        <div id="s-lib-public-nav" class="container s-lib-side-borders">
+            
+        </div>
+
+        <div id="s-lib-public-main" class="s-lib-main container s-lib-side-borders" tabindex="-1">
+            <div id="s-lib-public-main-searchbar">
+                
+
+
+
+
+<section class="d-none d-lg-block">
+    <div id="s-lg-az-search-bar" class="row">
+        <div id="az-search-col-1" class="col-lg-12 center">
+            
+
+    <nav class="navbar navbar-expand-lg navbar-default" aria-label="Search filters">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggler navbar-toggle collapsed" data-toggle="collapse"
+                        data-target="#s-lg-az-nav-1" data-bs-toggle="collapse" data-bs-target="#s-lg-az-nav-1">
+                    <span class="sr-only">Toggle search filters navigation</span>
+                    <span class="navbar-toggler-icon"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+
+            <div class="collapse navbar-collapse" id="s-lg-az-nav-1">
+                <div id="s-lg-az-filters">
+                    <section>
+                        <form role="search" id="az-search-form" class="">
+                            <div id="s-lg-az-filter-cols" class="row">
+                                <div class="col-md-10">
+                                    <div class="row">
+                                                                                
+                                        
+                                                                                
+                                                                                                                        
+                                                                                                                                    <div id="col-search" class="col ps-3 d-flex align-items-start">
+                                                    <div class="d-flex justify-content-start">
+                                                        <img src="/web/assets/media/icons/duotune/general/gen021.svg"
+                                                            role="presentation" alt="" style="display:none">
+                                                        <input type="text" class="s-lg-az-search form-control"
+                                                                maxlength="260"
+                                                                placeholder="Database Title / Keyword"
+                                                                aria-label="Search database by title or keyword"/>
+                                                    </div>
+                                                </div>
+                                                                                                                                                                                
+                                                                                                                                                                                                                            <div class="col-subjects col ps-3">
+                                                    <div class="d-flex justify-content-start align-items-baseline">
+                                                        <img src="/web/assets/media/icons/duotune/abstract/abs046.svg"
+                                                            role="presentation" alt="" style="display:none">
+                                                            <select data-placeholder="Subjects" name="s-lg-sel-subjects" aria-label="Database Subject Filter" multiple="multiple" class="s-lg-sel-subjects form-control form-control-select2-multi">
+        <option value="60012">Accounting</option><option value="77586">Aerospace Engineering</option><option value="60013">Agribusiness &amp; Food Industry Management</option><option value="139681">Agricultural Education</option><option value="60014">Agriculture</option><option value="139683">Animal Science</option><option value="60016">Anthropology</option><option value="50006">Apparel Merchandising &amp; Management</option><option value="60017">Architecture &amp; Landscape Architecture</option><option value="60018">Art</option><option value="60020">Biological Sciences</option><option value="60021">Business Administration</option><option value="77587">Chemical Engineering</option><option value="60022">Chemistry &amp; Biochemistry</option><option value="77585">Civil Engineering</option><option value="50005">Communication</option><option value="60024">Computer Information Systems</option><option value="60025">Computer Science</option><option value="186683">Early Childhood Studies</option><option value="60026">Economics</option><option value="60027">Education</option><option value="77589">Electrical &amp; Computer Engineering</option><option value="60028">English</option><option value="60029">Environmental Design</option><option value="170883">Ethnic &amp; Women’s Studies</option><option value="139685">Film &amp;Television</option><option value="107387">Finance</option><option value="60031">Food Science</option><option value="60032">Geography</option><option value="60033">Geological Sciences</option><option value="60035">History</option><option value="60036">Hospitality Management</option><option value="77591">Industrial &amp; Manufacturing Engineering</option><option value="60038">Interdisciplinary General Education</option><option value="60039">International Business</option><option value="139696">Journalism</option><option value="60041">Kinesiology &amp; Health Promotion</option><option value="139703">Language &amp; Linguistics</option><option value="60042">Law</option><option value="121859">Liberal Studies</option><option value="139684">Library Science</option><option value="139691">Literature</option><option value="60043">Management &amp; Human Resources</option><option value="139676">Marketing</option><option value="248068">Materials Engineering</option><option value="60044">Mathematics &amp; Statistics</option><option value="77592">Mechanical Engineering</option><option value="193542">Modern Languages</option><option value="60045">Music</option><option value="60037">Nutrition</option><option value="60046">Philosophy</option><option value="60047">Physics &amp; Astronomy</option><option value="60048">Plant Science</option><option value="60049">Political Science</option><option value="50004">Psychology</option><option value="204829">Public Administration</option><option value="120142">Regenerative Studies</option><option value="60052">Sociology</option><option value="60053">Technology &amp; Operations Management</option><option value="134318">Theatre &amp; New Dance</option><option value="60054">Urban &amp; Regional Planning</option>
+    </select>
+
+                                                        <i class="fa fa-angle-down me-2 fs-4" 
+            aria-hidden="true"
+    ></i>                                                    </div>
+                                                </div>
+                                                                                                                                    
+                                                                                                                                                                                                                                                                        <div class="col-types col ps-3">
+                                                    <div class="d-flex justify-content-start align-items-baseline">
+                                                        <img src="/web/assets/media/icons/duotune/general/gen025.svg"
+                                                            role="presentation" alt="" style="display:none">
+                                                            <select data-placeholder="Types" name="s-lg-sel-az-types" aria-label="Database Types Filter" class="s-lg-sel-az-types form-control form-control-select2-multi" multiple="multiple">
+                                                                                                                                                                                                                    <option value="59215">Articles</option>
+        <option value="59216">Books</option>
+        <option value="59171">Datasets and Statistics</option>
+        <option value="59730">Images</option>
+        <option value="59170">Newspapers/Magazines</option>
+        <option value="59169">Primary Sources</option>
+        <option value="59707">Reference</option>
+        <option value="59168">Streaming Media</option>
+        <option value="59733">Theses and Dissertations</option>
+    </select>
+
+                                                        <i class="fa fa-angle-down me-2 fs-4" 
+            aria-hidden="true"
+    ></i>                                                    </div>
+                                                </div>
+                                                                                        
+                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                    
+                                                                                                                        </div>
+                                </div>
+                                <div class="col-md-2 d-flex flex-grow-1 justify-content-around align-items-center form-group">
+                                    <div class="d-flex flex-row justify-content-around flex-grow-1">
+                                        <button class="btn btn-default s-lg-az-reset" type="button"
+                                                onclick="springSpace.azList.reset();" style="display:none;">
+                                            Clear Filters
+                                        </button>
+                                        <button class="btn btn-primary flex-grow-1" style="max-width:75%" type="submit"
+                                                aria-label="Submit for Search Results">
+                                            Search
+                                        </button>
+                                    </div>
+                                </div>
+                                                            </div>
+                        </form>
+                    </section>
+                </div>
+            </div>
+        </div>
+    </nav>
+        </div>
+    </div>
+</section>
+
+<section class="d-block d-lg-none">
+    
+    <div id="az-public-mobile-filters-default" class="mb-3 az-public-mobile-filters">
+        <input type="hidden" name="site_id" id="site_id_default" value="1071">
+
+                
+        
+                
+                        
+                       
+            <form role="search" onsubmit="springSpace.azPublicObj.filterAzBySearch(1071); return false;">
+        <div class="form-group">
+            <input type="text" class="s-lg-az-search form-control" maxlength="260"
+                placeholder="Database Title / Keyword"
+                aria-label="Search database by title or keyword"/>
+        </div>
+    </form>
+
+
+
+
+                    <div id="az-public-mobile-filters-group-default" class="az-public-mobile-filters-group">
+                                <div class="collapse w-100 az-public-mobile-filters-collapse" id="az-public-mobile-filters-collapse-default"
+                     data-bs-parent="#az-public-mobile-filters-group-default">
+                    
+                                                <div class="form-group">
+            <select data-placeholder="Subjects" name="s-lg-sel-subjects" aria-label="Database Subject Filter" multiple="multiple" class="s-lg-sel-subjects form-control form-control-select2-multi">
+        <option value="60012">Accounting</option><option value="77586">Aerospace Engineering</option><option value="60013">Agribusiness &amp; Food Industry Management</option><option value="139681">Agricultural Education</option><option value="60014">Agriculture</option><option value="139683">Animal Science</option><option value="60016">Anthropology</option><option value="50006">Apparel Merchandising &amp; Management</option><option value="60017">Architecture &amp; Landscape Architecture</option><option value="60018">Art</option><option value="60020">Biological Sciences</option><option value="60021">Business Administration</option><option value="77587">Chemical Engineering</option><option value="60022">Chemistry &amp; Biochemistry</option><option value="77585">Civil Engineering</option><option value="50005">Communication</option><option value="60024">Computer Information Systems</option><option value="60025">Computer Science</option><option value="186683">Early Childhood Studies</option><option value="60026">Economics</option><option value="60027">Education</option><option value="77589">Electrical &amp; Computer Engineering</option><option value="60028">English</option><option value="60029">Environmental Design</option><option value="170883">Ethnic &amp; Women’s Studies</option><option value="139685">Film &amp;Television</option><option value="107387">Finance</option><option value="60031">Food Science</option><option value="60032">Geography</option><option value="60033">Geological Sciences</option><option value="60035">History</option><option value="60036">Hospitality Management</option><option value="77591">Industrial &amp; Manufacturing Engineering</option><option value="60038">Interdisciplinary General Education</option><option value="60039">International Business</option><option value="139696">Journalism</option><option value="60041">Kinesiology &amp; Health Promotion</option><option value="139703">Language &amp; Linguistics</option><option value="60042">Law</option><option value="121859">Liberal Studies</option><option value="139684">Library Science</option><option value="139691">Literature</option><option value="60043">Management &amp; Human Resources</option><option value="139676">Marketing</option><option value="248068">Materials Engineering</option><option value="60044">Mathematics &amp; Statistics</option><option value="77592">Mechanical Engineering</option><option value="193542">Modern Languages</option><option value="60045">Music</option><option value="60037">Nutrition</option><option value="60046">Philosophy</option><option value="60047">Physics &amp; Astronomy</option><option value="60048">Plant Science</option><option value="60049">Political Science</option><option value="50004">Psychology</option><option value="204829">Public Administration</option><option value="120142">Regenerative Studies</option><option value="60052">Sociology</option><option value="60053">Technology &amp; Operations Management</option><option value="134318">Theatre &amp; New Dance</option><option value="60054">Urban &amp; Regional Planning</option>
+    </select>
+
+    </div>
+
+
+
+                                            
+    <div class="form-group">
+            <select data-placeholder="Types" name="s-lg-sel-az-types" aria-label="Database Types Filter" class="s-lg-sel-az-types form-control form-control-select2-multi" multiple="multiple">
+                                                                                                                                                                                                                    <option value="59215">Articles</option>
+        <option value="59216">Books</option>
+        <option value="59171">Datasets and Statistics</option>
+        <option value="59730">Images</option>
+        <option value="59170">Newspapers/Magazines</option>
+        <option value="59169">Primary Sources</option>
+        <option value="59707">Reference</option>
+        <option value="59168">Streaming Media</option>
+        <option value="59733">Theses and Dissertations</option>
+    </select>
+
+    </div>
+
+
+                                            
+
+
+                                            
+
+
+                    
+                                    </div>
+                            </div>
+        
+        <div class="d-flex align-items-center">
+                            <a class="collapsible collapsed az-toggle me-auto" data-bs-toggle="collapse"
+                   href="#az-public-mobile-filters-collapse-default" aria-expanded="false"
+                   aria-controls="az-public-mobile-filters-collapse-default">Show More Filters</a>
+            
+            
+            <button class="btn btn-primary ms-auto" type="submit"
+                    onclick="springSpace.azPublicObj.filterAzBySearch(1071); return false;">
+                <img src="/web/assets/media/icons/duotune/general/gen021.svg" role="presentation" alt=""> Search
+            </button>
+        </div>
+    </div>
+    <script>
+        jQuery('.az-toggle').click(function () {
+            var item = jQuery(this);
+            if (item.hasClass('collapsed')) {
+                item.text('Show More Filters');
+            } else {
+                item.text('Show Fewer Filters');
+            }
+        });
+    </script>
+    </section>
+
+<div class="modal fade" id="az-mobile-filter-edit-modal" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-body">
+                
+    <div id="az-public-mobile-filters-modal" class="mb-3 az-public-mobile-filters">
+        <input type="hidden" name="site_id" id="site_id_modal" value="1071">
+
+                
+        
+                
+                        
+                       
+            <form role="search" onsubmit="springSpace.azPublicObj.filterAzBySearch(1071); return false;">
+        <div class="form-group">
+            <input type="text" class="s-lg-az-search form-control" maxlength="260"
+                placeholder="Database Title / Keyword"
+                aria-label="Search database by title or keyword"/>
+        </div>
+    </form>
+
+
+
+
+                    <div id="az-public-mobile-filters-group-modal" class="az-public-mobile-filters-group">
+                
+                                                <div class="form-group">
+            <select data-placeholder="Subjects" name="s-lg-sel-subjects" aria-label="Database Subject Filter" multiple="multiple" class="s-lg-sel-subjects form-control form-control-select2-multi">
+        <option value="60012">Accounting</option><option value="77586">Aerospace Engineering</option><option value="60013">Agribusiness &amp; Food Industry Management</option><option value="139681">Agricultural Education</option><option value="60014">Agriculture</option><option value="139683">Animal Science</option><option value="60016">Anthropology</option><option value="50006">Apparel Merchandising &amp; Management</option><option value="60017">Architecture &amp; Landscape Architecture</option><option value="60018">Art</option><option value="60020">Biological Sciences</option><option value="60021">Business Administration</option><option value="77587">Chemical Engineering</option><option value="60022">Chemistry &amp; Biochemistry</option><option value="77585">Civil Engineering</option><option value="50005">Communication</option><option value="60024">Computer Information Systems</option><option value="60025">Computer Science</option><option value="186683">Early Childhood Studies</option><option value="60026">Economics</option><option value="60027">Education</option><option value="77589">Electrical &amp; Computer Engineering</option><option value="60028">English</option><option value="60029">Environmental Design</option><option value="170883">Ethnic &amp; Women’s Studies</option><option value="139685">Film &amp;Television</option><option value="107387">Finance</option><option value="60031">Food Science</option><option value="60032">Geography</option><option value="60033">Geological Sciences</option><option value="60035">History</option><option value="60036">Hospitality Management</option><option value="77591">Industrial &amp; Manufacturing Engineering</option><option value="60038">Interdisciplinary General Education</option><option value="60039">International Business</option><option value="139696">Journalism</option><option value="60041">Kinesiology &amp; Health Promotion</option><option value="139703">Language &amp; Linguistics</option><option value="60042">Law</option><option value="121859">Liberal Studies</option><option value="139684">Library Science</option><option value="139691">Literature</option><option value="60043">Management &amp; Human Resources</option><option value="139676">Marketing</option><option value="248068">Materials Engineering</option><option value="60044">Mathematics &amp; Statistics</option><option value="77592">Mechanical Engineering</option><option value="193542">Modern Languages</option><option value="60045">Music</option><option value="60037">Nutrition</option><option value="60046">Philosophy</option><option value="60047">Physics &amp; Astronomy</option><option value="60048">Plant Science</option><option value="60049">Political Science</option><option value="50004">Psychology</option><option value="204829">Public Administration</option><option value="120142">Regenerative Studies</option><option value="60052">Sociology</option><option value="60053">Technology &amp; Operations Management</option><option value="134318">Theatre &amp; New Dance</option><option value="60054">Urban &amp; Regional Planning</option>
+    </select>
+
+    </div>
+
+
+
+                                            
+    <div class="form-group">
+            <select data-placeholder="Types" name="s-lg-sel-az-types" aria-label="Database Types Filter" class="s-lg-sel-az-types form-control form-control-select2-multi" multiple="multiple">
+                                                                                                                                                                                                                    <option value="59215">Articles</option>
+        <option value="59216">Books</option>
+        <option value="59171">Datasets and Statistics</option>
+        <option value="59730">Images</option>
+        <option value="59170">Newspapers/Magazines</option>
+        <option value="59169">Primary Sources</option>
+        <option value="59707">Reference</option>
+        <option value="59168">Streaming Media</option>
+        <option value="59733">Theses and Dissertations</option>
+    </select>
+
+    </div>
+
+
+                                            
+
+
+                                            
+
+
+                    
+                                </div>
+        
+        <div class="d-flex align-items-center">
+            
+                            <button class="btn btn-light me-auto" data-bs-dismiss="modal" type="button"> Cancel </button>
+            
+            <button class="btn btn-primary ms-auto" type="submit"
+                    onclick="springSpace.azPublicObj.filterAzBySearch(1071); return false;">
+                <img src="/web/assets/media/icons/duotune/general/gen021.svg" role="presentation" alt=""> Search
+            </button>
+        </div>
+    </div>
+    <script>
+        jQuery('.az-toggle').click(function () {
+            var item = jQuery(this);
+            if (item.hasClass('collapsed')) {
+                item.text('Show More Filters');
+            } else {
+                item.text('Show Fewer Filters');
+            }
+        });
+    </script>
+            </div>
+        </div>
+    </div>
+</div>            </div>    
+            <section>
+                                <div id="s-lg-az-cols" class="row">
+                                            <div id="col1" class="col-lg-8 center">
+                            <div id="s-lg-az-search-reset" class="pad-right-sm">
+                                                    <h2 id="s-lg-az-result-count" aria-live="polite" class="bold s-lib-text-lg pad-right-med"></h2>
+                    <button id="s-lg-az-reset" class="btn btn-default btn-sm" type="button" onclick="springSpace.azList.reset();">Clear Filters/Browse All Databases</button>
+                
+                            </div>
+
+                            <div id="s-lg-az-index" class="pad-right-sm"></div>
+
+                            <div id="s-lg-az-content" class="pad-right-sm">
+                                <div class="bold s-lib-color-lt-grey pad-top-med text-center">Loading...</div>
+                            </div>
+
+                            <div id="s-lg-az-pager" class="pad-right-sm pad-top-med"></div>
+                        </div>
+
+                        <div id="col2" class="col-lg-4 center">
+                            <div class="sidebar-boxes">
+                                <div class="accordion public-collapsible-box mb-5" id="s-lg-az-popular">
+    <div class="accordion-item">
+        <h2 class="accordion-header" id="s-lg-az-popular-heading">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#s-lg-az-popular-body" aria-expanded="true" aria-controls="s-lg-az-popular-body">
+                Featured Databases
+            </button>
+        </h2>
+        <div id="s-lg-az-popular-body" class="accordion-collapse collapse show" aria-labelledby="s-lg-az-popular-heading" data-bs-parent="#s-lg-az-popular">
+            <div class="accordion-body">
+                
+
+    
+            <p>The most frequently-used databases</p>
+    
+            
+<div class="mb-4">
+    <div class="d-flex justify-content-start">
+                <div class="flex-fill">
+                            <a href="https://libguides.library.cpp.edu/asp"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: &#039;16&#039;,_st_content_id: &#039;37685874&#039;,_st_inc_return: this});" data-landing-page="">Academic Search Premier</a>
+            
+                                        <div class="az-icons ms-0">
+                    <ul class=""><li><img loading="lazy" alt="Available in OneSearch" class="s-lg-icon" src="//d2jv02qf7xgjwx.cloudfront.net/sites/1071/icons/33334/OneSearch-IconFinal2.png" title="Available in OneSearch &nbsp;"/></li><li><img loading="lazy" alt="Full-Text Available" class="s-lg-icon" src="//d2jv02qf7xgjwx.cloudfront.net/sites/1071/icons/33335/FullText-IconFinal2.png" title="Full-Text Available &nbsp;"/></li></ul>
+                </div>
+                    </div>
+    </div>
+            <div class="justify-content-start">
+            <div class="az-description-full mt-2">
+                <p>Multi-subject database; articles from journals &amp; other publications. Covers business, education, history, literature, medicine, philosophy, politics, science, and technology.</p>
+            </div>
+        </div>
+    </div>            
+<div class="mb-4">
+    <div class="d-flex justify-content-start">
+                <div class="flex-fill">
+                            <a href="https://proxy.library.cpp.edu/login?url=https://search.proquest.com/advanced?accountid=10357"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: &#039;16&#039;,_st_content_id: &#039;37686032&#039;,_st_inc_return: this});" data-landing-page="">ProQuest Databases</a>
+            
+                                        <div class="az-icons ms-0">
+                    <ul class=""><li><img loading="lazy" alt="Available in OneSearch" class="s-lg-icon" src="//d2jv02qf7xgjwx.cloudfront.net/sites/1071/icons/33334/OneSearch-IconFinal2.png" title="Available in OneSearch &nbsp;"/></li><li><img loading="lazy" alt="Full-Text Available" class="s-lg-icon" src="//d2jv02qf7xgjwx.cloudfront.net/sites/1071/icons/33335/FullText-IconFinal2.png" title="Full-Text Available &nbsp;"/></li></ul>
+                </div>
+                    </div>
+    </div>
+            <div class="justify-content-start">
+            <div class="az-description-full mt-2">
+                <p>Search platform for a wide range of multi-disciplinary subject areas, including agriculture, alternative publications, biology, business, country reports, dissertations and theses, education, ethnic and gender issues, geosciences, historical Los Angeles Times and New York Times, literature, PTSD, sociology, and US and global news.</p>
+            </div>
+        </div>
+    </div>            
+<div class="mb-4">
+    <div class="d-flex justify-content-start">
+                <div class="flex-fill">
+                            <a href="https://proxy.library.cpp.edu/login?url=https://www.sciencedirect.com/"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: &#039;16&#039;,_st_content_id: &#039;37686050&#039;,_st_inc_return: this});" data-landing-page="">ScienceDirect</a>
+            
+                                        <div class="az-icons ms-0">
+                    <ul class=""><li><img loading="lazy" alt="Available in OneSearch" class="s-lg-icon" src="//d2jv02qf7xgjwx.cloudfront.net/sites/1071/icons/33334/OneSearch-IconFinal2.png" title="Available in OneSearch &nbsp;"/></li><li><img loading="lazy" alt="Full-Text Available" class="s-lg-icon" src="//d2jv02qf7xgjwx.cloudfront.net/sites/1071/icons/33335/FullText-IconFinal2.png" title="Full-Text Available &nbsp;"/></li><li><img loading="lazy" alt="Peer-Reviewed" class="s-lg-icon" src="//d2jv02qf7xgjwx.cloudfront.net/sites/1071/icons/33786/Peer-Review1-Final.png" title="Peer-Reviewed &nbsp;"/></li></ul>
+                </div>
+                    </div>
+    </div>
+            <div class="justify-content-start">
+            <div class="az-description-full mt-2">
+                <p>Peer-reviewed scholarly journals, articles, book chapters, and open access content, primarily STM; also covers physical sciences, engineering, life sciences, health sciences, social sciences, and the humanities. <a href="https://service.elsevier.com/app/answers/detail/a_id/10263/supporthub/sciencedirect/" target="_self">Read more about this resource</a> or <a href="https://www.youtube.com/watch?v=K8Ta8guv7_w" target="_self">watch a how-to video.</a> Access to the <a href="https://www.sciencedirect.com/browse/journals-and-books?subject=earth-and-planetary-sciences">Earth and Planetary Sciences Focus Collection</a> and <a href="https://www.sciencedirect.com/browse/journals-and-books?subject=environmental-science">Environmental Science Focus Collection</a> also available.</p>
+            </div>
+        </div>
+    </div>    
+    
+            </div>
+        </div>
+    </div>
+</div> <div class="accordion public-collapsible-box mb-5" id="s-lg-az-trials">
+    <div class="accordion-item">
+        <h2 class="accordion-header" id="s-lg-az-trials-heading">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#s-lg-az-trials-body" aria-expanded="true" aria-controls="s-lg-az-trials-body">
+                New / Trial Databases
+            </button>
+        </h2>
+        <div id="s-lg-az-trials-body" class="accordion-collapse collapse show" aria-labelledby="s-lg-az-trials-heading" data-bs-parent="#s-lg-az-trials">
+            <div class="accordion-body">
+                
+
+            <p>The following databases are newly acquired or being evaluated for a future subscription.</p>
+    
+    
+                
+<div class="mb-4">
+    <div class="d-flex justify-content-start">
+                <div class="flex-fill">
+                            <a href="https://libguides.library.cpp.edu/mergentmarketatlas"  onclick="return springSpace.springTrack.trackLink({link: this,_st_type_id: &#039;16&#039;,_st_content_id: &#039;77292000&#039;,_st_inc_return: this});" data-landing-page="">Mergent Market Atlas</a>
+            
+                            <div class="az-flags ms-0 me-2">
+                                                <span class="margin-left-sm s-lg-az-result-badge-trial badge rounded-pill">
+                Trial
+            </span>
+            
+                </div>
+                                        <div class="az-icons ms-0">
+                    <ul class=""><li><img loading="lazy" alt="Full-Text Available" class="s-lg-icon" src="//d2jv02qf7xgjwx.cloudfront.net/sites/1071/icons/33335/FullText-IconFinal2.png" title="Full-Text Available &nbsp;"/></li></ul>
+                </div>
+                    </div>
+    </div>
+            <div class="justify-content-start">
+            <div class="az-description-full mt-2">
+                <p>Mergent Market Atlas offers company, industry, country, index, ESG, and economic data displays and reports as well as search capabilities on detailed information related to company data, descriptions, financials, ratios, business segments, sustainability, officers, and directors. &nbsp;The database delivers the same comprehensive suite of financial information used by professionals under LSEG's Refinitiv and FTSE Russell brands.<br><strong>NOTE:</strong> &nbsp;Trial access is available through June 30, 2025.</p>
+            </div>
+        </div>
+    </div>    
+    
+            </div>
+        </div>
+    </div>
+</div> <div class="accordion public-collapsible-box mb-5" id="s-lg-az-custom-box-27670462">
+    <div class="accordion-item">
+        <h2 class="accordion-header" id="s-lg-az-custom-box-27670462-heading">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#s-lg-az-custom-box-27670462-body" aria-expanded="true" aria-controls="s-lg-az-custom-box-27670462-body">
+                University Library Resources
+            </button>
+        </h2>
+        <div id="s-lg-az-custom-box-27670462-body" class="accordion-collapse collapse show" aria-labelledby="s-lg-az-custom-box-27670462-heading" data-bs-parent="#s-lg-az-custom-box-27670462">
+            <div class="accordion-body">
+                    <div id="s-lg-box-27670462-container" class="s-lib-box-container">
+						<div id="s-lg-box-27670462" class="s-lib-box s-lib-box-std">
+							<div id="s-lg-box-collapse-27670462" >
+								<div class="s-lib-box-content">
+									
+			<div id="s-lg-content-64181012" class="  clearfix">
+				<p>Have an issue accessing our databases? Please report it using our <a href="https://www.cpp.edu/library//databases/proxy-helpform.shtml">Database Help Form</a>.</p>
+
+		   </div>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+            </div>
+        </div>
+    </div>
+</div> <div class="accordion public-collapsible-box mb-5" id="s-lg-az-icon-legend">
+    <div class="accordion-item">
+        <h2 class="accordion-header" id="s-lg-az-icon-legend-heading">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#s-lg-az-icon-legend-body" aria-expanded="true" aria-controls="s-lg-az-icon-legend-body">
+                Icon Legend
+            </button>
+        </h2>
+        <div id="s-lg-az-icon-legend-body" class="accordion-collapse collapse show" aria-labelledby="s-lg-az-icon-legend-heading" data-bs-parent="#s-lg-az-icon-legend">
+            <div class="accordion-body">
+                        <div class="d-flex justify-content-start az-icon-legend-row align-items-center">
+        <div class="az-icon-legend-key me-4"><img src="//d2jv02qf7xgjwx.cloudfront.net/sites/1071/icons/33333/StreamingVideo-IconFinal2.png" alt="Icon Streaming Video"></div>
+        <div class="d-flex align-items-center flex-fill az-icon-legend-value">Streaming Video</div>
+    </div>
+    <div class="d-flex justify-content-start az-icon-legend-row align-items-center">
+        <div class="az-icon-legend-key me-4"><img src="//d2jv02qf7xgjwx.cloudfront.net/sites/1071/icons/33334/OneSearch-IconFinal2.png" alt="Icon Available in OneSearch"></div>
+        <div class="d-flex align-items-center flex-fill az-icon-legend-value">Available in OneSearch</div>
+    </div>
+    <div class="d-flex justify-content-start az-icon-legend-row align-items-center">
+        <div class="az-icon-legend-key me-4"><img src="//d2jv02qf7xgjwx.cloudfront.net/sites/1071/icons/33335/FullText-IconFinal2.png" alt="Icon Full-Text Available"></div>
+        <div class="d-flex align-items-center flex-fill az-icon-legend-value">Full-Text Available</div>
+    </div>
+    <div class="d-flex justify-content-start az-icon-legend-row align-items-center">
+        <div class="az-icon-legend-key me-4"><img src="//d2jv02qf7xgjwx.cloudfront.net/sites/1071/icons/33336/PrimarySources-IconFinal2.png" alt="Icon Primary Sources"></div>
+        <div class="d-flex align-items-center flex-fill az-icon-legend-value">Primary Sources</div>
+    </div>
+    <div class="d-flex justify-content-start az-icon-legend-row align-items-center">
+        <div class="az-icon-legend-key me-4"><img src="//d2jv02qf7xgjwx.cloudfront.net/sites/1071/icons/33337/OpenAccess-IconFinal2.png" alt="Icon Open Access"></div>
+        <div class="d-flex align-items-center flex-fill az-icon-legend-value">Open Access</div>
+    </div>
+    <div class="d-flex justify-content-start az-icon-legend-row align-items-center">
+        <div class="az-icon-legend-key me-4"><img src="//d2jv02qf7xgjwx.cloudfront.net/sites/1071/icons/33786/Peer-Review1-Final.png" alt="Icon Peer-Reviewed"></div>
+        <div class="d-flex align-items-center flex-fill az-icon-legend-value">Peer-Reviewed</div>
+    </div>
+    <div class="d-flex justify-content-start az-icon-legend-row align-items-center">
+        <div class="az-icon-legend-key me-4"><img src="//d2jv02qf7xgjwx.cloudfront.net/sites/1071/icons/33787/Newspapers1-Final.png" alt="Icon Newspapers/Magazines"></div>
+        <div class="d-flex align-items-center flex-fill az-icon-legend-value">Newspapers/Magazines</div>
+    </div>
+            </div>
+        </div>
+    </div>
+</div> <div class="accordion public-collapsible-box mb-5" id="s-lg-az-custom-box-32551740">
+    <div class="accordion-item">
+        <h2 class="accordion-header" id="s-lg-az-custom-box-32551740-heading">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#s-lg-az-custom-box-32551740-body" aria-expanded="true" aria-controls="s-lg-az-custom-box-32551740-body">
+                Get Help
+            </button>
+        </h2>
+        <div id="s-lg-az-custom-box-32551740-body" class="accordion-collapse collapse show" aria-labelledby="s-lg-az-custom-box-32551740-heading" data-bs-parent="#s-lg-az-custom-box-32551740">
+            <div class="accordion-body">
+                    <div id="s-lg-box-32551740-container" class="s-lib-box-container">
+						<div id="s-lg-box-32551740" class="s-lib-box s-lib-box-std">
+							<div id="s-lg-box-collapse-32551740" >
+								<div class="s-lib-box-content">
+									
+			<div id="s-lg-content-76312136" class="  clearfix">
+				<h4><img alt="Blue Backgorund with a phone receiver and a chat bubble above" loading="lazy" src="https://d2jv02qf7xgjwx.cloudfront.net/accounts/177766/images/call-widget_blue.png" style="width: 25px; height: 25px;" />&nbsp;<span style="font-size:18px;">Call us!</span></h4>
+
+<p>Call the Research Help Desk&nbsp;(909) 869-3084</p>
+
+<hr />
+<h4><img alt="Black background with block image of a person sitting at a desk in white" loading="lazy" src="https://d2jv02qf7xgjwx.cloudfront.net/accounts/177766/images/help-widgit_blue.png" style="width: 25px; height: 25px;" />&nbsp;In-person help</h4>
+
+<p>Visit the&nbsp;<a href="https://calstate.libanswers.com/calpolypomonafaq/faq/396617">Research Help Desk</a>&nbsp;for in-person help</p>
+
+<hr />
+<h4><img alt="Blue background with a block image of a person and magnifying glass in white" loading="lazy" src="https://d2jv02qf7xgjwx.cloudfront.net/accounts/177766/images/find-widget_blue.png" style="width: 25px; height: 25px;" />&nbsp;Find a Subject Librarian</h4>
+
+<p>Email or call&nbsp;<a href="https://www.cpp.edu/library/reference-instruction/contact-subject-librarian.shtml">Subject Librarians</a>&nbsp;for help with in-depth research</p>
+
+<hr />
+<h4><img alt="Blue background with white text bubble and blue text inside" loading="lazy" src="https://d2jv02qf7xgjwx.cloudfront.net/accounts/177766/images/text-widget_blue.png" style="width: 25px; height: 25px;" />&nbsp;Text a Librarian</h4>
+
+<p>For research help: Text or email us at&nbsp;<strong><a href="mailto:libraryhelp@cpp.edu">libraryhelp@cpp.edu</a></strong>&nbsp;(Monday-Friday).</p>
+
+<p>To report noisy disturbances in the Library: Text&nbsp;<strong>909-365-1545</strong>&nbsp;or email&nbsp;<strong><a href="mailto:libcirc@cpp.edu">libcirc@cpp.edu.</a></strong></p>
+
+<hr />
+<div id="chat-box" style="“max-width:100%">
+<h4><img alt="White chat bubbles on a blue background" loading="lazy" src="https://d2jv02qf7xgjwx.cloudfront.net/accounts/177766/images/chat-widget_blue.png" style="width: 25px; height: 25px;" />&nbsp;Library Chat</h4>
+
+<div aria-label="Chat Widget" id="libchat_cc1f336c35507a1ebc9f410a5d08d521" role="region">
+<div class="lci_chat_load"><iframe id="iframe_cc1f336c35507a1ebc9f410a5d08d521" name="iframe_cc1f336c35507a1ebc9f410a5d08d521" scrolling="no" src="https://calstate.libanswers.com/chat/widget/cc1f336c35507a1ebc9f410a5d08d521?referer=https%3A%2F%2Fwww.cpp.edu%2Flibrary%2F&amp;referer_title=University%20Library&amp;auth_id=0" style="width:100%" title="Chat Widget">Content is loading...</iframe></div>
+</div>
+</div>
+
+<p>&nbsp;</p>
+
+		   </div>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+            </div>
+        </div>
+    </div>
+</div>
+                            </div>
+                        </div>
+                                    </div>
+            </section>
+        </div>
+
+        
+<div id="s-lib-footer-public" class="container s-lib-footer footer s-lib-side-borders">
+    <div>
+        <div id="s-lib-footer-brand">
+            Powered by Springshare.
+        </div>
+        <div id="s-lib-footer-rights">
+            All rights reserved.
+        </div>
+        <div id="s-lib-footer-login-link">
+            <a href="https://cpp.libapps.com/libapps/login.php?site_id=1071">Login to LibApps</a>
+        </div>
+    </div>
+    <div>
+        <div id="s-lib-footer-support-link">
+            
+        </div>
+    </div>
+</div><div id="s-lib-alert" class="modal fade" tabindex="-1" role="dialog">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="s-lib-alert-title" aria-label="Alert Title"></h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+
+            <div class="modal-body">
+                <div id="s-lib-alert-loading">
+                    <style>.loader-container{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.loader{height:1rem;line-height:1rem}.loader__dot{-webkit-animation:load 501ms alternate infinite;animation:load 501ms alternate infinite;background-color:#f7941d;border-radius:50%;display:inline-block;font-size:0;height:.5rem;margin:0 .25rem;width:.5rem}.loader__dot:nth-of-type(2){-webkit-animation-delay:.2s;animation-delay:.2s}.loader__dot:nth-of-type(3){-webkit-animation-delay:.4s;animation-delay:.4s}.loader__dot:nth-of-type(4){-webkit-animation-delay:.6s;animation-delay:.6s}.loader__dot:nth-of-type(5){-webkit-animation-delay:.8s;animation-delay:.8s}.loader__dot:nth-of-type(6){-webkit-animation-delay:1s;animation-delay:1s}.loader__dot:nth-of-type(7){-webkit-animation-delay:1.2s;animation-delay:1.2s}.loader__dot:nth-of-type(8){-webkit-animation-delay:1.4s;animation-delay:1.4s}.loader__dot:nth-of-type(9){-webkit-animation-delay:1.6s;animation-delay:1.6s}.loader__dot:nth-of-type(10){-webkit-animation-delay:1.8s;animation-delay:1.8s}@-webkit-keyframes load{0%{-webkit-transform:scale(0,0);transform:scale(0,0)}100%{-webkit-transform:scale(1,1);transform:scale(1,1)}}@keyframes load{0%{-webkit-transform:scale(0,0);transform:scale(0,0)}100%{-webkit-transform:scale(1,1);transform:scale(1,1)}}</style>
+<div class="loader-container">
+  <div aria-live="polite" class="loader" role="status">
+    <span class="loader__text sr-only">Loading ... </span>
+    <div class="loader__dot"></div>
+    <div class="loader__dot"></div>
+    <div class="loader__dot"></div>
+    <div class="loader__dot"></div>
+    <div class="loader__dot"></div>
+    <div class="loader__dot"></div>
+    <div class="loader__dot"></div>
+    <div class="loader__dot"></div>
+    <div class="loader__dot"></div>
+    <div class="loader__dot"></div>
+  </div>
+</div>
+                </div>
+
+                <div id="s-lib-alert-content"></div>
+            </div>
+
+            <div class="modal-footer ui-dialog-buttonset">
+                <div id="s-lib-alert-buttons"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- popover.twig -->
+<div id="s-lib-popover-title" class="hide">
+    <span class="text-info">
+        <strong>title</strong>
+    </span>
+
+    <button type="button" id="popclose" class="close" onclick="jQuery('.s-lib-popover').popover('hide')">
+        &times;
+    </button>
+</div>
+
+<div id="s-lib-popover-content" class="hide">
+    <i class="fa fa-refresh fa-spin"></i> Loading...
+    <button class="btn btn-default btn-sm popclose" type="button">Close</button>
+</div>
+<!-- !popover.twig -->
+
+
+<!-- BEGIN: Analytics code --><script>  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');  ga('create', 'UA-18522228-1', 'auto');  ga('send', 'pageview');</script><!-- END: Analytics code -->
+    <div class="container-fluid pt-2 pb-2" id="cpp-lib-footer">
+        <div class="row text-center" id="contact-info">
+            <div class="col-12 col-sm-6 col-md-6 col-lg-4 align-middle"> <span class="font-weight-bold">University Library <br /> <a href="https://www.cpp.edu/maps/?id=1130#!m/276533">Building 15</a> </span> </div>
+            <div class="col-12 col-sm-6 col-md-6 col-lg-4 align-middle"> <span class="font-weight-bold"> <a href="mailto:library@cpp.edu">library@cpp.edu</a> <br /> 909-869-3074 </span> </div>
+            <div class="col-3 col-sm-3 col-md-3 col-lg-1 align-middle lib-icon">  <a href="http://twitter.com/cpplibrary"> <img src="https://libapps.s3.amazonaws.com/customers/1060/images/twitter-logo.png" alt="twitter logo" width="32" /> </a>  </div>
+            <div class="col-3 col-sm-3 col-md-3 col-lg-1 align-middle lib-icon">  <a href="http://www.facebook.com/pages/Pomona-CA/Cal-Poly-Pomona-University-Library/13632547215"> <img src="https://libapps.s3.amazonaws.com/customers/1060/images/facebook-logo.png" alt="facebook logo" width="32" /> </a>  </div>
+            <div class="col-3 col-sm-3 col-md-3 col-lg-1 align-middle lib-icon">  <a href="http://www.youtube.com/user/TheCPPLibrary"> <img src="https://libapps.s3.amazonaws.com/customers/1060/images/youtube-logo.png" alt="youtube logo" width="32" /> </a>  </div>
+            <div class="col-3 col-sm-3 col-md-3 col-lg-1 align-middle lib-icon">  <a href="https://www.instagram.com/cpplibrary/"> <img src="https://libapps.s3.amazonaws.com/customers/1060/images/instagram-logo.png" alt="instagram logo" width="32" /> </a>  </div>
+        </div>
+    </div>
+<!-- scroll_top.twig -->
+<div id="s-lib-scroll-top">
+    <a href="javascript:void(0);" onclick="jQuery('body').focus();" title="Back to Top"
+       aria-label="Back to Top">
+        <span class="fa-stack fa-lg" aria-hidden="true">
+            <i class="fa fa-square-o fa-stack-2x"></i>
+            <i class="fa fa-angle-double-up fa-stack-1x" style="position:relative; bottom:2px;"></i>
+        </span>
+    </a>
+</div>
+<!-- !scroll_top.twig -->
+
+    <script>
+
+</script>
+
+        <script>
+            springSpace.azPublicObj.addMultiselectChangeListener('.s-lg-sel-subjects');
+            springSpace.azPublicObj.addMultiselectChangeListener('.s-lg-sel-az-types');
+            springSpace.azPublicObj.addMultiselectChangeListener('.s-lg-sel-az-vendors');
+            springSpace.azPublicObj.addMultiselectChangeListener('.s-lg-sel-az-access-modes');
+        </script>
+    </body>
+</html>

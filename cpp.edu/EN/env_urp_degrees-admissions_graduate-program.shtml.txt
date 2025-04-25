@@ -1,0 +1,1381 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+		<title>
+			Graduate Program
+		</title>
+		<!-- Required meta tags -->
+		<meta charset="utf-8"/>
+		<meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
+		<meta content="ENV" property="cludo:category"/>
+<meta content="2025-01-02T16:51Z" property="date"/>
+<link href="https://www.cpp.edu/env/urp/degrees-admissions/graduate-program.shtml" rel="canonical"/>
+		
+		
+		
+    <div lang="en">
+
+
+                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                <script src="https://cdn.levelaccess.net/accessjs/YW1wX2NwcDExMDM/access.js"></script>
+<script>// <![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSKJRNV');
+// ]]></script>
+<link href="/common/green-and-gold/assets/icons/gg-favicon.svg" rel="icon" type="image/svg+xml"/> <link crossorigin="anonymous" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" rel="stylesheet"/>
+<script crossorigin="anonymous" defer="defer" integrity="sha384-FW78RPcSpi13vjx77nPWQIrQbNSLkPBopb0qGzLCxD2x4Kr6FA8V05C/6cpgkKPL" src="https://pro.fontawesome.com/releases/v5.10.1/js/all.js"></script>
+<link href="https://www.cpp.edu/common/2018/assets/css/cpp-base-styles.css" rel="stylesheet"/> <link href="https://www.cpp.edu/common/2018/assets/css/cpp-extended-styles.css" rel="stylesheet"/> <link href="https://use.typekit.net/fia5dle.css" rel="stylesheet"/> <link href="/common/green-and-gold/assets/css/cpp-fonts.css" rel="stylesheet"/> <link href="/common/green-and-gold/assets/css/gg-header-footer.css" rel="stylesheet"/>
+
+</div>
+    
+		
+		
+	</head>
+	<body>
+		
+		
+	
+    <div lang="en">
+
+
+                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                 
+<header class="nav fixed">
+    <nav class="container">
+        <ul class="row nav__main" id="mainNavMenu">
+            <li id="main-logo" class="col-6 col-lg-3 nav__logo">
+                <a href="/" aria-label="Cal Poly Pomona Home" tabindex="0">
+                    <div class="nav__logo--horizontal">
+                        <img src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png" alt="Cal Poly Pomona Logo" />
+                    </div>
+                </a>
+            </li>
+            <li class="nav__links col-6" id="head-links">
+             <a class="nav__link nav__link--desktop col-1" href="/commencement/" tabindex="0">
+                    <svg
+                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 6px;
+    width: auto;
+">
+                        <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                        <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#005030"></path>
+                    </svg>
+                    <span class="sr-only">commencement</span>
+                </a>
+                <a class="nav__link nav__link--desktop" href="/apply/" tabindex="0">apply</a>
+                <a class="nav__link nav__link--desktop" href="/outreach/tours.shtml" tabindex="0">visit</a>
+                <a class="nav__link nav__link--desktop" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="0">info</a>
+                <a class="nav__link nav__link--desktop" href="/giving/" tabindex="0">give</a>
+                <a class="nav__link nav__link--desktop" href="https://my.cpp.edu" tabindex="0">mycpp</a>
+                <button id="search-open" class="nav__search" aria-expanded="false" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/search-dark-green.svg" alt="Search" />
+                </button>
+                <button class="nav__menu" id="menuButton" aria-expanded="false" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/menu.svg" alt="menu" />
+                </button>
+            </li>
+        </ul>
+    </nav>
+</header>
+<header id="search-header" style="display:none">
+    <div class="row">
+        <div class="col-md-6"></div>
+        <div id="searchbox" class="col-md-6">
+            <div id="search-slide">
+                <label for="#gsc-i-id1" class="sr-only">Search</label>
+                <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+                <div class="gcse-searchbox-only" data-resultsurl="https://www.cpp.edu/search.shtml"></div>
+                <button class="nav__menu col-1" id="search-close" aria-expanded="false" tabindex="0" aria-label="Menu icon">
+                    <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close icon">
+                    </button>
+                </div>
+            </div>
+            <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+            <style>
+
+     .gstl_50 gssb_c {
+         position:fixed !important;
+         }
+       #search-close img {
+         width: auto !important;
+       }
+
+       #searchbox {
+         height: 93px;
+         overflow: hidden;
+       }
+
+       #search-header {
+         position: fixed;
+         height: 100px;
+         width: 100%;
+         height: 93px;
+         z-index: 99999;
+         top: 0;
+       }
+
+       #gsc-i-id1 {
+         height: 40px;
+         width: 70%;
+         border-radius: 4px;
+         border: none;
+         padding: 15px;
+       }
+
+       #search-submit {
+         margin: 15px;
+       }
+
+       #search-close {
+         width: 23px;
+         height: 21px;
+         position: absolute;
+         top: 32px;
+       }
+
+       #search-slide {
+         width: 0px;
+         right: -100%;
+         padding: 20px 15px;
+         position: relative;
+         background: #005030;
+         height: 100%;
+         transition: all .5s ease 0s
+       }
+
+       #search-slide.slideup {
+         right: 0;
+         width: 100%;
+         position: relative;
+       }
+
+       @media screen and (max-width:991px) {
+         #search-slide {
+           height: 77px !important;
+           padding: 12px 10px;
+         }
+       }
+
+       @media screen and (max-width:767px) {
+         #search-header {
+           position: relative !important;
+         }
+
+         #search-slide {
+           text-align: center !important;
+         }
+       }
+
+     .gsc-search-button-v2 svg {
+    width: auto;
+    height: 25px;
+    position: relative;
+    top: 8px;
+}
+
+       .gsc-search-button-v2,
+       .gsc-search-button-v2:hover,
+       .gsc-search-button-v2:focus {
+         border: none !important;
+         background: none !important;
+       }
+
+       form.gsc-search-box {
+         font-size: 13px;
+         margin-top: 0;
+         margin-right: 0;
+         margin-bottom: 4px;
+         margin-left: 0;
+         width: 100%;
+         display: inline-block;
+       }
+
+       #___gcse_0 {
+         width: 70%;
+         display: inline-block;
+       }
+
+       table.gsc-search-box td.gsc-input {
+         padding-right: 0;
+       }
+
+       #gsc-i-id1 {
+         width: 100%;
+         padding: 0px;
+         border: none;
+         margin: -0.0625em 0px 0px;
+         height: 40px !important;
+         background: rgb(255, 255, 255);
+         outline: none;
+         font-size: 20px;
+         font-weight: 200;
+       }
+
+       .gstl_50.gssb_c {
+         z-index: 99999;
+       }
+
+       .gsq_a {
+         font-weight: 200;
+         font-size: 18px;
+         padding: 2px;
+       }
+
+       .gssb_a img {
+         display: none;
+       }
+
+       .side-nav__links--small-bottom {
+           margin-left:-15px;
+       }
+       .nav__links .nav__links--mobile {
+           margin-top: 50px;
+            margin-bottom: -50px;
+            margin-left: 50px
+       }
+       .nav__link--mobile {
+        	padding:0px;
+        }
+     /*   .side-nav__container, .side-nav__container--small {
+          
+            padding-left: 50px;
+        }*/
+        .side-nav__container--small-bottom {
+           padding-left: 35px;
+        }
+         @media screen and (max-width:991px) {
+             .nav__links--mobile {
+                 display:flex;
+             }
+         }
+          @media screen and (min-width:992px) {
+             .nav__links--mobile {
+                 display:none !important;
+             }
+          }
+         .nav__link--mobile {
+             color: #ffb81c;
+         }
+       </style>
+        </div>
+    </header>
+    <section class="side-nav" id="sideNavOverlay">
+        <header class="side-nav__overlay relative">
+            <nav class="container">
+                <ul class="row nav__overlay" id="sideNavMenu">
+                    <li class="nav__logo col-12 col-md-10 col-lg-3" id="navLogoOverlay">
+                        <a href="/" aria-label="Cal Poly Pomona Home" tabindex="-1">
+                            <img src="/common/green-and-gold/assets/logos/cpp_horizontal_1c_gold_rgb.png" alt="Cal Poly Pomona Logo" />
+                        </a>
+                    </li>
+                    <div class="nav__overlay--right col-12 col-lg-9">
+                        <li class="nav__links nav__links--desktop col-12 col-lg-6">
+                             <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 6px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                            <a class="nav__link nav__link--mobile" href="/apply/" tabindex="-1">apply</a>
+                            <a class="nav__link nav__link--mobile" href="/outreach/tours.shtml" tabindex="-1">visit</a>
+                            <a class="nav__link nav__link--mobile" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="-1">info</a>
+                            <a class="nav__link nav__link--mobile" href="/giving/" tabindex="-1">give</a>
+                            <a class="nav__link nav__link--mobile" href="https://my.cpp.edu" tabindex="-1">mycpp</a>
+                        </li>
+                        <li class="nav__icons">
+                            <button id="search-open-green" class="nav__search" aria-expanded="false" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/search-white.svg" alt="Search" />
+                            </button>
+                            <button class="nav__close" id="closeButton" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close menu" />
+                            </button>
+                        </li>
+                    </div>
+                </ul>
+            </nav>
+        </header>
+        
+            <div class="mobile_overlay_nav nav__links nav__links--mobile col-12 col-lg-6">
+                 <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 6px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                <a class="nav__link nav__link--mobile" href="/apply/" tabindex="0">apply </a>
+                <a class="nav__link nav__link--mobile" href="/outreach/tours.shtml" tabindex="0">visit </a>
+                <a class="nav__link nav__link--mobile" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="0">info </a>
+                <a class="nav__link nav__link--mobile" href="/giving/" tabindex="0">give </a>
+                <a class="nav__link nav__link--mobile" href="https://my.cpp.edu" tabindex="0">mycpp </a>
+            </div>
+       
+        <nav class="container side-nav__container">
+            <ul class="row side-nav__links">
+                <li id="home-button" class="side-nav__link">
+                    <a class="h3__proxima" href="/" tabindex="-1" aria-label="Cal Poly Pomona Home page">Home</a>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--0">
+                    <button class="h3__proxima" id="0" aria-expanded="false" tabindex="-1" aria-label="Link">
+                        <span>about</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--1">
+                    <button class="h3__proxima" id="1" aria-expanded="false" tabindex="-1" aria-label="Admissions & Aid">
+                        <span>admissions &amp; aid</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--2">
+                    <button class="h3__proxima" id="2" aria-expanded="false" tabindex="-1" aria-label="academics">
+                        <span>academics</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--3">
+                    <button class="h3__proxima" id="3" aria-expanded="false" tabindex="-1" aria-label="life at CPP">
+                        <span>life at CPP</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small">
+            <ul class="row">
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="https://broncoathletics.com/" tabindex="-1">athletics</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/alumni/" tabindex="-1">alumni</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/news/" tabindex="-1">news &amp; events</a>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small-bottom">
+            <ul class="col-12 col-lg-7 side-nav__links--small-bottom">
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/prospective-student-gateway/" tabindex="-1">future students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/student-gateway/" tabindex="-1">current students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/family/" tabindex="-1">families</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/faculty-staff-gateway/" tabindex="-1">faculty &amp; staff</a>
+                </li>
+            </ul>
+            <ul class="col-12 col-lg-5 social-icons">
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.instagram.com/calpolypomona/" aria-label="Instagram" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.linkedin.com/school/cal-poly-pomona/" aria-label="LinkedIn " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.youtube.com/user/calpolypomona" aria-label="Youtube " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="Youtube" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.facebook.com/calpolypomona" aria-label="Facebook " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://twitter.com/calpolypomona" aria-label="X (Twitter)" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X" />
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </section>
+
+</div>
+    
+
+		                                                                                                                                                        																										                                                            															    		                                            
+
+
+            
+
+    <header title="Urban and Regional Planning">
+
+
+
+      
+        
+    <custom/> 
+
+    
+                         <div id="dept-title">
+                            Urban and Regional Planning
+                    </div>
+    </header>
+
+                        <nav class="navbar navbar-expand-md navbar-light d-block " id="horizontalnav">
+        <button aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler navbar-toggler-right" data-target="#navbarSupportedContent" data-toggle="collapse" id="site-menu-expand-button" type="button">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="nav nav-pills nav-fill center-pills" id="site-nav">
+                                <li class="nav-item" id="li-1">
+                    <a class="nav-link" data-parent="#site-nav" href="/env/urp/index.shtml">Home</a>    
+                </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                    
+                                        
+                                                                                            
+                                                                                    
+                                                                                    
+                                                                                                                                        
+                                        
+                                                                                            
+                                                                                    
+                                                                                    
+                                                                                                                                        
+                                        
+                                                                                            
+                                                                                    
+                                                                                    
+                                                                                                                                        
+                                        
+                                                                                            
+                                                                                <li class="nav-item dropdown" id="li-2">
+
+                                <a aria-expanded="false" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">About Us</a>
+                                                                     <div class="dropdown-menu">
+                                                                   
+                                                                                                                                    <a class="dropdown-item" href="/env/urp/about-us/intro-to-profession.shtml">Intro to the Profession</a>
+                                                                                                                        
+                                                                                                                                    <a class="dropdown-item" href="/env/urp/about-us/faculty-staff.shtml">Faculty / Staff</a>
+                                                                                                                        
+                                                                                                                                    <a class="dropdown-item" href="/env/urp/about-us/student-clubs.shtml">Student Clubs</a>
+                                                                                                                        
+                                                                                                                                    <a class="dropdown-item" href="/env/urp/about-us/alumni-chapter.shtml">URP Alumni Chapter</a>
+                                                                                                                        
+                                                                                                                                    <a class="dropdown-item" href="/env/urp/about-us/department-history.shtml">Department History</a>
+                                                                                                                        
+                                                                                                                                    <a class="dropdown-item" href="/env/urp/about-us/contact.shtml">Contact</a>
+                                                                                                                        
+                                                                                                            
+                                </div>
+                            </li>
+                            
+                                                                                                                 
+                                                                                                                                        
+                                        
+                                                                                            
+                                                                                <li class="nav-item dropdown" id="li-3">
+
+                                <a aria-expanded="false" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">News / Events</a>
+                                                                     <div class="dropdown-menu">
+                                                                   
+                                                                                    <a class="dropdown-item" href="https://www.cpp.edu/env/urp/news-events/news/index.shtml">News</a>
+                                                                            
+                                                                                    <a class="dropdown-item" href="https://www.cpp.edu/env/urp/news-events/events/index.shtml">Events</a>
+                                                                            
+                                                                                                                                    <a class="dropdown-item" href="/env/urp/news-events/dale-prize.shtml">Dale Prize</a>
+                                                                                                                        
+                                                                                                                                    <a class="dropdown-item" href="/env/urp/news-events/mccoy-lecture.shtml">McCoy Lecture</a>
+                                                                                                                        
+                                                                                                            
+                                </div>
+                            </li>
+                            
+                                                                                                                 
+                                                                                                                                        
+                                        
+                                                                                            
+                                                                                <li class="nav-item dropdown" id="li-4">
+
+                                <a aria-expanded="false" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">Degrees / Admissions</a>
+                                                                     <div class="dropdown-menu">
+                                                                   
+                                                                                                                                    <a class="dropdown-item" href="/env/urp/degrees-admissions/index.shtml">Overview</a>
+                                                                                                                        
+                                                                                                                                    <a class="dropdown-item" href="/env/urp/degrees-admissions/undergraduate-program.shtml">Undergraduate Program</a>
+                                                                                                                        
+                                                                                                                                    <a class="dropdown-item" href="/env/urp/degrees-admissions/graduate-program.shtml">Graduate Program</a>
+                                                                                                                        
+                                                                                                                                    <a class="dropdown-item" href="/env/urp/degrees-admissions/minor-program.shtml">Minor Program</a>
+                                                                                                                        
+                                                                                                                                    <a class="dropdown-item" href="/env/urp/degrees-admissions/professional-education.shtml">Professional Education</a>
+                                                                                                                        
+                                                                                                                                    <a class="dropdown-item" href="/env/urp/degrees-admissions/urp-scholarships.shtml">URP Scholarships</a>
+                                                                                                                        
+                                                                                                            
+                                </div>
+                            </li>
+                            
+                                                                                                                 
+                                                                                                                                        
+                                        
+                                                                                            
+                                                                                <li class="nav-item dropdown" id="li-5">
+
+                                <a aria-expanded="false" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">Academic Resources</a>
+                                                                     <div class="dropdown-menu dropdown-menu-right">
+                                                                    
+                                                                                                                                                                
+                                                                                                                                    <a class="dropdown-item" href="/env/urp/academic-resources/find-faculty-advisor.shtml">Find Your Faculty Advisor</a>
+                                                                                                                        
+                                                                                    <a class="dropdown-item" href="https://www.cpp.edu/env/student-success-advising-center/index.shtml">ENV Student Success Advising Center</a>
+                                                                            
+                                                                                                                                    <a class="dropdown-item" href="/env/urp/academic-resources/gis-lab.shtml">GIS Lab</a>
+                                                                                                                        
+                                                                                                                                    <a class="dropdown-item" href="/env/urp/academic-resources/computer-laptop-requirements.shtml">Computer/Laptop Requirements</a>
+                                                                                                                        
+                                                                                                                                    <a class="dropdown-item" href="/env/urp/academic-resources/forms-undergraduate.shtml">Undergraduate Forms</a>
+                                                                                                                        
+                                                                                                                                    <a class="dropdown-item" href="/env/urp/academic-resources/forms-graduate.shtml">Graduate Forms</a>
+                                                                                                                        
+                                                                                                                                    <a class="dropdown-item" href="/env/urp/academic-resources/financial-aid.shtml">Financial Aid</a>
+                                                                                                                        
+                                                                                                            
+                                </div>
+                            </li>
+                            
+                                                                                                                 
+                                                                                                                                        
+                                        
+                                
+                    
+                                                                                                                                                                
+                                        
+                                
+                    
+                        
+                            <li class="nav-item" id="li-6">
+                                <a class="nav-link" data-parent="#site-nav" href="/env/urp/make-a-gift.shtml">Make a Gift</a>    
+                            </li>
+
+                                                                                                                                                                                            
+                                        
+                                                                                            
+                                                                                    
+                                                                                    
+                                                                                                                                        
+                                        
+                                                                                            
+                                                                                    
+                                                                                    
+                                                                                                                                        
+                                        
+                                
+                    
+                                                                                                                                                                
+                                        
+                                
+                    
+                                                                        </ul>
+        </div>
+    </nav>
+             
+    
+
+
+    <main class="container flex-grow">
+
+           <div class="row">
+                            <div class="col-12" id="main">
+                                    <h1 class="cpp-h1">Master of Urban and Regional Planning</h1>
+            
+
+
+    
+                                            
+                                    <section class="text-images" id="s0">
+                                
+                                                        
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                            <figure class="image align-center" style="text-align: center;"><img alt="Student Desc crit" height="480" src="../img/student-desc-crit.jpg" style="height: auto;" width="640"/>
+<figcaption><span style="font-size: 10pt;"> <em>Student desk crit with Distinguished Alumnus Earl Gales Jr. ('72, urban and regional planning).</em></span></figcaption>
+</figure>
+            </section>
+                            
+                  
+       
+	
+	
+ 
+         
+    
+
+    
+                    
+                  
+        
+                 
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                 
+    	
+            
+                                       <div class="accordion" id="accordion-1">
+                                    
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading1">
+                <h2 class="m-0">
+                    <button aria-controls="collapse1-1" aria-expanded="false" class="btn btn-link" data-target="#collapse1-1" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  Overview
+                    </button>
+                </h2>
+            </div>
+                            <div aria-labelledby="heading1" class="collapse " data-parent="#accordion-1" id="collapse1-1">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                <p>The Masters Program in Urban and Regional Planning at Cal Poly was established in 1972 and is fully accredited by the American Planning Association. It is the only accredited program in Southern California offering most of its classes in the evening hours. The program can be completed in two years if taken on a full time basis, or in up to seven years on a part-time schedule. The quality of the program has been recognized by national accreditation teams, in awards by professional organizations, and by employer demand for our students. In 2006, Planetizen rated the program in the top 25 nationally, 6th in the nation for zoning administration. Planetizen also rated the program as the most diverse in the nation. The Graduate Coordinator is Dr. So-Ra Baek <a href="mailto:sbaek@cpp.edu">sbaek@cpp.edu</a>.</p>
+<p>Our graduates work as planners, managers, analysts, advisors, and designers, at urban, regional, state, and national levels. They work for local governments and governmental agencies, for private consulting firms, and for nonprofit and environmental groups. Students come from a wide variety of backgrounds and disciplines. Many are working part time while they move into or expand their education in the field of planning.</p>
+<p>Planning issues are complex and interrelated. The program draws upon a broad range of disciplines, including economics, sociology, ecology, philosophy, political science, management, and the design professions. This multidisciplinary aspect is valuable in a world where the pace of change and interaction is intensifying. The setting in a College of Environmental Design offers opportunities for collaborations with graduate students in architecture, landscape architecture and regenerative studies.</p>
+<p>The program offers a broad, interdisciplinary, and rigorous curriculum that combines lectures, seminars, and studio projects. The program features extensive contact with faculty. All required core courses are offered in the evening to accommodate working students. The Master of Urban and Regional Planning Program is fully accredited by the Planning Accreditation Board and has been cited as a national model for the education of planners.</p>
+<p>The program consists of a 28 core units, 4 units emphasis core units, 13 units of electives, and 4 units for either a Masters Thesis or a Client-based project. The emphasis units allow students to focus their attention on one of two tracks offered by the program: Planning and Public Policy and entrepreneurship and Leadership.</p>
+<p>The <strong>Planning and Public Policy Track</strong> will serve students interested in research-based planning and policy practice in public, non-profit, and private sectors, as well as those intending to pursue a Ph.D. It emphasizes the advanced mixed-methods research and analysis techniques that underpin plan and policy proposals. Students will have the opportunity to focus their attention on a substantive planning and policy area of interest such as environmental policy, transportation policy, community development, or land use and design.</p>
+<p>The <span></span> <strong style="font-weight: 600;">Entrepreneurship and Leadership Track</strong> <span></span>will produce leaders who thrive in a highly advanced, globalized society. It recognizes that graduate planning programs&#8217; roles now serve a broader function than mid-level public planning positions, and provides graduates with the necessary analytic tools, technical skills and vision to take on leadership positions in private, non-profit, and public sector entities. Students will be able to focus their attention on the needed planning, entrepreneurial, and leadership courses to prepare them for their field of interest, and will complete a professional project in partnership with a planning or community development organization.</p>
+<p>Students&#8217; preference for completing a project or thesis depends on their objectives. For the Client Project, the students identify potential clients and develop their own client project topics. They gain understanding of the client and client's needs for the project, develop goals and objectives for the project, prepare a scope of work, schedule and analysis methodology.</p>
+<p>The electives, which are taken in related areas of interest to the student, are developed with the help of the Graduate Coordinator. The program also allows up to 9 units of electives to be taken in other graduate programs or at other graduate institutions.</p>
+<p>The multidisciplinary core of the program emphasizes:</p>
+<ul>
+<li>A perspective on the history and theory of urban development and planning</li>
+<li>Analysis through rigorous training in the definition, assessment and methodological study of current problems</li>
+<li>Values and diversity through the study of the ethics and implications of different actions and the promotion of diversity in study and practice</li>
+<li>Effective communication through the use of writing assignments, computer technology, and presentations throughout the program</li>
+</ul>
+<p>Students may participate in many international programs, including a planning/architecture studio in China. They may also take advantage of strong Geographic Information System programs in the department and across the campus.</p>
+<h3 class="field field-name-field-sectiontitle field-type-text field-label-hidden">Learning Outcomes</h3>
+<p>The primary learning outcome demonstrated by graduates of the Master of Urban and Regional Planning is effectiveness as urban and regional planning professionals. This effectiveness is exhibited in the application of planning knowledge and skills to facilitate the development of vision and goals, create and implement plans, and solve urban and regional problems. Planning work takes the form of physical design as well as plans and policies. This work is done with a long-term comprehensive perspective, addressing environmental sustainability and social justice.</p>
+<p>These outcomes are assessed in capstone studio and individual research projects. External assessment is provided through student competition in American Planning Association and other organizations&#8217; competitions and award programs as well as Planning Accreditation Board reviews.</p>
+<p>The secondary learning outcome is that graduates have a critical reflective perspective concerning the creation of knowledge, use of planning skills, and professional practice and ethics. They continually consider their own values and those of their clients and communities in undertaking professional planning. Their reflection considers issues of democratic participation, social justice, and environmental sustainability.</p>
+<p>These outcomes are assessed in students&#8217; ability to reflect on key planning issues in a capstone professional practice seminar.</p>
+<p>Effective urban and regional planning practice requires knowledge about cities, regions, and global issues. It is expected that graduates of the program demonstrate knowledge in the following areas:</p>
+<ul>
+<li>Structure and function of urban settlements, and how those settlements are part of larger regional, national, and global systems</li>
+<li>Ecological principles and their implications for sustainability</li>
+<li>History and theory of planning processes and practices</li>
+<li>Administrative, legal, and political aspects of plan-making and policy implementation</li>
+<li>Mastery of their chose area of emphasis</li>
+</ul>
+<p>These outcomes are assessed in students&#8217; performance in lecture-based core classes and in planning electives covering specialized knowledge areas.</p>
+<p>Effective urban and regional practice requires skills in plan development, problem solving, and implementation. Graduates demonstrate skills in the following areas:</p>
+<ul>
+<li>Problem formulation, research skills, data gathering, and analytic techniques.</li>
+<li>Quantitative analysis and computers, including statistical methods, forecasting, and spatial analysis.</li>
+<li>Qualitative research and analysis such as interviewing, discussion facilitation, human behavior, and matrix analysis</li>
+<li>Design research, iterative design process, synthesis</li>
+<li>Written, oral, and graphic communication. Reflective listening</li>
+<li>Collaborative problem solving, plan making, and program design</li>
+<li>Synthesis and application of knowledge to practice</li>
+<li>In-depth research and social policy analysis</li>
+<li>Planning management and leadership</li>
+</ul>
+<p>These outcomes are assessed in students&#8217; performance in core classes, primarily through instructor/student interaction in activity and laboratory sections.</p>
+<p>Ethical urban and regional practice requires that planners adopt a reflective practice that considers complex issues such as social justice, diversity, and the public good. Graduates demonstrate an ability to reflect on and argue a reasoned position on the following issues:</p>
+<ul>
+<li>Relationship of undergraduate education with the field of urban and regional planning</li>
+<li>Equity, social justice, economic welfare, and efficiency in the use of resources</li>
+<li>Government and citizen participation/balancing individual and collective rights and interests in the pursuit of a civically engaged population</li>
+<li>Respect for diversity of views and ideology</li>
+<li>Conservation of natural resources/heritages in the built environment and obligations to act to solve global problems such as climate change</li>
+<li>Ethics of professional practice, including management positions where responsible for ethics of others</li>
+</ul>
+<p>These outcomes are assessed in students&#8217; performance in seminar classes, as part of capstone studies, and in activity sections.</p>
+<h3>Measures of Student Achievement: Planning Accreditation Board (PAB) 1D/Public Information</h3>
+<ul>
+<li><a href="../docs/pab_publicinfo_2024_murp.pdf" rel="noopener" target="_blank" title="Measures of Student Achievement - Master of Urban and Regional Planning (MURP-F1info.pdf) (opens in new window)">Measures of Student Achievement - Master of Urban and Regional Planning (pdf)</a></li>
+<li><a href="../docs/murp-plo-slo.pdf" rel="noopener" target="_blank" title="Program and Student Learning Outcomes - Master of Urban and Regional Planning (MURP_PLO_SLO.pdf) (opens in new window)">Program and Student Learning Outcomes - Master of Urban and Regional Planning (MURP_PLO_SLO.pdf)</a></li>
+</ul>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                            
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading2">
+                <h2 class="m-0">
+                    <button aria-controls="collapse1-2" aria-expanded="false" class="btn btn-link" data-target="#collapse1-2" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  Admissions
+                    </button>
+                </h2>
+            </div>
+                            <div aria-labelledby="heading2" class="collapse " data-parent="#accordion-1" id="collapse1-2">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                <p>The Department accepts applications for&#160;<strong>Fall</strong>&#160;semester only.</p>
+<p>To be considered for admissions, you are required to submit your application materials through the university&#8217;s online application platform. Please pay close attention to the procedures and deadlines. For specific information, application instructions, and requirements please refer to the Masters Admissions page:&#160;<a href="https://www.cpp.edu/admissions/graduate/apply.shtml">Apply as a Graduate Student</a>.</p>
+<h3 class="field field-name-field-sectiontitle field-type-text field-label-hidden"><em style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1rem;"><span style="font-size: 18pt;">Application Deadline for Fall 2025 is February 15, 2025.&#160;</span></em></h3>
+<h5><span style="font-size: 10pt;"><em>**For those who have missed the deadline and are still interested in applying to the program, please reach out to the Graduate Coordinator&#160;</em></span></h5>
+<p>Submit your application through the university&#8217;s online application form found on the&#160;<a href="https://www.cpp.edu/admissions/graduate/masters-app-checklist.shtml">Office of Admissions</a>&#160;webpage along with any supporting material, which includes:</p>
+<ul>
+<li><strong>Unofficial transcripts&#160;</strong>from all institutions of higher education that you have attended. <strong>&#160;</strong></li>
+<li><strong>Three letters of recommendation</strong> from individuals who can address your scholarly and/or professional abilities and can comment on your potential for success in graduate study. Recommenders should upload&#160;their letters through the Cal State Apply platform on letterhead, .pdf or doc. file.</li>
+<li><strong>Statement of Purpose</strong> in which you indicate your reasons for seeking a Master of Urban and Regional Planning degree and discuss your interest and career goals. The statement should be 600-900 words and typed.</li>
+<li><strong>Unofficial test scores</strong>&#160;(GRE and/or TOEFL). Please see below for specific requirements.&#160;</li>
+<li><strong>CV</strong>&#160;</li>
+</ul>
+<p>The department has established the following minimum requirements to prospective students.</p>
+<ul>
+<li><strong>GPA: </strong>Minimum grade point average (GPA) score is 3.0. The University determines your GPA by evaluating all college course work.</li>
+<li><strong>GRE:</strong> Applicants with an undergraduate grade point average between 2.5 and 3.0 will be considered for admission on the basis of scores on the Graduate Record Exam (GRE). Applicants with an undergraduate grade point average of 3.0 or better are not required to take the GRE. We require a combined score of 280 and no less than 135 on either the verbal or the quantitative sections.</li>
+<li><strong>TOEFL:</strong> Applicants who received their undergraduate degree from an institution where English is not the main form of instruction must submit the results of the TOEFL examination. The required minimum score on this examination is 237 (computer-based), 580 (paper-based), or 92-&#173;93 (Internet-&#173;based).</li>
+</ul>
+<p>&#160;</p>
+<p><strong>International Applicants</strong></p>
+<p>Known for its outstanding academic programs, Cal Poly Pomona offers excellent education for international students who wish to pursue a degree in the United States. The Graduate Program accepts non-resident and foreign students. Current and future International Students in Cal Poly academic programs must contact the International Center for information regarding visas, guidelines for maintaining academic progress, and procedures for internships and post graduation work. For additional information on Incoming International Students and requirements, please refer to: <a href="https://www.cpp.edu/admissions/international/apply.shtml">Apply as an International Student</a>.</p>
+<p><strong>&#160;</strong></p>
+<p><strong>Contact</strong></p>
+<p>For inquiries regarding admissions to the Master of Urban and Regional Planning&#160;degree program, please contact:&#160;</p>
+<p><strong>Dr. So Ra Baek</strong><br/>Graduate Coordinator<br/><a href="mailto:sbaek@cpp.edu">sbaek@cpp.edu</a></p>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                            
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading3">
+                <h2 class="m-0">
+                    <button aria-controls="collapse1-3" aria-expanded="false" class="btn btn-link" data-target="#collapse1-3" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  Curriculum
+                    </button>
+                </h2>
+            </div>
+                            <div aria-labelledby="heading3" class="collapse " data-parent="#accordion-1" id="collapse1-3">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                <p>The Department's learning outcomes are strategically connected to each course in the curriculum. The statment below includes the learning outcomes of the Master of Urban and Regional Planning degree.</p>
+<p>The Master of Urban and Regional Planning degree seeks to achieve the learning outcomes described below. The curriculum follows a progression in which learning outcomes are introduced, developed, and mastered. The Master&#8217;s degree seeks a level of development appropriate to mid-level professional planning manager or entry into a Ph.D. program. Students complete a core curriculum and select from among two tracks: 1) planning and public policy, and 2) entrepreneurship and leadership. Students develop their own subject matter expertise in one of the tracks, selecting a specific subject matter expertise in conjunction with the Graduate Coordinator.</p>
+<ul>
+<li>The<span>&#160;</span><em>Planning and Public Policy Track</em><span>&#160;</span>serves students interested in research-based planning and policy practice in public, non-profit, and private sectors, as well as those intending to pursue a Ph.D. It provides advanced mixed-methods research and analysis techniques to guide and underpin plan and policy proposals. The track is intended for those seeking to be analytic leaders in the field and provides a research experience that includes a thesis. Students work with the Graduate Coordinator to focus their attention on a substantive planning and policy area of interest such as environmental policy, transportation policy, community development, or land use and design.</li>
+<li>The<span>&#160;</span><em>Entrepreneurship and Leadership Track</em><span>&#160;</span>aims to produce leaders who thrive in a highly advanced, globalized society. Recognizing that graduate planning programs&#8217; roles now serve a broader function than public planning positions, this track provides graduates with the necessary analytic tools, technical skills and vision to take on leadership positions in private, non-profit, and public sector entities. It is intended to produce visionary leaders who build organizations from the ground up to meet unmet needs for the public good, both domestically and internationally. Students work with the Graduate Coordinator to focus their attention on the needed planning, entrepreneurial, and leadership courses to prepare them for their field of interest.</li>
+</ul>
+<ol>
+<li>
+<p><strong><em>Mastery of urban and regional planning knowledge</em></strong></p>
+<ol style="list-style-type: lower-alpha;">
+<li>
+<p><span style="font-size: 1rem;">Demonstrate knowledge of the evolution of substantive and procedural planning theory, emphasizing behaviors and structures to bring about sound planning and the purpose and meaning of planning, emphasizing the philosophical underpinnings of that understanding, an ability to discern and critique paradigms, and an ability to theorize about planning.</span></p>
+</li>
+<li>
+<p><span style="font-size: 1rem;">Demonstrate knowledge of the role of planning in public, private, and non-profit settings and methods of collaboration and entrepreneurship across sectors appropriate to management-level planning.</span></p>
+</li>
+<li>
+<p>Demonstrate an ability to argue positions regarding planning laws, constitutional rights, legal procedures, and the intergovernmental framework for planning and organizational administration.</p>
+</li>
+<li>
+<p>Explain the historical, current, and likely future influences shaping cities and regions, including design, land use, environmental, social, economic, financial, legal, institutional, and social justice dimensions, while understanding these influences in a global context. Show an ability to apply a multi-paradigmatic approach to these influences.</p>
+</li>
+<li>
+<p><span style="font-size: 1rem;">Demonstrate expert knowledge of at least one subfield of planning, such as community development, environmental policy, transportation policy, or land use and design.</span></p>
+</li>
+</ol>
+</li>
+<li>
+<p><strong style="font-size: 1rem;"><em>Demonstrated communication and dialogic skills</em></strong></p>
+<ol style="list-style-type: lower-alpha;">
+<li>
+<p><span style="font-size: 1rem;">Make well researched, logically crafted, and adequately warranted presentation, analysis or argument in written, oral and graphic forms, suitable for graduate research and advanced professional reports.</span></p>
+</li>
+<li>
+<p><span style="font-size: 1rem;">Discuss clearly planning concepts, research activity, and policy proposals at a level appropriate to mid-level professional planning.</span></p>
+</li>
+<li>
+<p>Communicate, listen, and interpret effectively in planning and interdisciplinary groups, diverse community settings, and decision-making environments, using tools for stakeholder engagement.</p>
+</li>
+<li>
+<p><span style="font-size: 1rem;">Effectively design and carry out visioning, facilitation, and negotiation in planning settings, emphasizing empowerment and broadening of the voices in planning.</span></p>
+</li>
+<li>
+<p>Demonstrate leadership and collaboration skills for organizing team work, community motivation, and decision-making, based on an understanding of organization and community culture.</p>
+</li>
+</ol>
+</li>
+<li>
+<p><strong style="font-size: 1rem;"><em>Demonstrated skills and creativity in research, analysis, and problem solving</em></strong></p>
+<ol style="list-style-type: lower-alpha;">
+<li>
+<p><span style="font-size: 1rem;">Demonstrate competence and creativity in graduate-level data collection, including secondary sources such as library, internet, and government data sources, and primary sources such as field research, surveys, and interviews.</span></p>
+</li>
+<li>
+<p><span style="font-size: 1rem;"></span><span style="font-size: 1rem;">Uncover and mine relevant data, literature or policy, use case studies, and develop research designs appropriate for graduate research and/or advanced studies.</span></p>
+</li>
+<li>
+<p><span style="font-size: 1rem;"></span><span style="font-size: 1rem;">Apply quantitative, qualitative, mixed-method, and spatial analysis tools suitable for carrying out graduate research; interpret research methodologies from the literature.</span></p>
+</li>
+<li><span style="font-size: 1rem;">Apply models for ex ante and ex post policy analysis for sophisticated, multi-dimension problems.</span></li>
+</ol>
+</li>
+<li>
+<p><strong style="font-size: 1rem;"><em>Demonstrated skills and creativity in design, plan, and policy making</em></strong></p>
+<ol style="list-style-type: lower-alpha;">
+<li>
+<p><span style="font-size: 1rem;">Assess the application of alternative design, plan and policy making processes to a problem context, emphasizing change making and organizational capacity. Innovate in designing new planning processes.</span></p>
+</li>
+<li>
+<p><span style="font-size: 1rem;">Develop physical design and non-physical economic and/or social solutions and strategies that anticipate and influence future conditions.</span></p>
+</li>
+<li>
+<p><span style="font-size: 1rem;">Develop implementation strategies to carry out physical designs, and/or economic and social policies, including designing ex post evaluations.</span></p>
+</li>
+<li>
+<p><span style="font-size: 1rem;">Develop a logical hierarchy of ends and means in plan texts; write clear policy and regulatory language that meets legal standards for logic and clarity.</span></p>
+</li>
+<li>
+<p><span style="font-size: 1rem;">Evaluate designs, development plans, and associated implementing tools once implemented.</span></p>
+</li>
+<li>
+<p>Demonstrate entrepreneurship in implementing plans, policies and regulations, including project management, through in-class experiences.</p>
+</li>
+</ol>
+</li>
+<li>
+<p><strong style="font-size: 1rem;"><em>Reflective capacity in ethical and normative reasoning</em></strong></p>
+<ol style="list-style-type: lower-alpha;">
+<li>
+<p><span style="font-size: 1rem;">Reflect on, articulate and justify with graduate-level reasoning positions on concepts such as the public interest(s), governance processes and participation, sustainability and environmental quality, economic growth and efficiency, and diversity and social justice.</span></p>
+</li>
+<li>
+<p><span style="font-size: 1rem;">Demonstrate analytic capability and judgment in considering professional ethics as they apply to typical public, private, and non-profit planning situations that commonly occur at the management level. Articulate and coherent approach to politics and power.</span></p>
+</li>
+<li>
+<p><span style="font-size: 1rem;">Manifest self-knowledge, experiences, and reflective ability concerning learning styles, roles in interdisciplinary teams, and cultural awareness. Have a game plan to carry reflection through one&#8217;s professional career.</span></p>
+</li>
+<li>
+<p><span style="font-size: 1rem;">Demonstrate a commitment to civic engagement and ability to foster and participate in community activities.</span></p>
+</li>
+</ol>
+</li>
+</ol>
+<h3 class="field field-name-field-sectiontitle field-type-text field-label-hidden">Requirements</h3>
+<p>The forty-eight (48) units that must be completed in the graduate degree program are divided into four parts:</p>
+<ul>
+<li>Core&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;28 units</li>
+<li>Track Core &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;4 units</li>
+<li>Client Project or Master&#8217;s Thesis&#160; &#160;&#160; &#160;3 units</li>
+<li>Electives&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;13 units</li>
+</ul>
+<h3 class="field field-name-field-sectiontitle field-type-text field-label-hidden">Core Courses: 28 Units</h3>
+<p style="font-weight: 300;">The program core courses provide the breadth of information needed for excellence in planning practice. They are designed to be taken concurrently with the emphasis and elective courses. There are core courses for the first, second, and if necessary succeeding years. Because each core course is offered once a year, students should first concentrate on scheduling core courses in the proper sequence. The core courses are:</p>
+<p style="font-weight: 300;">URP 5010 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; How Planning Works (Fall)</p>
+<p style="font-weight: 300;">URP 5050 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Planning and Place (Fall)</p>
+<p style="font-weight: 300;">URP 5060 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Land Use Planning: Law and Intergovernmental Relations (Fall)</p>
+<p style="font-weight: 300;">URP 5120 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Planning Ideas and Actions (Fall)</p>
+<p style="font-weight: 300;">URP 5070&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Planning for Environmental Sustainability (Spring)</p>
+<p style="font-weight: 300;">URP 5210/L&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Research Design and Methods (Spring)</p>
+<p style="font-weight: 300;">URP 6520&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Professional Practice (Spring)</p>
+<p style="font-weight: 300;">URP 5400L &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Planning for Community Change (Fall)</p>
+<p style="font-weight: 300;">URP 6400&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Graduate Studio Prep (Fall)</p>
+<p style="font-weight: 300;">URP 6420/L&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Graduate Planning Studio (Spring)</p>
+<p style="font-weight: 300;">URP 6430&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Leadership and Ethics Seminar (Spring)</p>
+<h3 class="field field-name-field-sectiontitle field-type-text field-label-hidden">Track Core Courses: 4 Units</h3>
+<p style="font-weight: 300;">Choose one Track.</p>
+<p style="font-weight: 300;"><strong style="font-weight: 600;">Entrepreneurship and Leadership Emphasis</strong></p>
+<p style="font-weight: 300;">URP 5430 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Methods in Leadership and Entrepreneurship (2)</p>
+<p style="font-weight: 300;">URP 5430A &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Methods in Leadership and Entrepreneurship (1)</p>
+<p style="font-weight: 300;">URP 6901 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Capstone Project Preparation - Client Project (1)</p>
+<p style="font-weight: 300;"><strong style="font-weight: 600;">Planning and Policy Emphasis</strong></p>
+<p style="font-weight: 300;">URP 5230 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Policy Analysis and Advanced Research Methods (2)</p>
+<p style="font-weight: 300;">URP 5230A &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Policy Analysis and Advanced Research Methods Activity (1)</p>
+<p style="font-weight: 300;">URP 6902 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Capstone Project Preparation - Thesis (1)</p>
+<h3 class="field field-name-field-sectiontitle field-type-text field-label-hidden">Culminating Experience: 3 Units</h3>
+<p style="font-weight: 300;">URP 6950 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Client Project (3) or</p>
+<p style="font-weight: 300;">URP 6960 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Master&#8217;s Thesis (3)</p>
+<h3 class="field field-name-field-sectiontitle field-type-text field-label-hidden">URP Graduate Electives; 13 Units</h3>
+<p>Choose a minimum of 13 units with approval of advisor from courses listed below:</p>
+<p style="font-weight: 300;">URP 4000 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Special Study for Upper Division Students (1-3)</p>
+<p style="font-weight: 300;">URP 4030 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Physical Design Applications (1)</p>
+<p style="font-weight: 300;">URP 4030L &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Physical Design Applications Laboratory (2)</p>
+<p style="font-weight: 300;">URP 4040 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Placemaking: Theories, Methods, and Practices (3)</p>
+<p style="font-weight: 300;">URP 4110 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Evolution of American Cities and the Planning Movement (3)</p>
+<p style="font-weight: 300;">URP 4200 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Methods of Engagement; Participation, Negotiation, Mediation (2)</p>
+<p style="font-weight: 300;">URP 4200A &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Methods of Engagement; Participation, Negotiation, Mediation Activity (1)</p>
+<p style="font-weight: 300;">URP 4210 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Planning Advocacy, Community Organizing and Social Change (2)</p>
+<p style="font-weight: 300;">URP 4210A &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Planning Advocacy, Community Organizing and Social Change Activity (1)</p>
+<p style="font-weight: 300;">URP 4220 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; The Just City (3)</p>
+<p style="font-weight: 300;">URP 4230 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Planning for Minority Communities (3)</p>
+<p style="font-weight: 300;">URP 4240 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Public Participation (3)</p>
+<p style="font-weight: 300;">URP 4330 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Affordable Housing Seminar (3)</p>
+<p style="font-weight: 300;">URP 4340 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Community Development and Housing (2)</p>
+<p style="font-weight: 300;">URP 4340A &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Community Development and Housing Activity (1)</p>
+<p style="font-weight: 300;">URP 4360 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Public Finance (3)</p>
+<p style="font-weight: 300;">URP 4370 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Planning for Infrastructure (3)</p>
+<p style="font-weight: 300;">URP 4380 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Land Use Entitlements (3)</p>
+<p style="font-weight: 300;">URP 4390 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Infrastructure Finance (3)</p>
+<p style="font-weight: 300;">URP 4510 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Land Use and Urban Design Policy (2)</p>
+<p style="font-weight: 300;">URP 4510A &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Land Use and Urban Design Policy Activity (1)</p>
+<p style="font-weight: 300;">URP 4660 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Environmental Assessment (3)</p>
+<p style="font-weight: 300;">URP 4750 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Planning in a Global Economy (3)</p>
+<p style="font-weight: 300;">URP 4760 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; International Planning (3)</p>
+<p style="font-weight: 300;">URP 4780 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; GIS Applications in Planning Studio (2)</p>
+<p style="font-weight: 300;">URP 4780L &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; GIS Applications in Planning Studio Laboratory (1)</p>
+<p style="font-weight: 300;">URP 4820 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; California Water (3)</p>
+<p style="font-weight: 300;">URP 4830&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Development Processes (2)</p>
+<p style="font-weight: 300;">URP 4830A &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Development Processes Activity (1)</p>
+<p style="font-weight: 300;">URP 4840 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Neighborhood Development (2)</p>
+<p style="font-weight: 300;">URP 4840A &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Neighborhood Development Activity (1)</p>
+<p style="font-weight: 300;">URP 4850 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Urban Design Principles and Techniques (2)</p>
+<p style="font-weight: 300;">URP 4850L &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Urban Design Principles and Techniques Laboratory (1)</p>
+<p style="font-weight: 300;">URP 4870&#160; &#160; &#160; &#160; &#160; &#160; &#160;Environmental Policy (3)</p>
+<p style="font-weight: 300;">URP 4880 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Local Transportation (2)</p>
+<p style="font-weight: 300;">URP 4880L &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Local Transportation Laboratory (1)</p>
+<p style="font-weight: 300;">URP 4890 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Transportation Methods and Analysis (2)</p>
+<p style="font-weight: 300;">URP 4890L &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Transportation Methods and Analysis Laboratory (1)</p>
+<p style="font-weight: 300;">URP 4900 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Advanced GIS (2)</p>
+<p style="font-weight: 300;">URP 4900L &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Advanced GIS Laboratory (1)</p>
+<p style="font-weight: 300;">URP 4910 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Planning for Climate Change (2)</p>
+<p style="font-weight: 300;">URP 4910A &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Planning for Climate Change Activity (1)</p>
+<p style="font-weight: 300;">URP 4980 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Advanced Planning Studio (2)</p>
+<p style="font-weight: 300;">URP 4980L &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Advanced Planning Studio Laboratory (1-3)</p>
+<p style="font-weight: 300;">URP 4990 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Special Topics for Upper Division Students (1-3)</p>
+<p style="font-weight: 300;">URP 5250 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; GIS for Planning (2)</p>
+<p style="font-weight: 300;">URP 5250L &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; GIS for Planning Laboratory (1)</p>
+<p style="font-weight: 300;">URP 5340 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Urban Housing and Community Development (2)</p>
+<p style="font-weight: 300;">URP 5340A &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Urban Housing and Community Development Activity (1)</p>
+<p style="font-weight: 300;">URP 5350 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Regional Transportation Policy and Planning (3)</p>
+<p style="font-weight: 300;">URP 5370 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Environmental Policy (3)</p>
+<p style="font-weight: 300;">URP 5380 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Urban Design (2)</p>
+<p style="font-weight: 300;">URP 5380L &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Urban Design Laboratory (1)</p>
+<p style="font-weight: 300;">URP 5410 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Field Internship (1-2)</p>
+<p style="font-weight: 300;">URP 5990 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Special Topics for Graduate Students (1-3)</p>
+<p style="font-weight: 300;">URP 6910 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Directed Research (1-3)</p>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                            
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading4">
+                <h2 class="m-0">
+                    <button aria-controls="collapse1-4" aria-expanded="false" class="btn btn-link" data-target="#collapse1-4" data-toggle="collapse">
+                              
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                  FAQs
+                    </button>
+                </h2>
+            </div>
+                            <div aria-labelledby="heading4" class="collapse " data-parent="#accordion-1" id="collapse1-4">
+                          <div class="card-body">
+
+                                            
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                <p><span style="font-size: 18pt;">How long does the program take?</span></p>
+<p>Two years if you attend full time. Part-time attendance is possible. All coursework must be completed within seven years.</p>
+<p><span style="font-size: 18pt;">When can I start?</span></p>
+<p>The course sequencing is set up for Fall semester admission.</p>
+<p><span style="font-size: 18pt;">Do you require a particular degree for entry?</span></p>
+<p>No. A variety of undergraduate degrees are appropriate preparation for a planning education.</p>
+<p><span style="font-size: 18pt;">What does it mean that the program is accredited?</span></p>
+<p>Accreditation means that the Planning Accreditation Board has certified that the program provides professional training that meets their standards. Employers look for students from nationally accredited programs.</p>
+<p><span style="font-size: 18pt;">Do I need a drafting background?</span></p>
+<p>No. A first year studio course will teach you what you need to know in graphic communication and design. Beyond that, it is your option whether you want to take additional courses in urban design.</p>
+<p><span style="font-size: 18pt;">Is an internship required?</span></p>
+<p>Internships are a valuable source of experience but they are not required. The college has an internship coordinator to help you find a position.</p>
+<p><span style="font-size: 18pt;">Will I get practical job skill?</span></p>
+<p>The program focuses on providing the skills you need for effective professional practice. Coursework emphasizes learning by doing, through fieldwork and projects in communities.</p>
+<p><span style="font-size: 18pt;">What are the job prospects?</span></p>
+<p align="left">Job prospects are very good. Southern California will grow rapidly in the next decade; planners are needed to manage that growth. Recently, there has been growth in the areas of GIS, environmental planning, transportation planning, economic development and telecommunications.</p>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                    </div>   
+               
+	
+	
+ 
+         
+    
+
+</div>
+</div>
+</main>
+
+		
+    <div lang="en">
+
+
+                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                 
+<style>
+     @media screen and (min-width: 992px) {
+    .mini-footer .footer__socials-buttons {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}
+
+.mini-footer .button1__transducer {
+    font-size: 12px;
+    letter-spacing: .5px;
+}
+
+.mini-footer .button {
+	margin-top: 0;
+    padding: 8px 20px 8px 20px;
+
+}
+.mini-footer .footer-line {
+    border-top: thin solid #a4d65e;
+    margin-top: 39px;
+    padding-top: 15px;
+}
+ </style>
+<footer class="footer mini-footer">
+    <div class="footer__rip-wrapper">
+        <img class="footer__rip" alt="" src="/common/green-and-gold/assets/images/green-rip.svg" alt="Ripped green paper." />
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-2">
+                <div class="footer__logo-wrapper">
+                    <a href="/" aria-label="CPP Logo">
+                        <img class="footer__logo" src="/common/green-and-gold/assets/logos/cpp_primary_1c_gold_rgb.png" alt="Cal Poly Pomona logo, building with a palm tree." />
+                    </a>
+                </div>
+            </div>
+            <div class="col-12 col-lg-6 offset-lg-4">
+                <div class="footer__socials">
+                    <div class="footer__socials-buttons">
+                        <a class="button button__secondary button1__transducer" href="/apply/">Apply</a>
+                        <a class="button button__secondary button1__transducer" href="https://maps.cpp.edu/">Maps</a>
+                        <a class="button button__secondary button1__transducer" href="/outreach/tours.shtml">Visit</a>
+                        <a class="button button__secondary button1__transducer" href="/contact.shtml">Contact Us</a>
+                    </div>
+                    <div class="footer__socials-icons">
+                        <a href="https://www.instagram.com/calpolypomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram opens a new window" />
+                        </a>
+                        <a href="https://www.linkedin.com/school/cal-poly-pomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn opens a new window" />
+                        </a>
+                        <a href="https://www.youtube.com/user/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="YouTube opens a new window" />
+                        </a>
+                        <a href="https://www.facebook.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook opens a new window" />
+                        </a>
+                        <a href="https://twitter.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X opens a new window" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 footer-line">
+                <div class="footer__errata">
+                    <p class="footer__copyright" style="line-height: 1.8em">Copyright ©2025 California State Polytechnic University, Pomona.  All Rights Reserved 
+                        
+                        <br />A campus of 
+                        
+                        <a class="footer__errata-link" style="display: inline" href="https://www.calstate.edu/">The California State University</a>.
+                    
+                    </p>
+                    <div class="footer__errata-links">
+                        <a class="footer__errata-link" href="https://www.cpp.edu/website-feedback.shtml">Feedback</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/privacy.shtml">Privacy</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/accessibility.shtml">Accessibility</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/file-viewers.shtml">Document Readers</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer__gradient-bottom"></div>
+</footer>
+
+
+<script   src="https://code.jquery.com/jquery-3.2.1.min.js"   integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="   crossorigin="anonymous">
+</script><script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script src="https://www.cpp.edu/common/green-and-gold/assets/js/cpp-legacy.js" ></script>
+<script src="https://www.cpp.edu/common/2018/assets/js/tabs.js" ></script>
+<script src="/common/green-and-gold/assets/js/nav.js"></script>
+
+
+</div>
+    
+		
+		
+	</body>
+</html>

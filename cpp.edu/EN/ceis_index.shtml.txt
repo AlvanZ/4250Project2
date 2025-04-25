@@ -1,0 +1,1876 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+    <head>
+        <meta charset="UTF-8"/>
+        <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+        <meta content="ie=edge" http-equiv="X-UA-Compatible"/>
+        <title>
+            College of Education and Integrative Studies
+        </title>
+        
+        <meta content="The College of Education and Integrative Studies offers bachelor's, master's, teaching certificates and the only doctoral degree at Cal Poly Pomona." name="description"/>
+        
+            <script src="https://cdn.levelaccess.net/accessjs/YW1wX2NwcDExMDM/access.js"></script>
+<script>// <![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSKJRNV');
+// ]]></script>
+<link rel="icon" href="/common/green-and-gold/assets/icons/gg-favicon.svg"  type="image/svg+xml" />
+<link rel="icon" href="/common/green-and-gold/assets/icons/gg-favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/index.css" />
+<link rel="stylesheet" href="https://use.typekit.net/fia5dle.css" />
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/cpp-fonts.css" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+<script src="/common/green-and-gold/assets/js/accordion.js"></script>
+<script crossorigin="anonymous" defer="defer" integrity="sha384-FW78RPcSpi13vjx77nPWQIrQbNSLkPBopb0qGzLCxD2x4Kr6FA8V05C/6cpgkKPL" src="https://pro.fontawesome.com/releases/v5.10.1/js/all.js"></script>
+<script src="/common/green-and-gold/assets/js/modal.js"></script>
+<script src="/common/green-and-gold/assets/js/fontawesome/v6.0x/sharp-light.js" crossorigin="anonymous" type="text/javascript"></script>
+<script src="/common/green-and-gold/assets/js/fontawesome/v6.0x/sharp-others.js" crossorigin="anonymous" type="text/javascript"></script>
+<!-- Swiper Library -->
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/swiper-bundle.min.css" />
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/swiper-carousel.css" />
+<script src="/common/green-and-gold/assets/js/swiper-bundle.min.js"></script>
+<script src="/common/green-and-gold/assets/js/carousel-cards-swiper.js"></script>
+
+    </head>
+    <body>
+        <a class="skip-to-content-link" href="#main">Skip to content</a>
+             <header class="nav fixed">
+    <nav class="container">
+        <ul class="row nav__main" id="mainNavMenu">
+            <li id="main-logo" class="col-6 col-lg-3 nav__logo">
+                <a href="/" aria-label="Cal Poly Pomona Home" tabindex="0">
+                    <div class="nav__logo--horizontal">
+                        <img src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png" alt="Cal Poly Pomona Logo" />
+                    </div>
+                </a>
+            </li>
+            <!-- department header hidden by default-->
+            <li id="dept-header-desktop" class="col-sm-5 col-md-6 nav__logo desktop d-none">
+                <a href="/" aria-label="Cal Poly Pomona Home" tabindex="0">
+                    <div class="nav__logo--stacked">
+                        <img src="/common/green-and-gold/assets/logos/cpp_primary_2c_green_cmyk.png" alt="Cal Poly Pomona Logo">
+                        </div>
+                    </a>
+                    <div class="divider"></div>
+                    <div id="split-header" class="nav__division col-lg-6">
+                        <div id="large-name"></div>
+                        <div style="display:none" id="sub-name"></div>
+                    </div>
+                </div>
+            </li>
+            <li class="nav__links col-2" id="head-links">
+                <a class="nav__link nav__link--desktop col-1" href="/commencement/" tabindex="0">
+                    <svg
+                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 1px;
+    width: auto;
+">
+                        <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                        <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#005030"></path>
+                    </svg>
+                    <span class="sr-only">commencement</span>
+                </a>
+                <a class="nav__link nav__link--desktop col-1" href="/apply/" tabindex="0">apply</a>
+                <a class="nav__link nav__link--desktop col-1" href="/outreach/tours.shtml" tabindex="0">visit</a>
+                <a class="nav__link nav__link--desktop col-1" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="0">info</a>
+                <a class="nav__link nav__link--desktop col-1" href="/giving/" tabindex="0">give</a>
+                <a class="nav__link nav__link--desktop col-1" href="https://my.cpp.edu" tabindex="0">mycpp</a>
+                <button id="search-open" class="nav__search col-1" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/search-dark-green.svg" alt="Open search box" />
+                </button>
+                <button class="nav__menu col-1" id="menuButton" aria-expanded="false" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/menu.svg" alt="menu" />
+                </button>
+            </li>
+        </ul>
+    </nav>
+</header>
+<header id="search-header" style="display:none">
+    <div class="row">
+        <div class="col-md-6"></div>
+        <div id="searchbox" class="col-md-6">
+            <div id="search-slide">
+                <label for="#gsc-i-id1" class="sr-only">Search</label>
+                <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+                <div class="gcse-searchbox-only" data-resultsurl="https://www.cpp.edu/search.shtml"></div>
+                <button class="nav__menu col-1" id="search-close" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close search menu">
+                    </button>
+                </div>
+            </div>
+            <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+            <script>
+       $("#search-open").click(function() {
+         $("#search-header").show();
+         $("#search-slide").addClass("slideup");
+         $("#gsc-i-id1").focus();
+         $('#search-close').focusout(function() {
+           $("#search-header").hide();
+           $("#search-slide").removeClass("slideup");
+           $("#search-open").focus();
+         })
+       });
+       $("#search-close").click(function() {
+         $("#search-header").hide();
+         $("#search-slide").removeClass("slideup");
+         $("#search-open").focus();
+       });
+     </script>
+            <style>
+       .gstl_50 gssb_c {
+         position: fixed !important;
+       }
+
+       #searchbox {
+         height: 93px;
+         overflow: hidden;
+       }
+
+       #search-header {
+         position: fixed;
+         height: 100px;
+         width: 100%;
+         height: 93px;
+         z-index: 99999;
+         top: 0;
+       }
+
+       #gsc-i-id1 {
+         height: 40px;
+         width: 70%;
+         border-radius: 4px;
+         border: none;
+         padding: 15px;
+       }
+
+       #search-submit {
+         margin: 15px;
+       }
+
+       #search-close {
+         width: 23px;
+         height: 21px;
+         position: absolute;
+         top: 32px;
+       }
+
+       #search-slide {
+         width: 0px;
+         right: -100%;
+         padding: 20px 15px;
+         position: relative;
+         background: #005030;
+         height: 100%;
+         transition: all .5s ease 0s
+       }
+
+       #search-slide.slideup {
+         right: 0;
+         width: 100%;
+         position: relative;
+       }
+
+       @media screen and (max-width:991px) {
+         #search-slide {
+           height: 77px !important;
+           padding: 12px 10px;
+         }
+       }
+
+       @media screen and (max-width:767px) {
+         #search-header {
+           position: relative !important;
+         }
+
+         #search-slide {
+           text-align: center !important;
+         }
+       }
+
+       .gsc-search-button-v2 svg {
+         width: auto;
+         height: 21px;
+       }
+
+       .gsc-search-button-v2,
+       .gsc-search-button-v2:hover,
+       .gsc-search-button-v2:focus {
+         border: none !important;
+         background: none !important;
+       }
+
+       form.gsc-search-box {
+         font-size: 13px;
+         margin-top: 0;
+         margin-right: 0;
+         margin-bottom: 4px;
+         margin-left: 0;
+         width: 100%;
+         display: inline-block;
+       }
+
+       #___gcse_0 {
+         width: 70%;
+         display: inline-block;
+       }
+
+       table.gsc-search-box td.gsc-input {
+         padding-right: 0;
+       }
+
+       #gsc-i-id1 {
+         width: 100%;
+         padding: 0px;
+         border: none;
+         margin: -0.0625em 0px 0px;
+         height: 40px !important;
+         background: rgb(255, 255, 255);
+         outline: none;
+         font-size: 20px;
+         font-weight: 200;
+       }
+
+       .gstl_50.gssb_c {
+         z-index: 99999;
+       }
+
+       .gsq_a {
+         font-weight: 200;
+         font-size: 18px;
+         padding: 2px;
+       }
+
+       .gssb_a img {
+         display: none;
+       }
+     </style>
+        </div>
+    </header>
+    <section class="side-nav" id="sideNavOverlay">
+        <header class="side-nav__overlay relative">
+            <nav class="container">
+                <ul class="row nav__overlay" id="sideNavMenu">
+                    <li class="nav__logo col-12 col-md-10 col-lg-3" id="navLogoOverlay">
+                        <a href="/" aria-label="Cal Poly Pomona Home" tabindex="-1">
+                            <img src="/common/green-and-gold/assets/logos/cpp_horizontal_1c_gold_rgb.png" alt="Cal Poly Pomona Logo" />
+                        </a>
+                    </li>
+                    <div class="nav__overlay--right col-12 col-lg-9">
+                        <li class="nav__links nav__links--desktop col-12 col-lg-6">
+                            <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 1px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/apply/" tabindex="-1">apply</a>
+                            <a class="nav__link nav__link--mobile col-1" href="/outreach/tours.shtml" tabindex="-1">visit</a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="-1">info</a>
+                            <a class="nav__link nav__link--mobile col-1" href="/giving/" tabindex="-1">give</a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://my.cpp.edu" tabindex="-1">mycpp</a>
+                        </li>
+                        <li class="nav__icons col-1">
+                            <button id="search-open-green" class="nav__search col-1" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/search-white.svg" alt="Open search box" />
+                            </button>
+                            <button class="nav__close col-1" id="closeButton" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close menu" />
+                            </button>
+                        </li>
+                        <li class="nav__links nav__links--mobile col-12 col-lg-6">
+                            <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 1px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/apply/" tabindex="-1">apply </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/outreach/tours.shtml" tabindex="-1">visit </a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="-1">info </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/giving/" tabindex="-1">give </a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://my.cpp.edu" tabindex="-1">mycpp </a>
+                        </li>
+                    </div>
+                </ul>
+            </nav>
+        </header>
+        <nav class="container side-nav__container">
+            <ul class="row side-nav__links">
+                <li class="side-nav__link col-12">
+                    <a class="h3__proxima" href="/" tabindex="-1" aria-label="Cal Poly Pomona Home page">Home</a>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--0">
+                    <button class="h3__proxima" id="0" aria-expanded="false" tabindex="-1" aria-label="About">
+                        <span>about</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--1">
+                    <button class="h3__proxima" id="1" aria-expanded="false" tabindex="-1" aria-label="Admissions & Aid">
+                        <span>admissions &amp; aid</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--2">
+                    <button class="h3__proxima" id="2" aria-expanded="false" tabindex="-1" aria-label="Academics">
+                        <span>academics</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--3">
+                    <button class="h3__proxima" id="3" aria-expanded="false" tabindex="-1" aria-label="Life at CPP">
+                        <span>life at CPP</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small">
+            <ul class="row">
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="https://broncoathletics.com/" tabindex="-1">athletics</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/alumni/" tabindex="-1">alumni</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/news/" tabindex="-1">news &amp; events</a>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small-bottom">
+            <ul class="col-12 col-lg-6 side-nav__links--small-bottom">
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/prospective-student-gateway/" tabindex="-1">future students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/student-gateway/" tabindex="-1">current students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/family/" tabindex="-1">families</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/faculty-staff-gateway/" tabindex="-1">faculty &amp; staff</a>
+                </li>
+            </ul>
+            <ul class="col-12 col-lg-6 social-icons">
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.instagram.com/calpolypomona/" aria-label="Instagram" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.linkedin.com/school/cal-poly-pomona/" aria-label="LinkedIn " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.youtube.com/user/calpolypomona" aria-label="Youtube " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="Youtube" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.facebook.com/calpolypomona" aria-label="Facebook " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://twitter.com/calpolypomona" aria-label="X (Twitter)" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X" />
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </section>
+    <script src="/common/green-and-gold/assets/js/nav.js"></script>
+
+            <script>
+    
+                      
+    
+                var mobileHtml = '<li class="col-6 nav__logo mobile"><a aria-label="Cal Poly Pomona Home" href="https://www.cpp.edu/" tabindex="0"><div class="nav__logo--horizontal"><img alt="Cal Poly Pomona Logo" src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png"/></div></a></li>';
+                $( "#main-logo" ).hide();
+                $( "#split-header #large-name" ).html('<a href="/ceis/index.shtml">College of Education and Integrative Studies</a>');
+                $( "#dept-header-desktop" ).removeClass("d-none");
+                $( "#dept-header-desktop" ).addClass("d-flex");
+                $( "#dept-header-desktop" ).parent().prepend(mobileHtml);
+       
+        
+                
+     </script>
+
+        
+    
+
+
+
+
+    
+            
+    
+                    
+    
+    
+    
+       
+
+           
+                           <code></code>
+           
+                            
+<header class="sub-nav">
+<nav class="container" id="subNavContainer">
+    <ul class="row sub-nav__links">
+
+           <li class="sub-nav__link">
+            <a class="button__proxima sub-nav__link--default" href="/ceis/index.shtml" tabindex="0">Home</a>
+        </li>
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">About <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/ceis/about/deans-welcome.shtml" tabindex="0">Dean's Welcome</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/ceis/strategic-plan.shtml" tabindex="0"> Strategic Plan</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/ceis/about/mission-vision-values.shtml" tabindex="0">Mission, Vision and Values</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/ceis/about/cctc/index.shtml" tabindex="0">Accreditation and Assessment</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/ceis/about/org-chart/index.shtml" tabindex="0">Organizational Chart</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/ceis/about/employment-opportunities.shtml" tabindex="0">Employment Opportunities</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/ceis/about/contact-us.shtml" tabindex="0">Contact Us</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Departments and Programs <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/ceis/early-childhood-studies/index.shtml" tabindex="0">Early Childhood Studies Department</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/ceis/education/index.shtml" tabindex="0">Education Department</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/ceis/edleadership/index.shtml" tabindex="0">Educational Leadership Department</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/ceis/liberal-studies/index.shtml" tabindex="0">Liberal Studies Department</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/ceis/interdisciplinary-general-education/index.shtml" tabindex="0"> - Interdisciplinary General Education Program</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/ceis/credential-program/index.shtml" tabindex="0">Teaching Credential Programs</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/ceis/credential-program/credential-services/programs-and-services.shtml" tabindex="0"> - Credential Services Office</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Students <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/ceis/students/admittedstudents.shtml" tabindex="0">Admitted Students</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/ceis/students/prospectivestudents.shtml" tabindex="0">Prospective Students</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/ceis/students/currentstudents.shtml" tabindex="0">Current Students</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/ceis/students/graduatestudents.shtml" tabindex="0">Graduate Students</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/ceis/scholarships/index.shtml" tabindex="0">Scholarships</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/ceis/student-clubs/index.shtml" tabindex="0">Student Clubs</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">CEIS Community <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/ceis/news/index.shtml" tabindex="0">News</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/ceis/events/index.shtml" tabindex="0">Events</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/ceis/news/faculty-highlights.shtml" tabindex="0">Faculty Highlights</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/ceis/news/teacher-academy.shtml" tabindex="0">Teacher Academy</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+           <li class="sub-nav__link">
+            <a class="button__proxima sub-nav__link--default" href="https://www.cpp.edu/ceis/student-success-center/" tabindex="0">Student Success Center</a>
+        </li>
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">College Giving <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/ceis/giving/cpp.shtml" tabindex="0">Give Now</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/ceis/giving/ways-to-give.shtml" tabindex="0">Ways to Give</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/ceis/giving/why-give.shtml" tabindex="0">Why Give</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+</ul>
+
+<div class="row sub-nav__division-menu">
+    <div class="sub-nav__division">College of Education and Integrative Studies</div>
+        <div class="col-4 menu-button">
+        <button aria-expanded="false" aria-label="Site Menu" class="button button__primary--yellow-green button__proxima" data-dropdown-id="dropdownMenuBtn" id="dropdownMenuBtn">Menu
+             <span class="icon chevron">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" height="12" viewBox="0 0 19 12" width="19">
+            <g id="Atom / Icon / Expand Arrow / Small">
+            <path d="M2 2L9.5 9L17 2" id="Vector 2" stroke="none" stroke-width="3"/>
+            </g>
+            </svg>
+            </span>
+        </button>
+    </div>
+    <div class="sub-nav__dropdown hidden" id="dropdownMenu">
+       
+                       
+             <li class="sub-nav__link">
+    <a class="button__proxima" href="/ceis/index.shtml" tabindex="0">Home</a>
+  </li>
+      
+
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="1" tabindex="0">About<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--1">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/ceis/about/deans-welcome.shtml" tabindex="0">Dean's Welcome</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/ceis/strategic-plan.shtml" tabindex="0"> Strategic Plan</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/ceis/about/mission-vision-values.shtml" tabindex="0">Mission, Vision and Values</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/ceis/about/cctc/index.shtml" tabindex="0">Accreditation and Assessment</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/ceis/about/org-chart/index.shtml" tabindex="0">Organizational Chart</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/ceis/about/employment-opportunities.shtml" tabindex="0">Employment Opportunities</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/ceis/about/contact-us.shtml" tabindex="0">Contact Us</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="2" tabindex="0">Departments and Programs<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--2">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/ceis/early-childhood-studies/index.shtml" tabindex="0">Early Childhood Studies Department</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/ceis/education/index.shtml" tabindex="0">Education Department</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/ceis/edleadership/index.shtml" tabindex="0">Educational Leadership Department</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/ceis/liberal-studies/index.shtml" tabindex="0">Liberal Studies Department</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/ceis/interdisciplinary-general-education/index.shtml" tabindex="0"> - Interdisciplinary General Education Program</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/ceis/credential-program/index.shtml" tabindex="0">Teaching Credential Programs</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/ceis/credential-program/credential-services/programs-and-services.shtml" tabindex="0"> - Credential Services Office</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="3" tabindex="0">Students<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--3">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/ceis/students/admittedstudents.shtml" tabindex="0">Admitted Students</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/ceis/students/prospectivestudents.shtml" tabindex="0">Prospective Students</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/ceis/students/currentstudents.shtml" tabindex="0">Current Students</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/ceis/students/graduatestudents.shtml" tabindex="0">Graduate Students</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/ceis/scholarships/index.shtml" tabindex="0">Scholarships</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/ceis/student-clubs/index.shtml" tabindex="0">Student Clubs</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="4" tabindex="0">CEIS Community<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--4">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/ceis/news/index.shtml" tabindex="0">News</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/ceis/events/index.shtml" tabindex="0">Events</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/ceis/news/faculty-highlights.shtml" tabindex="0">Faculty Highlights</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/ceis/news/teacher-academy.shtml" tabindex="0">Teacher Academy</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+             <li class="sub-nav__link">
+    <a class="button__proxima" href="https://www.cpp.edu/ceis/student-success-center/" tabindex="0">Student Success Center</a>
+  </li>
+      
+
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="5" tabindex="0">College Giving<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--5">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/ceis/giving/cpp.shtml" tabindex="0">Give Now</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/ceis/giving/ways-to-give.shtml" tabindex="0">Ways to Give</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/ceis/giving/why-give.shtml" tabindex="0">Why Give</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+    </div>
+</div>
+
+
+
+
+</nav>
+<script type="text/javascript">
+    $(".button").attr("data-dropdown-id", "dropdownMenuBtn").on("click", function(event) {
+        var dropdownMenu = $("#dropdownMenu");
+        var nestedDropdownMenus = $(".sub-nav__nested-dropdown");
+        
+        if ($(this).attr("aria-expanded") === "false") {
+            $(this).attr("aria-expanded", "true");
+        } else {
+            $(this).attr("aria-expanded", "false");
+        }
+
+        toggleDropdown(dropdownMenu);;
+        
+        // close all nested dropdown menus if open
+        nestedDropdownMenus.each(function() {
+            if ($(this).hasClass("show")) {
+                $(this).removeClass("show");
+                $(this).addClass("hidden");
+            }
+        })
+    })
+    $(".sub-nav__nested-button").on("click", function(event) {
+        var currentButtonId = $(this).attr("id")
+        var nestedDropdownMenu = $(`#nestedDropdownMenu--${currentButtonId}`)
+        $(this).find(".chevron").toggleClass("active");
+
+        if ($(this).attr("aria-expanded") === "false") {
+            $(this).attr("aria-expanded", "true");
+        } else {
+            $(this).attr("aria-expanded", "false");
+        }
+
+        toggleDropdown(nestedDropdownMenu);
+    })
+    function toggleDropdown(menu) {
+        if (menu.hasClass("hidden")) {
+            menu.removeClass("hidden");
+            menu.addClass("show");
+            
+            //add click listener to check for clicks outside of the nav
+            //https://stackoverflow.com/questions/152975/how-do-i-detect-a-click-outside-an-element/3028037#3028037
+            $(document).click(function(event) { 
+                var $target = $(event.target);
+                if(!$target.closest('#subNavContainer').length) {
+                    closeDropdown(menu);
+                }
+            });
+            
+            //add listener for escape key
+            $(document).on('keydown', function(event) {
+                if (event.key == "Escape") {
+                    closeDropdown(menu);
+            }});
+        } else {
+            menu.removeClass("show");
+            menu.addClass("hidden");
+        }
+    }
+
+    function closeDropdown(menu) {
+        var dropdownMenu = $("#dropdownMenu");
+        var nestedDropdownMenus = $(".sub-nav__nested-dropdown");  
+        $(".button").attr("data-dropdown-id", "dropdownMenuBtn").attr("aria-expanded", "false");
+        nestedDropdownMenus.each(function() {
+            if ($(".button").attr("data-dropdown-id", "dropdownMenuBtn").hasClass("show")) {
+                $(".button").attr("data-dropdown-id", "dropdownMenuBtn").removeClass("show");
+                $(".button").attr("data-dropdown-id", "dropdownMenuBtn").addClass("hidden");
+            }
+        })
+        menu.removeClass("show");
+        menu.addClass("hidden");
+    }
+
+</script>
+</header>
+           
+                           <code></code>
+           
+                            
+<div class="cqw-wrapper" id="main">
+
+
+           <div class="organism-spacer ${padding}" style="--mobilePaddingBottomOverride: 50px;">
+          <section class="college-landing" id="landingId--u94zpdgzzd8">
+            <div class="college-landing__accent-image-wrapper">
+              <img alt="building 6" class="college-landing__accent-image" src="img/guzman-eric-collegewood.jpg"/>
+            </div>
+            <div class="container">
+              <div class="row">
+                         <div class="col-12 col-lg-6">
+                            
+                  <div class="college-landing__text">
+                    <h1 class="h1__proxima college-landing__header">College of Education and Integrative Studies</h1>
+                    <p class="h6__proxima college-landing__copy">Empowering students to become innovative, skilled and socially responsible leaders by fostering an interdisciplinary, equitable and student-centered learning community dedicated to social justice, sustainability and lifelong learning in a global context.</p>
+                  </div>
+                </div>
+                               <div class="col-12 col-lg-5 offset-lg-1">
+                            
+                  <div class="college-landing__content-wrapper">
+               
+                                                                                                                                               <picture class="college-landing__content--image">
+                                    <img alt="Teacher giving a lecture for students in class" src="img/500x400header.jpg"/>
+                                </picture>
+  
+                                          <script>
+                     $(document).ready(function(){
+                            
+        
+                            $(".college-landing__video-play-icon").click(function() {
+                               var video = $(".college-landing__content-video").get(0);
+                                if(video.paused){
+                                    video.play();
+                                    $(".college-landing__video-play-icon").addClass("playing");
+                                    $(".college-landing__video-play-icon").attr("aria-pressed", "true");
+                                    $(".college-landing__video-play-icon").attr("aria-label", "Pause video");
+                                }else{
+                                    video.pause();
+                                    $(".college-landing__video-play-icon").removeClass("playing");
+                                    $(".college-landing__video-play-icon").attr("aria-pressed", "false");
+                                    $(".college-landing__video-play-icon").attr("aria-label", "Play video");
+                                }
+                        
+                                notifyStateChange()
+                            });
+
+                            function notifyStateChange() {
+                                 var video = $(".college-landing__content-video").get(0);
+                                const liveRegion = document.getElementById('liveRegion');
+                                liveRegion.textContent = video.paused ? 'Video paused' : 'Video playing';
+                            }
+                                                    
+                     });
+
+            </script>
+                                                                 
+                 </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="college-landing__eggshell-rip"></div>
+              </section>
+            </div>   
+            
+            
+            <script>
+                 var totalItemsheroCarousel = $('#heroCarousel .carousel-item').length;
+                $('#cardCarouselNumheroCarousel').html(totalItemsheroCarousel);
+               
+                var slideheroCarousel = $('#heroCarousel .carousel-item.active').index() + 1; 
+                var slideTitleheroCarousel = $('#heroCarousel .carousel-item.active .hero-carousel__copy h2').html(); 
+                $('#hero-carousel-notification').html('&gt;Slide ' + slideheroCarousel + ' /' + totalItemsheroCarousel + ' Title:' + slideTitleheroCarousel);
+                
+                   $('#heroCarousel').on('slid.bs.carousel', function() {
+                        slideheroCarousel = $('#heroCarousel .carousel-item.active').index() + 1;  
+                        slideTitleheroCarousel = $('#heroCarousel .carousel-item.active .hero-carousel__copy h2').html(); 
+                        $('#hero-carousel-notification').html('&gt;Slide ' + slideheroCarousel + ' /' + totalItemsheroCarousel + ' Title:' + slideTitleheroCarousel);
+                      })
+                
+            </script>
+
+                  
+                        
+                      
+            <style>
+  <!--
+  @media (max-width: 767px) {
+    #cardCarousel1 .carousel-inner .card-carousel-item>div {
+      display: none;
+    }
+
+    #cardCarousel1 .carousel-inner .carousel-item>div:first-child {
+      display: block;
+    }
+   
+  }
+  
+  #cardCarousel1 .carousel-inner .carousel-item.active,
+  #cardCarousel1 .carousel-inner .carousel-item-next,
+  #cardCarousel1 .carousel-inner .carousel-item-prev {
+    display: flex;
+  }
+
+  /* medium and up screens */
+  @media (min-width: 768px) {
+
+    #cardCarousel1 .carousel-inner .carousel-item-end.active,
+    #cardCarousel1 .carousel-inner .carousel-item-next {
+      transform: translateX(33%);
+    }
+
+    #cardCarousel1 .carousel-inner .carousel-item-start.active,
+    #cardCarousel1 .carousel-inner .carousel-item-prev {
+      transform: translateX(-33%);
+    }
+  }
+
+  #cardCarousel1 .carousel-inner .carousel-item-end,
+  #cardCarousel1 .carousel-inner .carousel-item-start {
+    transform: translateX(0);
+  }
+
+  #cardCarousel1 .carousel-indicators {
+    bottom: 60px !important;
+  }
+
+  .card-carousel .carousel-item {
+    gap: 20px;
+    padding-top: 20px;
+    height: 100% !important;
+  }
+  -->
+</style>
+         
+      <div class="organism-spacer spacer__padding-top--medium">
+                  <div class="container">
+                     <div class="row">
+                      <div class="content-carousel content-carousel--default">
+                                                                       <div class="content-carousel__header stacked">
+                                <h2 class="kicker kicker__transducer">WHAT IS THE COLLEGE OF EDUCATION &amp; INTEGRATIVE STUDIES?</h2>
+                                    <h3 class="h2__proxima col-lg-8">WE ARE CEIS MIGHTY!</h3>
+                                        <p class="body2 col-12 col-lg-8">As a learning community of students, scholars and professionals, we are dedicated to the advancement and development of knowledge, interdisciplinary and student-centered education, equity, social justice and community engagement.</p>
+                                              
+     
+                          <div class="content-carousel content-carousel__controls-wrapper d-flex justify-content-end">
+                          <div class="content-carousel content-carousel__controls">
+                              <button aria-disabled="false" aria-label="Previous slide" class="carousel-prev--2" data-bs-slide="prev" data-bs-target="#cardCarousel1" style="opacity: 1;" type="button">
+                                <span class="visually-hidden">Previous </span>
+                              </button>
+                              <div aria-live="polite" class="carousel-tracker body3">
+                                <div id="cardCarouselNum1"></div>
+                              </div>
+                              <button aria-disabled="false" aria-label="Next slide" class="carousel-next carousel-next--2" data-bs-slide="next" data-bs-target="#cardCarousel1" style="opacity: 1;" type="button">
+                                <span class="visually-hidden">Next </span>
+                              </button>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                     
+                    <div class="card-carousel cutoff carousel slide" data-bs-interval="false" id="cardCarousel1">
+                        <div class="carousel-inner" role="listbox">        
+        
+                                                                                                                              
+                                <div class="card-carousel-item carousel-item  dept-card active col-12" role="group">
+                                  <div class="carousel__card col-12 col-md-4">
+                                     <a class="card card__open card__open--link bar--magenta--with-arrow bar--thin" href="https://www.cpp.edu/ceis/about/mission-vision-values.shtml">
+                                    
+                                      <div class="card__open-img">
+                                        <img alt="Three females posing for a picture smiling" class="bright-green-card__image" src="img/card-1.png"/>
+                                      </div>
+                                        <div class="card__open-content">
+                                            <h3 class="h6__proxima">Social Justice and Equity</h3>
+                                                                                            <p class="body2 image-card-text">We care, listen, think and act together to affect social justice in and outside of the classroom.</p>
+                                                                                    </div>
+                                    </a>
+                                  </div>
+                                </div>
+                                
+                                
+                                                                                                                              
+                                <div class="card-carousel-item carousel-item dept-card col-12" role="group">
+                                  <div class="carousel__card col-12 col-md-4">
+                                     <a class="card card__open card__open--link bar--magenta--with-arrow bar--thin" href="https://www.cpp.edu/ceis/students/prospectivestudents.shtml">
+                                    
+                                      <div class="card__open-img">
+                                        <img alt="four student forming a group and working together" class="bright-green-card__image" src="img/card2.png"/>
+                                      </div>
+                                        <div class="card__open-content">
+                                            <h3 class="h6__proxima">Interdisciplinary Education</h3>
+                                                                                            <p class="body2 image-card-text">We believe in implementing creative, interdisciplinary and integrative approaches in a polytechnic context. </p>
+                                                                                    </div>
+                                    </a>
+                                  </div>
+                                </div>
+                                
+                                
+                                                                                                                              
+                                <div class="card-carousel-item carousel-item dept-card col-12" role="group">
+                                  <div class="carousel__card col-12 col-md-4">
+                                     <a class="card card__open card__open--link bar--magenta--with-arrow bar--thin" href="https://www.cpp.edu/ceis/news/index.shtml">
+                                    
+                                      <div class="card__open-img">
+                                        <img alt="Two female students consulting with a specialist" class="bright-green-card__image" src="img/card_3.png"/>
+                                      </div>
+                                        <div class="card__open-content">
+                                            <h3 class="h6__proxima">Student-Centered Learning</h3>
+                                                                                            <p class="body2 image-card-text">We cultivate a supportive and empathetic learning community that places student success and well-being at the center of what we do. </p>
+                                                                                    </div>
+                                    </a>
+                                  </div>
+                                </div>
+                                
+                                
+                                                      </div>
+                </div>
+            </div>
+        </div>
+    </div>
+  
+           <script>
+        let items1 = document.querySelectorAll('#cardCarousel1 .card-carousel-item')
+        
+         var cardHeight = 0;
+    var cardMaxHeight = 0;
+      items1.forEach((el) => {
+      
+       if( $(el).css('display') == 'flex') {
+          cardHeight = el.offsetHeight;
+    } else {
+        $(el).addClass('active');
+       cardHeight = el.offsetHeight;
+       $(el).removeClass('active');
+    }
+      if(cardHeight > cardMaxHeight) {
+        cardMaxHeight = cardHeight;
+      }
+        const minPerSlide = 3
+        let next = el.nextElementSibling
+        for (var i = 1; i < minPerSlide; i++) {
+          if (!next) {
+            // wrap carousel by using first child
+            console.log(next);
+            next = items1[0]
+          }
+          let cloneChild = next.cloneNode(true)
+          el.appendChild(cloneChild.children[0])
+          next = next.nextElementSibling
+        }
+      }) 
+            console.log("Max Card Height " + cardMaxHeight);
+    $('#cardCarousel1 .card-carousel-item').height(cardMaxHeight);
+    $('#cardCarousel1 .card-carousel-item .carousel__card').height(cardMaxHeight);
+    var totalItems1 = $('#cardCarousel1 .carousel-item').length;
+    $('#cardCarouselNum1').html(totalItems1);
+   
+    var slide1 = $('#cardCarousel1 .carousel-item.active').index() + 1; 
+    var slideTitle1 = $('#cardCarousel1 .carousel-item.active h3').html(); 
+    $('#cardCarouselNum1').html('<span class="sr-only">Slide</span> ' + slide1 + ' /' + totalItems1 + ' <span class="sr-only">Title:' + slideTitle1 + '</span>');
+    
+       $('#cardCarousel1').on('slid.bs.carousel', function() {
+            slide1 = $('#cardCarousel1 .carousel-item.active').index() + 1; 
+            slideTitle1 = $('#cardCarousel1 .carousel-item.active h3').html(); 
+            $('#cardCarouselNum1').html('<span class="sr-only">Slide</span> ' + slide1 + ' /' + totalItems1 + ' <span class="sr-only">Title:' + slideTitle1 + '</span>');
+          })
+ 
+   
+   
+</script>
+           
+           
+ 
+ 
+
+     
+
+        
+    <div class="organism-spacer spacer__padding-top--medium">
+    <section class="stat-grid stat-grid--dark-green">
+   <div class="container">
+       <h2 class="sr-only">Rankings</h2>
+      <div class="row">
+                
+                     <div class="col-12 col-sm-6 col-lg-4">
+                <section class="stat-card stat-card--dark-green">
+                                   <h3 class="stat1 stat-card__value">#1</h3>
+                
+               <h4 class="h6__proxima stat-card__label">Polytechnic University for Diversity &amp; Economic Mobility</h4>
+               <p class="body3 stat-card__copy">The Wall Street Journal, 2025; CollegeNET, 2024; Diverse: Issues in Higher Education, 2024</p>
+             </section>        
+        </div>
+            
+                     <div class="col-12 col-sm-6 col-lg-4">
+                <section class="stat-card stat-card--dark-green">
+                                   <h3 class="stat1 stat-card__value">#2</h3>
+                
+               <h4 class="h6__proxima stat-card__label">Top Public University West </h4>
+               <p class="body3 stat-card__copy">U.S. News &amp; World Report</p>
+             </section>        
+        </div>
+            
+                     <div class="col-12 col-sm-6 col-lg-4">
+                <section class="stat-card stat-card--dark-green">
+                                   <h3 class="stat1 stat-card__value">#21</h3>
+                
+               <h4 class="h6__proxima stat-card__label">Best Colleges in America</h4>
+               <p class="body3 stat-card__copy">The Wall Street Journal</p>
+             </section>        
+        </div>
+        
+      </div>
+   </div>
+</section>    
+
+ </div>
+    
+
+
+    
+        
+                  
+                        
+                      
+            <style>
+  <!--
+  @media (max-width: 767px) {
+    #cardCarousel2 .carousel-inner .card-carousel-item>div {
+      display: none;
+    }
+
+    #cardCarousel2 .carousel-inner .carousel-item>div:first-child {
+      display: block;
+    }
+   
+  }
+  
+  #cardCarousel2 .carousel-inner .carousel-item.active,
+  #cardCarousel2 .carousel-inner .carousel-item-next,
+  #cardCarousel2 .carousel-inner .carousel-item-prev {
+    display: flex;
+  }
+
+  /* medium and up screens */
+  @media (min-width: 768px) {
+
+    #cardCarousel2 .carousel-inner .carousel-item-end.active,
+    #cardCarousel2 .carousel-inner .carousel-item-next {
+      transform: translateX(33%);
+    }
+
+    #cardCarousel2 .carousel-inner .carousel-item-start.active,
+    #cardCarousel2 .carousel-inner .carousel-item-prev {
+      transform: translateX(-33%);
+    }
+  }
+
+  #cardCarousel2 .carousel-inner .carousel-item-end,
+  #cardCarousel2 .carousel-inner .carousel-item-start {
+    transform: translateX(0);
+  }
+
+  #cardCarousel2 .carousel-indicators {
+    bottom: 60px !important;
+  }
+
+  .card-carousel .carousel-item {
+    gap: 20px;
+    padding-top: 20px;
+    height: 100% !important;
+  }
+  -->
+</style>
+ 
+
+                     <div class="organism-spacer spacer__padding-top--medium">
+                  <div class="container">
+                     <div class="row">
+                      <div class="content-carousel content-carousel--default">
+    
+                              
+                                                                            <div class="content-carousel__header default ">
+                                
+                                <h2 class="h4__transducer col-lg-6">Academic Programs</h2>
+                                              
+                          <div class="content-carousel content-carousel__controls-wrapper d-flex justify-content-end">
+                              
+                                                                      <div class="content-carousel__cta cta--desktop cta--mobile">
+                                            <a class="button button__primary--light-green button1__transducer" href="https://www.cpp.edu/programs/index.shtml?college=Education%20and%20Integrative%20Studies">VIEW ALL PROGRAMS</a>
+                                        </div>
+                              
+                                                               
+                            
+                              
+                            <div class="content-carousel content-carousel__controls">
+                              <button aria-disabled="false" aria-label="Previous slide" class="carousel-prev--2" data-bs-slide="prev" data-bs-target="#cardCarousel2" style="opacity: 1;" type="button">
+                                <span class="visually-hidden">Previous </span>
+                              </button>
+                              <div aria-live="polite" class="carousel-tracker body3">
+                                <div id="cardCarouselNum2"></div>
+                              </div>
+                              <button aria-disabled="false" aria-label="Next slide" class="carousel-next carousel-next--2" data-bs-slide="next" data-bs-target="#cardCarousel2" style="opacity: 1;" type="button">
+                                <span class="visually-hidden">Next </span>
+                              </button>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    <div class="card-carousel carousel slide" data-bs-interval="false" id="cardCarousel2">
+                        <div class="carousel-inner" role="listbox">        
+        
+        
+        
+        
+                        
+                                         
+            <div class="card-carousel-item carousel-item active" role="group">
+            <div class="carousel__card">
+                                     <a aria-roledescription="Slide 1 link" class="card card__link card__kicker card--dark-green bar--green--with-arrow col-lg-4" href="https://www.cpp.edu/programs/ceis/liberal-studies/general-studies.shtml">
+                                            
+                      <div class="card__body">
+                                                     <span class="kicker">Bachelor's</span>
+                                                 <h3 class="h4__proxima">Liberal Studies </h3>
+                        <p class="body2">The Liberal Studies Department offers two pathways: Liberal Studies and IGE. It fosters social justice by providing diverse educational pathways that emphasize critical thinking, interdisciplinary knowledge and ethical practice, preparing students to address societal challenges through careers in education, sustainability and global humanities.</p>
+                      </div>
+                    </a>
+                           
+            </div>
+          </div>
+                  
+                        
+                                         
+            <div class="card-carousel-item carousel-item" role="group">
+            <div class="carousel__card">
+                                     <a aria-roledescription="Slide 2 link" class="card card__link card__kicker card--dark-green bar--green--with-arrow col-lg-4" href="https://www.cpp.edu/programs/ceis/early-childhood-studies/ecs.shtml">
+                                            
+                      <div class="card__body">
+                                                     <span class="kicker">Bachelor's</span>
+                                                 <h3 class="h4__proxima">Early Childhood Studies </h3>
+                        <p class="body2">Providing students the knowledge and skills needed to make a positive difference in the lives of children.</p>
+                      </div>
+                    </a>
+                           
+            </div>
+          </div>
+                  
+                        
+                                         
+            <div class="card-carousel-item carousel-item" role="group">
+            <div class="carousel__card">
+                                     <a aria-roledescription="Slide 3 link" class="card card__link card__kicker card--dark-green bar--green--with-arrow col-lg-4" href="https://www.cpp.edu/ceis/credential-program/index.shtml">
+                                            
+                      <div class="card__body">
+                                                     <span class="kicker">Post Baccalaureate</span>
+                                                 <h3 class="h4__proxima">Teaching Credential </h3>
+                        <p class="body2">Our fully accredited programs, recognized by the California Commission on Teacher Credentialing, will prepare you to tackle the challenges of diverse classrooms and become a leader in your school and community, while meeting state teacher preparation standards and student-centered teaching expectations.</p>
+                      </div>
+                    </a>
+                           
+            </div>
+          </div>
+                  
+                        
+                                         
+            <div class="card-carousel-item carousel-item" role="group">
+            <div class="carousel__card">
+                                     <a aria-roledescription="Slide 4 link" class="card card__link card__kicker card--dark-green bar--green--with-arrow col-lg-4" href="https://www.cpp.edu/ceis/education/masters-programs/index.shtml">
+                                            
+                      <div class="card__body">
+                                                     <span class="kicker">Master's</span>
+                                                 <h3 class="h4__proxima">Education </h3>
+                        <p class="body2">Empowering educators to become advocates for justice and equity, providing quality instruction, embracing challenges, inspiring innovation, and collaborating to improve outcomes for schools and communities.</p>
+                      </div>
+                    </a>
+                           
+            </div>
+          </div>
+                  
+                        
+                                         
+            <div class="card-carousel-item carousel-item" role="group">
+            <div class="carousel__card">
+                                     <a aria-roledescription="Slide 5 link" class="card card__link card__kicker card--dark-green bar--green--with-arrow col-lg-4" href="https://www.cpp.edu/ceis/edleadership/index.shtml">
+                                            
+                      <div class="card__body">
+                                                     <span class="kicker">Doctoral </span>
+                                                 <h3 class="h4__proxima">Educational Leadership </h3>
+                        <p class="body2">Prepares scholar-practitioner leaders who champion social justice, engage in critical inquiry and foster ethical, transformative change to improve teaching and learning, offering programs such as the Administrative Services Credential and Educational Leadership Doctoral Program.</p>
+                      </div>
+                    </a>
+                           
+            </div>
+          </div>
+                                      </div>
+                </div>
+            </div>
+        </div>
+    </div>
+     
+           <script>
+  let items2 = document.querySelectorAll('#cardCarousel2 .card-carousel-item')
+    var cardHeight = 0;
+    var cardMaxHeight = 0;
+      items2.forEach((el) => {
+   
+
+    if( $(el).css('display') == 'flex') {
+          cardHeight = el.offsetHeight;
+    } else {
+        $(el).addClass('active');
+       cardHeight = el.offsetHeight;
+       $(el).removeClass('active');
+    }
+      if(cardHeight > cardMaxHeight) {
+        cardMaxHeight = cardHeight;
+      }
+        const minPerSlide = 3
+        let next = el.nextElementSibling
+        for (var i = 1; i < minPerSlide; i++) {
+          if (!next) {
+            // wrap carousel by using first child
+            console.log(next);
+            next = items2[0]
+          }
+          let cloneChild = next.cloneNode(true)
+          el.appendChild(cloneChild.children[0])
+          next = next.nextElementSibling
+        }
+      }) 
+
+      console.log("Max Card Height " + cardMaxHeight);
+            
+    $('#cardCarousel2 .card-carousel-item').css("min-height", cardMaxHeight);
+    $('#cardCarousel2 .card-carousel-item .carousel__card').css("min-height", cardMaxHeight);
+
+    var totalItems2 = $('#cardCarousel2 .carousel-item').length;
+    $('#cardCarouselNum2').html(totalItems2);
+   
+    var slide2 = $('#cardCarousel2 .carousel-item.active').index() + 1; 
+    var slideTitle2 = $('#cardCarousel2 .carousel-item.active h3').html(); 
+    $('#cardCarouselNum2').html('<span class="sr-only">Slide</span> ' + slide2 + ' /' + totalItems2 + ' <span class="sr-only">Title:' + slideTitle2 + '</span>');
+    
+       $('#cardCarousel2').on('slid.bs.carousel', function() {
+            slide2 = $('#cardCarousel2 .carousel-item.active').index() + 1; 
+            slideTitle2 = $('#cardCarousel2 .carousel-item.active h3').html(); 
+            $('#cardCarouselNum2').html('<span class="sr-only">Slide</span> ' + slide2 + ' /' + totalItems2 + ' <span class="sr-only">Title:' + slideTitle2 + '</span>');
+          })
+ 
+  
+       
+    
+    
+   
+</script>
+           
+           
+
+
+        
+                
+            
+    
+    
+        
+        
+
+<div class="organism-spacer spacer__margin-top--medium">
+   <section class="featured ">
+      <div class="container">
+         <header class="featured__header">
+            <h2 class="h4__transducer">Our Broncos in Action </h2>
+            <a class="button button__primary--light-green button1__transducer" href="                                                          https://www.cpp.edu/ceis/news/articles/llafaurieaward24.shtml      ">SUCCESS STORIES </a>
+         </header>
+         
+         <div class="row">
+            <div class="col-lg-4">
+               <a class="featured-card bar--magenta--with-arrow bar--thin" href="                                                          https://www.cpp.edu/ceis/news/llafaurieaward24.shtml      " target="_blank" title="opens a new window">
+                                  <div class="featured-card__image-wrapper"><img alt="L Lafuarie" class="featured-card__image" src="img/llafaurieaward241.jpg"/></div>
+                  <h3 class="featured-card__header kicker__transducer featured-card__header--magenta">Student Awarded the 2024 Weglyn Award</h3>
+                  <p class="featured-card__copy h6__proxima">Recent Ed.D graduate, Dr. Leilani C. Lafaurie  has been awarded the 2024 Michi and Walter Weglyn Endowed Chair of Multicultural Studies Social Justice Award.</p>  
+               </a>
+            </div>
+            
+            <div class="col-12 col-lg-1 divider"></div>
+            <div class="row col-lg-7 featured__logos">
+               <header class="col-12 featured__logos-header">
+                  <div class="kicker__transducer kicker__mobile">WHERE OUR GRADS WORK</div>
+               </header>
+                                              
+        
+               <div class="col-6">
+                  <div class="featured__logos-img"> <img alt="CHINO VALLEY" src="img/chino-valley-district-logo-black.png"/></div>
+               </div>
+            
+                                              
+        
+               <div class="col-6">
+                  <div class="featured__logos-img"> <img alt="COVINA VALLEY" src="img/covina-valley-district-logo.png"/></div>
+               </div>
+            
+                                              
+        
+               <div class="col-6">
+                  <div class="featured__logos-img"> <img alt="EDTIWANDA" src="img/etiwanda-district-logo.png"/></div>
+               </div>
+            
+                                              
+        
+               <div class="col-6">
+                  <div class="featured__logos-img"> <img alt="Los Angeles Unified School District" src="img/los_angeles_unified_school_district.png"/></div>
+               </div>
+            
+                                              
+        
+               <div class="col-6">
+                  <div class="featured__logos-img"> <img alt="Pomona Unified School District" src="img/pomona_unified_school_district.png"/></div>
+               </div>
+            
+                                              
+        
+               <div class="col-6">
+                  <div class="featured__logos-img"> <img alt="The Walt Disney Company" src="img/the_walt_disney_company.png"/></div>
+               </div>
+            
+                        </div>
+         </div>
+      </div>
+   </section>
+</div>
+
+
+            
+            
+
+            
+        
+               
+       
+        <div class="organism-spacer spacer__padding-top--medium">
+            <section class="featured hide">
+                <div class="container">
+                    <header class="featured__header">
+                        <h2 class="h4__transducer">College News</h2>
+                        <a class="button button__primary--light-green button1__transducer" href="                                                          https://www.cpp.edu/ceis/news/index.shtml      ">See Full News Articles</a>
+                    </header>
+     
+                                     <div class="row">
+                        <div class="col-lg-4">
+                            
+                                                    
+                                                                                    
+                                                            
+                                                     
+                                                                                    
+                                                            
+                                                     
+                                                                                    
+                                                            
+                                                     
+                                                                                    
+                                                                                        
+                                    <a class="featured-card bar--magenta--with-arrow bar--thin" href="news/ceissteamacademy2024.shtml" target="_blank" title="opens in new window">
+                                                                                <div class="featured-card__image-wrapper">
+                                            <img alt="Student on field trip" class="featured-card__image" src="img/steamacd1.jpg"/>
+                                        </div>
+                                        <h3 class="featured-card__header kicker__transducer featured-card__header--magenta">Planting the Seed for Our Next Environmental Ambassadors</h3>
+                                        <p class="featured-card__copy h5__proxima">The College of Education and Integrative Studies in partnership with The National College Resources Foundation (NCRF) hosted STEAM Exploration Academy.</p>
+                                    </a>
+                                    
+                                                            </div>
+                        <div class="col-12 col-lg-1 divider"></div>
+                        <div class="col-lg-7 featured__small-cards">
+                                                                                    
+                                                                                            
+
+                                                                    <a class="small-card bar--magenta--with-arrow bar--thin" href="news/llafaurieaward24.shtml" target="_blank" title="opens a new window">
+                                                                                <div class="small-card__image-wrapper">
+                                            <img alt="Female Graduate student holding Award" class="small-card__image" src="img/llafaurieaward24.jpg"/>
+                                        </div>
+                                        <div class="small-card__content">
+                                            <h3 class="small-card__header kicker__transducer small-card__header--magenta">Leilani Lafaurie Awarded the 2024 Weglyn Award</h3>
+                                            <p class="small-card__copy h5__proxima">Recent Ed.D graduate, Dr. Leilani C. Lafaurie  has been awarded the 2024 Michi and Walter Weglyn Endowed Chair of Multicultural Studies Social Justice Award!</p>
+                                        </div>
+                                    </a>
+                                                                            
+                                                                                        
+                                                                                            
+
+                                                                    <a class="small-card bar--magenta--with-arrow bar--thin" href="news/24edddistingauth24.shtml" target="_blank" title="opens a new window">
+                                                                                <div class="small-card__image-wrapper">
+                                            <img alt="Students setting in a lecture room" class="small-card__image" src="img/disauthor241.jpg"/>
+                                        </div>
+                                        <div class="small-card__content">
+                                            <h3 class="small-card__header kicker__transducer small-card__header--magenta">2024 Ed Leadership Distinguished Author Institute</h3>
+                                            <p class="small-card__copy h5__proxima">Ed Leadership hosted their first Distinguished Author Institute for the Academic Year. Three cohorts and faculty were invited to attend in person at Kellogg West Conference Center and all other guests were invited to attend via Zoom. </p>
+                                        </div>
+                                    </a>
+                                                                            
+                                                                                        
+                                                                                            
+
+                                                                    <a class="small-card bar--magenta--with-arrow bar--thin" href="news/summer-orientation24.shtml" target="_blank" title="opens a new window">
+                                                                                <div class="small-card__image-wrapper">
+                                            <img alt="People cheering  " class="small-card__image" src="img/24orientation.jpg"/>
+                                        </div>
+                                        <div class="small-card__content">
+                                            <h3 class="small-card__header kicker__transducer small-card__header--magenta">Summer Orientation 2024</h3>
+                                            <p class="small-card__copy h5__proxima">2024 Summer Orientation has begun and has brought a new group of students to the CEIS Community.</p>
+                                        </div>
+                                    </a>
+                                                                            
+                                                                                            </div>
+                    </div>
+                    
+                          
+                            </div>
+            </section>
+        </div>
+               
+            
+
+    
+    
+        
+    <style>
+        a.card__image-cta:focus {
+            outline: 3px solid #005030;
+            border: solid 2px #fff;
+            border-radius: 5px;
+        }
+    </style>
+    
+    <div class="organism-spacer spacer__background-color--eggshell organism-spacer  spacer__margin-top--medium spacer__padding-bottom--medium">
+        <section class="three-up__cta-card">
+            <div class="container">
+                <div class="header__wrapper">
+                    <img alt="" class="cta-card__svg" src="https://www.cpp.edu/common//green-and-gold/assets/images/vertical-line-circle.svg"/>
+                    <header class="header">
+                        <h2 class="h1__proxima">Take the Next Step</h2>
+                    </header>
+                </div>
+                <div class="row">
+                    
+                                      
+                                    
+                    
+                    <div class="col-12 col-sm-10 col-md-8 col-lg-4">
+                        <a class="card card__image-cta bar--magenta--with-arrow col-lg-4" href="https://www.cpp.edu/apply/" target="_blank" title="opens a new window">
+                            <div class="card__button">
+                                <div class="button button__primary--yellow button1__transducer">Apply</div>
+                            </div>
+                            <div class="card__img"> <img alt="" src="img/cppbitmap_broncostatue_both_300dpi.jpg"/></div>
+                        </a>
+                    </div>
+                    
+                  
+                                    
+                    
+                    <div class="col-12 col-sm-10 col-md-8 col-lg-4">
+                        <a class="card card__image-cta bar--magenta--with-arrow col-lg-4" href="giving/cpp.shtml" target="_blank" title="opens a new window">
+                            <div class="card__button">
+                                <div class="button button__primary--yellow button1__transducer">Give</div>
+                            </div>
+                            <div class="card__img"> <img alt="" src="img/cpp_bitmap_nature_both_300dpi.jpg"/></div>
+                        </a>
+                    </div>
+                    
+                  
+                                    
+                    
+                    <div class="col-12 col-sm-10 col-md-8 col-lg-4">
+                        <a class="card card__image-cta bar--magenta--with-arrow col-lg-4" href="https://www.cpp.edu/ceis/about/contact-us.shtml" target="_blank" title="opens a new window">
+                            <div class="card__button">
+                                <div class="button button__primary--yellow button1__transducer">Contact Us</div>
+                            </div>
+                            <div class="card__img"> <img alt="" src="img/cpp_bitmap_business_both_300dpi_v22.jpg"/></div>
+                        </a>
+                    </div>
+                    
+                                      
+                                    </div>
+            </div>
+        </section>
+    </div>
+        <style>
+    .footer__rip-wrapper {
+        background: #f2eee8;
+    }
+    </style>
+</div>
+
+
+    <div class="footer__gradient-section">
+<div class="container">
+<div class="row">
+
+     <div class="col-12 col-lg-4">
+        <h2 class="footer__gradient-header">College of Education and Integrative Studies</h2>
+      </div>
+      <div class="col-12 col-lg-8 footer__gradient-socials-wrapper">
+        <h3 class="footer__gradient-social-header button2__transducer">Follow Us:</h3>
+        <div class="footer__gradient-socials">
+              <a href="https://www.instagram.com/cppceis/" target="_blank">
+            <span aria-live="assertive" class="screen-reader-text">Instagram opens a new window</span>
+            <img alt="Instagram" src="/common/green-and-gold/assets/icons/social/insta-reverse.svg"/>
+          </a>
+                                <a href="https://www.facebook.com/cppceis " target="_blank">
+            <span aria-live="assertive" class="screen-reader-text">Facebook opens a new window</span>
+            <img alt="Facebook" src="/common/green-and-gold/assets/icons/social/fb-reverse.svg"/>
+          </a>
+                       <a href="https://twitter.com/ceiscpp" target="_blank">
+            <span aria-live="assertive" class="screen-reader-text">X opens a new window</span>
+            <img alt="X" src="/common/green-and-gold/assets/icons/social/x-reverse.svg"/>
+          </a>
+          
+       </div>
+ </div>
+ <style>
+    .footer__rip-wrapper {
+         background: none;
+     }
+ </style>
+
+
+
+
+</div>
+</div>
+</div>
+
+         
+<style>
+     @media screen and (min-width: 992px) {
+    .mini-footer .footer__socials-buttons {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}
+
+.mini-footer .button1__transducer {
+    font-size: 12px;
+    letter-spacing: .5px;
+}
+
+.mini-footer .button {
+	margin-top: 0;
+    padding: 8px 20px 8px 20px;
+
+}
+.mini-footer .footer-line {
+    border-top: thin solid #a4d65e;
+    margin-top: 39px;
+    padding-top: 15px;
+}
+ </style>
+<footer class="footer mini-footer">
+    <div class="footer__rip-wrapper">
+        <img class="footer__rip" alt="" src="/common/green-and-gold/assets/images/green-rip.svg" alt="Ripped green paper." />
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-2">
+                <div class="footer__logo-wrapper">
+                    <a href="/" aria-label="CPP Logo">
+                        <img class="footer__logo" src="/common/green-and-gold/assets/logos/cpp_primary_1c_gold_rgb.png" alt="Cal Poly Pomona logo, building with a palm tree." />
+                    </a>
+                </div>
+            </div>
+            <div class="col-12 col-lg-6 offset-lg-4">
+                <div class="footer__socials">
+                    <div class="footer__socials-buttons">
+                        <a class="button button__secondary button1__transducer" href="/apply/">Apply</a>
+                        <a class="button button__secondary button1__transducer" href="https://maps.cpp.edu/">Maps</a>
+                        <a class="button button__secondary button1__transducer" href="/outreach/tours.shtml">Visit</a>
+                        <a class="button button__secondary button1__transducer" href="/contact.shtml">Contact Us</a>
+                    </div>
+                    <div class="footer__socials-icons">
+                        <a href="https://www.instagram.com/calpolypomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram opens a new window" />
+                        </a>
+                        <a href="https://www.linkedin.com/school/cal-poly-pomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn opens a new window" />
+                        </a>
+                        <a href="https://www.youtube.com/user/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="YouTube opens a new window" />
+                        </a>
+                        <a href="https://www.facebook.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook opens a new window" />
+                        </a>
+                        <a href="https://twitter.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X opens a new window" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 footer-line">
+                <div class="footer__errata">
+                    <p class="footer__copyright" style="line-height: 1.8em">Copyright ©2025 California State Polytechnic University, Pomona.  All Rights Reserved 
+                        
+                        <br />A campus of 
+                        
+                        <a class="footer__errata-link" style="display: inline" href="https://www.calstate.edu/">The California State University</a>.
+                    
+                    </p>
+                    <div class="footer__errata-links">
+                        <a class="footer__errata-link" href="https://www.cpp.edu/website-feedback.shtml">Feedback</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/privacy.shtml">Privacy</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/accessibility.shtml">Accessibility</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/file-viewers.shtml">Document Readers</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer__gradient-bottom"></div>
+</footer>
+
+    </body>
+</html>

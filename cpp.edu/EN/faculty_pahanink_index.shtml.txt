@@ -1,0 +1,467 @@
+ <!DOCTYPE html> <!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+<title>Peter Hanink</title>
+
+
+
+
+
+
+
+
+
+
+
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=10.0" name="viewport"/>
+<script src='https://cdn.levelaccess.net/accessjs/YW1wX2NwcDExMDM/access.js'></script><link href="/common/resources/css/css-2016.css?v=1493476946063" rel="stylesheet"/> 
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0T6W53PFQH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0T6W53PFQH');
+</script>
+
+<link href="/common/resources/css/cpp-print.css?v=1372871296540" media="print" rel="stylesheet"/> 
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet"> 
+<link href="/common/resources/css/header-2016-acc.css" rel="stylesheet">
+
+<style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</style>
+
+
+
+
+
+
+
+<link href="../_files/css/faculty-style.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+<div class="page-container">
+<header>
+<div id="logobar">
+ 
+    <div class="octo-logo">
+<a href="/index.shtml" id="cpp-header-logo-link"><img alt="Cal Poly Pomona" src="https://www.cpp.edu/common/2018/assets/img/cpp-octo-web.svg"/></a>
+<a class="sr-only" href="#main-body" id="skip-to-nav">Skip To Main Content</a></div>
+
+<!-- for old logo uncomment
+<div class="span4 logo">
+<a href="/index.shtml" id="cpp-header-logo-link"><img alt="Cal Poly Pomona" src="https://www.cpp.edu/common/resources/img/logo.png"/></a>
+</div>
+-->
+  <button aria-label="expand navigation menu" class="hamburger"><span class="glyphicon glyphicon-menu-hamburger"></span></button>
+  <button aria-label="close navigation menu" class="cross" style="display:none;"><span class="glyphicon glyphicon-remove"></span></button>
+  <button aria-label="open search box" class="search"><span class="glyphicon glyphicon-search"></span></button> 
+
+</div>
+
+
+<div class="menu" id="full-expanded-menu" style="display:none;">
+<div class="full-expanded-menu-container">
+
+<nav aria-label="Main University Navigation">
+
+<div class="row">
+    <nav id="main-university-nav">
+        <ul>
+        <li class="nav-highlight"><a href="https://www.cpp.edu/~library/index.shtml">LIBRARY</a></li>
+        <li class="nav-highlight"><a href="https://my.cpp.edu">ONLINE SERVICES</a></li>
+        <li class="nav-highlight"><a href="https://apps.cpp.edu/bronco411/search/">DIRECTORY</a></li>
+        <li class="nav-highlight"><a href="https://maps.cpp.edu/">MAPS</a></li>
+        <li class="nav-highlight"><a href="https://www.cpp.edu/events/">CALENDAR</a></li>
+        </ul>
+    </nav>
+
+</div>
+
+<nav class="row">
+    <form action="https://www.cpp.edu/search.shtml" class="center-search" id="searchcpp" method="get" role="search">
+        <div class="toCenter">
+            <label class="acc_label" for="searchbar">What are you searching for?</label>
+            <input class="search-query_new" id="searchbar" maxlength="256" name="q" placeholder="SEARCH CPP.EDU" size="155" style="height:35px;font-size:12pt;" title="search" type="text"/> 
+            <label class="acc_label" for="searchbutton">Search</label>
+            <input alt="SEARCH" class="button" id="searchbutton" src="/common/resources/img/submit_button.png" title="SEARCH" type="image"/>
+            <input name="site" type="hidden" value="default_collection"/> 
+            <input name="client" type="hidden" value="cpp-fe"/> 
+            <input name="output" type="hidden" value="xml_no_dtd"/> 
+            <input name="proxystylesheet" type="hidden" value="cpp-fe"/>
+            <input name="markup" type="hidden" value="html5"/>
+        </div>
+    </form>
+</nav>
+
+<div class="row" id="univesrity-sub-menu-nav"> 
+<nav aria-label="About Cal Poly Pomona" class="sub-nav-column">
+    <ul>
+        <li class="menu-header"><a href="/~aboutcpp/index.shtml">About Cal Poly Pomona</a></li>
+        <li><a href="http://www.cpp.edu/~aboutcpp/index.shtml">Cal Poly Pomona Overview</a></li>
+        <li><a href="http://www.cpp.edu/~aboutcpp/visitor-information/directions.shtml">Visitor Information</a></li>
+        <li><a href="http://www.cpp.edu/outreach/tours.shtml">Campus Maps &amp; Tours</a></li>
+        <li><a href="http://polycentric.cpp.edu/">News</a></li>
+        <li><a href="http://www.cpp.edu/events">Events</a></li>
+        <li><a href="http://www.cpp.edu/~aboutcpp/administration.shtml">Administration</a></li>
+        <li><a href="http://www.cpp.edu/annual-security-report.shtml">Annual Security Report</a></li>
+        <li><a href="http://www.cpp.edu/campus-safety-plan.shtml">Campus Safety Plan</a></li>
+    </ul>
+</nav>
+<nav aria-label="Admissions Information" class="sub-nav-column">
+    <ul>
+        <li class="menu-header"><a href="http://www.cpp.edu/~admissions/index.shtml">Admissions</a></li>
+        <li><a href="https://www.cpp.edu/~admissions/index.shtml#undergraduate">Undergraduate Admissions</a></li>
+        <li><a href="https://www.cpp.edu/~admissions/index.shtml#graduate">Graduate Admissions</a></li>
+        <li><a href="https://www.cpp.edu/~admissions/index.shtml#international">International Admissions</a></li>
+        <li><a href="https://www.cpp.edu/~extended-education/index.shtml">Continuing Education Admissions</a></li>
+        <li><a href="https://www.cpp.edu/~veterans/admissions/index.shtml">Military &amp; Veterans Admissions</a></li>
+        <li><a href="https://www.cpp.edu/~financial-aid/index.shtml">Financial Aid &amp; Scholarships</a></li>
+        <li><a href="https://www.cpp.edu/~student-accounting/index.shtml">Student Accounts &amp; Fees</a></li>
+        <li><a href="https://www.cpp.edu/~outreach/index.shtml">Outreach, Recruitment, &amp; Educational Partnerships </a></li>
+    </ul>
+</nav>
+
+<nav aria-label="Academics Information" class="sub-nav-column">
+    <ul>
+    <li class="menu-header"><a href="http://www.cpp.edu/~academics/index.shtml">Academics</a></li>
+    <li><a href="http://www.cpp.edu/~academics/colleges-departments/index.shtml">Colleges &amp; Departments</a></li>
+    <li><a href="http://www.cpp.edu/~academics/majors-degrees/index.shtml">Majors &amp; Degrees</a></li>
+    <li><a href="http://www.cpp.edu/~academics/university-catalog/index.shtml">University Catalog &amp; Academic Schedules</a></li>
+    <li><a href="http://www.cpp.edu/~library/index.shtml">University Library</a></li>
+    <li><a href="http://www.cpp.edu/~academics/research.shtml">Research</a></li>
+    <li><a href="http://www.cpp.edu/~academics/academic-resources/index.shtml">Academic Resources</a></li>
+    <li><a href="http://www.cpp.edu/~registrar/index.shtml">Registrar</a></li>
+    </ul>
+</nav>
+
+<nav aria-label="Campus Life Information" class="sub-nav-column">
+    <ul>
+    
+    <li class="menu-header"><a href="http://www.cpp.edu/~campus-life/index.shtml">Campus Life</a></li>
+    <li><a href="http://www.cpp.edu/~campus-life/student-services/index.shtml">Student Services</a></li>
+    <li><a href="http://www.cpp.edu/~campus-life/student-activities/index.shtml">Student Activities</a></li>
+    <li><a href="http://www.cpp.edu/~campus-life/recreation-fitness/index.shtml">Recreation &amp; Fitness</a></li>
+    <li><a href="http://www.cpp.edu/~campus-life/health-wellness/index.shtml">Health &amp; Wellness</a></li>
+    <li><a href="http://www.cpp.edu/~campus-life/housing-dining/index.shtml">Housing &amp; Dining</a></li>
+    <li><a href="http://www.cpp.edu/~campus-life/diversity/index.shtml">Diversity</a></li>
+    <li><a href="http://events.cpp.edu">Calendars &amp; Events</a></li>
+    <li><a href="http://www.cpp.edu/~campus-life/campus-safety-info/index.shtml">Campus Safety &amp; Emergency Info</a></li>
+    </ul>
+</nav>
+
+<div class="sub-nav-column">
+    <nav aria-labelledby="athletics-menu-header">   
+        <ul>
+        <li class="menu-header" id="athletics-menu-header">Athletics</li>
+        <li><a class="external-link" href="http://www.broncoathletics.com/">Visit Athletics Website</a></li>
+        </ul>
+    </nav>
+ <nav aria-labelledby="alumni-menu-header">   
+        <ul>
+        <li class="menu-header" id="alumni-menu-header">Alumni</li>
+        <li><a class="external-link" href="http://www.cpp.edu/~alumni/">Visit Alumni Website</a></li>
+        </ul>
+    </nav>
+    <nav aria-label="Campus Giving Informaion">
+        <ul>
+            <li class="menu-header"><a href="http://www.cpp.edu/giving/index.shtml">Giving</a></li>
+            <li><a href="http://www.cpp.edu/giving/why-give.shtml">Why Give</a></li>
+            <li><a href="http://www.cpp.edu/giving/ways-give.shtml">Ways to Give</a></li>
+            <li><a href="http://www.cpp.edu/giving/where-to-give.shtml">Where to Give</a></li>
+        </ul>
+    </nav>
+</div>
+
+<button aria-label="close expaned menu" class="closemenu hidden-screen-reader-info">close expanded menu</button>
+</div>
+</nav>
+</div>
+</div>
+
+        
+</header> 
+<main class="container" id="main">
+<div class="row pgtop">
+<div class="span12">    
+
+
+
+    <div class="row">
+        	<div class="fac-info">
+				<div class="row">
+					<div class="span3">
+						<img alt="Peter A. Hanink" src="haninkphoto.jpg"/>
+					</div><!--/span3-->
+					<div class="span10">
+						<h1>Peter A. Hanink</h1>
+						<p><span class="title-dept">
+						                                <em>Assistant Professor, Sociology Department, College of Letters, Arts, and Social Sciences</em>
+                        </span></p>
+						
+						<div class="menu-left">
+                            						    <h2 class="hidden-screen-reader-info">Email</h2>	<p class="emailicon"><a href="mailto:pahanink@cpp.edu">pahanink@cpp.edu</a></p>
+                            							<h2 class="hidden-screen-reader-info">Phone number</h2><p class="phoneicon">909-869-4832</p>
+						</div>
+						<div class="menu-right">
+						<h2 class="hidden-screen-reader-info">Office location</h2>	<p class="locationicon">
+                                                                    <a href="https://www.cpp.edu/maps/?id=1130#!m/276183" target="_blank">5-238</a>
+                                                           </p>
+						<h2 class="hidden-screen-reader-info">Office hours</h2>	<p class="hoursicon">
+                                                                                                        <span class="odd">M | 11 AM - 1 PM (5-238)</span>
+                                                                                                                                            <span class="even">T | 10-12 PM (ZOOM)</span>
+                                                            </p>
+						</div>
+					</div><!--/span10-->
+					
+				</div><!--/row-->
+			</div><!--/fac-info-->
+			
+		</div><!--/row-->
+
+
+
+<div class="row mbtm row-eq-height-fac">
+<div class="span3 fac leftcol">
+	<nav aria-label="site navigation">
+		<ul class="fac-nav">
+                        <li>
+                    			    <a class="active" href="index.shtml">
+                                    About Me</a>
+            </li>
+                                                                    		</ul>
+	</nav>
+</div>	
+
+ 
+<div class="span8 fac main" id="main-body">
+	<div class="fac-staff">
+                    <div class="blurb">
+				<div class="section-intro">
+					<div class="section-text">
+						<h2>Research Interests</h2>
+					</div><!--/section-text-->
+					<div class="section-menu">
+                                                                                                       <div class="col">
+                                							    <p>I am interested in how we as a society respond to crime.&#160;My research focuses on police interactions such as investigatory stops and the phenomenon of racialized police violence. I gladly welcome students who are interested in collaborating on research projects with me. My research projects with students have included: analyzing police use-of-force policies, analyzing violence committed against Blacks in South during Reconstruction, experimental studies of how perceptions of dangerousness and criminality are influenced by race and how rule-breaking is evaluated.</p>
+    						</div>
+                        					</div><!--/section-menu-->
+				</div><!--/section-intro-->
+				<div class="clearfix"></div>
+			</div><!--/blurb-->
+                    <div class="blurb">
+				<div class="section-intro">
+					<div class="section-text">
+						<h2>Teaching</h2>
+					</div><!--/section-text-->
+					<div class="section-menu">
+                                                                                                       <div class="col">
+                                							    <p><u>FALL 2024</u></p>
+<p>CRM 2201 - Intro to Criminology<span style="text-decoration: underline;"></span></p>
+<p>CRM 2205 - Research Methods in Criminology</p>
+<p>&#160;</p>
+<p><u>SPRING 2023</u></p>
+<p>CRM 2201 - Intro to Criminology<span style="text-decoration: underline;"></span></p>
+<p>&#160;</p>
+<p><span style="text-decoration: underline;">FALL 2023</span></p>
+<p>CRM 2201 - Intro to Criminology</p>
+<p>CRM 4611 - Senior Symposium "Criminal Law &amp; the Courts"</p>
+<p>&#160;</p>
+<p><span style="text-decoration: underline;">SPRING 2023</span></p>
+<p>CRM 2201 - Intro to Criminology</p>
+<p>CRM 2205 - Research Methods in Criminology</p>
+<p>CRM 3319 - Policing</p>
+<p>&#160;</p>
+<p><span style="text-decoration: underline;">WINTER 2023</span></p>
+<p>CRM 3319 - Policing</p>
+<p>&#160;</p>
+<p><span style="text-decoration: underline;">FALL 2022</span></p>
+<p>CRM 2201 - Intro to Criminology</p>
+<p>CRM 2205 - Research Methods in Criminology</p>
+<p>SOC 2205 - Research Methods in Sociology</p>
+<p>&#160;</p>
+<p><span style="text-decoration: underline;">SUMMER 2022</span></p>
+<p>SOC 3345 - Crime, Criminalization, and Society</p>
+<p>&#160;</p>
+<p><span style="text-decoration: underline;">SPRING 2022</span></p>
+<p>CRM 2201 - Intro to Criminology</p>
+<p>SOC 4611 - Senior Symposium "Sociological Perspectvies on Police, Courts, and Corrections"</p>
+<p>&#160;</p>
+<p><span style="text-decoration: underline;">WINTER 2022</span></p>
+<p>CRM 3319 - Policing</p>
+<p>&#160;</p>
+<p><span style="text-decoration: underline;">FALL 2021</span></p>
+<p>CRM 2201 - Introduction to Criminology</p>
+<p>CRM 2205 - Research Methods in Criminology</p>
+<p>CRM 4611 - Senior Symposium "Criminal Law &amp; the Courts"</p>
+    						</div>
+                        					</div><!--/section-menu-->
+				</div><!--/section-intro-->
+				<div class="clearfix"></div>
+			</div><!--/blurb-->
+                    <div class="blurb">
+				<div class="section-intro">
+					<div class="section-text">
+						<h2>Education</h2>
+					</div><!--/section-text-->
+					<div class="section-menu">
+                                                                                                       <div class="col">
+                                							    <p>Ph.D. - Criminology, Law &amp; Society, University of California, Irvine</p>
+<p>M.P.A. - Wagner School of Public Service, New York Unversity</p>
+<p>J.D. - Brooklyn Law School</p>
+<p>B.A. - Political Science, Loyola Marymount University</p>
+<p>&#160;</p>
+    						</div>
+                        					</div><!--/section-menu-->
+				</div><!--/section-intro-->
+				<div class="clearfix"></div>
+			</div><!--/blurb-->
+        	</div><!--/fac-staff-->
+</div><!--/span8 or /span11 main-->
+ 
+<aside aria-label="faculty accolades" class="span3 fac rightcol"> 
+      	<div class="accolades">
+    		<h2>Publications</h2>
+    	     <p><strong>PEER REVIEWED JOURNALS</strong></p>
+<p><span>Dunbar, A., <strong>Hanink, P. A.</strong>, &amp; Kyle, B. (2024). Good Cop, Bad Cop, Black Cop, White Cop: Unraveling Public Perceptions of Police Use of Force. </span><i>Crime &amp; Delinquency</i><span>, 00111287241268298.</span></p>
+<p>Dunbar, A. and <strong>Hanink, P.</strong> (2023) Reforming the Police: Examining the Effect of Message Framing on Support for Police Reform. <em>Criminal Justice Policy Review</em>, 34(6), 534&#8211;558.<br/><br/><strong>Hanink, P.</strong> (2023). Exploring what MillennigenZ think about a range of social issues. <em>Journal Committed to Social Change on Race and Ethnicity</em>, 9(2), 17-50.<br/><br/><strong>Hanink, P</strong>., Renner, M., &amp; Bates, C. J. (2023). Lethality of Police Shootings and Proximity to Trauma Centers. <em>Homicide Studies</em>, 27(1), 120-141.</p>
+<p><strong>Hanink, P.&#160;</strong>&amp; Dunbar, A. (2022).&#160;Protesting the police: an analysis of the correlates of support for police reform following the 2020 black lives matter protests.&#160;<em>Social Movement Studies</em>, 1-19.</p>
+<p>Dunbar, A., &amp; <strong>Hanink, P.</strong>&#160;(2022). Policing protests: an experimental evaluation of the impact of protester race on support for police reform. <i>Journal of Experimental Criminology</i>, 1-22.</p>
+<p><span><strong>Hanink, P.</strong> (2013). Don't Trust the Police: Stop Question Frisk, Compstat, and the High Cost of Statistical Over-Reliance in the NYPD. <em>Journal of the Institute of Justice and International Studies</em>, 13, 99.</span></p>
+<p>&#160;</p>
+<p><strong>BOOK<span> CHAPTERS, ENCYCLOPEDIA ENTRIES, ETC.</span></strong></p>
+<p><span><strong>Hanink, P.</strong></span><span> &#8220;Prison Architecture,&#8221; in Kerley, K. (ed.) (2017) <em>The Encyclopedia of Corrections</em>, Beverly Hills, CA: Wiley-Blackwell</span></p>
+<p><span><strong>Hanink, P.</strong></span><span> &#8220;Shock Probation,&#8220; in Kerley, K. (ed.) (2017) <em>The Encyclopedia of Corrections</em>, Beverly Hills, CA: Wiley-Blackwell</span></p>
+<p><span>Ward, G. and <strong>Hanink, P</strong>. &#8220;</span><span>Deliberating Racial Justice: Towards Racially Democratic Crime Control&#8221; in J.P. Jackson &amp; J. Jacobs (Eds.) (2016) <em>Routledge Handbook of Criminal Justice Ethics</em>, Routledge.</span></p>
+<p><span><strong>Hanink, P.</strong></span><span> &#8220;Urban Uprisings,&#8221; in Wherry, F. F., Schor, J. B., &amp; Schor, M. J. B. (Eds.) (2015). <em>The SAGE Encyclopedia of Economics and Society</em>. SAGE Publications.</span></p>
+<p>&#160;</p>
+<p><strong>BOOK<span> REVIEWS</span></strong></p>
+<p><strong><span>Hanink, P. </span></strong><span>Book Review of Bryan Stevenson, <em>Just Mercy: A Story of Justice and Redemption</em>, Spiegel &amp; Grau, 2014 in <em>Punishment and Society</em></span> (2017)</p>
+<p><strong>Hanink, P. </strong>Book Review of Naomi Murakawa, <em>The First Civil Right: How Liberals Built Prison America</em>, Oxford University Press, 2014 in <em>Social Justice </em><span>Vol. 43, No. 2 </span>(2016).</p>
+<p><strong>Hanink, P. </strong>Book Review of Naomi Zack, <em>White Privilege and Black Rights: The Injustice of U.S. Police Racial Profiling and Homicide, </em>Rowman &amp; Littlefield, 2015 in <em>Criminal Law and Criminal Justice Books</em>, September 2016</p>
+<p><strong>Hanink, P. </strong>Book Review of Anthony Stanford, <em>Copping Out: The Consequences of Police Corruption and Misconduct, </em>ABC-CLIO, 2015 in <em>Criminal Law and Criminal Justice Books</em>, March 2016</p>
+<p>&#160;</p>
+<p><strong>OPINION WRITING</strong></p>
+<p><strong><span>Hanink, P.</span> </strong>&#8220;After the Maine shooting, we have to look toward prevention, not just prepare for the next massacre.&#8221; <i>The Los Angeles Times</i>, Oct 26, 2023.</p>
+<p><strong>Hanink, P., </strong>Verma, A., &amp; Ward, G. Can We Trust the Police to Intervene in Fellow Officer Misconduct? <em>Jurist</em>, June 20, 2020.</p>
+<p><strong>Hanink, P. </strong>&#8220;<span>From classrooms to chatrooms: A professor&#8217;s perspective on the transition to online classes.</span>&#8221; <em>The Poly Post</em>, March 17, 2020.</p>
+<p>&#160;</p>
+    	</div>
+        	<div class="accolades">
+    		<h2>Roles</h2>
+    	     <p>Pre-Law Advisor (cpp.edu/prelaw)</p>
+<p>Co-founder, Criminology Media Lab</p>
+<p>Vice-Chair CPP Academic Senate</p>
+<p>CLASS Academic Senator</p>
+<p>Western Society of Criminology, Social Media Director</p>
+    	</div>
+    </aside><!--/span2 rightcol-->		</div>
+</div>
+</div>
+</main>
+</div>
+
+ </div></div>
+<footer aria-label="Footer">
+
+
+
+
+
+
+
+
+
+
+
+<!-- prod -->
+<div aria-hidden="true" class="modal hide fade" id="feedbackModal" role="dialog" tabindex="-1"></div>
+<div class="container">
+<div class="row">
+<div class="span2">
+<div class="footer-nav">
+<p><a href="http://www.cpp.edu/contact.shtml" title="Cpp Contact Us">Contact Us</a></p>
+<p><a href="http://www.cpp.edu/accessibility.shtml">Accessibility</a></p>
+<p><a href="http://www.cpp.edu/&#126;jobs/index.shtml">Jobs</a></p>
+<p><a href="http://www.cpp.edu/alpha-index/index.shtml">A-Z Index</a></p>
+</div>
+</div>
+<div class="span2">
+<div class="footer-nav">
+<p><a href="https://cpp.service-now.com/askbilly">Ask Billy</a></p>
+<p><a href="http://www.cpp.edu/&#126;officeofequity/titleIX/index.shtml">Title IX</a></p>
+<p><a href="http://www.cpp.edu/privacy.shtml">Privacy</a></p>
+<p><a href="http://www.cpp.edu/&#126;safety/index.shtml">Safety&#160;&amp; Emergency Info</a></p>
+</div>
+</div>
+<div class="span2">
+<div class="footer-nav">
+<p><a href="https://apps.cpp.edu/idm/user_account.aspx">Change Your Password</a></p>
+<p><a href="https://cpp.service-now.com/ehelp">eHelp</a></p>
+<p><a href="http://www.cpp.edu/website-feedback.php">Feedback</a></p>
+<p><a href="https://www.cpp.edu/file-viewers.shtml">Document Readers</a></p>
+</div>
+</div>
+<div class="span2">
+<div class="footer-nav">
+<p><a href="http://www.cpp.edu/email.shtml">Email</a></p>
+<p><a href="https://my.cpp.edu">MyCPP</a></p>
+<p><a href="http://www.cpp.edu/&#126;broncodirect">BroncoDirect</a></p>
+<p><a href="https://www.cpp.edu/canvas/">Canvas</a></p>
+</div>
+</div>
+<div class="span4">
+<div class="social-media-links"><a href="http://www.facebook.com/calpolypomona" title="follow cpp on facebook"> <img alt="Facebook" src="/common/resources/img/social/facebook-60x60.png" style="height: 30px; width: 30px;"/> </a> <a href="http://twitter.com/calpolypomona" title="follow cpp on twitter"> <img alt="Twitter" height="30" src="/common/resources/img/social/twitter-60x60.png" style="height: 30px; width: 30px;" width="30"/> </a> <a href="http://portfolios.cpp.edu/" title="follow cpp on portfolium"> <img alt="Portfolium" src="/common/resources/img/social/portfolium-60x60.png" style="height: 30px; width: 30px;"/> </a> <a href="https://www.linkedin.com/company/cal-poly-pomona" title="follow cpp on linked in"> <img alt="LinkedIn" src="/common/resources/img/social/linkedin-60x60.png" style="height: 30px; width: 30px;"/> </a> <a href="https://www.youtube.com/user/calpolypomona" title="follow cpp on youtube"> <img alt="YouTube" src="/common/resources/img/social/youtube-60x60.png" style="height: 30px; width: 30px;"/> </a> <a href="http://instagram.com/calpolypomona" title="follow cpp on instagram"> <img alt="Instagram" src="/common/resources/img/social/instagram-60x60.png" style="height: 30px; width: 30px;"/> </a></div>
+<div class="clearfix"></div>
+<p align="right" class="copyright-text">&#169;
+<script type="text/javascript">// <![CDATA[
+document.write(new Date().getFullYear());
+// ]]></script>
+California State Polytechnic University, Pomona <br/> All Rights Reserved</p>
+</div>
+</div>
+</div>
+<script src="https://www.cpp.edu/common/resources/js/cpp75m.js" type="text/javascript"></script>
+<script src="https://www.cpp.edu/common/resources/js/header-2016a.js?version=3" type="text/javascript"></script>
+</footer>
+</body>
+</html>

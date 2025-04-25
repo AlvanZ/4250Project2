@@ -1,0 +1,2149 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+		<title>
+			Plant Science
+		</title>
+		<!-- Required meta tags -->
+		<meta charset="utf-8"/>
+		<meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
+		<meta content="Agriculture" property="cludo:category"/>
+<meta content="2024-06-04T22:35Z" property="date"/>
+<link href="https://www.cpp.edu/agri/plant-science/index.shtml" rel="canonical"/>
+		
+		
+		
+    <div lang="en">
+
+
+                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                <script src="https://cdn.levelaccess.net/accessjs/YW1wX2NwcDExMDM/access.js"></script>
+<script>// <![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSKJRNV');
+// ]]></script>
+<link href="/common/green-and-gold/assets/icons/gg-favicon.svg" rel="icon" type="image/svg+xml"/> <link crossorigin="anonymous" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" rel="stylesheet"/>
+<script crossorigin="anonymous" defer="defer" integrity="sha384-FW78RPcSpi13vjx77nPWQIrQbNSLkPBopb0qGzLCxD2x4Kr6FA8V05C/6cpgkKPL" src="https://pro.fontawesome.com/releases/v5.10.1/js/all.js"></script>
+<link href="https://www.cpp.edu/common/2018/assets/css/cpp-base-styles.css" rel="stylesheet"/> <link href="https://www.cpp.edu/common/2018/assets/css/cpp-extended-styles.css" rel="stylesheet"/> <link href="https://use.typekit.net/fia5dle.css" rel="stylesheet"/> <link href="/common/green-and-gold/assets/css/cpp-fonts.css" rel="stylesheet"/> <link href="/common/green-and-gold/assets/css/gg-header-footer.css" rel="stylesheet"/>
+
+</div>
+    
+		
+		
+	</head>
+	<body>
+		
+		
+    <div lang="en">
+
+
+                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                 
+<header class="nav fixed">
+    <nav class="container">
+        <ul class="row nav__main" id="mainNavMenu">
+            <li id="main-logo" class="col-6 col-lg-3 nav__logo">
+                <a href="/" aria-label="Cal Poly Pomona Home" tabindex="0">
+                    <div class="nav__logo--horizontal">
+                        <img src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png" alt="Cal Poly Pomona Logo" />
+                    </div>
+                </a>
+            </li>
+            <li class="nav__links col-6" id="head-links">
+             <a class="nav__link nav__link--desktop col-1" href="/commencement/" tabindex="0">
+                    <svg
+                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 6px;
+    width: auto;
+">
+                        <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                        <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#005030"></path>
+                    </svg>
+                    <span class="sr-only">commencement</span>
+                </a>
+                <a class="nav__link nav__link--desktop" href="/apply/" tabindex="0">apply</a>
+                <a class="nav__link nav__link--desktop" href="/outreach/tours.shtml" tabindex="0">visit</a>
+                <a class="nav__link nav__link--desktop" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="0">info</a>
+                <a class="nav__link nav__link--desktop" href="/giving/" tabindex="0">give</a>
+                <a class="nav__link nav__link--desktop" href="https://my.cpp.edu" tabindex="0">mycpp</a>
+                <button id="search-open" class="nav__search" aria-expanded="false" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/search-dark-green.svg" alt="Search" />
+                </button>
+                <button class="nav__menu" id="menuButton" aria-expanded="false" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/menu.svg" alt="menu" />
+                </button>
+            </li>
+        </ul>
+    </nav>
+</header>
+<header id="search-header" style="display:none">
+    <div class="row">
+        <div class="col-md-6"></div>
+        <div id="searchbox" class="col-md-6">
+            <div id="search-slide">
+                <label for="#gsc-i-id1" class="sr-only">Search</label>
+                <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+                <div class="gcse-searchbox-only" data-resultsurl="https://www.cpp.edu/search.shtml"></div>
+                <button class="nav__menu col-1" id="search-close" aria-expanded="false" tabindex="0" aria-label="Menu icon">
+                    <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close icon">
+                    </button>
+                </div>
+            </div>
+            <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+            <style>
+
+     .gstl_50 gssb_c {
+         position:fixed !important;
+         }
+       #search-close img {
+         width: auto !important;
+       }
+
+       #searchbox {
+         height: 93px;
+         overflow: hidden;
+       }
+
+       #search-header {
+         position: fixed;
+         height: 100px;
+         width: 100%;
+         height: 93px;
+         z-index: 99999;
+         top: 0;
+       }
+
+       #gsc-i-id1 {
+         height: 40px;
+         width: 70%;
+         border-radius: 4px;
+         border: none;
+         padding: 15px;
+       }
+
+       #search-submit {
+         margin: 15px;
+       }
+
+       #search-close {
+         width: 23px;
+         height: 21px;
+         position: absolute;
+         top: 32px;
+       }
+
+       #search-slide {
+         width: 0px;
+         right: -100%;
+         padding: 20px 15px;
+         position: relative;
+         background: #005030;
+         height: 100%;
+         transition: all .5s ease 0s
+       }
+
+       #search-slide.slideup {
+         right: 0;
+         width: 100%;
+         position: relative;
+       }
+
+       @media screen and (max-width:991px) {
+         #search-slide {
+           height: 77px !important;
+           padding: 12px 10px;
+         }
+       }
+
+       @media screen and (max-width:767px) {
+         #search-header {
+           position: relative !important;
+         }
+
+         #search-slide {
+           text-align: center !important;
+         }
+       }
+
+     .gsc-search-button-v2 svg {
+    width: auto;
+    height: 25px;
+    position: relative;
+    top: 8px;
+}
+
+       .gsc-search-button-v2,
+       .gsc-search-button-v2:hover,
+       .gsc-search-button-v2:focus {
+         border: none !important;
+         background: none !important;
+       }
+
+       form.gsc-search-box {
+         font-size: 13px;
+         margin-top: 0;
+         margin-right: 0;
+         margin-bottom: 4px;
+         margin-left: 0;
+         width: 100%;
+         display: inline-block;
+       }
+
+       #___gcse_0 {
+         width: 70%;
+         display: inline-block;
+       }
+
+       table.gsc-search-box td.gsc-input {
+         padding-right: 0;
+       }
+
+       #gsc-i-id1 {
+         width: 100%;
+         padding: 0px;
+         border: none;
+         margin: -0.0625em 0px 0px;
+         height: 40px !important;
+         background: rgb(255, 255, 255);
+         outline: none;
+         font-size: 20px;
+         font-weight: 200;
+       }
+
+       .gstl_50.gssb_c {
+         z-index: 99999;
+       }
+
+       .gsq_a {
+         font-weight: 200;
+         font-size: 18px;
+         padding: 2px;
+       }
+
+       .gssb_a img {
+         display: none;
+       }
+
+       .side-nav__links--small-bottom {
+           margin-left:-15px;
+       }
+       .nav__links .nav__links--mobile {
+           margin-top: 50px;
+            margin-bottom: -50px;
+            margin-left: 50px
+       }
+       .nav__link--mobile {
+        	padding:0px;
+        }
+     /*   .side-nav__container, .side-nav__container--small {
+          
+            padding-left: 50px;
+        }*/
+        .side-nav__container--small-bottom {
+           padding-left: 35px;
+        }
+         @media screen and (max-width:991px) {
+             .nav__links--mobile {
+                 display:flex;
+             }
+         }
+          @media screen and (min-width:992px) {
+             .nav__links--mobile {
+                 display:none !important;
+             }
+          }
+         .nav__link--mobile {
+             color: #ffb81c;
+         }
+       </style>
+        </div>
+    </header>
+    <section class="side-nav" id="sideNavOverlay">
+        <header class="side-nav__overlay relative">
+            <nav class="container">
+                <ul class="row nav__overlay" id="sideNavMenu">
+                    <li class="nav__logo col-12 col-md-10 col-lg-3" id="navLogoOverlay">
+                        <a href="/" aria-label="Cal Poly Pomona Home" tabindex="-1">
+                            <img src="/common/green-and-gold/assets/logos/cpp_horizontal_1c_gold_rgb.png" alt="Cal Poly Pomona Logo" />
+                        </a>
+                    </li>
+                    <div class="nav__overlay--right col-12 col-lg-9">
+                        <li class="nav__links nav__links--desktop col-12 col-lg-6">
+                             <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 6px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                            <a class="nav__link nav__link--mobile" href="/apply/" tabindex="-1">apply</a>
+                            <a class="nav__link nav__link--mobile" href="/outreach/tours.shtml" tabindex="-1">visit</a>
+                            <a class="nav__link nav__link--mobile" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="-1">info</a>
+                            <a class="nav__link nav__link--mobile" href="/giving/" tabindex="-1">give</a>
+                            <a class="nav__link nav__link--mobile" href="https://my.cpp.edu" tabindex="-1">mycpp</a>
+                        </li>
+                        <li class="nav__icons">
+                            <button id="search-open-green" class="nav__search" aria-expanded="false" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/search-white.svg" alt="Search" />
+                            </button>
+                            <button class="nav__close" id="closeButton" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close menu" />
+                            </button>
+                        </li>
+                    </div>
+                </ul>
+            </nav>
+        </header>
+        
+            <div class="mobile_overlay_nav nav__links nav__links--mobile col-12 col-lg-6">
+                 <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 6px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                <a class="nav__link nav__link--mobile" href="/apply/" tabindex="0">apply </a>
+                <a class="nav__link nav__link--mobile" href="/outreach/tours.shtml" tabindex="0">visit </a>
+                <a class="nav__link nav__link--mobile" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="0">info </a>
+                <a class="nav__link nav__link--mobile" href="/giving/" tabindex="0">give </a>
+                <a class="nav__link nav__link--mobile" href="https://my.cpp.edu" tabindex="0">mycpp </a>
+            </div>
+       
+        <nav class="container side-nav__container">
+            <ul class="row side-nav__links">
+                <li id="home-button" class="side-nav__link">
+                    <a class="h3__proxima" href="/" tabindex="-1" aria-label="Cal Poly Pomona Home page">Home</a>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--0">
+                    <button class="h3__proxima" id="0" aria-expanded="false" tabindex="-1" aria-label="Link">
+                        <span>about</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--1">
+                    <button class="h3__proxima" id="1" aria-expanded="false" tabindex="-1" aria-label="Admissions & Aid">
+                        <span>admissions &amp; aid</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--2">
+                    <button class="h3__proxima" id="2" aria-expanded="false" tabindex="-1" aria-label="academics">
+                        <span>academics</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--3">
+                    <button class="h3__proxima" id="3" aria-expanded="false" tabindex="-1" aria-label="life at CPP">
+                        <span>life at CPP</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small">
+            <ul class="row">
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="https://broncoathletics.com/" tabindex="-1">athletics</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/alumni/" tabindex="-1">alumni</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/news/" tabindex="-1">news &amp; events</a>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small-bottom">
+            <ul class="col-12 col-lg-7 side-nav__links--small-bottom">
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/prospective-student-gateway/" tabindex="-1">future students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/student-gateway/" tabindex="-1">current students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/family/" tabindex="-1">families</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/faculty-staff-gateway/" tabindex="-1">faculty &amp; staff</a>
+                </li>
+            </ul>
+            <ul class="col-12 col-lg-5 social-icons">
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.instagram.com/calpolypomona/" aria-label="Instagram" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.linkedin.com/school/cal-poly-pomona/" aria-label="LinkedIn " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.youtube.com/user/calpolypomona" aria-label="Youtube " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="Youtube" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.facebook.com/calpolypomona" aria-label="Facebook " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://twitter.com/calpolypomona" aria-label="X (Twitter)" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X" />
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </section>
+
+</div>
+    
+		                                                                                                                                                        																										                                                            															    		                                
+
+
+            
+
+    <header title="Plant Science">
+                         <div id="dept-title">
+                            Plant Science
+                    </div>
+    
+                        <nav class="navbar navbar-expand-md navbar-light d-block mb-0" id="horizontalnav">
+        <button aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler navbar-toggler-right" data-target="#navbarSupportedContent" data-toggle="collapse" id="site-menu-expand-button" type="button">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="nav nav-pills nav-fill center-pills" id="site-nav">
+                                <li class="nav-item" id="li-1">
+                    <a class="nav-link" data-parent="#site-nav" href="/agri/plant-science/index.shtml">Home</a>    
+                </li>
+                                  
+                                                                                                                                                
+                                                
+                                                                                                            
+                                                                                            <li class="nav-item dropdown" id="li-2">
+
+                                    <a aria-expanded="false" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">About</a>
+                                                                             <div class="dropdown-menu">
+                                                                           
+                                                                                                                                                <a class="dropdown-item" href="/agri/plant-science/about/department-history.shtml">Department History</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/agri/plant-science/about/mission-and-values.shtml">Mission and Values</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/agri/plant-science/about/accreditation-and-recognitions.shtml">Program Accreditation and/or Recognitions</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/agri/plant-science/about/labs-and-instructional-facilities.shtml">Department Labs &amp; Other Instructional Facilities</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/agri/plant-science/about/contact.shtml">Contact</a>
+                                                                                                                                    
+                                                                                                                        
+                                    </div>
+                                </li>
+                                
+                                                                                                                                     
+                                                                                                                                                                                            
+                                                
+                                                                                                            
+                                                                                                
+                                                                    <li class="nav-item" id="li-3">
+                                         <a class="nav-link" data-parent="#site-nav" href="/agri/plant-science/faculty-staff/index.shtml">Faculty &amp; Staff Directory</a>    
+                                    </li>
+
+                                                                                                                                        
+                                                                                                                                                                                            
+                                                
+                                                                                                            
+                                                                                            <li class="nav-item dropdown" id="li-4">
+
+                                    <a aria-expanded="false" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">Programs</a>
+                                                                             <div class="dropdown-menu">
+                                                                           
+                                                                                                                                                <a class="dropdown-item" href="/agri/plant-science/programs/degrees-and-other-programs.shtml">Degrees and Other Programs</a>
+                                                                                                                                    
+                                                                                            <a class="dropdown-item" href="https://catalog.cpp.edu/preview_program.php?catoid=65&amp;poid=16995&amp;returnto=5341">&#8212; Plant Science B.S.</a>
+                                                                                    
+                                                                                                                                                                                
+                                                                                                                                                <a class="dropdown-item" href="/agri/plant-science/programs/agricultural-ms-plant-science.shtml">— M.S. in Agriculture, Plant Science </a>
+                                                                                                                                    
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/bees/">&#8212; Apiary Program (Honey Bees)</a>
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/agri/centers-and-more/ctilt/index.shtml">&#8212; Center for Turf, Irrigation and Landscape Technology (CTILT)</a>
+                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/agri/plant-science/programs/minors.shtml">Minors</a>
+                                                                                                                                    
+                                                                                            <a class="dropdown-item" href="https://catalog.cpp.edu/preview_program.php?catoid=57&amp;poid=14748&amp;returnto=4364">&#8212; Agronomy Minor</a>
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://catalog.cpp.edu/preview_program.php?catoid=57&amp;poid=14750&amp;returnto=4364">&#8212; Landscape Irrigation Design Minor</a>
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://catalog.cpp.edu/preview_program.php?catoid=57&amp;poid=14751&amp;returnto=4364">&#8212; Ornamental Horticulture Minor</a>
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://catalog.cpp.edu/preview_program.php?catoid=57&amp;poid=14752&amp;returnto=4364">&#8212; Pest Management Minor</a>
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://catalog.cpp.edu/preview_program.php?catoid=57&amp;poid=14753&amp;returnto=4364">&#8212; Soil Science Minor</a>
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/agri/programs/urban-and-community-agriculture-minor/index.shtml">&#8212; Urban and Community Agriculture Minor</a>
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/admissions/">Apply</a>
+                                                                                    
+                                                                                                                        
+                                    </div>
+                                </li>
+                                
+                                                                                                                                     
+                                                                                                                                                                                            
+                                                
+                                                                                                            
+                                                                                            <li class="nav-item dropdown" id="li-5">
+
+                                    <a aria-expanded="false" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">Student Resources</a>
+                                                                             <div class="dropdown-menu">
+                                                                           
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/agri/student-resources/advising/index.shtml">Academic Advising</a>
+                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/agri/plant-science/student-resources/careers-in-plant-science.shtml">Careers in Plant Science</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/agri/plant-science/student-resources/student-involvement.shtml">Student Involvement</a>
+                                                                                                                                    
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/agri/student-resources/first-year-experience.shtml">First Year Experience</a>
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/agri/future-students/index.shtml">Future Students</a>
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/agri/student-resources/internships.shtml">Internships</a>
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/agri/student-resources/scholarships.shtml">Scholarships</a>
+                                                                                    
+                                                                                                                        
+                                    </div>
+                                </li>
+                                
+                                                                                                                                     
+                                                                                                                                                                                            
+                                                
+                                                                                                            
+                                                                                            <li class="nav-item dropdown" id="li-6">
+
+                                    <a aria-expanded="false" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">News/Events</a>
+                                                                             <div class="dropdown-menu">
+                                                                           
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/agri/news/index.shtml">News</a>
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/agri/calendar/index.shtml">Events Calendar</a>
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/jobs/index.shtml">Open Faculty and Staff Positions</a>
+                                                                                    
+                                                                                                                        
+                                    </div>
+                                </li>
+                                
+                                                                                                                                     
+                                                                                                                                                                                            
+                                                
+                                                                                                            
+                                                                                            <li class="nav-item dropdown" id="li-7">
+
+                                    <a aria-expanded="false" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">Support Our Programs</a>
+                                                                             <div class="dropdown-menu">
+                                                                           
+                                                                                                                                                <a class="dropdown-item" href="/agri/plant-science/support-our-programs/donate.shtml">Donate</a>
+                                                                                                                                    
+                                                                                                                                                                                
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/agri/plant-science/about/contact.shtml">Contact Us</a>
+                                                                                    
+                                                                                                                                                                                
+                                                                                                                        
+                                    </div>
+                                </li>
+                                
+                                                                                                                                     
+                                                                                                                                                                                            
+                                                
+                                                                                                            
+                                                                                            <li class="nav-item dropdown" id="li-8">
+
+                                    <a aria-expanded="false" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">Alumni &amp; Supporters</a>
+                                                                             <div class="dropdown-menu">
+                                                                           
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/agri/alumni/index.shtml">Engage</a>
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://www-test.cpp.edu/agri/alumni/career.shtml">Career</a>
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/agri/alumni/outstanding-alumni.shtml">Outstanding Alumni</a>
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/agri/alumni/events.shtml">Events</a>
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/agri/alumni/parents-and-family.shtml">Parents and Family</a>
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/agri/about/board-of-advisors.shtml ">Board of Advisors</a>
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://cpp.formstack.com/forms/alumni_information_update">Update Alumni Info</a>
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/agri/alumni/share-alumni-story.shtml">Share Your Alumni Story</a>
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://cpp.formstack.com/forms/ag_newsletter">Newsletter Sign-up</a>
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/agri/alumni/contact-us.shtml">Contact Us</a>
+                                                                                    
+                                                                                                                        
+                                    </div>
+                                </li>
+                                
+                                                                                                                                     
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </ul>
+        </div>
+    </nav>
+             
+    
+
+      
+        
+    <custom/> 
+
+                <section id="jumbotron">
+        <img alt="Plant Science Department" src="img/slideshow/plant-science-jumbotron-banner.jpg"/>
+    </section>
+        
+</header>
+
+
+
+
+    <main class="container flex-grow">
+
+           <div class="row">
+                            <div class="col-12" id="main">
+                            <h1 class="sr-only">Plant Science</h1>
+    
+
+
+    
+                                            
+                                    <section class="text-images" id="s0">
+                                
+                                                        
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                            <h2 style="text-align: center;">Growing Careers, Feeding the Future</h2>
+<p>We emphasize high-impact teaching practices to develop an inclusive and highly skilled workforce of Cal Poly Pomona graduates in sustainable produce, agronomic, and tree fruit industries; urban agriculture, controlled environment agriculture; and plant science across the green industries from water resources and irrigation design, arboriculture, golf and sports turf management, to public horticulture and natural resources conservation</p>
+            </section>
+                            
+                  
+       
+	
+	
+ 
+         
+    
+
+    
+                    
+                  
+       
+	
+	
+ 
+         
+    
+
+    
+                                            
+                                    <section class="text-images" id="s1">
+                                
+                                                        
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                            <p style="font-weight: bold; text-align: center;"><span style="font-size: 42px; vertical-align: middle;"><a class="gs-title" href="https://www.instagram.com/cpp_plantsci" rel="noopener" target="_blank"><span class="sr-only">Instagram</span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="svg-inline--fa fa-instagram fa-w-14" data-fa-i2svg="" data-icon="instagram" data-prefix="fab" focusable="false" role="img" viewbox="0 0 448 512"><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z" fill="#125688"/></svg><!-- <i class="fab fa-instagram"></i> --></a> <a class="gs-title" href="https://www.facebook.com/" rel="noopener" target="_blank"><span class="sr-only">Facebook</span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="svg-inline--fa fa-facebook fa-w-16" data-fa-i2svg="" data-icon="facebook" data-prefix="fab" focusable="false" role="img" viewbox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z" fill="#125688"/></svg><!-- <i class="fab fa-facebook"></i> --></a> <a class="gs-title" href="https://www.linkedin.com" rel="noopener" target="_blank"><span class="sr-only">LinkedIn</span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="svg-inline--fa fa-linkedin-in fa-w-14" data-fa-i2svg="" data-icon="linkedin-in" data-prefix="fab" focusable="false" role="img" viewbox="0 0 448 512"><path d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z" fill="#007bb5"/></svg><!-- <i class="fab fa-linkedin-in"></i> --></a></span></p>
+            </section>
+                            
+                  
+       
+	
+	
+ 
+         
+    
+
+    
+                    
+                  
+       
+	
+	
+ 
+         
+    
+
+    
+                                            
+                                    <section class="text-images" id="s2">
+                                
+                                                        
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                            <div id="featured-info-container">
+<div id="featured-info">
+<h2><span style="font-size: 24pt;">Cultivate Your Career: Expansive Opportunities with a Degree in Plant Science</span></h2>
+<p>Graduates can look forward to careers in horticultural, agronomic, and fruit industries, urban agriculture and food systems, soil, plant, and water resources conservation, the green industry, and more.</p>
+<p><a href="./student-resources/careers-in-plant-science.shtml">Careers in Plant Science</a><br/><a href="./student-resources/careers-in-plant-science.shtml#salaries">Salary Upon Graduation</a><br/> <a href="./student-resources/student-involvement.shtml">Student Involvement</a></p>
+<div></div>
+</div>
+</div>
+            </section>
+                            
+                  
+       
+	
+	
+ 
+         
+    
+
+    
+                    
+                         
+                                       <h2>Alumni Student Profiles</h2>
+                      
+                     
+                                            
+    
+            <section class="row card-section" id="s3">
+                      
+                 
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                 
+                                                    
+                                                                                                        
+              
+        
+                    <div class="col-lg-3 col-md-6 col-sm-12 single-card">
+                            
+                    <a data-target="#modal-index-0" data-toggle="modal" title=". ">
+                
+                            
+            
+                                                            <div class="card h-100">
+                                                    
+                                                                                    <div class="shift text-center">
+                                                                                                             <img alt="Owen Hemming" src="img/profiles/owen-hemming-300x180.jpg"/>
+                                                                            </div>
+                                                                        <div class="card-body d-flex flex-column align-items-start">
+                            
+                            <h3 id="ch-0">Owen Hemming ‘18</h3>
+                                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                        District Conservationist for United States Department of Agriculture (USDA) - Natural Resources Conservation Service (NRCS)  
+                        
+                        
+                            
+                        
+            <div aria-hidden="true" aria-labelledby="title0" class="modal fade" id="modal-index-0" role="dialog" style="display: none;" tabindex="-1">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header" tabindex="0">
+                            <h3 class="modal-title" id="title0">Owen Hemming ‘18</h3>
+                        </div>
+                        <div class="modal-body" tabindex="0">
+                            <p><strong><img alt="Owen Hemming" class="image-left-medium" height="180" src="img/profiles/owen-hemming-300x180.jpg" width="300"/>District Conservationist</strong><span>&#160;</span>for United States Department of Agriculture (USDA) - Natural Resources Conservation Service (NRCS) where he manages field office staff, and projects for an entire county in California. He helps farmers and ranchers conserve natural resources for future generations and for the sustainability of the earth. He provides farmers with financial cost share programs to implement conservation practices and get conservation on the ground.</p>
+<p>&#8220;Hydrogeology was not on my radar at all. I also had no idea there was a subject called soil physics. I&#8217;ve even studied oceanography. It was cool customizing my program in my junior and senior years. I explored as much as I did because of the hands-on learning opportunities and dedicated educators who inspired me to intern at the USDA NRCS. I&#8217;m proud to say that I am still with them today as a full-time District Conservationist.&#8221;</p>
+                        </div>
+                        <div class="modal-footer text-align-right">
+                            <button aria-label="Close" class="btn btn-primary" data-dismiss="modal" type="button">
+                                <span aria-hidden="true">Close</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                                
+                                    </div>
+                            </div>
+                            
+                    </a>
+                          
+        
+    
+            </div>
+                                                
+                                                                                                        
+              
+        
+                    <div class="col-lg-3 col-md-6 col-sm-12 single-card">
+                            
+                    <a data-target="#modal-index-1" data-toggle="modal" title=". ">
+                
+                            
+            
+                                                            <div class="card h-100">
+                                                    
+                                                                                    <div class="shift text-center">
+                                                                                                             <img alt="Brendy Orozco" src="img/profiles/brendy-orozco-300x180.jpg"/>
+                                                                            </div>
+                                                                        <div class="card-body d-flex flex-column align-items-start">
+                            
+                            <h3 id="ch-1">Brendy Orozco ‘19</h3>
+                                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                        Compliance Coordinator at TriCal, Inc.  
+                        
+                        
+                            
+                        
+            <div aria-hidden="true" aria-labelledby="title1" class="modal fade" id="modal-index-1" role="dialog" style="display: none;" tabindex="-1">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header" tabindex="0">
+                            <h3 class="modal-title" id="title1">Brendy Orozco ‘19</h3>
+                        </div>
+                        <div class="modal-body" tabindex="0">
+                            <p><strong><img alt="Brendy Orozco" class="image-left-medium" height="228" src="img/profiles/brendy-orozco-300x180.jpg" width="380"/>Compliance Coordinator</strong><span>&#160;</span>at TriCal Inc.&#160; As compliance coordinator, Brendy&#160;<span>works with various departmental and team leaders to ensure all aspects of TriCal, Inc. operations fall within both applicable regulatory standards and industry best practices for mechanized soil fumigation pest and pathogen management in California's agricultural production fields. Brendy audits overall compliance policy and processes, trains various levels of employees and management in compliance procedures, and delivers regular compliance reports to key leadership.&#160;</span></p>
+<p>&#8220;The Plant Science Department members guided me through my journey as a Plant Science and Agricultural Science student. Professors were extremely helpful proving resources and information about the programs and scholarships offered. Professors, counselors, and other staff members went out their way to assure I had the support I needed as an undergrad. I was able to obtain a minor in Pest and Disease Management that provided basic knowledge I am now applying out in the farm. The program is a great opportunity that offers hands on experience to large-scale production agriculture. &#8220;</p>
+                        </div>
+                        <div class="modal-footer text-align-right">
+                            <button aria-label="Close" class="btn btn-primary" data-dismiss="modal" type="button">
+                                <span aria-hidden="true">Close</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                                
+                                    </div>
+                            </div>
+                            
+                    </a>
+                          
+        
+    
+            </div>
+                                                
+                                                                                                        
+              
+        
+                    <div class="col-lg-3 col-md-6 col-sm-12 single-card">
+                            
+                    <a data-target="#modal-index-2" data-toggle="modal" title=". ">
+                
+                            
+            
+                                                            <div class="card h-100">
+                                                    
+                                                                                    <div class="shift text-center">
+                                                                                                             <img alt="Luellen Swayzer" src="img/profiles/luellen-swayzer-300x180.jpg"/>
+                                                                            </div>
+                                                                        <div class="card-body d-flex flex-column align-items-start">
+                            
+                            <h3 id="ch-2">Luellen Swayzer ‘15</h3>
+                                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                        Horticulture Professor at the Department of Horticulture, Fullerton College  
+                        
+                        
+                            
+                        
+            <div aria-hidden="true" aria-labelledby="title2" class="modal fade" id="modal-index-2" role="dialog" style="display: none;" tabindex="-1">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header" tabindex="0">
+                            <h3 class="modal-title" id="title2">Luellen Swayzer ‘15</h3>
+                        </div>
+                        <div class="modal-body" tabindex="0">
+                            <p><strong><img alt="Luellen Swayzer" class="image-left-medium" height="228" src="img/profiles/luellen-swayzer-300x180.jpg" width="380"/>Horticulture Professor</strong><span>&#160;</span>at the Department of Horticulture, Fullerton College. Luellen&#8217;s faculty role encompasses a range of responsibilities aimed at providing quality education to students at one of the leading community college horticulture programs in California. She teaches turfgrass management, hydroponics, and introduction to horticulture courses. Her program provides &#8216;hands-on&#8217; experience for students wishing to enter the &#8216;green industry&#8217; and transfer to four-year California State Universities, University of California, and many private colleges and universities.</p>
+<p>&#8220;The Center for Turf, Irrigation, and Landscape Technology (CTILT) became my second home, offering invaluable hands-on experiences, friendships, and fantastic professors that revolutionized my understanding of turfgrass and landscape management. The department's commitment to &#8216;learning by doing&#8217; has instilled in me a strong work ethic. The Collegiate Turf Bowl, an annual competition in which I had the honor to participate, served as a crowning achievement during my time at CPP. The intense preparation, camaraderie, and friendly rivalry fostered a sense of community. These experiences have broadened my horizons and expanded my network.&#8221;</p>
+                        </div>
+                        <div class="modal-footer text-align-right">
+                            <button aria-label="Close" class="btn btn-primary" data-dismiss="modal" type="button">
+                                <span aria-hidden="true">Close</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                                
+                                    </div>
+                            </div>
+                            
+                    </a>
+                          
+        
+    
+            </div>
+                                                
+                                                                                                        
+              
+        
+                    <div class="col-lg-3 col-md-6 col-sm-12 single-card">
+                            
+                    <a data-target="#modal-index-3" data-toggle="modal" title=". ">
+                
+                            
+            
+                                                            <div class="card h-100">
+                                                    
+                                                                                    <div class="shift text-center">
+                                                                                                             <img alt="Aaron Thormodsen" src="img/profiles/aaron-thormodsen-300x180.jpg"/>
+                                                                            </div>
+                                                                        <div class="card-body d-flex flex-column align-items-start">
+                            
+                            <h3 id="ch-3">Aaron Thormodsen ‘21</h3>
+                                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                        Hydroponic Crop Production Specialist, WesleyLife  
+                        
+                        
+                            
+                        
+            <div aria-hidden="true" aria-labelledby="title3" class="modal fade" id="modal-index-3" role="dialog" style="display: none;" tabindex="-1">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header" tabindex="0">
+                            <h3 class="modal-title" id="title3">Aaron Thormodsen ‘21</h3>
+                        </div>
+                        <div class="modal-body" tabindex="0">
+                            <p><strong><img alt="Aaron Thormodsen" class="image-medium image-left-medium" height="228" src="img/profiles/aaron-thormodsen-300x180.jpg" width="380"/>Hydroponic Specialist</strong><span>&#160;</span>at WesleyLife. With 23 different crops in his hydroponic repertoire, Aaron leads the hydroponic farm at WesleyLife Meals on Wheels campus near Drake University in Des Moines, IA. Every day, WesleyLife impacts food insecurity and social isolation in Central Iowa by delivering about 1,000 hot, delicious and healthy meals to older adults and military veterans. The farm grows leafy greens to add to the meals they serve, increasing their nutritional content and providing an opportunity for visitors to enhance their awareness of this hight efficient means of crop production.</p>
+<p>"Without the Plant Science Department, I would have never gone into agriculture. It was their willingness to listen to students, provide support and resources for projects, and allow myself and others to explore our passions that made the program special. The professors are passionate and want to teach you. It's a very student centric department, which is really unique."</p>
+                        </div>
+                        <div class="modal-footer text-align-right">
+                            <button aria-label="Close" class="btn btn-primary" data-dismiss="modal" type="button">
+                                <span aria-hidden="true">Close</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                                
+                                    </div>
+                            </div>
+                            
+                    </a>
+                          
+        
+    
+            </div>
+                                                
+                                                                                                        
+              
+        
+                    <div class="col-lg-3 col-md-6 col-sm-12 single-card">
+                            
+                    <a data-target="#modal-index-4" data-toggle="modal" title=". ">
+                
+                            
+            
+                                                            <div class="card h-100">
+                                                    
+                                                                                    <div class="shift text-center">
+                                                                                                             <img alt="Fabiola Perez" src="img/profiles/fabiola-perez-300x180.jpg"/>
+                                                                            </div>
+                                                                        <div class="card-body d-flex flex-column align-items-start">
+                            
+                            <h3 id="ch-4">Fabiola Perez ‘17</h3>
+                                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                        Global Product Planner &#8211; Planters at John Deere  
+                        
+                        
+                            
+                        
+            <div aria-hidden="true" aria-labelledby="title4" class="modal fade" id="modal-index-4" role="dialog" style="display: none;" tabindex="-1">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header" tabindex="0">
+                            <h3 class="modal-title" id="title4">Fabiola Perez ‘17</h3>
+                        </div>
+                        <div class="modal-body" tabindex="0">
+                            <p><strong><img alt="Fabiola Perez" class="image-left-medium" height="228" src="img/profiles/fabiola-perez-300x180.jpg" width="380"/>Global Product Planner</strong><span>&#160;</span>&#8211; Planters at John Deere. As the Global Product Planner for planters, Fabiola is responsible for bringing deep knowledge of the customer, market, and industry to ensure the global planter portfolio is set up to deliver the maximum customer value and deliver on the planting vision.</p>
+<p>&#8220;The Plant Science program at Cal Poly Pomona had a massive impact on my career and I have continued to leverage my experiences from my time at CPP to excel. The staff is committed to students&#8217; success and are always offering opportunities for students to engage with the industry and capture incredible experiences. I was recruited to join John Deere after graduating and quickly learned my plant science degree was very versatile. My plant science education in addition to providing an agronomy background, also helped me understand customer and market needs and identify opportunities to help agriculturist around the world.&#8221;</p>
+                        </div>
+                        <div class="modal-footer text-align-right">
+                            <button aria-label="Close" class="btn btn-primary" data-dismiss="modal" type="button">
+                                <span aria-hidden="true">Close</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                                
+                                    </div>
+                            </div>
+                            
+                    </a>
+                          
+        
+    
+            </div>
+                                                
+                                                                                                        
+              
+        
+                    <div class="col-lg-3 col-md-6 col-sm-12 single-card">
+                            
+                    <a data-target="#modal-index-5" data-toggle="modal" title=". ">
+                
+                            
+            
+                                                            <div class="card h-100">
+                                                    
+                                                                                    <div class="shift text-center">
+                                                                                                             <img alt="Sean McLaughlin" src="img/profiles/sean-mclaughlin-300x180.jpg"/>
+                                                                            </div>
+                                                                        <div class="card-body d-flex flex-column align-items-start">
+                            
+                            <h3 id="ch-5">Sean McLaughlin B.S. ’18, M.S. ‘21</h3>
+                                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                        Assistant Golf Course Superintendent at Brightview Golf Course Maintenance, Inc  
+                        
+                        
+                            
+                        
+            <div aria-hidden="true" aria-labelledby="title5" class="modal fade" id="modal-index-5" role="dialog" style="display: none;" tabindex="-1">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header" tabindex="0">
+                            <h3 class="modal-title" id="title5">Sean McLaughlin B.S. ’18, M.S. ‘21</h3>
+                        </div>
+                        <div class="modal-body" tabindex="0">
+                            <p><strong><img alt="Sean McLaughlin" class="image-left-medium" height="228" src="img/profiles/sean-mclaughlin-300x180.jpg" width="380"/>Assistant Golf Course Superintendent</strong><span>&#160;</span>at Brightview Golf Course Maintenance, Inc.. Sean manages two championship golf courses with over 650 acres of turf and 400 acres of surrounding landscape at Pacific Palms Resort in City of Industry, CA. He also helps oversee maintenance of a municipal golf course in the city of Bell Gardens, CA.</p>
+<p>&#8220;The Plant Science program opened my mind to the endless opportunities that are available for students who are passionate about our industry today. The hands-on nature of the degree program ensures that every student that enters the workforce following graduation will have the knowledge, skills, and confidence they need to make great strides in the industry. Through this program I traveled to 5 different states to compete in and then help coach the turf team, work on Super Bowl and NFL fields, travel for the PGA tour, and most importantly make lifelong connections with peers and mentors that contributed to my professional and educational success.&#8221;</p>
+                        </div>
+                        <div class="modal-footer text-align-right">
+                            <button aria-label="Close" class="btn btn-primary" data-dismiss="modal" type="button">
+                                <span aria-hidden="true">Close</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                                
+                                    </div>
+                            </div>
+                            
+                    </a>
+                          
+        
+    
+            </div>
+                                                
+                                                                                                        
+              
+        
+                    <div class="col-lg-3 col-md-6 col-sm-12 single-card">
+                            
+                    <a data-target="#modal-index-6" data-toggle="modal" title=". ">
+                
+                            
+            
+                                                            <div class="card h-100">
+                                                    
+                                                                                    <div class="shift text-center">
+                                                                                                             <img alt="Phuc Nguyen" src="img/profiles/phuc-nguyen-300x180.jpg"/>
+                                                                            </div>
+                                                                        <div class="card-body d-flex flex-column align-items-start">
+                            
+                            <h3 id="ch-6">Phuc (Kathy) Nguyen ‘20</h3>
+                                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                        Water Manager/Irrigation Designer at Arroyo Irrigation, Inc  
+                        
+                        
+                            
+                        
+            <div aria-hidden="true" aria-labelledby="title6" class="modal fade" id="modal-index-6" role="dialog" style="display: none;" tabindex="-1">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header" tabindex="0">
+                            <h3 class="modal-title" id="title6">Phuc (Kathy) Nguyen ‘20</h3>
+                        </div>
+                        <div class="modal-body" tabindex="0">
+                            <p><strong><img alt="Phuc Nguyen" class="image-left-medium" height="228" src="img/profiles/phuc-nguyen-300x180.jpg" width="380"/>Water Manager/Irrigation Designer</strong><span>&#160;</span>at Arroyo Irrigation, Inc. As Water Manager of Aliso Viejo Community Association, Kathy oversees 190 irrigation controller devices to operate automatic sprinkler and drip irrigation systems in this Southern California Master Homeowners Association responsible for 21 parks and 600 acres of landscape. She provides irrigation design services to conserve water and lower clients&#8217; water bills from commercial buildings to community master water meter plans.</p>
+<p>&#8220;The Plant Science program offered me tremendous experiences and options to focus and excel. My greatest experience was participating with my team to win first place in the Golf Course Superintendents Association of America&#8217;s Collegiate Turf Bowl Competition. I found my passion for landscape water resource conservation and irrigation design technology at the Center for Turf, Irrigation, and Landscape Technology (CTILT) through learn-by-doing labs and my time as working there as a paid student assistant. The Plant Science program stands out with its strong curriculum, top-of-the-industry professors sharing up-to-date information, and endless hands-on opportunities!&#8221;</p>
+                        </div>
+                        <div class="modal-footer text-align-right">
+                            <button aria-label="Close" class="btn btn-primary" data-dismiss="modal" type="button">
+                                <span aria-hidden="true">Close</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                                
+                                    </div>
+                            </div>
+                            
+                    </a>
+                          
+        
+    
+            </div>
+                                                
+                                                                                                        
+              
+        
+                    <div class="col-lg-3 col-md-6 col-sm-12 single-card">
+                            
+                    <a data-target="#modal-index-7" data-toggle="modal" title=". ">
+                
+                            
+            
+                                                            <div class="card h-100">
+                                                    
+                                                                                    <div class="shift text-center">
+                                                                                                             <img alt="Lara Amiri Kazaz" src="img/profiles/lara-kazaz-300x180.jpg"/>
+                                                                            </div>
+                                                                        <div class="card-body d-flex flex-column align-items-start">
+                            
+                            <h3 id="ch-7">Lara Amiri Kazaz, B.S. ’19, M.S. ‘23</h3>
+                                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                        Ph.D. Graduate Student, Sustainable Integrated Pest Management, Colorado State University  
+                        
+                        
+                            
+                        
+            <div aria-hidden="true" aria-labelledby="title7" class="modal fade" id="modal-index-7" role="dialog" style="display: none;" tabindex="-1">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header" tabindex="0">
+                            <h3 class="modal-title" id="title7">Lara Amiri Kazaz, B.S. ’19, M.S. ‘23</h3>
+                        </div>
+                        <div class="modal-body" tabindex="0">
+                            <p><strong><img alt="Lara Amiri Kazaz" class="image-left-medium" height="228" src="img/profiles/lara-kazaz-300x180.jpg" width="380"/>Ph.D. Graduate Student</strong>, Sustainable Integrated Pest Management, Colorado State University. For her doctorate, Lara will be working on developing sustainable pest management tactics for aphids and alfalfa mosaic virus in chili peppers.</p>
+<p>&#8220;During my sophomore year, I discovered my interest in insects. I interned for several graduate students who were working on their own plant science research projects. After graduation, I obtained an MS in Agriculture with a plant science emphasis and worked in the arthropods and beekeeping laboratories.&#8221; Everything came full circle when Lara was tasked to teach the introductory insect class she once took herself &#8212; the opportunity certainly prepared her for her next academic step, which is a PhD at Colorado State University.</p>
+<p>&#8220;I&#8217;ve always been interested in teaching, and I realized that since I finally pinpointed a topic that I enjoy, I would like to do some research of my own and remain in higher education.&#8221;</p>
+                        </div>
+                        <div class="modal-footer text-align-right">
+                            <button aria-label="Close" class="btn btn-primary" data-dismiss="modal" type="button">
+                                <span aria-hidden="true">Close</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                                
+                                    </div>
+                            </div>
+                            
+                    </a>
+                          
+        
+                
+            </div>
+        </section>
+          
+       
+	
+	
+ 
+         
+    
+
+    
+                    
+                         
+                                       <h2>Plant Science News</h2>
+                      
+                     
+                                            
+    
+            <section class="row card-section" id="s4">
+                      
+                 
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                     
+                          
+                 
+                                                    
+                                                                                                        
+              
+        
+                    <div class="col-lg-4 col-md-4 col-sm-12 single-card">
+                            
+            
+                                                            <div class="card h-100">
+                                                    
+                                                                                        <div class="card-body d-flex flex-column align-items-start">
+                            
+                            <h3 id="ch-8">CPP Students Did ‘Putterly’ Amazing Placing in Annual Turf Bowl</h3>
+                                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                        <p><em>February 20, 2024</em></p>
+<p>Cal Poly Pomona students participated in the Turf Bowl 2024 in Arizona this month, with the first of two teams placing ninth and the second team tying for eleventh, respectively.</p>  
+                        
+                        
+                                   
+                                                                        <div class="card-btn">
+                                                                                     
+                                 
+                                             
+                                 
+                                 
+              
+        
+                                                    <a class="btn btn-primary mt-3" href="https://thepolypost.com/news/2024/02/20/cpp-students-did-putterly-amazing-placing-in-annual-turf-bowl/">read more <span class="sr-only">about CPP Students Did ‘Putterly’ Amazing Placing in Annual Turf Bowl</span></a>
+                                                    </div>
+                    
+                                                            
+                                    </div>
+                            </div>
+                            
+                          
+        
+    
+            </div>
+                                                
+                                                                                                        
+              
+        
+                    <div class="col-lg-4 col-md-4 col-sm-12 single-card">
+                            
+            
+                                                            <div class="card h-100">
+                                                    
+                                                                                        <div class="card-body d-flex flex-column align-items-start">
+                            
+                            <h3 id="ch-9">CPP Professor Emerita Honored as Inductee Into Green Industry Hall of Fame</h3>
+                                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                        <p><em>February 13, 2024</em></p>
+<p>Professor Emerita Valerie Mellano was recently inducted to the Green Industry Hall of Fame for her career in higher education and advising farmers on environmental issues.</p>  
+                        
+                        
+                                   
+                                                                        <div class="card-btn">
+                                                                                     
+                                 
+                                             
+                                 
+                                 
+              
+        
+                                                    <a class="btn btn-primary mt-3" href="https://thepolypost.com/news/2024/02/13/cpp-professor-emerita-honored-as-inductee-into-green-industry-hall-of-fame/">read more <span class="sr-only">about CPP Professor Emerita Honored as Inductee Into Green Industry Hall of Fame</span></a>
+                                                    </div>
+                    
+                                                            
+                                    </div>
+                            </div>
+                            
+                          
+        
+    
+            </div>
+                                                
+                                                                                                        
+              
+        
+                    <div class="col-lg-4 col-md-4 col-sm-12 single-card">
+                            
+            
+                                                            <div class="card h-100">
+                                                    
+                                                                                        <div class="card-body d-flex flex-column align-items-start">
+                            
+                            <h3 id="ch-10">Why Winter Is a Great Time to Plant and Maintain Herbs in Southern California</h3>
+                                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                        <p><em>January 30, 2024</em></p>
+<p>Experts say now is a great time to plant many annual herb plants and it&#8217;s also the time to perform some much-needed maintenance on perennial herbs.</p>  
+                        
+                        
+                                   
+                                                                        <div class="card-btn">
+                                                                                     
+                                 
+                                             
+                                 
+                                 
+              
+        
+                                                    <a class="btn btn-primary mt-3" href="https://www.sgvtribune.com/2024/01/30/why-winter-is-a-great-time-to-plant-and-maintain-herbs-in-southern-california/">read more <span class="sr-only">about Why Winter Is a Great Time to Plant and Maintain Herbs in Southern California</span></a>
+                                                    </div>
+                    
+                                                            
+                                    </div>
+                            </div>
+                            
+                          
+        
+    
+            </div>
+                                                
+                                                                                                        
+              
+        
+                    <div class="col-lg-4 col-md-4 col-sm-12 single-card">
+                            
+            
+                                                            <div class="card h-100">
+                                                    
+                                                                                        <div class="card-body d-flex flex-column align-items-start">
+                            
+                            <h3 id="ch-11">Lecturer Honored for Teaching</h3>
+                                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                        <p><em>October 25, 2023</em></p>
+<p>Lecturer Faculty, Tracey Takeuchi, M.S.&#160;was selected as a recipient of the 2023 Allan Romander Mentor Awards by the Western Region Certified Crop Adviser program.</p>  
+                        
+                        
+                                   
+                                                                        <div class="card-btn">
+                                                                                     
+                                 
+                                             
+                                 
+                                 
+              
+        
+                                                    <a class="btn btn-primary mt-3" href="https://www.cpp.edu/agri/news/articles/2023-takeuchi-award.shtml">read more <span class="sr-only">about Lecturer Honored for Teaching</span></a>
+                                                    </div>
+                    
+                                                            
+                                    </div>
+                            </div>
+                            
+                          
+        
+    
+            </div>
+                                                
+                                                                                                        
+              
+        
+                    <div class="col-lg-4 col-md-4 col-sm-12 single-card">
+                            
+            
+                                                            <div class="card h-100">
+                                                    
+                                                                                        <div class="card-body d-flex flex-column align-items-start">
+                            
+                            <h3 id="ch-12">La Urban Farms Plans to Donate Grow Tower to Cal Poly Pomona’ President’s Office</h3>
+                                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                        <p><em>November 21, 2023</em></p>
+<p>Lecturer Faculty, Kathleen Blakistone, M.S. Secures Donation of Aeroponic Grow Tower to Grow Food at President&#8217;s Office</p>  
+                        
+                        
+                                   
+                                                                        <div class="card-btn">
+                                                                                     
+                                 
+                                             
+                                 
+                                 
+              
+        
+                                                    <a class="btn btn-primary mt-3" href="https://thepolypost.com/news/2023/11/21/la-urban-farms-plans-to-donate-grow-tower-to-cal-poly-pomona-presidents-office/">read more <span class="sr-only">about La Urban Farms Plans to Donate Grow Tower to Cal Poly Pomona’ President’s Office</span></a>
+                                                    </div>
+                    
+                                                            
+                                    </div>
+                            </div>
+                            
+                          
+        
+    
+            </div>
+                                                
+                                                                                                        
+              
+        
+                    <div class="col-lg-4 col-md-4 col-sm-12 single-card">
+                            
+            
+                                                            <div class="card h-100">
+                                                    
+                                                                                        <div class="card-body d-flex flex-column align-items-start">
+                            
+                            <h3 id="ch-13">Hall Of Fame Inductees</h3>
+                                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                                        <p><em>November 2023</em></p>
+<p>Professor and Chair Emeritus, Dr. Valerie Mellano, Inducted into the 2023 Green Industry Hall of Fame</p>  
+                        
+                        
+                                   
+                                                                        <div class="card-btn">
+                                                                                     
+                                 
+                                             
+                                 
+                                 
+              
+        
+                                                    <a class="btn btn-primary mt-3" href="https://www.greenindustryhalloffame.org/inductees">read more <span class="sr-only">about Hall Of Fame Inductees</span></a>
+                                                    </div>
+                    
+                                                            
+                                    </div>
+                            </div>
+                            
+                          
+        
+                
+            </div>
+        </section>
+          
+       
+	
+	
+ 
+         
+    
+
+    
+                    
+                  
+       
+	
+	
+ 
+         
+    
+
+    
+                    
+            
+                
+                                     <style><!--
+.caption-shade-left {
+background: rgba(0,0,0,0.25);
+border-radius:15px;
+}
+    .slide-title {
+    font-size:2.1em;
+    }
+    .slide-description {
+    font-size:1.1em;   
+    }
+--></style>
+                                          
+       
+	
+	
+ 
+         
+    
+
+    
+                                            
+                                    <section class="text-images" id="s5">
+                                
+                                                        
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                            <style><!--
+main th[scope=col]{
+        font-weight:bold;
+        background-color: #00843D;
+        color: white;
+    }
+    main th, main th[scope=row]{
+        font-weight:bold;
+        background-color: #C1CAD7;
+        color: black;
+    }
+    main tr{
+        border-bottom:1px solid #DDD;
+    }
+    main tr:nth-child(even){
+        background:rgba(250,250,250,1);
+    }
+    main td, main th {
+        padding: .5em;
+        vertical-align: top;
+    }
+--></style>
+            </section>
+                            
+                  
+       
+	
+	
+ 
+         
+    
+
+    
+                    
+            
+                
+                                     <section aria-labelledby="social-media-horizontal-h2" class="social-media-horizontal text-center">
+    <h2 id="social-media-horizontal-h2">Follow Huntley College on Social Media</h2>
+    <br/>
+<ul>
+    
+                                                                                                                                                                                                           <li><a href="https://www.facebook.com/HuntleyCollegeofAgriculture/"><span class="sr-only">Facebook</span><i class="fab fa-facebook"></i></a></li>
+    
+    
+                                                                                                                                                                                                           <li><a href="https://www.instagram.com/huntleycollegeofagriculture/"><span class="sr-only">Instagram</span><i class="fab fa-instagram"></i></a></li>
+    
+    
+                                                                                                                                                                                                           <li><a href="https://www.linkedin.com/groups/6956822/"><span class="sr-only">LinkedIn</span><i class="fab fa-linkedin-in"></i></a></li>
+    
+    
+                                                                                                                                                                                                           <li><a href="https://twitter.com/CPPAgri"><span class="sr-only">Twitter</span><i class="fab fa-twitter"></i></a></li>
+    
+    
+                                                                                                                                                                                                           <li><a href="https://www.youtube.com/channel/UC0xGhB18gkVwZ-NaHLe4iHQ"><span class="sr-only">YouTube</span><i class="fab fa-youtube"></i></a></li>
+    
+
+</ul></section>
+                                          
+       
+	
+	
+ 
+         
+    
+
+    
+                                            
+                                    <section class="text-images" id="s6">
+                                
+                                                        
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                            <style><!--
+/* cards */
+    a .card {
+        cursor: pointer;
+        transition: .35s;
+    }
+    a .card:hover {
+        box-shadow: 0px 0px 10px #CCC;
+    }
+    .single-card a button.mt-3 {
+        background: none;
+        position: absolute;
+        top: 0;
+        color: rgba(0, 0, 0, 0);
+        width: 100%;
+        height: 100%;
+    }
+    .single-card:nth-child(4n-3) .card
+    {
+        border-bottom: 5px solid #0057B8;
+    }
+    .single-card:nth-child(4n-2) .card
+    {
+        border-bottom: 5px solid #6CC24A;
+    }
+    .single-card:nth-child(4n-1) .card
+    {
+        border-bottom: 5px solid #FFB500;
+    }
+    .single-card:nth-child(4n) .card
+    {
+        border-bottom: 5px solid #CEB888;
+    }
+    .card-section .card {
+        border-radius: 3px;
+    }
+    .card {
+        box-shadow: 0px 0px 7px #EEE;
+
+    }
+    .card h3 {
+        font-size:1.5rem;
+    }
+    .card img {
+        border-radius: 3px 3px 0px 0px;
+        transition: .65s;
+    }
+    .card p img {
+        border-radius: none;
+        box-shadow: none;
+    }
+--></style>
+            </section>
+                            
+                  
+       
+	
+	
+ 
+         
+    
+
+    
+                                            
+                                    <section class="text-images" id="s7">
+                                
+                                                        
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                            <style><!--
+#featured-info-container
+    {
+        margin-right: -4px;
+        margin-left: -4px;
+        padding: 20px;
+        background: url(/agri/plant-science/img/other/spadra-cabbage-student.jpg);
+        height: 460px;
+        background-size: cover;
+        background-position: center;
+    }
+    #featured-info
+    {
+        padding: 20px;
+        border-radius: 5px;
+        background-image: linear-gradient(to bottom, rgba(0,0,0, .68) 80%, rgba(0,0,0, 0));
+        position: relative;
+        width: 60%;
+        max-width: 600px;
+        height: 100%;
+    }
+    #featured-info h2
+    {
+        color: #FFB500;
+    }
+    #featured-info p
+    {
+        color: #FFF;
+    }
+    #featured-info a
+    {
+        color: #CEB888;
+        text-decoration: none;
+        border-bottom: 1px dotted #CEB888;
+        transition: border-bottom 1s;
+    }
+    #featured-info a:hover
+    {
+        border-bottom: 0px;
+    }
+--></style>
+            </section>
+                            
+                  
+       
+	
+	
+ 
+         
+    
+
+</div>
+</div>
+</main>
+
+		
+    <div lang="en">
+
+
+                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                 
+<style>
+     @media screen and (min-width: 992px) {
+    .mini-footer .footer__socials-buttons {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}
+
+.mini-footer .button1__transducer {
+    font-size: 12px;
+    letter-spacing: .5px;
+}
+
+.mini-footer .button {
+	margin-top: 0;
+    padding: 8px 20px 8px 20px;
+
+}
+.mini-footer .footer-line {
+    border-top: thin solid #a4d65e;
+    margin-top: 39px;
+    padding-top: 15px;
+}
+ </style>
+<footer class="footer mini-footer">
+    <div class="footer__rip-wrapper">
+        <img class="footer__rip" alt="" src="/common/green-and-gold/assets/images/green-rip.svg" alt="Ripped green paper." />
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-2">
+                <div class="footer__logo-wrapper">
+                    <a href="/" aria-label="CPP Logo">
+                        <img class="footer__logo" src="/common/green-and-gold/assets/logos/cpp_primary_1c_gold_rgb.png" alt="Cal Poly Pomona logo, building with a palm tree." />
+                    </a>
+                </div>
+            </div>
+            <div class="col-12 col-lg-6 offset-lg-4">
+                <div class="footer__socials">
+                    <div class="footer__socials-buttons">
+                        <a class="button button__secondary button1__transducer" href="/apply/">Apply</a>
+                        <a class="button button__secondary button1__transducer" href="https://maps.cpp.edu/">Maps</a>
+                        <a class="button button__secondary button1__transducer" href="/outreach/tours.shtml">Visit</a>
+                        <a class="button button__secondary button1__transducer" href="/contact.shtml">Contact Us</a>
+                    </div>
+                    <div class="footer__socials-icons">
+                        <a href="https://www.instagram.com/calpolypomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram opens a new window" />
+                        </a>
+                        <a href="https://www.linkedin.com/school/cal-poly-pomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn opens a new window" />
+                        </a>
+                        <a href="https://www.youtube.com/user/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="YouTube opens a new window" />
+                        </a>
+                        <a href="https://www.facebook.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook opens a new window" />
+                        </a>
+                        <a href="https://twitter.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X opens a new window" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 footer-line">
+                <div class="footer__errata">
+                    <p class="footer__copyright" style="line-height: 1.8em">Copyright ©2025 California State Polytechnic University, Pomona.  All Rights Reserved 
+                        
+                        <br />A campus of 
+                        
+                        <a class="footer__errata-link" style="display: inline" href="https://www.calstate.edu/">The California State University</a>.
+                    
+                    </p>
+                    <div class="footer__errata-links">
+                        <a class="footer__errata-link" href="https://www.cpp.edu/website-feedback.shtml">Feedback</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/privacy.shtml">Privacy</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/accessibility.shtml">Accessibility</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/file-viewers.shtml">Document Readers</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer__gradient-bottom"></div>
+</footer>
+
+
+<script   src="https://code.jquery.com/jquery-3.2.1.min.js"   integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="   crossorigin="anonymous">
+</script><script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script src="https://www.cpp.edu/common/green-and-gold/assets/js/cpp-legacy.js" ></script>
+<script src="https://www.cpp.edu/common/2018/assets/js/tabs.js" ></script>
+<script src="/common/green-and-gold/assets/js/nav.js"></script>
+
+
+</div>
+    
+		
+		
+	</body>
+</html>

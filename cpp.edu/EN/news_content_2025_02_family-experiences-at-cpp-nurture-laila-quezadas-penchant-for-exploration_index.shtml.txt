@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<!-- Required meta tags -->
+		<meta charset="utf-8"/>
+		<meta content="width=device-width, initial-scale=1" name="viewport"/>
+		<title>
+			Family, Experiences at CPP Nurture Laila Quezada's Penchant for Exploration 
+		</title>
+		
+		
+		<title>Family, Experiences at CPP Nurture Laila Quezada's Penchant for Exploration </title>
+<!--  Essential META Tags -->
+<meta content="Family, Experiences at CPP Nurture Laila Quezada's Penchant for Exploration " property="og:title"/>
+<meta content="article" property="og:type"/>
+<meta content="https://www.cpp.edu/news/img/news/2025/02/quezada-rocket.jpg" property="og:image"/>
+<meta content="https://www.cpp.edu/news/content/2025/02/family-experiences-at-cpp-nurture-laila-quezadas-penchant-for-exploration/index.shtml" property="og:url"/>
+<!-- Twitter Meta Tags -->
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="cpp.edu" property="twitter:domain"/>
+<meta content="ttps://www.cpp.edu/news/content/2025/02/family-experiences-at-cpp-nurture-laila-quezadas-penchant-for-exploration/index.shtml" property="twitter:url"/>
+<meta content="Family, Experiences at CPP Nurture Laila Quezada's Penchant for Exploration " name="twitter:title"/>
+<meta content="https://www.cpp.edu/news/img/news/2025/02/quezada-rocket.jpg" name="twitter:image"/>
+<meta content="Laila Quezada holds a rocket that says Girl Genius" name="twitter:image:alt"/>
+<!-- Google search thumbnail -->
+
+  <PageMap>
+    <DataObject type="thumbnail">
+      <Attribute name="src" value="https://www.cpp.edu/news/img/news/2025/02/quezada-rocket.jpg"/>
+      <Attribute name="width" value="150"/>
+      <Attribute name="height" value="120"/>
+    </DataObject>
+  </PageMap>
+
+
+<meta content="https://www.cpp.edu/news/img/news/2025/02/quezada-rocket.jpg" name="thumbnail"/>
+		<!-- Google Tag Manager -->
+		
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSKJRNV');</script>
+
+		<!-- End Google Tag Manager -->
+		<!-- Bootstrap CSS -->
+		<link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" rel="stylesheet"/>
+		<link href="/news/inc/template/news.css" rel="stylesheet"/>
+		<script crossorigin="anonymous" defer="defer" integrity="sha384-FW78RPcSpi13vjx77nPWQIrQbNSLkPBopb0qGzLCxD2x4Kr6FA8V05C/6cpgkKPL" src="https://pro.fontawesome.com/releases/v5.10.1/js/all.js"></script>
+	</head>
+	<body>
+		<!-- Google Tag Manager (noscript) -->
+		<noscript>
+			<iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-PSKJRNV" style="display:none;visibility:hidden" width="0"></iframe>
+		</noscript>
+		<!-- End Google Tag Manager (noscript) -->
+		<div id="alert">
+</div>
+<div id="printheader">
+	<img class="w-100" src="/news/img/print-header.png" alt="print header, cpp news" />
+</div>
+<header id="wacheader">
+	<div id="newsgreenbar">
+		<h1>
+			<a href="/news/index.shtml"><span class="cppwhitetxt">CPP</span>
+			<span class="newsyellowtxt">NEWS</span></a>
+		</h1>
+	</div>
+	<div class="row d-flex align-items-center" id="newsgraybar">
+	    <div class="col-sm-3" id="cpp-logo">
+		<a href="https://www.cpp.edu">
+			<img id="cpplogo" src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png" alt="cal poly pomona">
+			</a>
+		</div>
+			<nav class="col-sm-6" id="newsnav">
+				<ul>
+					<li>
+						<a href="/news/all-news.shtml">News</a>
+					</li>
+					<li>
+						<a href="/news/social-media-directory.shtml">Social Media</a>
+					</li>
+					<li>
+						<a href="/news/for-the-media.shtml">For the Media</a>
+					</li>
+				</ul>
+			</nav>
+			<div class="col-sm-3" id="search">
+				<form action="/news/search.shtml" autocomplete="off" id="search-form" method="GET">
+					<label class="sr-only" for="searchbox">Search Box</label>
+					<input id="searchbox" name="q" type="text" placeholder="Search" />
+					<label class="sr-only" for="submit">Submit</label>
+					<button id="submit" name="submit" type="submit">
+						<svg fill="#008345" height="18" viewbox="0 0 13 13" width="18">
+							<title>search</title>
+							<path d="m4.8495 7.8226c0.82666 0 1.5262-0.29146 2.0985-0.87438 0.57232-0.58292 0.86378-1.2877 0.87438-2.1144 0.010599-0.82666-0.28086-1.5262-0.87438-2.0985-0.59352-0.57232-1.293-0.86378-2.0985-0.87438-0.8055-0.010599-1.5103 0.28086-2.1144 0.87438-0.60414 0.59352-0.8956 1.293-0.87438 2.0985 0.021197 0.8055 0.31266 1.5103 0.87438 2.1144 0.56172 0.60414 1.2665 0.8956 2.1144 0.87438zm4.4695 0.2115 3.681 3.6819-1.259 1.284-3.6817-3.7 0.0019784-0.69479-0.090043-0.098846c-0.87973 0.76087-1.92 1.1413-3.1207 1.1413-1.3553 0-2.5025-0.46363-3.4417-1.3909s-1.4088-2.0686-1.4088-3.4239c0-1.3553 0.4696-2.4966 1.4088-3.4239 0.9392-0.92727 2.0864-1.3969 3.4417-1.4088 1.3553-0.011889 2.4906 0.45771 3.406 1.4088 0.9154 0.95107 1.379 2.0924 1.3909 3.4239 0 1.2126-0.38043 2.2588-1.1413 3.1385l0.098834 0.090049z"></path>
+						</svg>
+					</button>
+				</form>
+			</div>
+		</div>
+	</header>
+		<div id="main">
+			
+
+    <article class="container">
+    <h1>Family, Experiences at CPP Nurture Laila Quezada's Penchant for Exploration </h1>
+        
+     
+                                                                                                                                                                                                                                                                                                                                                                                                                                                          <ul class="tags">
+        
+        <li class="StudentSuccess"><a href="/news/all-news.shtml?category=20">Student Success</a></li>
+        
+                   
+                <li class="CollegeofEngineering"><a href="/news/all-news.shtml?category=2">College of Engineering</a></li>
+                                <li class="PolyX"><a href="/news/all-news.shtml?category=$cat13ndex">PolyX</a></li>
+                
+    </ul>
+    <p class="byline">February 12, 2025 | <a href="/news/all-news.shtml?author=Melanie Johnson">melanie johnson</a></p>
+   <aside class="share">
+       <h2>Share</h2>
+       <ul>
+           <li>
+              <a href="#" onclick="copyLink();return false;" title="copy article link to clipboard"><i class="far fa-link" style="color: #31814b;"></i></a>
+           </li>
+          <li>
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.cpp.edu/news/content/2025/02/family-experiences-at-cpp-nurture-laila-quezadas-penchant-for-exploration/index.shtml" title="share this article on facebook"><i class="fab fa-facebook" style="color: #31814b;"></i></a>
+          </li> 
+           <li>
+            <a href="https://twitter.com/intent/tweet?text=https://www.cpp.edu/news/content/2025/02/family-experiences-at-cpp-nurture-laila-quezadas-penchant-for-exploration/index.shtml" title="share this article on twitter">
+                <svg xmlns="http://www.w3.org/2000/svg" class="bi bi-twitter-x" fill="currentColor" height="16" style="color: #31814b;" viewBox="0 0 16 16" width="16">
+  <path d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865z"/>
+</svg>
+           </a>
+          </li> 
+            <li>
+                
+            <a title="share this article on linked in" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.cpp.edu/news/content/2025/02/family-experiences-at-cpp-nurture-laila-quezadas-penchant-for-exploration/index.shtml"><i class="fab fa-linkedin-in" style="color: #31814b;"></i></a>
+                
+          </li> 
+        <li>
+            <a href="mailto:?subject=Check out this article from Cal Poly Pomona News&amp;body=Check out this article - Family, Experiences at CPP Nurture Laila Quezada's Penchant for Exploration , https://www.cpp.edu/news/content/2025/02/family-experiences-at-cpp-nurture-laila-quezadas-penchant-for-exploration/index.shtml" title="Share by Email"><i class="fas fa-envelope" style="color: #31814b;"></i></a>
+          </li> 
+            <li>
+            <a href="#" onclick="window.print();return false;" title="Print this article"><i class="fas fa-print" style="color: #31814b;"></i></a>
+          </li> 
+       </ul>
+   </aside>
+                        <figure class="top-figure">
+                                 <img alt="Laila Quezada holds a rocket that says Girl Genius" class="w-100" src="../../../../img/news/2025/02/quezada-rocket.jpg"/>
+                               
+                <figcaption>
+                    
+                </figcaption>
+            </figure>
+        
+                   
+    
+   
+    
+    
+                    <p><span data-contrast="auto">Laila Quezada embraces her inner explorer.&#160;</span><span data-ccp-props="{}">&#160;</span></p>
+<p><span data-contrast="auto">Whether it&#8217;s a hobby, an academic pursuit or activities along the path to a career, she digs in, bringing passion and a desire to learn.&#160;</span><span data-ccp-props="{}">&#160;</span></p>
+<p><span data-contrast="auto">She restores classic cars. She runs an apparel and merchandising business. The first-generation student can tell you how a rocket gets from concept to launch and explain the inner workings of an internal combustion engine.&#160;</span><span data-ccp-props="{}">&#160;</span></p>
+<p><span data-contrast="auto">Quezada, a <a href="https://www.cpp.edu/engineering/me/index.shtml">mechanical engineering</a> student who will participate in Commencement in May 2025, had a love of all things STEM at an early age, especially hands-on activities. It&#8217;s a passion her parents encouraged and nurtured.&#160;</span><span data-ccp-props="{}">&#160;</span></p>
+<p><span data-contrast="auto">&#8220;I was a unique child,&#8221; she said. &#8220;When I was around 2 years old, I developed a big infatuation with Thomas the Tank Engine. I would sit in the playroom for hours on end and construct different layouts for my train. My parents said, &#8216;This girl is probably going to be an architect or an engineer.&#8217;&#8221;</span><span data-ccp-props="{}">&#160;</span></p>
+<p><span data-contrast="auto">The Chino native grew up with zero interest in playing with Barbies or balls. Instead, Quezada loved the world of meteorology, seismology and geology that her dad, Ed, shared with her. She relished the Friday night family drives to the Griffith Observatory &#8212; complete with tunes from KROQ wafting through her earbuds and trips to Porto&#8217;s Bakery in Burbank for a taste of the food from her paternal grandmother&#8217;s native Cuba &#8212; where she was able to gaze at the stars.&#160;</span><span data-ccp-props="{}">&#160;</span></p>
+<p><span data-contrast="auto">&#8220;I had my first existential crisis there when I was probably 6 years old,&#8221; Quezada said. &#8220;The observatory has been such a special place for me, even now as an adult. It fostered this sense of wonder and curiosity that has fueled my love of science, philosophy and exploration. To question everything and why it works. As a little girl, it armed me with confidence and acceptance to explore.&#8221;&#160;</span><span data-ccp-props="{}">&#160;</span></p>
+<h2>Discovery of Self&#160;</h2>
+<p><span data-contrast="auto">As a freshman at Ayala High School in Chino Hills, Quezada took an introduction to astronomy class through Chaffey College. She loved the topic and began to think about what she could do in STEM that would be more hands on. While academically successful &#8212; she graduated high school with a 4.1 GPA &#8212; Quezada battled imposter syndrome.&#160;</span><span data-ccp-props="{}">&#160;</span></p>
+<p><span data-contrast="auto">Her parents came from humble beginnings, born to immigrant parents from Mexico and Cuba. Her father worked as a driver for UPS, recently retiring after 41 years. Her mother, Sidie, was a homemaker. They were loving, hardworking and supportive of Quezada and her younger brother&#8217;s interests, but they didn&#8217;t know anything about how to prepare for and apply to college.&#160;</span><span data-ccp-props="{}">&#160;</span></p>
+<p><span data-contrast="auto"><img alt="Laila Quezada works on a red Mustang" class="image-300px-float-right" height="800" src="../../../../img/news/2025/02/quezada-mustang2.jpg" width="800"/>&#8220;I didn&#8217;t think I was smart enough to go to college,&#8221; Quezada said. &#8220;It felt like the college process was a secret that I was left out of.&#160; Everyone around me knew what to do and I did not. Their parents were professionals who knew the college process and had the extra money for SAT tutoring and college application reviewers. I didn&#8217;t understand what the SAT was until I was sitting down to take the exam.&#8221;</span><span data-ccp-props="{}">&#160;</span></p>
+<p><span data-contrast="auto">It was during her junior year, in her honors chemistry class, that she had a breakthrough. Her teacher was discussing oxidation reactions and how they related to internal combustion engines, and it clicked.&#160;</span><span data-ccp-props="{}">&#160;</span></p>
+<p><span data-contrast="auto">Quezada comes from a car family. She spent countless hours in the garage with her dad as he rebuilt his 1965 Ford Mustang. The family went to car shows and NASCAR events, and Quezada drives a bright red 1967 Ford Mustang, her second classic car that she finished restoring in 2023.&#160;</span><span data-ccp-props="{}">&#160;</span></p>
+<p><span data-contrast="auto">&#8220;From then on, I said, &#8216;I am going to be an engineer,&#8217;&#8221; Quezada said of her breakthrough in class.</span><span data-ccp-props="{}">&#160;</span></p>
+<p><span data-contrast="auto">After graduating from high school, she attended Embry Riddle Aeronautical University in Daytona Beach, Florida, with a dream of becoming an aerospace engineer. In college, she worked through the lingering doubts about her abilities.&#160;</span><span data-ccp-props="{}">&#160;</span></p>
+<p><span data-contrast="auto">&#8220;I realized that I am the hardest worker that I know,&#8221; she said. &#8220;Regardless of the situation, I am going to find a way to succeed.&#8221;</span><span data-ccp-props="{}">&#160;</span></p>
+<h2>A Return Home&#160;</h2>
+<p><span data-contrast="auto">When the pandemic hit in 2020, Quezada found herself back at home. She had a decision to make. She could continue to take classes remotely from Embry Riddle, a costly private university, or she could transfer to Mt. SAC and save money. She transferred in fall 2020. While at Mt. SAC, she worked at a local Chick-Fil-A to pay off loans and was a sustainability intern at HMC Architects in Ontario, where she evaluated designs.</span><span data-ccp-props="{}">&#160;</span></p>
+<p><span data-contrast="auto">She continued her engineering coursework and found a mentor in Physics and Engineering Professor Eugene Mahmoud, who taught the Programming Applications for Engineering course at Mt. SAC.&#160;</span><span data-ccp-props="{}">&#160;</span></p>
+<p><span data-contrast="auto">Although COVID-19 presented challenges with adapting an in-person, lecture-laboratory course into a distance-learning one, Mahmoud found Quezada to be engaging, motivated and positive, utilizing the learning resources offered inside and outside of class.&#160;</span><span data-ccp-props="{}">&#160;</span></p>
+<p><span data-contrast="auto">&#8220;She worked to make connections between what she was learning in the classroom and what she was most interested in doing for her future career,&#8221; he said. &#8220;She was finding opportunities for financial aid, undergraduate research and professional networking. She was a good friend of other students. She was mature and considerate in her interactions with professors and college staff.&#8221;&#160;</span><span data-ccp-props="{}">&#160;</span></p>
+<h2>Overcoming Challenges&#160;</h2>
+<p><span data-contrast="auto">Quezada transferred to Cal Poly Pomona in fall 2022, opting to study mechanical engineering because of the discipline&#8217;s flexibility and broad application.&#160;</span><span data-ccp-props="{}">&#160;</span></p>
+<p><span data-contrast="auto"><img alt="Laila Quezada at the Daytona National Speedway" class="image-300px-float-left" height="600" src="../../../../img/news/2025/02/quezada-daytona-speedway.jpg" width="800"/>&#8220;I try to give myself as many routes as possible,&#8221; she said. &#8220;No matter where I want to live in the world, some sort of mechanical engineering is needed.&#8221;</span><span data-ccp-props="{}">&#160;</span></p>
+<p><span data-contrast="auto">While at Mt. SAC, Quezada received a $50,000 scholarship sponsored by Cheetos and rapper/singer Bad Bunny. She was one of 10 selected to receive the </span><a href="https://www.cheetos.com/dejatuhuella"><span data-contrast="none">Deja Tu Huella</span></a><span data-contrast="auto"> (Leave Your Mark in English) campaign scholarship for Latinx students in the United States and got to meet the performer.</span><span data-ccp-props="{}">&#160;</span></p>
+<p><span data-contrast="auto">Quezada did the math and found that she could pay off her student loans from Embry Riddle and pay for five semesters at CPP with her scholarship. That led Quezada, who is financially independent from her parents, to use some of her savings for personal expenses and projects.</span><span data-ccp-props="{}">&#160;</span></p>
+<p><span data-contrast="auto">She continued to face obstacles in balancing the demands of work and school. The former high school pole vaulter was coaching pole vaulters at Ayala High but quit to focus on academics. She was also running a small business making custom car stickers that she fit in between classes.&#160;</span><span data-ccp-props="{}">&#160;</span></p>
+<p><span data-contrast="auto">In addition, Quezada participated in an international research group funded by the </span><a href="https://www.cpp.edu/our-cpp/students/stars/index.shtml"><span>STARS</span></a><span data-contrast="auto"> and </span><a href="https://www.cpp.edu/mcnair/index.shtml"><span>McNair Scholars Program</span></a><span data-contrast="auto"> researching climate change impacts on the hydropower-dominated Ecuadorian power system. She was a part of the group for a year but left because she couldn&#8217;t keep up with her business, and the stipend she received did not fully cover her expenses.</span><span data-ccp-props="{}">&#160;</span></p>
+<p><span data-contrast="auto">While she strove to balance family responsibilities and being financially independent, she also relished the opportunities to explore the resources and opportunities that Cal Poly Pomona provided &#8212; from conducting academic research to working in an aerospace environment that mirrors the industry to sharing classes and experiences with a diverse student population.&#160;</span><span data-ccp-props="{}">&#160;</span></p>
+<p><span data-contrast="auto">&#8220;CPP has helped me understand that there is more to the world than what I see in my own field of vision,&#8221; she said. &#8220;And it has allowed me to step into all of these different shoes so that I can gain those experiences and make the best educated decision for myself and my future.&#8221;&#160;</span><span data-ccp-props="{}">&#160;</span></p>
+<h2>Become by Exploring&#160;</h2>
+<p><span data-contrast="auto">Quezada also was active in the <a href="https://www.cpplrl.com/">Liquid Rocket Lab</a>, serving on the Bronco 1 Launch Vehicle&#8217;s Testing and Recovery Team, eventually becoming the lead for the Recovery and Integration Team for the 2024-25 academic year.&#160;</span><span data-ccp-props="{}">&#160;</span></p>
+<p><span data-contrast="auto">Alumna Ericka Ontiveros (&#8217;24, <a href="https://www.cpp.edu/engineering/aro/index.shtml">aerospace engineering</a>), who served as program manager overseeing all the Bronco 1 teams, clicked with Quezada right away.</span><span data-ccp-props="{}">&#160;</span></p>
+<p><span data-contrast="auto">&#8220;It was a breath of fresh air,&#8221; she said of having Quezada on the team. &#8220;We have a lot of the same mentality when it comes to keeping things organized and keeping things on a timeline. We are both planners. It was helpful and easier to push everyone else along and keep us on track.&#8221;</span><span data-ccp-props="{}">&#160;</span></p>
+<p><span data-contrast="auto">Ontiveros, an aerospace engineer for the Victorville-based defense consultant firm Exquadrum, said she knew right away that Quezada&#8217;s experience with cars would translate well to the Bronco 1 project.&#160;</span><span data-ccp-props="{}">&#160;</span></p>
+<p><span data-contrast="auto">&#8220;As soon as she started working in the Liquid Rocket Lab, she was learning everything at a rapid pace,&#8221; Ontiveros said. &#8220;Although her passion is cars, I think she would do well in rocketry if she pursues it.&#8221;</span><span data-ccp-props="{}">&#160;</span></p>
+<p><span data-contrast="auto">The Liquid Rocket Lab experience helped Quezada realize that she not only has great foresight when it comes to planning and project management, but leadership skills that she will tap into one day to run her own engineering-related business.&#160;</span><span data-ccp-props="{}">&#160;</span></p>
+<p><span data-contrast="auto">Quezada finished her classes in December 2024 and moved with her family to Cedar City, Utah, calling it a chance to recover and reset from the rigors of her program at CPP, as well as personal issues with extended family. Now that she is settled, the next step is to find her entrepreneurial purpose, something she has been pondering while hiking in Zion National Park. She continues to run the business she founded while in college, Pretty Girl Motorsports, an apparel and merchandise company for women in motorsports. She also plans to attend Southwest Technical College to take welding classes as part of its automation technology program to help with her car restoration projects.&#160;</span><span data-ccp-props="{}">&#160;</span></p>
+<p><span data-contrast="auto">&#8220;I am an artist first and an engineer second. A true artist hates being constrained,&#8221; Quezada said. &#8220;I feel things very deeply, and I want to honor both sides of myself. I see fascinating advances going on in the space industry, but I also see unprecedented natural disasters happening here.&#160;&#160;</span><span data-ccp-props="{}">&#160;</span></p>
+<p><span data-contrast="auto">&#8220;I see poverty. I see injustice. I see people in great need of community. Where do I want to make my impact? I want to take care of my fellow human beings and community members with my skills, knowledge and art.&#8221;&#160;</span><span data-ccp-props="{}">&#160;</span></p>
+<p><i><span data-contrast="auto">To see how Laila and other Broncos become by doing, watch the video and find more stories </span></i><a href="https://www.cpp.edu/aboutcpp/become-by-doing.shtml"><span><i>here</i></span></a><i><span data-contrast="auto">.</span></i><span data-ccp-props="{}">&#160;</span></p> 
+    
+                                 
+            
+    
+    
+         
+<div id="sitetags">
+    <h2>Tags </h2>
+    <ul>
+                   <li><a href="/news/all-news.shtml?tag=engineering">engineering</a></li>
+                   <li><a href="/news/all-news.shtml?tag=first-generation student">first-generation student</a></li>
+                   <li><a href="/news/all-news.shtml?tag=STEM">STEM</a></li>
+                   <li><a href="/news/all-news.shtml?tag=Become by Doing">Become by Doing</a></li>
+                   <li><a href="/news/all-news.shtml?tag=students">students</a></li>
+                   <li><a href="/news/all-news.shtml?tag=mechanical engineering">mechanical engineering</a></li>
+                   <li><a href="/news/all-news.shtml?tag=Laila Quezada">Laila Quezada</a></li>
+                   <li><a href="/news/all-news.shtml?tag=1965 Ford Mustang">1965 Ford Mustang</a></li>
+                   <li><a href="/news/all-news.shtml?tag=Embry Riddle Aeronautical University">Embry Riddle Aeronautical University</a></li>
+                   <li><a href="/news/all-news.shtml?tag=Daytona Beach">Daytona Beach</a></li>
+                   <li><a href="/news/all-news.shtml?tag=Florida">Florida</a></li>
+                   <li><a href="/news/all-news.shtml?tag=Professor Eugene Mahmoud">Professor Eugene Mahmoud</a></li>
+                   <li><a href="/news/all-news.shtml?tag=Deja Tu Huella campaign scholarship">Deja Tu Huella campaign scholarship</a></li>
+                   <li><a href="/news/all-news.shtml?tag=Latinx students">Latinx students</a></li>
+                   <li><a href="/news/all-news.shtml?tag=Leave Your Mark campaign scholarship">Leave Your Mark campaign scholarship</a></li>
+                   <li><a href="/news/all-news.shtml?tag=Liquid Rocket Lab">Liquid Rocket Lab</a></li>
+                   <li><a href="/news/all-news.shtml?tag=Alumna Ericka Ontiveros">Alumna Ericka Ontiveros</a></li>
+                   <li><a href="/news/all-news.shtml?tag=Bronco 1">Bronco 1</a></li>
+            </ul>
+</div>         
+</article>
+
+
+
+
+		</div>
+		<footer>
+			<section class="container" id="bottom-nav">
+	<div class="row">
+		<div class="card col-md-3 news-card">
+			<div class="card-body">
+				<h2 class="card-title">News</h2>
+				<ul>
+					<li>
+						<a class="card-link" href="/news/all-news.shtml">View All News</a>
+					</li>
+						<li>
+						<a class="card-link" href="/news/browse-by-topic.shtml">Browse by Topic</a>
+					</li>
+						<li>
+						<a class="card-link" href="https://www.cpp.edu/stratcomm/cpp-news-and-stories.shtml">Submit a Story Idea</a>
+					</li>
+				</ul>
+				
+		
+			</div>
+		</div>
+		<div class="card social-card col-md-3">
+			<div class="card-body">
+				<h2 class="card-title">Social Media</h2>
+				<ul>
+					<li>
+						<a class="card-link" href="/news/social-media-directory.shtml">Social Media Directory</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="card press-card col-md-3">
+			<div class="card-body">
+				<h2 class="card-title">For the Media</h2>
+				<ul>
+					<li>
+						<a class="card-link" href="/news/for-the-media.shtml">Media Relations</a>
+					</li>
+					<li>
+						<a class="card-link" href="https://experts.cpp.edu/" target="_blank">Experts Database 
+                            <svg title="Opens in new window"
+										xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-box-arrow-up-right" viewBox="0 0 16 16">
+										<path fill-rule="evenodd" d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5"/>
+										<path fill-rule="evenodd" d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0z"/>
+									</svg>
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+				<div class="card publications-card col-md-3">
+					<div class="card-body">
+						<h2 class="card-title">Publications</h2>
+						<ul>
+							<li>
+								<a class="card-link" href="https://www.cpp.edu/cppmag/" target="_blank" >CPP Magazine 
+									<svg title="Opens in new window"
+										xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-box-arrow-up-right" viewBox="0 0 16 16">
+										<path fill-rule="evenodd" d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5"/>
+										<path fill-rule="evenodd" d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0z"/>
+									</svg>
+								</a>
+							</li>
+							<li>
+								<a class="card-link" href="https://broncomag.cpp.edu/"  target="_blank">Bronco Digital Magazine 
+        											<svg title="Opens in new window"
+												xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-box-arrow-up-right" viewBox="0 0 16 16">
+												<path fill-rule="evenodd" d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5"/>
+												<path fill-rule="evenodd" d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0z"/>
+											</svg>
+										</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section>
+				<footer class="container-fluid">
+					<div class="row">
+						<img class="footer-logo" src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png" alt="calpoly pomona">
+							<p class="footer-address">3801 W. TEMPLE AVE. POMONA, CA 91768</p>
+					  
+    							<ul id="footer-social">
+                                  <li>
+                                    <a href="https://www.facebook.com/calpolypomona"><i class="fab fa-facebook"></i><span class="sr-only">Facebook</span></a>
+                                  </li>
+                                   <li>
+                                    <a href="https://www.instagram.com/calpolypomona"><i class="fab fa-instagram"></i><span class="sr-only">Instagram</span></a>
+                                  </li> 
+                                   <li>
+                                    <a href="https://www.youtube.com/user/calpolypomona"><i class="fab fa-youtube-square"></i><span class="sr-only">Youtube</span></a>
+                                  </li> 
+                                   <li>
+                                    <a href="https://www.twitter.com/calpolypomona">
+                                    <svg style="margin-top: -5px;" xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-twitter-x" viewBox="0 0 16 16">
+  <path d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865z"/>
+</svg>    
+                                    <span class="sr-only">Twitter</span></a>
+                                  </li> 
+                                    <li>
+                                    <a href="https://www.linkedin.com/edu/school?id=17815"><i class="fab fa-linkedin-in"></i><span class="sr-only">Linked In</span></a>
+                                  </li> 
+                               </ul>
+                           
+							<p class="footer-bottom"><a href="https://www.cpp.edu/stratcomm/">CPP News is managed by the Department of Strategic Communications.</a></p>
+						</div>
+					</footer>
+<script>
+    
+    function copyLink(copyText) {
+          // Select the text field
+          copyText = window.location.href;
+          navigator.clipboard.writeText(copyText);
+          // Alert the copied text
+          alert("Copied the article link: " + copyText);
+}
+</script>
+
+		</footer>
+		<script crossorigin="anonymous" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" type="text/javascript"></script>
+		<script crossorigin="anonymous" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+		<script src="/news/_files/js/functions.js" type="text/javascript"></script>
+	</body>
+</html>

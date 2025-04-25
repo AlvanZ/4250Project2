@@ -1,0 +1,1720 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+    <head>
+        <meta charset="UTF-8"/>
+        <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+        <meta content="ie=edge" http-equiv="X-UA-Compatible"/>
+        <title>
+            
+        </title>
+        
+        
+        
+            <script src="https://cdn.levelaccess.net/accessjs/YW1wX2NwcDExMDM/access.js"></script>
+<script>// <![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSKJRNV');
+// ]]></script>
+<link rel="icon" href="/common/green-and-gold/assets/icons/gg-favicon.svg"  type="image/svg+xml" />
+<link rel="icon" href="/common/green-and-gold/assets/icons/gg-favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/index.css" />
+<link rel="stylesheet" href="https://use.typekit.net/fia5dle.css" />
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/cpp-fonts.css" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+<script src="/common/green-and-gold/assets/js/accordion.js"></script>
+<script crossorigin="anonymous" defer="defer" integrity="sha384-FW78RPcSpi13vjx77nPWQIrQbNSLkPBopb0qGzLCxD2x4Kr6FA8V05C/6cpgkKPL" src="https://pro.fontawesome.com/releases/v5.10.1/js/all.js"></script>
+<script src="/common/green-and-gold/assets/js/modal.js"></script>
+<script src="/common/green-and-gold/assets/js/fontawesome/v6.0x/sharp-light.js" crossorigin="anonymous" type="text/javascript"></script>
+<script src="/common/green-and-gold/assets/js/fontawesome/v6.0x/sharp-others.js" crossorigin="anonymous" type="text/javascript"></script>
+<!-- Swiper Library -->
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/swiper-bundle.min.css" />
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/swiper-carousel.css" />
+<script src="/common/green-and-gold/assets/js/swiper-bundle.min.js"></script>
+<script src="/common/green-and-gold/assets/js/carousel-cards-swiper.js"></script>
+
+    </head>
+    <body>
+        <a class="skip-to-content-link" href="#main">Skip to content</a>
+             <header class="nav fixed">
+    <nav class="container">
+        <ul class="row nav__main" id="mainNavMenu">
+            <li id="main-logo" class="col-6 col-lg-3 nav__logo">
+                <a href="/" aria-label="Cal Poly Pomona Home" tabindex="0">
+                    <div class="nav__logo--horizontal">
+                        <img src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png" alt="Cal Poly Pomona Logo" />
+                    </div>
+                </a>
+            </li>
+            <!-- department header hidden by default-->
+            <li id="dept-header-desktop" class="col-sm-5 col-md-6 nav__logo desktop d-none">
+                <a href="/" aria-label="Cal Poly Pomona Home" tabindex="0">
+                    <div class="nav__logo--stacked">
+                        <img src="/common/green-and-gold/assets/logos/cpp_primary_2c_green_cmyk.png" alt="Cal Poly Pomona Logo">
+                        </div>
+                    </a>
+                    <div class="divider"></div>
+                    <div id="split-header" class="nav__division col-lg-6">
+                        <div id="large-name"></div>
+                        <div style="display:none" id="sub-name"></div>
+                    </div>
+                </div>
+            </li>
+            <li class="nav__links col-2" id="head-links">
+                <a class="nav__link nav__link--desktop col-1" href="/commencement/" tabindex="0">
+                    <svg
+                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 1px;
+    width: auto;
+">
+                        <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                        <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#005030"></path>
+                    </svg>
+                    <span class="sr-only">commencement</span>
+                </a>
+                <a class="nav__link nav__link--desktop col-1" href="/apply/" tabindex="0">apply</a>
+                <a class="nav__link nav__link--desktop col-1" href="/outreach/tours.shtml" tabindex="0">visit</a>
+                <a class="nav__link nav__link--desktop col-1" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="0">info</a>
+                <a class="nav__link nav__link--desktop col-1" href="/giving/" tabindex="0">give</a>
+                <a class="nav__link nav__link--desktop col-1" href="https://my.cpp.edu" tabindex="0">mycpp</a>
+                <button id="search-open" class="nav__search col-1" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/search-dark-green.svg" alt="Open search box" />
+                </button>
+                <button class="nav__menu col-1" id="menuButton" aria-expanded="false" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/menu.svg" alt="menu" />
+                </button>
+            </li>
+        </ul>
+    </nav>
+</header>
+<header id="search-header" style="display:none">
+    <div class="row">
+        <div class="col-md-6"></div>
+        <div id="searchbox" class="col-md-6">
+            <div id="search-slide">
+                <label for="#gsc-i-id1" class="sr-only">Search</label>
+                <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+                <div class="gcse-searchbox-only" data-resultsurl="https://www.cpp.edu/search.shtml"></div>
+                <button class="nav__menu col-1" id="search-close" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close search menu">
+                    </button>
+                </div>
+            </div>
+            <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+            <script>
+       $("#search-open").click(function() {
+         $("#search-header").show();
+         $("#search-slide").addClass("slideup");
+         $("#gsc-i-id1").focus();
+         $('#search-close').focusout(function() {
+           $("#search-header").hide();
+           $("#search-slide").removeClass("slideup");
+           $("#search-open").focus();
+         })
+       });
+       $("#search-close").click(function() {
+         $("#search-header").hide();
+         $("#search-slide").removeClass("slideup");
+         $("#search-open").focus();
+       });
+     </script>
+            <style>
+       .gstl_50 gssb_c {
+         position: fixed !important;
+       }
+
+       #searchbox {
+         height: 93px;
+         overflow: hidden;
+       }
+
+       #search-header {
+         position: fixed;
+         height: 100px;
+         width: 100%;
+         height: 93px;
+         z-index: 99999;
+         top: 0;
+       }
+
+       #gsc-i-id1 {
+         height: 40px;
+         width: 70%;
+         border-radius: 4px;
+         border: none;
+         padding: 15px;
+       }
+
+       #search-submit {
+         margin: 15px;
+       }
+
+       #search-close {
+         width: 23px;
+         height: 21px;
+         position: absolute;
+         top: 32px;
+       }
+
+       #search-slide {
+         width: 0px;
+         right: -100%;
+         padding: 20px 15px;
+         position: relative;
+         background: #005030;
+         height: 100%;
+         transition: all .5s ease 0s
+       }
+
+       #search-slide.slideup {
+         right: 0;
+         width: 100%;
+         position: relative;
+       }
+
+       @media screen and (max-width:991px) {
+         #search-slide {
+           height: 77px !important;
+           padding: 12px 10px;
+         }
+       }
+
+       @media screen and (max-width:767px) {
+         #search-header {
+           position: relative !important;
+         }
+
+         #search-slide {
+           text-align: center !important;
+         }
+       }
+
+       .gsc-search-button-v2 svg {
+         width: auto;
+         height: 21px;
+       }
+
+       .gsc-search-button-v2,
+       .gsc-search-button-v2:hover,
+       .gsc-search-button-v2:focus {
+         border: none !important;
+         background: none !important;
+       }
+
+       form.gsc-search-box {
+         font-size: 13px;
+         margin-top: 0;
+         margin-right: 0;
+         margin-bottom: 4px;
+         margin-left: 0;
+         width: 100%;
+         display: inline-block;
+       }
+
+       #___gcse_0 {
+         width: 70%;
+         display: inline-block;
+       }
+
+       table.gsc-search-box td.gsc-input {
+         padding-right: 0;
+       }
+
+       #gsc-i-id1 {
+         width: 100%;
+         padding: 0px;
+         border: none;
+         margin: -0.0625em 0px 0px;
+         height: 40px !important;
+         background: rgb(255, 255, 255);
+         outline: none;
+         font-size: 20px;
+         font-weight: 200;
+       }
+
+       .gstl_50.gssb_c {
+         z-index: 99999;
+       }
+
+       .gsq_a {
+         font-weight: 200;
+         font-size: 18px;
+         padding: 2px;
+       }
+
+       .gssb_a img {
+         display: none;
+       }
+     </style>
+        </div>
+    </header>
+    <section class="side-nav" id="sideNavOverlay">
+        <header class="side-nav__overlay relative">
+            <nav class="container">
+                <ul class="row nav__overlay" id="sideNavMenu">
+                    <li class="nav__logo col-12 col-md-10 col-lg-3" id="navLogoOverlay">
+                        <a href="/" aria-label="Cal Poly Pomona Home" tabindex="-1">
+                            <img src="/common/green-and-gold/assets/logos/cpp_horizontal_1c_gold_rgb.png" alt="Cal Poly Pomona Logo" />
+                        </a>
+                    </li>
+                    <div class="nav__overlay--right col-12 col-lg-9">
+                        <li class="nav__links nav__links--desktop col-12 col-lg-6">
+                            <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 1px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/apply/" tabindex="-1">apply</a>
+                            <a class="nav__link nav__link--mobile col-1" href="/outreach/tours.shtml" tabindex="-1">visit</a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="-1">info</a>
+                            <a class="nav__link nav__link--mobile col-1" href="/giving/" tabindex="-1">give</a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://my.cpp.edu" tabindex="-1">mycpp</a>
+                        </li>
+                        <li class="nav__icons col-1">
+                            <button id="search-open-green" class="nav__search col-1" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/search-white.svg" alt="Open search box" />
+                            </button>
+                            <button class="nav__close col-1" id="closeButton" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close menu" />
+                            </button>
+                        </li>
+                        <li class="nav__links nav__links--mobile col-12 col-lg-6">
+                            <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 1px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/apply/" tabindex="-1">apply </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/outreach/tours.shtml" tabindex="-1">visit </a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="-1">info </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/giving/" tabindex="-1">give </a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://my.cpp.edu" tabindex="-1">mycpp </a>
+                        </li>
+                    </div>
+                </ul>
+            </nav>
+        </header>
+        <nav class="container side-nav__container">
+            <ul class="row side-nav__links">
+                <li class="side-nav__link col-12">
+                    <a class="h3__proxima" href="/" tabindex="-1" aria-label="Cal Poly Pomona Home page">Home</a>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--0">
+                    <button class="h3__proxima" id="0" aria-expanded="false" tabindex="-1" aria-label="About">
+                        <span>about</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--1">
+                    <button class="h3__proxima" id="1" aria-expanded="false" tabindex="-1" aria-label="Admissions & Aid">
+                        <span>admissions &amp; aid</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--2">
+                    <button class="h3__proxima" id="2" aria-expanded="false" tabindex="-1" aria-label="Academics">
+                        <span>academics</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--3">
+                    <button class="h3__proxima" id="3" aria-expanded="false" tabindex="-1" aria-label="Life at CPP">
+                        <span>life at CPP</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small">
+            <ul class="row">
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="https://broncoathletics.com/" tabindex="-1">athletics</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/alumni/" tabindex="-1">alumni</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/news/" tabindex="-1">news &amp; events</a>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small-bottom">
+            <ul class="col-12 col-lg-6 side-nav__links--small-bottom">
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/prospective-student-gateway/" tabindex="-1">future students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/student-gateway/" tabindex="-1">current students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/family/" tabindex="-1">families</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/faculty-staff-gateway/" tabindex="-1">faculty &amp; staff</a>
+                </li>
+            </ul>
+            <ul class="col-12 col-lg-6 social-icons">
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.instagram.com/calpolypomona/" aria-label="Instagram" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.linkedin.com/school/cal-poly-pomona/" aria-label="LinkedIn " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.youtube.com/user/calpolypomona" aria-label="Youtube " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="Youtube" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.facebook.com/calpolypomona" aria-label="Facebook " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://twitter.com/calpolypomona" aria-label="X (Twitter)" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X" />
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </section>
+    <script src="/common/green-and-gold/assets/js/nav.js"></script>
+
+            <script>
+    
+                  
+                var mobileHtml = '<li class="col-6 nav__logo mobile"><a aria-label="Cal Poly Pomona Home" href="https://www.cpp.edu/" tabindex="0"><div class="nav__logo--horizontal"><img alt="Cal Poly Pomona Logo" src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png"/></div></a></li>';
+                $( "#main-logo" ).hide();
+                $( "#split-header #large-name" ).html('<a href="https://www.cpp.edu/academic-affairs/index.shtml">Academic Affairs</a>');
+                $( "#dept-header-desktop" ).removeClass("d-none");
+                $( "#dept-header-desktop" ).addClass("d-flex");
+                $( "#dept-header-desktop" ).parent().prepend(mobileHtml);
+                $( "#sub-name" ).html('<a href="/financial-aid/index.shtml">Financial Aid and Scholarships</a>');
+                $( "#sub-name" ).show();
+           
+        
+                
+     </script>
+
+    
+
+
+  
+
+
+  
+
+  
+              
+  
+            
+
+        
+           
+                           <code></code>
+           
+                            
+
+
+
+<header class="sub-nav">
+<nav class="container" id="subNavContainer">
+    <ul class="row sub-nav__links">
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Home <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/enrollment/" tabindex="0">Enrollment Management and Services</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/index.shtml" tabindex="0">Office of Financial Aid and Scholarships</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/admissions/index.shtml" tabindex="0">Office of Admissions</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/registrar/" tabindex="0">Registrar's Office</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/contact.shtml" tabindex="0">Contact Us</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Undergraduate <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/undergraduate/parent-and-family.shtml" tabindex="0">Parent &amp; Family Financial Aid Information</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/undergraduate/prospective/index.shtml" tabindex="0">Prospective Students</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/undergraduate/newly-admitted/index.shtml" tabindex="0">Newly Admitted Students</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/undergraduate/current/index.shtml" tabindex="0">Current Students</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Credentials <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/credentials/course-eligibility.shtml" tabindex="0">Financial Aid Course Eligibility</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/credentials/prospective/index.shtml" tabindex="0">Prospective Students</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/credentials/current/index.shtml" tabindex="0">Current Credential Students</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/credentials/newly-admitted/index.shtml" tabindex="0">Newly Admitted Students</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Graduate <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/graduate/course-eligibility.shtml" tabindex="0">Financial Aid Course Eligibility</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/graduate/prospective/index.shtml" tabindex="0">Prospective Students</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/graduate/newly-admitted-and-current/index.shtml" tabindex="0">Admitted &amp; Current Students</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Other Programs <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/other-programs/summer/index.shtml" tabindex="0">Summer Session</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/other-programs/veterans.shtml" tabindex="0">Veterans</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/other-programs/college-of-professional-and-global-education.shtml" tabindex="0">College of Professional and Global Education</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/other-programs/certificate-programs.shtml" tabindex="0">Certificate Programs</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/other-programs/cross-enrollment.shtml" tabindex="0">Cross Enrollment</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/other-programs/study-abroad.shtml" tabindex="0">Study Abroad</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Scholarships <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/scholarships/department-staff-and-faculty-information.shtml" tabindex="0">Information for Department Staff and Faculty</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/scholarships/cal-poly-pomona-scholarships.shtml" tabindex="0">Cal Poly Pomona Scholarships</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/scholarships/csu-systemwide-scholarships.shtml" tabindex="0">CSU Systemwide Scholarships</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/scholarships/outside-scholarships.shtml" tabindex="0">Outside Scholarships</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/scholarships/scholarship-faqs.shtml" tabindex="0">Scholarship FAQs</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Federal Work Study <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/federal-work-study/index.shtml" tabindex="0">Federal Work Study</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/federal-work-study/student-information.shtml" tabindex="0">Information for Students</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/federal-work-study/on-campus-employers-information.shtml" tabindex="0">Information for On Campus Employers</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/federal-work-study/faqs.shtml" tabindex="0">Frequently Asked Questions</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Resources <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/fafsa-simplification/index.shtml" tabindex="0">FAFSA Simplification</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/using-broncodirect-financial-aid-information.shtml" tabindex="0">Using BroncoDirect- Financial Aid Information</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/appeals.shtml" tabindex="0">Appeals</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/announcements.shtml" tabindex="0">Announcements</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/campus-resources.shtml" tabindex="0">Campus Resources</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/fafsa-dream-workshops.shtml" tabindex="0">FAFSA/CA Dream Act Workshops</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/financial-aid-policies.shtml" tabindex="0">Financial Aid Policies</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/financial-aid-outreach.shtml" tabindex="0">Financial Aid Presentations and Outreach Requests</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/financial-wellness.shtml" tabindex="0">Financial Wellness</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/faqs.shtml" tabindex="0">Frequently Asked Questions</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/heerf/index.shtml" tabindex="0">HEERF Student Aid</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/loan-information.shtml" tabindex="0">Loan Information</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/question-of-the-month.shtml" tabindex="0">Question of the Month</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/understanding-aid-program-limits.shtml" tabindex="0">Understanding Aid Program Limits</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/understanding-enrollment-requirements.shtml" tabindex="0">Understanding Enrollment Requirements</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/understanding-repeat-coursework-and-aid-eligibility.shtml" tabindex="0">Understanding Repeat Coursework and Aid Eligibility</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/understanding-return-of-federal-aid.shtml" tabindex="0">Understanding Return of Federal Aid Due to Withdrawals (R2T4)</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/understanding-sap.shtml" tabindex="0">Understanding SAP</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/understanding-state-university-grant-eligibility.shtml" tabindex="0">Understanding State University Grant Eligibility</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/understanding-unit-maximums.shtml" tabindex="0">Understanding Unit Maximums</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/understanding-verification.shtml" tabindex="0">Understanding Verification</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/aid-offer-notification.shtml" tabindex="0">Understanding Your Aid Offer and Next Steps</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/writing-a-successful-sap-appeal.shtml" tabindex="0">Writing a Successful SAP Appeal</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+</ul>
+
+<div class="row sub-nav__division-menu">
+    <div class="sub-nav__division"></div>
+        <div class="col-4 menu-button">
+        <button aria-expanded="false" aria-label="Site Menu" class="button button__primary--yellow-green button__proxima" data-dropdown-id="dropdownMenuBtn" id="dropdownMenuBtn">Menu
+             <span class="icon chevron">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" height="12" viewBox="0 0 19 12" width="19">
+            <g id="Atom / Icon / Expand Arrow / Small">
+            <path d="M2 2L9.5 9L17 2" id="Vector 2" stroke="none" stroke-width="3"/>
+            </g>
+            </svg>
+            </span>
+        </button>
+    </div>
+    <div class="sub-nav__dropdown hidden" id="dropdownMenu">
+       
+                       
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="1" tabindex="0">Home<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--1">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/enrollment/" tabindex="0">Enrollment Management and Services</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/index.shtml" tabindex="0">Office of Financial Aid and Scholarships</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/admissions/index.shtml" tabindex="0">Office of Admissions</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/registrar/" tabindex="0">Registrar's Office</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/contact.shtml" tabindex="0">Contact Us</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="2" tabindex="0">Undergraduate<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--2">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/undergraduate/parent-and-family.shtml" tabindex="0">Parent &amp; Family Financial Aid Information</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/undergraduate/prospective/index.shtml" tabindex="0">Prospective Students</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/undergraduate/newly-admitted/index.shtml" tabindex="0">Newly Admitted Students</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/undergraduate/current/index.shtml" tabindex="0">Current Students</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="3" tabindex="0">Credentials<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--3">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/credentials/course-eligibility.shtml" tabindex="0">Financial Aid Course Eligibility</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/credentials/prospective/index.shtml" tabindex="0">Prospective Students</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/credentials/current/index.shtml" tabindex="0">Current Credential Students</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/credentials/newly-admitted/index.shtml" tabindex="0">Newly Admitted Students</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="4" tabindex="0">Graduate<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--4">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/graduate/course-eligibility.shtml" tabindex="0">Financial Aid Course Eligibility</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/graduate/prospective/index.shtml" tabindex="0">Prospective Students</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/graduate/newly-admitted-and-current/index.shtml" tabindex="0">Admitted &amp; Current Students</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="5" tabindex="0">Other Programs<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--5">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/other-programs/summer/index.shtml" tabindex="0">Summer Session</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/other-programs/veterans.shtml" tabindex="0">Veterans</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/other-programs/college-of-professional-and-global-education.shtml" tabindex="0">College of Professional and Global Education</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/other-programs/certificate-programs.shtml" tabindex="0">Certificate Programs</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/other-programs/cross-enrollment.shtml" tabindex="0">Cross Enrollment</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/other-programs/study-abroad.shtml" tabindex="0">Study Abroad</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="6" tabindex="0">Scholarships<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--6">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/scholarships/department-staff-and-faculty-information.shtml" tabindex="0">Information for Department Staff and Faculty</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/scholarships/cal-poly-pomona-scholarships.shtml" tabindex="0">Cal Poly Pomona Scholarships</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/scholarships/csu-systemwide-scholarships.shtml" tabindex="0">CSU Systemwide Scholarships</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/scholarships/outside-scholarships.shtml" tabindex="0">Outside Scholarships</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/scholarships/scholarship-faqs.shtml" tabindex="0">Scholarship FAQs</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="7" tabindex="0">Federal Work Study<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--7">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/federal-work-study/index.shtml" tabindex="0">Federal Work Study</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/federal-work-study/student-information.shtml" tabindex="0">Information for Students</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/federal-work-study/on-campus-employers-information.shtml" tabindex="0">Information for On Campus Employers</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/federal-work-study/faqs.shtml" tabindex="0">Frequently Asked Questions</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="8" tabindex="0">Resources<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--8">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/fafsa-simplification/index.shtml" tabindex="0">FAFSA Simplification</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/using-broncodirect-financial-aid-information.shtml" tabindex="0">Using BroncoDirect- Financial Aid Information</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/appeals.shtml" tabindex="0">Appeals</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/announcements.shtml" tabindex="0">Announcements</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/campus-resources.shtml" tabindex="0">Campus Resources</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/fafsa-dream-workshops.shtml" tabindex="0">FAFSA/CA Dream Act Workshops</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/financial-aid-policies.shtml" tabindex="0">Financial Aid Policies</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/financial-aid-outreach.shtml" tabindex="0">Financial Aid Presentations and Outreach Requests</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/financial-wellness.shtml" tabindex="0">Financial Wellness</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/faqs.shtml" tabindex="0">Frequently Asked Questions</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/heerf/index.shtml" tabindex="0">HEERF Student Aid</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/loan-information.shtml" tabindex="0">Loan Information</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/question-of-the-month.shtml" tabindex="0">Question of the Month</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/understanding-aid-program-limits.shtml" tabindex="0">Understanding Aid Program Limits</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/understanding-enrollment-requirements.shtml" tabindex="0">Understanding Enrollment Requirements</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/understanding-repeat-coursework-and-aid-eligibility.shtml" tabindex="0">Understanding Repeat Coursework and Aid Eligibility</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/understanding-return-of-federal-aid.shtml" tabindex="0">Understanding Return of Federal Aid Due to Withdrawals (R2T4)</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/understanding-sap.shtml" tabindex="0">Understanding SAP</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/understanding-state-university-grant-eligibility.shtml" tabindex="0">Understanding State University Grant Eligibility</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/understanding-unit-maximums.shtml" tabindex="0">Understanding Unit Maximums</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/understanding-verification.shtml" tabindex="0">Understanding Verification</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/aid-offer-notification.shtml" tabindex="0">Understanding Your Aid Offer and Next Steps</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/writing-a-successful-sap-appeal.shtml" tabindex="0">Writing a Successful SAP Appeal</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+    </div>
+</div>
+
+
+
+
+</nav>
+<script type="text/javascript">
+    $(".button").attr("data-dropdown-id", "dropdownMenuBtn").on("click", function(event) {
+        var dropdownMenu = $("#dropdownMenu");
+        var nestedDropdownMenus = $(".sub-nav__nested-dropdown");
+        
+        if ($(this).attr("aria-expanded") === "false") {
+            $(this).attr("aria-expanded", "true");
+        } else {
+            $(this).attr("aria-expanded", "false");
+        }
+
+        toggleDropdown(dropdownMenu);;
+        
+        // close all nested dropdown menus if open
+        nestedDropdownMenus.each(function() {
+            if ($(this).hasClass("show")) {
+                $(this).removeClass("show");
+                $(this).addClass("hidden");
+            }
+        })
+    })
+    $(".sub-nav__nested-button").on("click", function(event) {
+        var currentButtonId = $(this).attr("id")
+        var nestedDropdownMenu = $(`#nestedDropdownMenu--${currentButtonId}`)
+        $(this).find(".chevron").toggleClass("active");
+
+        if ($(this).attr("aria-expanded") === "false") {
+            $(this).attr("aria-expanded", "true");
+        } else {
+            $(this).attr("aria-expanded", "false");
+        }
+
+        toggleDropdown(nestedDropdownMenu);
+    })
+    function toggleDropdown(menu) {
+        if (menu.hasClass("hidden")) {
+            menu.removeClass("hidden");
+            menu.addClass("show");
+            
+            //add click listener to check for clicks outside of the nav
+            //https://stackoverflow.com/questions/152975/how-do-i-detect-a-click-outside-an-element/3028037#3028037
+            $(document).click(function(event) { 
+                var $target = $(event.target);
+                if(!$target.closest('#subNavContainer').length) {
+                    closeDropdown(menu);
+                }
+            });
+            
+            //add listener for escape key
+            $(document).on('keydown', function(event) {
+                if (event.key == "Escape") {
+                    closeDropdown(menu);
+            }});
+        } else {
+            menu.removeClass("show");
+            menu.addClass("hidden");
+        }
+    }
+
+    function closeDropdown(menu) {
+        var dropdownMenu = $("#dropdownMenu");
+        var nestedDropdownMenus = $(".sub-nav__nested-dropdown");  
+        $(".button").attr("data-dropdown-id", "dropdownMenuBtn").attr("aria-expanded", "false");
+        nestedDropdownMenus.each(function() {
+            if ($(".button").attr("data-dropdown-id", "dropdownMenuBtn").hasClass("show")) {
+                $(".button").attr("data-dropdown-id", "dropdownMenuBtn").removeClass("show");
+                $(".button").attr("data-dropdown-id", "dropdownMenuBtn").addClass("hidden");
+            }
+        })
+        menu.removeClass("show");
+        menu.addClass("hidden");
+    }
+
+</script>
+</header>
+<div class="cqw-wrapper" id="main">
+ <div class="organism-spacer">
+    <section class="content-sub-page">
+        <div class="container">
+            <div class="row">
+                <div class="col-6 col-lg-8">
+                    <h1 class="h2__proxima content-sub-page__header">Undergraduate Students</h1>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+
+        
+         
+ 
+        
+                
+                
+                    
+                        
+                                   
+                            <div class="organism-spacer cta-green-card__header spacer__padding-top--small spacer__padding-bottom--small">
+                                <section class="standard-text body2 cta-green-card" id="content-section-1">
+                        <div class="container">
+                            <div class="row">
+                               
+                                     <header class="cta-green-card__header text-start col-12 col-sm-8">
+                                                                        <h2 class="h4__proxima">Parent &amp; Family Financial Aid Information</h2>
+                                                                </header>
+                            </div>
+                            <div class="row">
+                                <div class="body2 text-start col-12 col-sm-8"><p aria-level="1"><strong><i><span data-contrast="auto">Financial Aid</span></i></strong><strong><i><span data-contrast="auto">&#160;</span></i></strong><strong><i><span data-contrast="auto">Information for Parents</span></i></strong><strong><i><span data-contrast="auto">&#160;&amp; Families</span></i></strong><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:2,&quot;335551620&quot;:2,&quot;335559738&quot;:480,&quot;335559739&quot;:240,&quot;335559740&quot;:240}">&#160;</span></p>
+<p><span data-contrast="auto">Congratulations parents &amp; families!&#160;&#160;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:240}">&#160;</span></p>
+<p><span data-contrast="auto">We are pleased to have you and your student as part of our&#160;</span><span data-contrast="auto">Cal Poly Pomona</span><span data-contrast="auto">&#160;community. To ensure the financial aid process is simple and clear, we offer resources to help parents&#160;</span><span data-contrast="auto">&amp; families&#160;</span><span data-contrast="auto">help their students apply for,&#160;</span><span data-contrast="auto">receive</span><span data-contrast="auto">&#160;and manage financial aid.&#160;</span><span data-contrast="auto">&#160;</span><span data-contrast="auto">The following sections are designed to answer basic questions you may have while preparing your student for college and beyond.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:240}"></span></p>
+<p><span data-contrast="auto"><img alt="FAFSA and CADAA delayed until December 2023" class="img img-original-size" height="315" src="../img/fafsa-cadaa-delay.jpg" width="855"/></span></p></div>  
+                            </div>
+                       </div>
+                    </section>
+                </div>
+                                          
+                    
+        
+
+
+        
+         
+ 
+        
+                                
+        
+                <div class="organism-spacer spacer__padding-top--small spacer__padding-bottom--small">
+            <section class="faq">
+                <div class="container">
+                    <div class="row">
+                        <header class="faq__header col-lg-9">
+                            <h2 class="h5__proxima">FAQs</h2><br/>
+                            <p class="body2"></p>
+                        </header>
+                        <div class="accordion__items col-lg-9">
+                            
+                                                                                    
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="Accessing Your Student's Information" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">Accessing Your Student's Information</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p><span data-contrast="auto">Your student has certain rights regarding their education records when beginning attendance at a post-secondary institution, or upon reaching the age of 18.&#160;</span><span data-contrast="auto">&#160;&#160;</span><span data-contrast="auto">The&#160;</span><a href="https://studentprivacy.ed.gov/ferpa"><span data-contrast="none">Family</span><span data-contrast="none">&#160;Educational Rights and Privacy Act (FERPA)</span></a><span data-contrast="auto">&#160;transfers the rights to the student. Limitations are placed on student record information that may be released to third parties (</span><strong><i><span data-contrast="auto">which includes parents, guardians and/or caregivers</span></i></strong><span data-contrast="auto">) without the student&#8217;s written permission unless it is considered directory information.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:240,&quot;335559739&quot;:240,&quot;335559740&quot;:240}">&#160;</span></p>
+<p><span data-contrast="auto">We want you to know that we strictly adhere to FERPA. Although it does limit what we can share with you about your student, it protects your student. Students can authorize the release of their records via the Registrar&#8217;s</span><span data-contrast="auto">&#160;Office</span><span data-contrast="auto">. For more information regarding FERPA, please see the&#160;</span><a href="https://www.cpp.edu/registrar/student-records/ferpa.shtml"><span data-contrast="none">Registrar&#8217;s Office website</span></a><span data-contrast="auto">.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:240,&quot;335559739&quot;:240,&quot;335559740&quot;:240}">&#160;</span></p>
+<p><span data-contrast="auto">Parents&#160;</span><span data-contrast="auto">&amp; family members&#160;</span><span data-contrast="auto">who wish to discuss their&#160;</span><span data-contrast="auto">student</span><span data-contrast="auto">&#8217;s financial aid should encourage their student to complete the&#160;</span><a href="https://polyform.cpp.edu/Loginformproc/UnityForm.aspx?d1=AflOdD0BIe2GBSPRMl0Ez0ZWRtHU%2bPgvCtP9VbX1zcSUAj%2fia8nBKkQ%2fKOhJtaGnwahlQr9ZnjYaaRGXiXx5NsdcIukZPnbYrF48Kud0DLztmQSDuxgMOPm4b%2fqhuLM%2b%2f3dmdXrnpx35dFhGN8hfLxlHEysScQ7%2bB2d25FIFokTp7DGuQnnR6uoqLOK8XTUiPx%2b25FQrGQt0xqLhmsXtyQXRwptDgYDZasQknKhdl7%2bOs%2byV5vhw3Wo28q0nKsXWSg%3d%3d"><strong><i><span data-contrast="none">Confidentiality Release Form / FERPA Authorize e-form</span></i></strong></a><span data-contrast="auto">,</span><span data-contrast="auto">&#160;which&#160;</span><span data-contrast="auto">is available from the&#160;</span><span data-contrast="auto">Registrar&#8217;s Office website</span><span data-contrast="auto">.</span></p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="Understanding What We Do – Office of Financial Aid &amp; Scholarships" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">Understanding What We Do – Office of Financial Aid &amp; Scholarships</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p><span data-contrast="auto">The C</span><span data-contrast="auto">al Poly P</span><span data-contrast="auto">o</span><span data-contrast="auto">mon</span><span data-contrast="auto">a Office of&#160;</span><span data-contrast="auto">Financial Aid</span><span data-contrast="auto">&#160;</span><span data-contrast="auto">&amp; Scholarships&#160;</span><span data-contrast="auto">and&#160;</span><span data-contrast="auto">the Cal Poly Pomona&#160;</span><span data-contrast="auto">Student&#160;</span><span data-contrast="auto">Accounting &amp; Cashiering Services Office&#160;</span><span data-contrast="auto">work together as partners in the &#8220;financing&#8221; process of a student&#8217;s education.&#160; Through coordination of efforts, we ensure timely delivery of funds, application of funds/payments toward outstanding university &#8211; related charges, and&#160;</span><span data-contrast="auto">release&#160;</span><span data-contrast="auto">of excess funds.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:120,&quot;335559740&quot;:240}">&#160;</span></p>
+<p>&#160;</p>
+<table class="table" style="width: 800px;"><caption>Office of Financial Aid &amp; Scholarships and Student Accounting &amp; Cashiering Services roles</caption>
+<thead>
+<tr>
+<th style="background-color: #f2f2f2; width: 557px;"><strong>Office of&#160;Financial Aid&#160;&amp; Scholarships</strong></th>
+<th style="background-color: #f2f2f2; width: 547.264px;"><strong>Student&#160;Accounting &amp; Cashiering&#160;Services&#160;</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="width: 557px;"><a href="mailto:finaid@cpp.edu">finaid@cpp.edu</a>&#160;</td>
+<td style="width: 547.264px;"><a href="mailto:sacs@cpp.edu">sacs@cpp.edu</a></td>
+</tr>
+<tr>
+<td style="width: 557px;"><span data-contrast="auto">Evaluates student&#8217;s eligibility for aid</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:120,&quot;335559740&quot;:276}">&#160;</span></td>
+<td style="width: 547.264px;"><span data-contrast="auto">Posts Billing Statements (</span><span data-contrast="auto">Bronco Direct</span><span data-contrast="auto">)</span></td>
+</tr>
+<tr>
+<td style="width: 557px;"><span data-contrast="auto">Verifies financial aid application information</span></td>
+<td style="width: 547.264px;"><span data-contrast="auto">Emails student re: Outstanding Charges</span><span data-contrast="auto"></span></td>
+</tr>
+<tr>
+<td style="width: 557px;"><span data-contrast="auto">Packages Financial Aid</span><span data-contrast="auto"></span></td>
+<td style="width: 547.264px;"><span data-contrast="auto">Receives and applies payments to outstanding charges</span><span data-contrast="auto"></span></td>
+</tr>
+<tr>
+<td style="width: 557px;"><span data-contrast="auto">Oversees scholarship processing</span><span data-contrast="auto"></span></td>
+<td style="width: 547.264px;"><span data-contrast="auto">Applies financial aid funds to outstanding charges</span><span data-contrast="auto"></span></td>
+</tr>
+<tr>
+<td style="width: 557px;"><span data-contrast="auto">Releases</span><span data-contrast="auto">&#160;</span><span data-contrast="auto">f</span><span data-contrast="auto">inancial&#160;</span><span data-contrast="auto">a</span><span data-contrast="auto">id&#160;</span><span data-contrast="auto">to Student&#160;</span><span data-contrast="auto">Accounting &amp; Cashieri</span><span data-contrast="auto">ng Services</span><span data-contrast="auto"></span></td>
+<td style="width: 547.264px;"><span data-contrast="auto">Manages installment / Payment Plan</span><span data-contrast="auto"></span></td>
+</tr>
+<tr>
+<td style="width: 557px;"><span data-contrast="auto">Evaluates&#160;<i>Special Circumstances</i>&#160;and Appeals</span></td>
+<td style="width: 547.264px;"><span data-contrast="auto">Releases excess funds (financial aid refunds)</span><span data-contrast="auto"></span></td>
+</tr>
+<tr>
+<td style="width: 557px;"><span data-contrast="auto">Provides information and advising on financing your Cal Poly Pomona education</span></td>
+<td style="width: 547.264px;"><span data-contrast="auto">Places Financial Holds for late / non-payment</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:120,&quot;335559740&quot;:276}">&#160;</span></td>
+</tr>
+<tr>
+<td style="width: 557px;"><span data-contrast="auto">Monitors compliance with State &amp; Federal Financial Aid Regulations</span></td>
+<td style="width: 547.264px;">&#160;<span data-contrast="auto">Provides 1098-T Forms</span></td>
+</tr>
+</tbody>
+</table></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="Understanding the Costs of Cal Poly Pomona" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">Understanding the Costs of Cal Poly Pomona</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><h3><span style="font-size: 14pt;"><strong>Costs to Attend Cal Poly Pomona</strong>&#160; </span></h3>
+<p><span data-contrast="auto">Many things can influence the costs of attending college.&#160; At Cal Poly Pomona students are given a cost of attendance &#8211; which reflects the estimated expenses for the nine-month academic year.&#160; This information is based on the academic program of the student and their housing plans as indicated on their financial aid application.</span></p>
+<p><a class="btn" href="newly-admitted/costs.shtml"> <strong> <span data-contrast="auto">Review the current Cost of Attendance budgets</span> </strong> </a> <span data-contrast="auto"></span> <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:120,&quot;335559740&quot;:240}"></span></p>
+<p><span data-contrast="auto">The cost of college can include a variety of items, including some you might not expect. By understanding college costs, you can explore options for how to lower your costs. You should work with your student to&#8239;develop&#8239;a budget to help your family understand&#8239;the impact of college costs.&#160;</span> <span data-contrast="auto">&#160;</span> <span data-contrast="auto">Taking time to make a budget can help you</span> <span data-contrast="auto">r student</span> <span data-contrast="auto">&#160;make smart financial decisions today and reach&#160;</span> <span data-contrast="auto">their</span> <span data-contrast="auto">&#160;goals in the future. Setting up&#160;</span> <span data-contrast="auto">a</span> <span data-contrast="auto">&#160;budget is simple.&#160;</span> <span data-contrast="auto">They</span> <span data-contrast="auto">&#160;just need to take the time to get started. To learn more about personal budgeting, visit&#160;</span> <a href="https://studentaid.gov/resources/prepare-for-college/students/budgeting">Federal Student Aid's website</a> <span data-contrast="auto">.</span> <span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:240}">&#160;</span></p>
+<p>&#160;</p>
+<p><span> <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/6Ib-bdko5cE" width="560"></iframe> </span></p>
+<h3><span style="font-size: 14pt;"> <strong>Students Who Are Not Residents of California</strong>&#160; </span></h3>
+<p><span data-contrast="auto">Students who are not residents of California may face challenges in finding enough financial resources to attend Cal Poly Pomona. To find out about the residency rules, visit the&#8239;</span> <a href="https://www.cpp.edu/admissions/residency/index.shtml"> <span data-contrast="none">Office of Admissions Residency</span> </a> <span data-contrast="auto">&#160;page. Be sure to develop a&#8239;financial plan&#8239;to meet your student's educational expenses until the time your student graduates from Cal Poly Pomona.&#160; Financial tools, such as&#8239;private loans,&#8239;outside scholarships,&#8239;and&#8239;college savings plans&#8239;can help.&#160;&#160;</span></p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="Applying for Financial Aid" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">Applying for Financial Aid</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p><span data-contrast="auto">Although you</span><span data-contrast="auto">r</span> <span data-contrast="auto"></span> <span data-contrast="auto">student </span><span data-contrast="auto">must be admitted before </span><span data-contrast="auto">they </span><span data-contrast="auto">can receive a financial aid offer at C</span><span data-contrast="auto">al Poly Pomona</span><span data-contrast="auto">, </span><span data-contrast="auto">they </span><span data-contrast="auto">should apply for aid before being admitted.&#160;&#160;</span> <span data-contrast="auto">Your student can file the financial aid application (FAFSA or CA Dream Application) as early as October 1 each year.&#160; The priority deadline for consideration of California or Cal Poly Pomona Grant aid is March 2</span><span data-contrast="auto">nd</span><span data-contrast="auto">. Some aid programs have limited funding, and are awarded on a first come, first served basis &#8211; so apply as early as possible to be considered for all types of aid.</span> <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:120,&quot;335559740&quot;:240}">&#160;</span></p>
+<ul>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="&#61623;" data-listid="17"><span data-contrast="auto">If your student is&#8239;a U.S. citizen or eligible non-citizen, they&#8239;apply for financial aid every year by completing the&#160;</span> <a href="https://studentaid.gov/"> <span data-contrast="none">Free Application for Federal Student Aid (FAFSA)</span> </a> <span data-contrast="auto">.&#160;</span> <span data-contrast="auto">&#160;</span> <span data-ccp-props="{&quot;134233279&quot;:true,&quot;201341983&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:120,&quot;335559740&quot;:240}">&#160;</span></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="2" data-font="Symbol" data-leveltext="&#61623;" data-listid="17"><span data-contrast="auto">If your student&#8239;attended high school in California&#8239;and is not eligible to submit a FAFSA, they may be</span> <span data-contrast="auto">to complete the</span> <a href="https://dream.csac.ca.gov/"> <span data-contrast="none">California Dream Application</span> </a> <span data-contrast="auto">. &#8239;See the</span> <a href="https://dream.csac.ca.gov/landing"> <span data-contrast="none">California Student Aid Commission&#160;</span> </a> <span data-contrast="auto">website for more information and the California Dream Act Application</span> <span data-ccp-props="{&quot;134233279&quot;:true,&quot;201341983&quot;:0,&quot;335559738&quot;:240,&quot;335559739&quot;:120,&quot;335559740&quot;:240}">&#160;</span></li>
+</ul>
+<p><span data-contrast="auto">You can help your student keep track of th</span><span data-contrast="auto">e</span> <span data-contrast="auto">filing deadline</span><span data-contrast="auto">s</span><span data-contrast="auto"> by marking your calendar each year and working with them to start this process during the</span> <span data-contrast="auto">winter break</span> <span data-contrast="auto">.&#160;</span> <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:120,&quot;335559740&quot;:240}">&#160;</span></p>
+<h3><span style="font-size: 14pt;"> <strong>California Residents</strong>&#160; </span></h3>
+<p><span data-contrast="auto">Visit the</span> <a href="http://www.csac.ca.gov/"> <span data-contrast="none">California Student Aid Commission</span>&#160;</a><span data-contrast="auto"></span><span data-contrast="auto">(CSAC)&#160;</span> <span data-contrast="auto">website for information on applying for </span><a href="https://www.csac.ca.gov/cal-grants"><span data-contrast="none">Cal Grant</span> </a> <span data-contrast="auto">and</span> <a href="https://www.csac.ca.gov/middle-class-scholarship"> <span data-contrast="none">Middle Class Scholarship</span> </a> <span data-contrast="auto">&#160;funds.</span> <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:120,&quot;335559740&quot;:240}">&#160;</span></p>
+<p><span data-contrast="auto">Eligibility for a Cal Grant is based on the information in </span><span data-contrast="auto">your student&#8217;s</span><span data-contrast="auto"> financial aid application as well as </span><span data-contrast="auto">their</span><span data-contrast="auto"> academic history.&#8239; Cal Grants may be renewed for up to four years of full-time enrollment.</span> <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:120,&quot;335559740&quot;:240}">&#160;</span></p>
+<p><span data-contrast="auto">In order to</span> <span data-contrast="auto">be considered for a Cal Grant,&#160;</span> <span data-contrast="auto">students</span> <span data-contrast="auto">must have </span><span data-contrast="auto">their</span><span data-contrast="auto"> GPA verified by the appropriate college or high school office.&#160;</span> <span data-contrast="auto">The deadline to </span><span data-contrast="auto">submit the GPA to CSAC is </span><span data-contrast="auto">March 2</span><span data-contrast="auto">nd</span> <span data-contrast="auto">&#160;each year.</span> <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:120,&quot;335559740&quot;:240}">&#160;</span></p>
+<p><span data-contrast="auto">Review the following pages for more information on applying for financial aid:</span> <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:120,&quot;335559740&quot;:240}">&#160;</span></p>
+<p><a href="newly-admitted/how-to-apply-for-aid-fafsa.shtml"> <strong> <span data-contrast="auto">How to Apply</span> </strong> <strong> <span data-contrast="auto">&#160;</span> </strong> <strong> <span data-contrast="auto">&#8211; F</span></strong><strong><span data-contrast="auto">AFSA Applicants</span> </strong> </a> <strong> <span data-contrast="auto">&#160;</span> </strong> <span>&#160; <br/> </span> <a href="newly-admitted/how-to-apply-for-aid-dream.shtml"> <strong> <span data-contrast="auto">How to Apply</span> </strong> <strong> <span data-contrast="auto">&#160;&#8211; DREAM Applicants</span> </strong> </a> <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:120,&quot;335559740&quot;:240}">&#160;</span></p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="Aid Eligibility and the Expected Family Contribution" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">Aid Eligibility and the Expected Family Contribution</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p><span data-contrast="auto">Completing a financial aid&#8239;application is the first step in&#8239;</span><span data-contrast="auto">determining a student's eligibilty for financial aid.&#160; Your student's eligibility depends on their Expected Family Contribution (EFC) from the aid application, their year in school, their <span _ngcontent-lie-c17="" class="d-inline-block">enrollment status</span>, and the cost of attendance at the school they will be attending.</span></p>
+<div _ngcontent-lie-c9="" class="row no-gutters justify-content-between">
+<p _ngcontent-lie-c17="" class="paragraph">The EFC is an index number that we use to determine how much financial aid your student would receive if you they were to attend Cal Poly Pomona. The information you and your student report on their <span _ngcontent-lie-c17="" class="d-inline-block"><a aria-expanded="false" class="glossary-term" data-glossary-href="/glossary/fafsa-form.json" href="https://studentaid.gov" id="glossary-fafsa-form" tabindex="0">FAFSA form</a></span> or the <a href="https://dream.csac.ca.gov">CA Dream Application</a> is used to calculate their EFC.</p>
+</div>
+<h3><span style="font-size: 14pt;"><strong>Calculating the Expected Family Contribution (EFC)</strong></span></h3>
+<p><span data-contrast="auto">Parent and student&#8239;income and assets are used to&#8239;determine the amount of your Expected Family Contribution (EFC) toward college cost.&#160; The EFC consists of a Parent Contribution and a Student Contribution toward&#160;</span><strong><span data-contrast="auto">cost of attendance</span></strong><span data-contrast="auto">. For the 2021-2022 academic year, your family's expected contribution is based on income from the&#160;</span><strong><span data-contrast="auto">2019</span></strong><span data-contrast="auto"> </span><strong><span data-contrast="auto">calendar year</span></strong><span data-contrast="auto">&#8239;income and assets reported at the time you file the&#160;</span><a href="https://studentaid.gov/"><span data-contrast="none">Free Application for Federal Student Aid (FAFSA)</span></a><span data-contrast="auto">&#8239;or the&#160;</span><a href="http://dream.csac.ca.gov/"><span data-contrast="none">Dream Act Application</span></a><span data-contrast="auto">.&#8239;</span><span data-ccp-props="{&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:200,&quot;335559740&quot;:240}">&#160;</span></p>
+<h3><span style="font-size: 14pt;"><strong>Appealing&#8239;the Contribution</strong>&#160;</span></h3>
+<p><span data-contrast="auto">C</span><span data-contrast="auto">al Poly Pomona</span><span data-contrast="auto">&#160;does not negotiate financial aid&#160;</span><span data-contrast="auto">packages</span><span data-contrast="auto">&#160;in response to offers from other schools. However, we will consider a change to the family contribution when extraordinary circumstances warrant a review.</span><span data-ccp-props="{&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:200,&quot;335559740&quot;:240}">&#160;</span></p>
+<p><span data-contrast="auto">The Financial Aid Application (FAFSA or CA DREAM Application) is based on income and resources from a prior tax year.&#160; We realize that students and families may have extraordinary circumstances and that financial situations can change &#8211; and that these changes may not be reflected on the aid application.&#160;</span><span data-contrast="auto">&#160;</span><span data-contrast="auto">These changes to income or resources can significantly impact your ability to meet the student&#8217;s educational costs.&#160; C</span><span data-contrast="auto">al Poly Pomona</span><span data-contrast="auto">&#8217;s Office of Financial Aid</span><span data-contrast="auto">&#160;&amp; Scholarships</span><span data-contrast="auto">&#160;is here to assist you and can guide you through the process of submitting a Special Circumstances Appeal to have your situation (and possibly financial aid) re-evaluated.</span><span data-ccp-props="{&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:200,&quot;335559740&quot;:240}">&#160;</span></p>
+<p><i><span data-contrast="auto">In order to</span></i><i><span data-contrast="auto">&#160;have a Special Circumstance Appeal reviewed, your student must be an admitted student.</span></i><span data-ccp-props="{&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:200,&quot;335559740&quot;:240}">&#160;</span></p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="Tracking Down Financial Resources" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">Tracking Down Financial Resources</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><h3><span style="font-size: 14pt;"><strong>Get Access</strong></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:120,&quot;335559740&quot;:240}">&#160;</span></h3>
+<p><span data-contrast="auto">The best way to track what's happening with your student's aid and bills is to establish regular check-ins with your student to discuss upcoming bills that may be due and deadlines that need to be met to ensure your student continues to receive aid. Check to make sure your student has visited</span><span data-contrast="auto">&#160;their</span><a href="https://my.cpp.edu/"><span data-contrast="none">&#160;</span><span data-contrast="none">MyCPP</span><span data-contrast="none">&#160;Student Center</span></a><span data-contrast="auto">&#8239;to see their financial aid records and has taken the necessary steps to access their loans, if they plan to take out student loans.&#8239;Visit our Loans page to find out more about student loans.&#8239;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:120,&quot;335559740&quot;:240}">&#160;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:120,&quot;335559740&quot;:240}"></span></p>
+<h3><span style="font-size: 14pt;"><strong>Types of Aid Available</strong>&#160;</span></h3>
+<p><span data-contrast="auto">There are four basic types of financial aid available: Scholarships, Grants, Employment, and Loans</span><span data-contrast="auto">.&#160;</span><span data-contrast="auto">Our office&#160;</span><span data-contrast="auto">will determine a student&#8217;s eligibility for awards based on the&#160;</span><span data-contrast="auto">information from&#160;</span><span data-contrast="auto">their&#160;</span><span data-contrast="auto">aid</span><span data-contrast="auto">&#160;application.&#160; As we are made aware of scholarships that have been awarded to a student, we will add those to&#160;</span><span data-contrast="auto">thier</span><span data-contrast="auto">&#160;award package, and make any necessary adjustments to other awards &#8211; as total&#160;</span><span data-contrast="auto">financial aid</span><span data-contrast="auto">&#160;cannot exceed the student&#8217;s cost of attendance budget.</span><span data-contrast="auto">&#160; V</span><span data-contrast="auto">isit our&#160;</span><a href="newly-admitted/aid-programs.shtml"><strong><span data-contrast="auto">Undergraduate Aid Programs</span></strong></a><span data-contrast="auto">&#160;</span><span data-contrast="auto">page</span><span data-contrast="auto">&#160;for more information.&#160;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:120,&quot;335559740&quot;:240}">&#160;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:120,&quot;335559740&quot;:240}"></span></p>
+<h3><span style="font-size: 14pt;"><strong>Grants and Scholarships? How Can You&#8239;</strong><strong>Student&#160;</strong><strong>Get Them?</strong>&#160;</span></h3>
+<p><span data-contrast="auto">Grants are&#160;</span><span data-contrast="auto">types of aid</span><span data-contrast="auto">&#160;that eligible students do not have to repay or work for. Grants come from many sources and&#8239;have different&#160;</span><span data-contrast="auto">eligibility&#160;</span><span data-contrast="auto">guidelines.&#160;</span><span data-contrast="auto">Cal Poly Pomona</span><span data-contrast="auto">&#160;evaluates student eligibility for federal and university grants. State agencies&#8239;determine eligibility for state grants.&#8239;To learn more about grants offered at&#160;</span><span data-contrast="auto">Cal Poly Pomona</span><span data-contrast="auto">,&#160;</span><span data-contrast="auto">visit our&#160;</span><a href="newly-admitted/aid-programs.shtml"><strong><span data-contrast="auto">Undergraduate Aid Programs</span></strong></a><span data-contrast="auto">&#160;</span><span data-contrast="auto">page</span><span data-contrast="auto">.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:120,&quot;335559740&quot;:240}">&#160;</span></p>
+<p><span data-contrast="auto">Scholarships are another form of&#8239;free money that&#8239;do&#8239;not need to be repaid and can come from many different sources. Visit our&#160;</span><a href="../scholarships/index.shtml"><strong><span data-contrast="auto">Scholarships page</span></strong></a><span data-contrast="auto">&#160;</span><span data-contrast="auto">for more information about scholarships administered by&#160;</span><span data-contrast="auto">Cal Poly Pomona</span><span data-contrast="auto">.&#8239;If your student has received notification that they are receiving a scholarship award from a source outside of&#160;</span><span data-contrast="auto">Cal Poly Pomona</span><span data-contrast="auto">,&#160;</span><span data-contrast="auto">you can&#160;</span><span data-contrast="auto">learn more about how&#160;</span><span data-contrast="auto">our office&#160;</span><span data-contrast="auto">manages these outside awards</span><span data-contrast="auto">.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:120,&quot;335559740&quot;:240}">&#160;</span></p>
+<h3><span style="font-size: 14pt;"><strong>Student Loans</strong>&#160;</span></h3>
+<p><span data-contrast="auto">Students who attempt to juggle full time work and&#160;</span><span data-contrast="auto">full time</span><span data-contrast="auto">&#160;studies may have difficulty completing their academic programs.&#8239; Not working, or working a moderate amount, and using&#160;</span><span data-contrast="auto">a</span><span data-contrast="auto">&#160;student loan can help&#160;</span><span data-contrast="auto">students&#160;</span><span data-contrast="auto">keep&#160;</span><span data-contrast="auto">their&#160;</span><span data-contrast="auto">focus on&#160;</span><span data-contrast="auto">their&#160;</span><span data-contrast="auto">studies and education goals.&#160;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:120,&quot;335559740&quot;:240}">&#160;</span></p>
+<p><span data-contrast="auto">Student loans for college are an investment in&#160;</span><span data-contrast="auto">the student&#8217;s</span><span data-contrast="auto">&#160;future.</span><span data-contrast="auto">&#160;&#160;</span><span data-contrast="auto">Loans</span><span data-contrast="auto">&#160;can&#160;</span><span data-contrast="auto">help pay for tuition&#160;</span><span data-contrast="auto">and university charges&#160;</span><span data-contrast="auto">right away. The&#160;</span><span data-contrast="auto">student</span><span data-contrast="auto">&#160;</span><span data-contrast="auto">l</span><span data-contrast="auto">oans offered&#160;</span><span data-contrast="auto">as part of the aid package come</span><span data-contrast="auto">&#160;with low interest rates and favorable repayment options.&#8239; Review more information about loans on our&#160;</span><a href="../resources/loan-information.shtml"><strong><span data-contrast="auto">Loan Information page</span></strong></a><span data-contrast="auto">.&#160;</span><span data-contrast="auto">Students can always&#160;</span><span data-contrast="auto">accept a lesser&#160;</span><span data-contrast="auto">amount than what was offered</span><span data-contrast="auto">.</span><span data-contrast="auto">&#160;&#160;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:120,&quot;335559740&quot;:240}">&#160;</span></p>
+<h3><span style="font-size: 14pt;"><strong>Students Who Are Not Residents of California</strong>&#160;</span></h3>
+<p><span data-contrast="auto">Students who are not residents of California may face challenges in finding enough financial resources to attend Cal Poly Pomona. To find out about the residency rules, visit the&#8239;</span><a href="https://www.cpp.edu/admissions/residency/index.shtml"><span data-contrast="none">Office of Admissions Residency</span></a><span data-contrast="auto">&#160;page. Be sure to develop a&#8239;financial plan&#8239;to meet your student's educational expenses until the time your student graduates from Cal Poly Pomona.&#160; Financial tools, such as&#8239;private loans,&#8239;outside scholarships,&#8239;and&#8239;college savings plans&#8239;can help.</span></p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="Financial Aid &amp; Paying for University Charges" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">Financial Aid &amp; Paying for University Charges</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p><span data-contrast="auto">Financial aid&#160;</span><span data-contrast="auto">is offered&#160;</span><span data-contrast="auto">for an entire academic year; however, student bills are generated by semester.</span><span data-contrast="auto">&#160;&#160;</span><span data-contrast="auto">After a student registers for courses, tuition and campus fees are calculated by Student Accounting &amp; Cashiering Services&#8239;and typically require a full payment by the&#160;</span><a href="https://www.cpp.edu/student-accounting/dates/"><span data-contrast="none">published due date</span></a><span data-contrast="auto">.&#8239;&#160;</span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:240}">&#160;</span></p>
+<p><span data-contrast="auto">Every student receives email notification of Outstanding University Charges / Balance Due &#8211; until there are NO outstanding charges/balance due.&#160; Students should also check their <a href="https://my.cpp.edu">Student Center (</a></span><a href="https://my.cpp.edu"><span data-contrast="auto">MyCPP</span></a><span data-contrast="auto"><a href="https://my.cpp.edu">)</a> to find out their balance&#8239;and the due date.</span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:240}">&#160;</span></p>
+<p><strong><i><span data-contrast="auto">EVEN IF a student has financial aid</span></i></strong><span data-contrast="auto">, she/he will receive a notification of Outstanding Charges.&#160; This is to ensure that ALL students remain aware of the cost of their tuition and fees &#8211; even if they have financial aid covering those costs.&#160; For those with financial aid, an&#160;<em>Anticipated, </em>or<em> Pending, Aid</em> amount will display.&#160; If the student&#8217;s anticipated aid is greater than tuition and fees, no payment will be due until after financial aid is released at the beginning of the semester.&#8239;</span></p>
+<h3><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:240}"></span><span style="font-size: 14pt;"><strong>When Aid Is&#160;</strong><strong>Released</strong>&#160;</span></h3>
+<p><span data-contrast="auto">For&#160;</span><span data-contrast="auto">the majority of</span><span data-contrast="auto">&#160;students enrolled in classes, accepted financial aid will automatically be credited to student bills 10 days prior to the start of classes each semester.&#8239;</span><span data-ccp-props="{&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:200,&quot;335559740&quot;:240}">&#160;</span></p>
+<p><span data-contrast="auto">In order for</span><span data-contrast="auto">&#160;</span><span data-contrast="auto">a student&#8217;s&#160;</span><span data-contrast="auto">financial aid to be released for payment of University charges,&#160;</span><span data-contrast="auto">they</span><span data-contrast="auto">&#160;must:</span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:240}">&#160;</span></p>
+<ul>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="&#61623;" data-listid="19"><span data-contrast="auto">Have an Award Summary that contains &#8220;Official&#8221; awards, as opposed to estimated awards</span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:240}">&#160;</span></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="2" data-font="Symbol" data-leveltext="&#61623;" data-listid="19"><span data-contrast="auto">Have Accepted the Awards on&#160;</span><span data-contrast="auto">thei</span><span data-contrast="auto">r Aid Summary&#160; in their <a href="https://my.cpp.edu">MyCPP Student Center</a></span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:240}"><br/></span></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="3" data-font="Symbol" data-leveltext="&#61623;" data-listid="19"><span data-contrast="auto">Complete&#160;</span><span data-contrast="auto">their&#160;</span><span data-contrast="auto">To-Do List on&#160;</span><span data-contrast="auto">their&#160;</span><a href="https://my.cpp.edu/"><span data-contrast="none">MyC</span><span data-contrast="none">PP</span><span data-contrast="none">&#160;Student Center</span></a><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:240}">&#160;</span></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="4" data-font="Symbol" data-leveltext="&#61623;" data-listid="19"><span data-contrast="auto">Loan borrowers &#8211; complete the required&#160;</span><a href="../resources/loan-information.shtml">loan steps for new borrowers</a><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:240}">&#160;</span></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="5" data-font="Symbol" data-leveltext="&#61623;" data-listid="19"><span data-contrast="auto">Enroll in classes</span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:240}">&#160;</span></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="5" data-font="Symbol" data-leveltext="&#61623;" data-listid="19"><span data-contrast="auto">Be maintaining&#160;</span><a href="../resources/understanding-sap.shtml">Satisfactory Academic Progress (SAP)</a><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:240}">&#160;</span></li>
+</ul>
+<p><span data-contrast="auto">Review our&#160;</span><a href="newly-admitted/getting-your-aid.shtml">Getting Your Aid page</a><span data-contrast="auto">&#160;</span><span data-contrast="auto">for more information on how financial aid pays&#160;</span><span data-contrast="auto">your student&#8217;</span><span data-contrast="auto">s charges</span><span data-contrast="auto">&#160;and how excess funds (refunds) are&#160;</span><span data-contrast="auto">released.</span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:240}">&#160;</span></p>
+<h3><span style="font-size: 14pt;"><strong>Paying Remaining Charges</strong>&#160;</span></h3>
+<p><span data-contrast="auto">After all financial aid has credited to the account; there are still other options for assistance with any&#160;</span><span data-contrast="auto">remaining&#160;</span><span data-contrast="auto">balance:</span><span data-ccp-props="{&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:200,&quot;335559740&quot;:240}">&#160;</span></p>
+<ul>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="2" data-font="Symbol" data-leveltext="&#61623;" data-listid="20"><a href="https://www.cpp.edu/student-accounting/payment-options/index.shtml"><span data-contrast="none">Payment plan</span></a></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="2" data-font="Symbol" data-leveltext="&#61623;" data-listid="20"><a href="https://studentaid.gov/understand-aid/types/loans/plus/parent"><span data-contrast="none">Federal Parent PLUS Loan</span></a><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:240}">&#160;</span></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="2" data-font="Symbol" data-leveltext="&#61623;" data-listid="20"><a href="https://studentaid.gov/understand-aid/types/loans/federal-vs-private"><span data-contrast="none">Private Education Loan</span></a><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:240}">&#160;</span></li>
+</ul>
+<p><span data-contrast="auto">For more information about obtaining a Parent PLUS Loan or Private Education Loans, refer to our</span><strong><span data-contrast="auto">&#160;</span></strong><a href="../resources/loan-information.shtml">Loan Information</a><strong><span data-contrast="auto">&#160;</span></strong><span data-contrast="auto">page.</span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:240}">&#160;</span></p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="Financial Literacy" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">Financial Literacy</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p><span data-contrast="auto">A college education is one of the most important investments of your lifetime.&#8239;The&#160;</span><span data-contrast="auto">Office of&#160;</span><span data-contrast="auto">Financial Aid and Scholarships does more than connect students with sources of financial aid&#8212;we can&#8239;also&#8239;help them learn how to use their resources wisely with an eye toward lifelong financial stability.&#8239;</span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:240}">&#160;</span></p>
+<p><span data-contrast="auto">There are many tools to help&#8239;students and families estimate costs, budget, keep track of aid and bills due, and maximize their funds.&#160;</span><span data-contrast="auto">&#160; Check out our&#160;</span><a href="../resources/financial-wellness.shtml">Financial Wellness page</a><span data-contrast="auto">&#160;</span><span data-contrast="auto">for more information.</span></p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="Parent &amp; Family Orientation" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">Parent &amp; Family Orientation</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><span data-contrast="auto">Students aren't the only ones going through a big change as college begins. That's why we hold spring/summer Parent and Family Orientation. Parent and Family Orientations include multiple topics helpful for parents and family members, including a presentation from the Office</span><span data-contrast="auto">&#160;of&#160;</span><span data-contrast="auto">Financial Aid</span><span data-contrast="auto">&#160;&amp; Scholarships</span><span data-contrast="auto">. Please view our latest </span><span data-contrast="auto">presentation&#160;</span><span data-contrast="auto">for an example of what&#160;</span><span data-contrast="auto">our</span><span data-contrast="auto">&#160;</span><span data-contrast="auto">office</span><span data-contrast="auto">&#160;presents during Parent and Family Orientations.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:120,&quot;335559740&quot;:240}">&#160;</span></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="Ensure Steps are Taken to Remain Eligible for Aid" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">Ensure Steps are Taken to Remain Eligible for Aid</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p><span data-contrast="auto">Plan ahead</span><span data-contrast="auto">&#160;and&#160;</span><span data-contrast="auto">help&#160;</span><span data-contrast="auto">make sure&#160;</span><span data-contrast="auto">your s</span><span data-contrast="auto">tudent</span><span data-contrast="auto">&#160;is</span><span data-contrast="auto">&#160;taking the appropriate steps to keep their Financial Aid while attending&#160;</span><span data-contrast="auto">Cal Poly Pomona</span><span data-contrast="auto">.</span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:240}">&#160;</span></p>
+<h3><span style="font-size: 14pt;"><strong>Satisfactory Academic Progress (SAP)</strong></span></h3>
+<p><span data-contrast="auto">Students must meet academic progress guidelines to retain federal,&#160;</span><span data-contrast="auto">California State</span><span data-contrast="auto">&#160;and&#160;</span><span data-contrast="auto">Cal Poly Pomona</span><span data-contrast="auto">&#160;aid.&#160;</span><span data-contrast="auto">&#160;</span><span data-contrast="auto">SAP is reviewed at the end of&#160;</span><span data-contrast="auto">each semester</span><span data-contrast="auto">. Visit our&#160;</span><a href="../resources/understanding-sap.shtml"><strong><span data-contrast="auto">Understanding SAP page</span></strong></a><span data-contrast="auto">&#160;</span><span data-contrast="auto">to learn more about SAP guidelines.</span><span> </span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:240}"></span></p>
+<h3><span style="font-size: 14pt;"><strong>Renew the Aid Application Each Year</strong></span><span data-contrast="auto"></span></h3>
+<p><span data-contrast="auto"></span><span data-contrast="auto">A new financial aid application must be filed each year.&#160; The application becomes available October 1</span><span data-contrast="auto">st</span><span data-contrast="auto">&#160;and the&#160;</span><span data-contrast="auto">priority submission deadline&#160;</span><span data-contrast="auto">to be considered for California State and Cal Poly Pomona aid&#160;</span><span data-contrast="auto">is&#160;</span><span data-contrast="auto">March 2</span><span data-contrast="auto">nd</span><span data-contrast="auto">&#160;</span><span data-contrast="auto">of each year.</span><span> </span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:240}"></span></p>
+<h3><span style="font-size: 14pt;"><strong>Look out for Correspondence</strong></span></h3>
+<p><span data-contrast="auto">Respond quickly to all requests made by the</span><span data-contrast="auto">&#160;Office of&#160;</span><span data-contrast="auto">Financial Aid&#160;</span><span data-contrast="auto">&amp; Scholarships&#160;</span><span data-contrast="auto">staff.&#160;</span><span data-contrast="auto">&#160;Cal Poly Pomona</span><span data-contrast="auto">&#160;University will send important information about Financial Aid to students through the&#160;</span><span data-contrast="auto">s</span><span data-contrast="auto">tudent's University email and the&#160;</span><a href="https://my.cpp.edu"><span>MyCPP&#160;Student Portal.</span></a><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:240}">&#160;</span></p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                         
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+        
+    
+            
+                
+                    
+        
+
+
+        
+         
+ 
+        
+                
+                
+                    
+                        
+                                   
+                            <div class="organism-spacer cta-green-card__header spacer__padding-top--small spacer__padding-bottom--small">
+                                <section class="standard-text body2 cta-green-card" id="content-section-2">
+                        <div class="container">
+                            <div class="row">
+                               
+                                     <header class="cta-green-card__header text-start col-12 col-sm-8">
+                                                                        <h2 class="h4__proxima">FATV</h2>
+                                                                </header>
+                            </div>
+                            <div class="row">
+                                <div class="body2 text-start col-12 col-sm-8"><p><img alt="FATV" class="img img-original-size" height="208" src="../img/fatv_green.png" width="258"/></p>
+<p><a class="btn" href="https://cpp.financialaidtv.com">Get Answers</a></p>
+<p><a class="btn" href="https://cpp.financialaidtv.com/es">Get Answers -&#160;Espa&#241;ol</a>&#160;</p></div>  
+                            </div>
+                       </div>
+                    </section>
+                </div>
+                                          
+                    
+               
+
+</div>
+
+
+    <div class="footer__gradient-section">
+<div class="container">
+<div class="row">
+
+     <div class="col-12 col-lg-4">
+        <h2 class="footer__gradient-header">Financial Aid and Scholarships</h2>
+      </div>
+      <div class="col-12 col-lg-8 footer__gradient-socials-wrapper">
+        <h3 class="footer__gradient-social-header button2__transducer">Follow Us:</h3>
+        <div class="footer__gradient-socials">
+              <a href="https://www.instagram.com/cpp.admissions/" target="_blank">
+            <span aria-live="assertive" class="screen-reader-text">Instagram opens a new window</span>
+            <img alt="Instagram" src="/common/green-and-gold/assets/icons/social/insta-reverse.svg"/>
+          </a>
+                               </div>
+ </div>
+ <style>
+    .footer__rip-wrapper {
+         background: none;
+     }
+ </style>
+        <script src="https://ai.ocelotbot.com/embed/standard/7b54fd2d-1135-40d3-9b64-110becef5e33" type="text/javascript"></script>
+
+
+
+
+</div>
+</div>
+</div>
+
+
+
+
+
+
+         
+<style>
+     @media screen and (min-width: 992px) {
+    .mini-footer .footer__socials-buttons {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}
+
+.mini-footer .button1__transducer {
+    font-size: 12px;
+    letter-spacing: .5px;
+}
+
+.mini-footer .button {
+	margin-top: 0;
+    padding: 8px 20px 8px 20px;
+
+}
+.mini-footer .footer-line {
+    border-top: thin solid #a4d65e;
+    margin-top: 39px;
+    padding-top: 15px;
+}
+ </style>
+<footer class="footer mini-footer">
+    <div class="footer__rip-wrapper">
+        <img class="footer__rip" alt="" src="/common/green-and-gold/assets/images/green-rip.svg" alt="Ripped green paper." />
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-2">
+                <div class="footer__logo-wrapper">
+                    <a href="/" aria-label="CPP Logo">
+                        <img class="footer__logo" src="/common/green-and-gold/assets/logos/cpp_primary_1c_gold_rgb.png" alt="Cal Poly Pomona logo, building with a palm tree." />
+                    </a>
+                </div>
+            </div>
+            <div class="col-12 col-lg-6 offset-lg-4">
+                <div class="footer__socials">
+                    <div class="footer__socials-buttons">
+                        <a class="button button__secondary button1__transducer" href="/apply/">Apply</a>
+                        <a class="button button__secondary button1__transducer" href="https://maps.cpp.edu/">Maps</a>
+                        <a class="button button__secondary button1__transducer" href="/outreach/tours.shtml">Visit</a>
+                        <a class="button button__secondary button1__transducer" href="/contact.shtml">Contact Us</a>
+                    </div>
+                    <div class="footer__socials-icons">
+                        <a href="https://www.instagram.com/calpolypomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram opens a new window" />
+                        </a>
+                        <a href="https://www.linkedin.com/school/cal-poly-pomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn opens a new window" />
+                        </a>
+                        <a href="https://www.youtube.com/user/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="YouTube opens a new window" />
+                        </a>
+                        <a href="https://www.facebook.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook opens a new window" />
+                        </a>
+                        <a href="https://twitter.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X opens a new window" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 footer-line">
+                <div class="footer__errata">
+                    <p class="footer__copyright" style="line-height: 1.8em">Copyright ©2025 California State Polytechnic University, Pomona.  All Rights Reserved 
+                        
+                        <br />A campus of 
+                        
+                        <a class="footer__errata-link" style="display: inline" href="https://www.calstate.edu/">The California State University</a>.
+                    
+                    </p>
+                    <div class="footer__errata-links">
+                        <a class="footer__errata-link" href="https://www.cpp.edu/website-feedback.shtml">Feedback</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/privacy.shtml">Privacy</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/accessibility.shtml">Accessibility</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/file-viewers.shtml">Document Readers</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer__gradient-bottom"></div>
+</footer>
+
+    </body>
+</html>

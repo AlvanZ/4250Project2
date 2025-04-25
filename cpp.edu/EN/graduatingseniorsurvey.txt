@@ -1,0 +1,17 @@
+<txt>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Graduating Senior Survey</title>
+        <meta content="no-cache, no-store, must-revalidate" http-equiv="Cache-Control"/>
+        <meta content="no-cache" http-equiv="Pragma"/>
+        <meta content="0" http-equiv="Expires"/>
+        <meta content="0;URL='https://cpp.az1.qualtrics.com/jfe/form/SV_0JlPLEA9D5kYxsq?cppshorturl=graduatingseniorsurvey'" http-equiv="refresh"/>
+    </head>
+    <body>
+        <p>This page will redirect you to 
+            <a href="https://cpp.az1.qualtrics.com/jfe/form/SV_0JlPLEA9D5kYxsq">
+            https://cpp.az1.qualtrics.com/jfe/form/SV_0JlPLEA9D5kYxsq</a>.
+        </p>
+    </body>
+</html>    
+</txt>

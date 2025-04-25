@@ -1,0 +1,2282 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+    <head>
+        <meta charset="UTF-8"/>
+        <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+        <meta content="ie=edge" http-equiv="X-UA-Compatible"/>
+        <title>
+            
+        </title>
+        
+        
+        
+            <script src="https://cdn.levelaccess.net/accessjs/YW1wX2NwcDExMDM/access.js"></script>
+<script>// <![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSKJRNV');
+// ]]></script>
+<link rel="icon" href="/common/green-and-gold/assets/icons/gg-favicon.svg"  type="image/svg+xml" />
+<link rel="icon" href="/common/green-and-gold/assets/icons/gg-favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/index.css" />
+<link rel="stylesheet" href="https://use.typekit.net/fia5dle.css" />
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/cpp-fonts.css" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+<script src="/common/green-and-gold/assets/js/accordion.js"></script>
+<script crossorigin="anonymous" defer="defer" integrity="sha384-FW78RPcSpi13vjx77nPWQIrQbNSLkPBopb0qGzLCxD2x4Kr6FA8V05C/6cpgkKPL" src="https://pro.fontawesome.com/releases/v5.10.1/js/all.js"></script>
+<script src="/common/green-and-gold/assets/js/modal.js"></script>
+<script src="/common/green-and-gold/assets/js/fontawesome/v6.0x/sharp-light.js" crossorigin="anonymous" type="text/javascript"></script>
+<script src="/common/green-and-gold/assets/js/fontawesome/v6.0x/sharp-others.js" crossorigin="anonymous" type="text/javascript"></script>
+<!-- Swiper Library -->
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/swiper-bundle.min.css" />
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/swiper-carousel.css" />
+<script src="/common/green-and-gold/assets/js/swiper-bundle.min.js"></script>
+<script src="/common/green-and-gold/assets/js/carousel-cards-swiper.js"></script>
+
+    </head>
+    <body>
+        <a class="skip-to-content-link" href="#main">Skip to content</a>
+             <header class="nav fixed">
+    <nav class="container">
+        <ul class="row nav__main" id="mainNavMenu">
+            <li id="main-logo" class="col-6 col-lg-3 nav__logo">
+                <a href="/" aria-label="Cal Poly Pomona Home" tabindex="0">
+                    <div class="nav__logo--horizontal">
+                        <img src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png" alt="Cal Poly Pomona Logo" />
+                    </div>
+                </a>
+            </li>
+            <!-- department header hidden by default-->
+            <li id="dept-header-desktop" class="col-sm-5 col-md-6 nav__logo desktop d-none">
+                <a href="/" aria-label="Cal Poly Pomona Home" tabindex="0">
+                    <div class="nav__logo--stacked">
+                        <img src="/common/green-and-gold/assets/logos/cpp_primary_2c_green_cmyk.png" alt="Cal Poly Pomona Logo">
+                        </div>
+                    </a>
+                    <div class="divider"></div>
+                    <div id="split-header" class="nav__division col-lg-6">
+                        <div id="large-name"></div>
+                        <div style="display:none" id="sub-name"></div>
+                    </div>
+                </div>
+            </li>
+            <li class="nav__links col-2" id="head-links">
+                <a class="nav__link nav__link--desktop col-1" href="/commencement/" tabindex="0">
+                    <svg
+                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 1px;
+    width: auto;
+">
+                        <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                        <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#005030"></path>
+                    </svg>
+                    <span class="sr-only">commencement</span>
+                </a>
+                <a class="nav__link nav__link--desktop col-1" href="/apply/" tabindex="0">apply</a>
+                <a class="nav__link nav__link--desktop col-1" href="/outreach/tours.shtml" tabindex="0">visit</a>
+                <a class="nav__link nav__link--desktop col-1" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="0">info</a>
+                <a class="nav__link nav__link--desktop col-1" href="/giving/" tabindex="0">give</a>
+                <a class="nav__link nav__link--desktop col-1" href="https://my.cpp.edu" tabindex="0">mycpp</a>
+                <button id="search-open" class="nav__search col-1" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/search-dark-green.svg" alt="Open search box" />
+                </button>
+                <button class="nav__menu col-1" id="menuButton" aria-expanded="false" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/menu.svg" alt="menu" />
+                </button>
+            </li>
+        </ul>
+    </nav>
+</header>
+<header id="search-header" style="display:none">
+    <div class="row">
+        <div class="col-md-6"></div>
+        <div id="searchbox" class="col-md-6">
+            <div id="search-slide">
+                <label for="#gsc-i-id1" class="sr-only">Search</label>
+                <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+                <div class="gcse-searchbox-only" data-resultsurl="https://www.cpp.edu/search.shtml"></div>
+                <button class="nav__menu col-1" id="search-close" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close search menu">
+                    </button>
+                </div>
+            </div>
+            <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+            <script>
+       $("#search-open").click(function() {
+         $("#search-header").show();
+         $("#search-slide").addClass("slideup");
+         $("#gsc-i-id1").focus();
+         $('#search-close').focusout(function() {
+           $("#search-header").hide();
+           $("#search-slide").removeClass("slideup");
+           $("#search-open").focus();
+         })
+       });
+       $("#search-close").click(function() {
+         $("#search-header").hide();
+         $("#search-slide").removeClass("slideup");
+         $("#search-open").focus();
+       });
+     </script>
+            <style>
+       .gstl_50 gssb_c {
+         position: fixed !important;
+       }
+
+       #searchbox {
+         height: 93px;
+         overflow: hidden;
+       }
+
+       #search-header {
+         position: fixed;
+         height: 100px;
+         width: 100%;
+         height: 93px;
+         z-index: 99999;
+         top: 0;
+       }
+
+       #gsc-i-id1 {
+         height: 40px;
+         width: 70%;
+         border-radius: 4px;
+         border: none;
+         padding: 15px;
+       }
+
+       #search-submit {
+         margin: 15px;
+       }
+
+       #search-close {
+         width: 23px;
+         height: 21px;
+         position: absolute;
+         top: 32px;
+       }
+
+       #search-slide {
+         width: 0px;
+         right: -100%;
+         padding: 20px 15px;
+         position: relative;
+         background: #005030;
+         height: 100%;
+         transition: all .5s ease 0s
+       }
+
+       #search-slide.slideup {
+         right: 0;
+         width: 100%;
+         position: relative;
+       }
+
+       @media screen and (max-width:991px) {
+         #search-slide {
+           height: 77px !important;
+           padding: 12px 10px;
+         }
+       }
+
+       @media screen and (max-width:767px) {
+         #search-header {
+           position: relative !important;
+         }
+
+         #search-slide {
+           text-align: center !important;
+         }
+       }
+
+       .gsc-search-button-v2 svg {
+         width: auto;
+         height: 21px;
+       }
+
+       .gsc-search-button-v2,
+       .gsc-search-button-v2:hover,
+       .gsc-search-button-v2:focus {
+         border: none !important;
+         background: none !important;
+       }
+
+       form.gsc-search-box {
+         font-size: 13px;
+         margin-top: 0;
+         margin-right: 0;
+         margin-bottom: 4px;
+         margin-left: 0;
+         width: 100%;
+         display: inline-block;
+       }
+
+       #___gcse_0 {
+         width: 70%;
+         display: inline-block;
+       }
+
+       table.gsc-search-box td.gsc-input {
+         padding-right: 0;
+       }
+
+       #gsc-i-id1 {
+         width: 100%;
+         padding: 0px;
+         border: none;
+         margin: -0.0625em 0px 0px;
+         height: 40px !important;
+         background: rgb(255, 255, 255);
+         outline: none;
+         font-size: 20px;
+         font-weight: 200;
+       }
+
+       .gstl_50.gssb_c {
+         z-index: 99999;
+       }
+
+       .gsq_a {
+         font-weight: 200;
+         font-size: 18px;
+         padding: 2px;
+       }
+
+       .gssb_a img {
+         display: none;
+       }
+     </style>
+        </div>
+    </header>
+    <section class="side-nav" id="sideNavOverlay">
+        <header class="side-nav__overlay relative">
+            <nav class="container">
+                <ul class="row nav__overlay" id="sideNavMenu">
+                    <li class="nav__logo col-12 col-md-10 col-lg-3" id="navLogoOverlay">
+                        <a href="/" aria-label="Cal Poly Pomona Home" tabindex="-1">
+                            <img src="/common/green-and-gold/assets/logos/cpp_horizontal_1c_gold_rgb.png" alt="Cal Poly Pomona Logo" />
+                        </a>
+                    </li>
+                    <div class="nav__overlay--right col-12 col-lg-9">
+                        <li class="nav__links nav__links--desktop col-12 col-lg-6">
+                            <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 1px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/apply/" tabindex="-1">apply</a>
+                            <a class="nav__link nav__link--mobile col-1" href="/outreach/tours.shtml" tabindex="-1">visit</a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="-1">info</a>
+                            <a class="nav__link nav__link--mobile col-1" href="/giving/" tabindex="-1">give</a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://my.cpp.edu" tabindex="-1">mycpp</a>
+                        </li>
+                        <li class="nav__icons col-1">
+                            <button id="search-open-green" class="nav__search col-1" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/search-white.svg" alt="Open search box" />
+                            </button>
+                            <button class="nav__close col-1" id="closeButton" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close menu" />
+                            </button>
+                        </li>
+                        <li class="nav__links nav__links--mobile col-12 col-lg-6">
+                            <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 1px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/apply/" tabindex="-1">apply </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/outreach/tours.shtml" tabindex="-1">visit </a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="-1">info </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/giving/" tabindex="-1">give </a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://my.cpp.edu" tabindex="-1">mycpp </a>
+                        </li>
+                    </div>
+                </ul>
+            </nav>
+        </header>
+        <nav class="container side-nav__container">
+            <ul class="row side-nav__links">
+                <li class="side-nav__link col-12">
+                    <a class="h3__proxima" href="/" tabindex="-1" aria-label="Cal Poly Pomona Home page">Home</a>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--0">
+                    <button class="h3__proxima" id="0" aria-expanded="false" tabindex="-1" aria-label="About">
+                        <span>about</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--1">
+                    <button class="h3__proxima" id="1" aria-expanded="false" tabindex="-1" aria-label="Admissions & Aid">
+                        <span>admissions &amp; aid</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--2">
+                    <button class="h3__proxima" id="2" aria-expanded="false" tabindex="-1" aria-label="Academics">
+                        <span>academics</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--3">
+                    <button class="h3__proxima" id="3" aria-expanded="false" tabindex="-1" aria-label="Life at CPP">
+                        <span>life at CPP</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small">
+            <ul class="row">
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="https://broncoathletics.com/" tabindex="-1">athletics</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/alumni/" tabindex="-1">alumni</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/news/" tabindex="-1">news &amp; events</a>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small-bottom">
+            <ul class="col-12 col-lg-6 side-nav__links--small-bottom">
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/prospective-student-gateway/" tabindex="-1">future students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/student-gateway/" tabindex="-1">current students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/family/" tabindex="-1">families</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/faculty-staff-gateway/" tabindex="-1">faculty &amp; staff</a>
+                </li>
+            </ul>
+            <ul class="col-12 col-lg-6 social-icons">
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.instagram.com/calpolypomona/" aria-label="Instagram" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.linkedin.com/school/cal-poly-pomona/" aria-label="LinkedIn " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.youtube.com/user/calpolypomona" aria-label="Youtube " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="Youtube" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.facebook.com/calpolypomona" aria-label="Facebook " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://twitter.com/calpolypomona" aria-label="X (Twitter)" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X" />
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </section>
+    <script src="/common/green-and-gold/assets/js/nav.js"></script>
+
+            <script>
+    
+                  
+                var mobileHtml = '<li class="col-6 nav__logo mobile"><a aria-label="Cal Poly Pomona Home" href="https://www.cpp.edu/" tabindex="0"><div class="nav__logo--horizontal"><img alt="Cal Poly Pomona Logo" src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png"/></div></a></li>';
+                $( "#main-logo" ).hide();
+                $( "#split-header #large-name" ).html('<a href="https://www.cpp.edu/academic-affairs/index.shtml">Academic Affairs</a>');
+                $( "#dept-header-desktop" ).removeClass("d-none");
+                $( "#dept-header-desktop" ).addClass("d-flex");
+                $( "#dept-header-desktop" ).parent().prepend(mobileHtml);
+                $( "#sub-name" ).html('<a href="/financial-aid/index.shtml">Financial Aid and Scholarships</a>');
+                $( "#sub-name" ).show();
+           
+        
+                
+     </script>
+
+    
+
+
+  
+
+
+  
+
+  
+              
+  
+            
+
+        
+           
+                           <code></code>
+           
+                            
+
+
+
+<header class="sub-nav">
+<nav class="container" id="subNavContainer">
+    <ul class="row sub-nav__links">
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Home <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/enrollment/" tabindex="0">Enrollment Management and Services</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/index.shtml" tabindex="0">Office of Financial Aid and Scholarships</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/admissions/index.shtml" tabindex="0">Office of Admissions</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/registrar/" tabindex="0">Registrar's Office</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/contact.shtml" tabindex="0">Contact Us</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Undergraduate <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/undergraduate/parent-and-family.shtml" tabindex="0">Parent &amp; Family Financial Aid Information</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/undergraduate/prospective/index.shtml" tabindex="0">Prospective Students</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/undergraduate/newly-admitted/index.shtml" tabindex="0">Newly Admitted Students</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/undergraduate/current/index.shtml" tabindex="0">Current Students</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Credentials <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/credentials/course-eligibility.shtml" tabindex="0">Financial Aid Course Eligibility</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/credentials/prospective/index.shtml" tabindex="0">Prospective Students</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/credentials/current/index.shtml" tabindex="0">Current Credential Students</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/credentials/newly-admitted/index.shtml" tabindex="0">Newly Admitted Students</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Graduate <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/graduate/course-eligibility.shtml" tabindex="0">Financial Aid Course Eligibility</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/graduate/prospective/index.shtml" tabindex="0">Prospective Students</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/graduate/newly-admitted-and-current/index.shtml" tabindex="0">Admitted &amp; Current Students</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Other Programs <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/other-programs/summer/index.shtml" tabindex="0">Summer Session</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/other-programs/veterans.shtml" tabindex="0">Veterans</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/other-programs/college-of-professional-and-global-education.shtml" tabindex="0">College of Professional and Global Education</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/other-programs/certificate-programs.shtml" tabindex="0">Certificate Programs</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/other-programs/cross-enrollment.shtml" tabindex="0">Cross Enrollment</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/other-programs/study-abroad.shtml" tabindex="0">Study Abroad</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Scholarships <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/scholarships/department-staff-and-faculty-information.shtml" tabindex="0">Information for Department Staff and Faculty</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/scholarships/cal-poly-pomona-scholarships.shtml" tabindex="0">Cal Poly Pomona Scholarships</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/scholarships/csu-systemwide-scholarships.shtml" tabindex="0">CSU Systemwide Scholarships</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/scholarships/outside-scholarships.shtml" tabindex="0">Outside Scholarships</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/scholarships/scholarship-faqs.shtml" tabindex="0">Scholarship FAQs</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Federal Work Study <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/federal-work-study/index.shtml" tabindex="0">Federal Work Study</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/federal-work-study/student-information.shtml" tabindex="0">Information for Students</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/federal-work-study/on-campus-employers-information.shtml" tabindex="0">Information for On Campus Employers</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/federal-work-study/faqs.shtml" tabindex="0">Frequently Asked Questions</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Resources <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/fafsa-simplification/index.shtml" tabindex="0">FAFSA Simplification</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/using-broncodirect-financial-aid-information.shtml" tabindex="0">Using BroncoDirect- Financial Aid Information</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/appeals.shtml" tabindex="0">Appeals</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/announcements.shtml" tabindex="0">Announcements</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/campus-resources.shtml" tabindex="0">Campus Resources</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/fafsa-dream-workshops.shtml" tabindex="0">FAFSA/CA Dream Act Workshops</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/financial-aid-policies.shtml" tabindex="0">Financial Aid Policies</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/financial-aid-outreach.shtml" tabindex="0">Financial Aid Presentations and Outreach Requests</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/financial-wellness.shtml" tabindex="0">Financial Wellness</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/faqs.shtml" tabindex="0">Frequently Asked Questions</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/heerf/index.shtml" tabindex="0">HEERF Student Aid</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/loan-information.shtml" tabindex="0">Loan Information</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/question-of-the-month.shtml" tabindex="0">Question of the Month</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/understanding-aid-program-limits.shtml" tabindex="0">Understanding Aid Program Limits</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/understanding-enrollment-requirements.shtml" tabindex="0">Understanding Enrollment Requirements</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/understanding-repeat-coursework-and-aid-eligibility.shtml" tabindex="0">Understanding Repeat Coursework and Aid Eligibility</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/understanding-return-of-federal-aid.shtml" tabindex="0">Understanding Return of Federal Aid Due to Withdrawals (R2T4)</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/understanding-sap.shtml" tabindex="0">Understanding SAP</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/understanding-state-university-grant-eligibility.shtml" tabindex="0">Understanding State University Grant Eligibility</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/understanding-unit-maximums.shtml" tabindex="0">Understanding Unit Maximums</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/understanding-verification.shtml" tabindex="0">Understanding Verification</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/aid-offer-notification.shtml" tabindex="0">Understanding Your Aid Offer and Next Steps</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/writing-a-successful-sap-appeal.shtml" tabindex="0">Writing a Successful SAP Appeal</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+</ul>
+
+<div class="row sub-nav__division-menu">
+    <div class="sub-nav__division"></div>
+        <div class="col-4 menu-button">
+        <button aria-expanded="false" aria-label="Site Menu" class="button button__primary--yellow-green button__proxima" data-dropdown-id="dropdownMenuBtn" id="dropdownMenuBtn">Menu
+             <span class="icon chevron">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" height="12" viewBox="0 0 19 12" width="19">
+            <g id="Atom / Icon / Expand Arrow / Small">
+            <path d="M2 2L9.5 9L17 2" id="Vector 2" stroke="none" stroke-width="3"/>
+            </g>
+            </svg>
+            </span>
+        </button>
+    </div>
+    <div class="sub-nav__dropdown hidden" id="dropdownMenu">
+       
+                       
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="1" tabindex="0">Home<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--1">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/enrollment/" tabindex="0">Enrollment Management and Services</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/index.shtml" tabindex="0">Office of Financial Aid and Scholarships</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/admissions/index.shtml" tabindex="0">Office of Admissions</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/registrar/" tabindex="0">Registrar's Office</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/contact.shtml" tabindex="0">Contact Us</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="2" tabindex="0">Undergraduate<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--2">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/undergraduate/parent-and-family.shtml" tabindex="0">Parent &amp; Family Financial Aid Information</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/undergraduate/prospective/index.shtml" tabindex="0">Prospective Students</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/undergraduate/newly-admitted/index.shtml" tabindex="0">Newly Admitted Students</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/undergraduate/current/index.shtml" tabindex="0">Current Students</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="3" tabindex="0">Credentials<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--3">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/credentials/course-eligibility.shtml" tabindex="0">Financial Aid Course Eligibility</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/credentials/prospective/index.shtml" tabindex="0">Prospective Students</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/credentials/current/index.shtml" tabindex="0">Current Credential Students</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/credentials/newly-admitted/index.shtml" tabindex="0">Newly Admitted Students</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="4" tabindex="0">Graduate<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--4">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/graduate/course-eligibility.shtml" tabindex="0">Financial Aid Course Eligibility</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/graduate/prospective/index.shtml" tabindex="0">Prospective Students</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/graduate/newly-admitted-and-current/index.shtml" tabindex="0">Admitted &amp; Current Students</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="5" tabindex="0">Other Programs<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--5">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/other-programs/summer/index.shtml" tabindex="0">Summer Session</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/other-programs/veterans.shtml" tabindex="0">Veterans</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/other-programs/college-of-professional-and-global-education.shtml" tabindex="0">College of Professional and Global Education</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/other-programs/certificate-programs.shtml" tabindex="0">Certificate Programs</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/other-programs/cross-enrollment.shtml" tabindex="0">Cross Enrollment</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/other-programs/study-abroad.shtml" tabindex="0">Study Abroad</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="6" tabindex="0">Scholarships<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--6">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/scholarships/department-staff-and-faculty-information.shtml" tabindex="0">Information for Department Staff and Faculty</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/scholarships/cal-poly-pomona-scholarships.shtml" tabindex="0">Cal Poly Pomona Scholarships</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/scholarships/csu-systemwide-scholarships.shtml" tabindex="0">CSU Systemwide Scholarships</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/scholarships/outside-scholarships.shtml" tabindex="0">Outside Scholarships</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/scholarships/scholarship-faqs.shtml" tabindex="0">Scholarship FAQs</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="7" tabindex="0">Federal Work Study<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--7">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/federal-work-study/index.shtml" tabindex="0">Federal Work Study</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/federal-work-study/student-information.shtml" tabindex="0">Information for Students</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/federal-work-study/on-campus-employers-information.shtml" tabindex="0">Information for On Campus Employers</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/federal-work-study/faqs.shtml" tabindex="0">Frequently Asked Questions</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="8" tabindex="0">Resources<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--8">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/fafsa-simplification/index.shtml" tabindex="0">FAFSA Simplification</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/using-broncodirect-financial-aid-information.shtml" tabindex="0">Using BroncoDirect- Financial Aid Information</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/appeals.shtml" tabindex="0">Appeals</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/announcements.shtml" tabindex="0">Announcements</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/campus-resources.shtml" tabindex="0">Campus Resources</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/fafsa-dream-workshops.shtml" tabindex="0">FAFSA/CA Dream Act Workshops</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/financial-aid-policies.shtml" tabindex="0">Financial Aid Policies</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/financial-aid-outreach.shtml" tabindex="0">Financial Aid Presentations and Outreach Requests</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/financial-wellness.shtml" tabindex="0">Financial Wellness</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/faqs.shtml" tabindex="0">Frequently Asked Questions</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/heerf/index.shtml" tabindex="0">HEERF Student Aid</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/loan-information.shtml" tabindex="0">Loan Information</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/question-of-the-month.shtml" tabindex="0">Question of the Month</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/understanding-aid-program-limits.shtml" tabindex="0">Understanding Aid Program Limits</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/understanding-enrollment-requirements.shtml" tabindex="0">Understanding Enrollment Requirements</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/understanding-repeat-coursework-and-aid-eligibility.shtml" tabindex="0">Understanding Repeat Coursework and Aid Eligibility</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/understanding-return-of-federal-aid.shtml" tabindex="0">Understanding Return of Federal Aid Due to Withdrawals (R2T4)</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/understanding-sap.shtml" tabindex="0">Understanding SAP</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/understanding-state-university-grant-eligibility.shtml" tabindex="0">Understanding State University Grant Eligibility</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/understanding-unit-maximums.shtml" tabindex="0">Understanding Unit Maximums</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/understanding-verification.shtml" tabindex="0">Understanding Verification</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/aid-offer-notification.shtml" tabindex="0">Understanding Your Aid Offer and Next Steps</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/writing-a-successful-sap-appeal.shtml" tabindex="0">Writing a Successful SAP Appeal</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+    </div>
+</div>
+
+
+
+
+</nav>
+<script type="text/javascript">
+    $(".button").attr("data-dropdown-id", "dropdownMenuBtn").on("click", function(event) {
+        var dropdownMenu = $("#dropdownMenu");
+        var nestedDropdownMenus = $(".sub-nav__nested-dropdown");
+        
+        if ($(this).attr("aria-expanded") === "false") {
+            $(this).attr("aria-expanded", "true");
+        } else {
+            $(this).attr("aria-expanded", "false");
+        }
+
+        toggleDropdown(dropdownMenu);;
+        
+        // close all nested dropdown menus if open
+        nestedDropdownMenus.each(function() {
+            if ($(this).hasClass("show")) {
+                $(this).removeClass("show");
+                $(this).addClass("hidden");
+            }
+        })
+    })
+    $(".sub-nav__nested-button").on("click", function(event) {
+        var currentButtonId = $(this).attr("id")
+        var nestedDropdownMenu = $(`#nestedDropdownMenu--${currentButtonId}`)
+        $(this).find(".chevron").toggleClass("active");
+
+        if ($(this).attr("aria-expanded") === "false") {
+            $(this).attr("aria-expanded", "true");
+        } else {
+            $(this).attr("aria-expanded", "false");
+        }
+
+        toggleDropdown(nestedDropdownMenu);
+    })
+    function toggleDropdown(menu) {
+        if (menu.hasClass("hidden")) {
+            menu.removeClass("hidden");
+            menu.addClass("show");
+            
+            //add click listener to check for clicks outside of the nav
+            //https://stackoverflow.com/questions/152975/how-do-i-detect-a-click-outside-an-element/3028037#3028037
+            $(document).click(function(event) { 
+                var $target = $(event.target);
+                if(!$target.closest('#subNavContainer').length) {
+                    closeDropdown(menu);
+                }
+            });
+            
+            //add listener for escape key
+            $(document).on('keydown', function(event) {
+                if (event.key == "Escape") {
+                    closeDropdown(menu);
+            }});
+        } else {
+            menu.removeClass("show");
+            menu.addClass("hidden");
+        }
+    }
+
+    function closeDropdown(menu) {
+        var dropdownMenu = $("#dropdownMenu");
+        var nestedDropdownMenus = $(".sub-nav__nested-dropdown");  
+        $(".button").attr("data-dropdown-id", "dropdownMenuBtn").attr("aria-expanded", "false");
+        nestedDropdownMenus.each(function() {
+            if ($(".button").attr("data-dropdown-id", "dropdownMenuBtn").hasClass("show")) {
+                $(".button").attr("data-dropdown-id", "dropdownMenuBtn").removeClass("show");
+                $(".button").attr("data-dropdown-id", "dropdownMenuBtn").addClass("hidden");
+            }
+        })
+        menu.removeClass("show");
+        menu.addClass("hidden");
+    }
+
+</script>
+</header>
+<div class="cqw-wrapper" id="main">
+ <div class="organism-spacer">
+    <section class="content-sub-page">
+        <div class="container">
+            <div class="row">
+                <div class="col-6 col-lg-8">
+                    <h1 class="h2__proxima content-sub-page__header">Resources</h1>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+
+        
+         
+ 
+        
+                
+                
+                    
+                        
+                                   
+                            <div class="organism-spacer cta-green-card__header spacer__padding-top--small spacer__padding-bottom--small">
+                                <section class="standard-text body2 cta-green-card" id="content-section-1">
+                        <div class="container">
+                            <div class="row">
+                               
+                                     <header class="cta-green-card__header text-start col-12 col-sm-8">
+                                                                        <h2 class="h4__proxima">Using BroncoDirect – Financial Aid Information</h2>
+                                                                </header>
+                            </div>
+                            <div class="row">
+                                <div class="body2 text-start col-12 col-sm-8"><p>Your BroncoDirect Student Center provides an easy way to access, view, and manage your financial aid information online. Once you log into the BroncoDirect Student Center with your Bronco ID and password, you will be able to view your financial aid to-do lists, view and accept your financial aid package, review your cost of attendance budget, and monitor your SAP Status for Financial Aid.</p>
+<p><img alt="" class="img img-original-size" height="346" src="../img/broncodirect.jpg" width="1000"/></p>
+<p><strong>Not sure how to navigate BroncoDirect for Financial Aid? Select an item below to learn more.</strong></p></div>  
+                            </div>
+                       </div>
+                    </section>
+                </div>
+                                          
+                    
+        
+
+
+        
+         
+ 
+        
+                                
+        
+                <div class="organism-spacer spacer__padding-top--small spacer__padding-bottom--small">
+            <section class="faq">
+                <div class="container">
+                    <div class="row">
+                        <header class="faq__header col-lg-9">
+                            <h2 class="h5__proxima">BroncoDirect Student Center Basics</h2><br/>
+                            <p class="body2"></p>
+                        </header>
+                        <div class="accordion__items col-lg-9">
+                            
+                                                                                    
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="Accessing Your Student Center" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">Accessing Your Student Center</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p>Your BroncoDirect Student Center serves as a "home base" for your enrollment and student information (including financial aid and student account information).&#160;</p>
+<p>Follow the instructions below to access your Student Center.</p>
+<h3><strong>Step 1:</strong></h3>
+<p>Log in to the <a href="https://my.cpp.edu" tabindex="0">MyCPP Single Sign-On Portal </a>with your Bronco ID and password.</p>
+<h3><img alt="image of mycpp.edu login page" class="img img-original-size" height="484" src="../img/my-cpp-login.jpg" width="1086"/><br/><br/><strong>Step 2:</strong></h3>
+<p>Your <strong>MyCPP Dashboard</strong> will display.&#160; Select the yellow <strong>BroncoDirect</strong> <strong>Student Center</strong>&#160;tile.</p>
+<p><img alt="image of MyCPP Dashboard showing tiles at top, news section (CPP Today), and My Class Schedule." class="img img-original-size" height="501" src="../img/broncodirect-studentcenter.jpg" width="1000"/></p>
+<h3>Step 3:</h3>
+<p>Your <strong>BroncoDirect Student Center</strong> will display.</p>
+<p><img alt="image of main landing page of BroncoDirect Student Center" class="img img-original-size" height="506" src="../img/broncodirect-student-center-main.jpg" width="1000"/></p>
+<p>Your BroncoDirect Student Center displays summary information such as your class schedule, outstanding balance, and contact information.&#160;It has many options to select in order to access all of the information and transactions available, including accessing communications you've been sent by various departments (including Financial Aid &amp; Scholarships).</p>
+<p>When you navigate to another page within your BroncoDirect Student Center, you can return to your main "Student Center" by using the left navigation menu.</p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="View Your Holds (or Service Indicators)" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">View Your Holds (or Service Indicators)</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p>The Holds section of the Student Center page will allow you to view holds (sometimes referred to as <em>Service Indicators</em>) placed on services that you are restricted from using. By clicking on the details link, you will be taken to the &#8220;Your Holds&#8221; page where you can click the hyperlink for each of the Hold(s) and view detailed information about the specific hold(s), including who to contact and instructions for removing the hold(s). For example, you may have a library fine that stops you from using their services.</p>
+<p><span style="color: #800080;"><strong>Not all holds have a negative impact!</strong>&#160;</span> <br/>Some holds, such as the <em><strong>Classes Saved</strong></em> hold, have a <strong>positive impact</strong> (the Classes Saved hold protects your classes from being canceled), while others are informational only.&#160;</p>
+<p>Be sure to always view the full details of any hold that shows on your Student Center.</p>
+<h3><img alt="image of broncodirect student center home page with holds section highlighted" class="img img-original-size" height="515" src="../img/broncodirect-studentcenter-landing-holds-highlighted.jpg" width="1000"/></h3>
+<h3><strong>Step 1:</strong></h3>
+<p>Locate the Holds Box in your Student Center. If there are any items listed in your Holds box, you will see a number in the corner of the box. The number indicates the number of Holds (or Service Indicators) you currently have.</p>
+<table height="425" width="379">
+<tbody>
+<tr>
+<td style="width: 379px;"><img alt="image of holds box with number of holds highlighted" class="img img-original-size" height="402" src="../img/broncodirect-holds-box-highlighted-number.jpg" width="379"/></td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Step 2:</strong></h3>
+<p>Click on the <strong>Details</strong> bar to open the Holds screen.</p>
+<table>
+<tbody>
+<tr>
+<td><img alt="image of holds box with the Details bar highlighted" class="img img-original-size" height="297" src="../img/broncodirect-holds-box-details.jpg" width="280"/></td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Step 3:</strong></h3>
+<p>The <strong>Holds Screen</strong> will provide a listing of your holds and will provide some basic information on each hold, including the name of the Hold Item, the Start Term and Start Date of the hold, and the Department that placed the hold.</p>
+<table>
+<tbody>
+<tr>
+<td><img alt="image of holds screen with Hold Item, Start Term, Start Date, and Department highlighted" class="img img-original-size" height="119" src="../img/broncodirect-holds-screen.jpg" width="1000"/></td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Step 4:</strong></h3>
+<p>Click on the <span style="color: #3366ff;"><strong><em>hyperlink</em></strong></span> for the <strong>Hold Item</strong> to open the Hold Item Details screen.</p>
+<table>
+<tbody>
+<tr>
+<td><img alt="image of holds screen with the hyperlink for a specific hold highlighted" class="img img-original-size" height="161" src="../img/broncodirect-holds-screen-hyperlink-name.jpg" width="750"/></td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Step 5:</strong></h3>
+<p>The Hold Item Details screen displays the reason the hold was placed, contact information for the department that placed the hold, and any instructions that you need to follow in order to resolve the hold (or information that you need to know related to the hold).</p>
+<table>
+<tbody>
+<tr>
+<td><img alt="image of Hold Item Details screen with Reason and Instructions highlighted" class="img img-original-size" height="329" src="../img/broncodirect-hold-item-details.jpg" width="1000"/></td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Departments:&#160; Fin Aid vs. Student Financials</strong></h3>
+<p>When you view the Holds or the Hold Item Details screen, you will see which department placed the hold.&#160; Two departments that frequently get mistaken for one another are Financial Aid &amp; Scholarships and Student Financials.</p>
+<ul>
+<li><strong>Student Financials Holds</strong>:&#160; Any hold that shows Student Financials as the department were placed by <a href="https://www.cpp.edu/student-accounting/contact_us/index.shtml"><strong>Student Accounting &amp; Cashiering Services</strong></a>. Any questions about these holds should be directed to their office.</li>
+<li><strong>Fin Aid &amp; Scholarships Off Holds</strong>:&#160; Any hold that shows Fin Aid &amp; Scholarship Off as the department were placed by the <a href="contact.shtml"><strong>Office of Financial Aid &amp; Scholarships</strong></a>.&#160; Any questions about these holds should be directed to our office.</li>
+</ul></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="View Your To Do List" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">View Your To Do List</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p>The To Do List section of the Student Center page will allow you to view your pending To Do List Items. By clicking on the <strong><em>More</em></strong> link, you will be taken to the <strong><em>To Do List</em></strong> page where you can click the hyperlink for each item and view detailed information, including who to contact and instructions for the necessary action to take for resolving the pending To Do List item.</p>
+<p><em><strong><span style="color: #800080;">Students who have applied for financial aid should regularly check their To Do List</span></strong></em>. Failure to submit the items requested will delay your financial aid from being processed. As a result, your financial aid may not be released to your account before the fee payment deadline.</p>
+<p><img alt="image of BroncoDirect Student Center landing page with the To Do List box highlighted" class="img img-original-size" height="514" src="../img/broncodirect-studentcenter-landing-todo-highlighted.jpg" width="1000"/></p>
+<h3><strong>Step 1:</strong></h3>
+<p>Locate the To Do List Box in your Student Center. If there are any items listed in your To Do List box, you will see a number in the corner of the box. The number indicates the number of To Do Items you currently have.</p>
+<table>
+<tbody>
+<tr>
+<td><img alt="image of To Do List Box on BroncoDirect Student Center with the number of items highlighted" class="img img-original-size" height="402" src="../img/broncodirect-todo-box-number-highlighted.jpg" width="379"/></td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Step 2:</strong></h3>
+<p>Click on the <strong>More</strong> bar to open the To Do List screen.</p>
+<table>
+<tbody>
+<tr>
+<td><img alt="image of to do list box on broncodirect student center - with the more button highlighted" class="img img-original-size" height="297" src="../img/broncodirect-todo-box-more.jpg" width="280"/></td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Step 3:</strong></h3>
+<p>The <strong>To Do List Screen</strong> will provide a listing of all items on your To Do List and will provide some basic information on each item, including the name of the To Do Item, the Due Date, the Status of the Item, and the Administrative Function (or Department) that placed the hold.</p>
+<table>
+<tbody>
+<tr>
+<td><img alt="To Do List screen with Item List, To Do Item, Due Date, Status, and Administrative Function Highlighted" class="img img-original-size" height="115" src="../img/broncodirect-to-do-list-boxes-highlighted.jpg" width="1000"/></td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Step 4:</strong></h3>
+<p>Click on the <span style="color: #3366ff;"><strong><em>hyperlink</em></strong></span> for the <strong>To Do Item</strong> to open the To Do Item Details screen.</p>
+<table>
+<tbody>
+<tr>
+<td><img alt="image of to do list box with the item name and hyperlink highlighted" class="img img-original-size" height="161" src="../img/broncodirect-to-do-list-item-hyperlink1.jpg" width="694"/></td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Step 5:</strong></h3>
+<p>The To Do List - To Do Details screen displays the full details of the item, including contact information, the due date, and a description of why the item was placed and/or what you need to do in order to complete the item. If you still need more information regarding the <em>To Do Item</em>, contact the department displayed.</p>
+<table>
+<tbody>
+<tr>
+<td><img alt="image of To Do List To Do Details Box with Item Name, Contact Info, Due Date, and Description boxes highlighted" class="img img-original-size" height="274" src="../img/broncodirect-to-do-list-details-highlighted-323.jpg" width="1000"/></td>
+</tr>
+</tbody>
+</table></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="Viewing Your Communications" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">Viewing Your Communications</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p>Cal Poly Pomona's primary means of communicating important information to students is through their <strong>CPP issued email account</strong>. Students are responsible for checking their CPP email on a frequent and consistent basis to remain informed of Cal Poly Pomona communications - as certain communications may be time sensitive.</p>
+<p>In addition to checking your CPP email account, you can use your BroncoDirect Student Center to view many of the communications that you've received from various departments at Cal Poly Pomona <em>(since not all communications may be sent by the same means, they may not all show on your My Communications page).&#160;</em></p>
+<p><img alt="image of BroncoDirect Student Center with Communications Highlighted" class="img img-original-size" height="506" src="../img/broncodirect-student-center-main_mycommunications.jpg" width="1000"/>&#160;</p>
+<h3><strong>Step 1:</strong></h3>
+<p>Select <strong>My Communications</strong> from the Left Navigation bar.</p>
+<table>
+<tbody>
+<tr>
+<td><img alt="image of left navigation bar from BroncoDirect with Communications highlighted" class="img img-original-size" height="454" src="../img/broncodirect-student-center-leftnav-mycommunications.jpg" width="191"/></td>
+</tr>
+</tbody>
+</table>
+<h2><strong>Step 2:</strong></h2>
+<p>The <strong>Communications List</strong> screen will appear <em>(since not all communications may be sent by the same means, they may not all show on your My Communications page).</em></p>
+<p>The <strong>Subject Line</strong> of the communication and <strong>Communication Date </strong>(date sent) will display in the list.</p>
+<p><img alt="image of communications listing page" class="img img-original-size" height="244" src="../img/broncodirect-communications-list.jpg" width="1000"/></p>
+<h3><strong>Step 3:</strong></h3>
+<p>To view a copy of a specific communication, click on Subject hyperlink for the communication you want to view.</p>
+<p><img alt="image of communications listing page with the SAP Status communication highlighted" class="img img-original-size" height="244" src="../img/broncodirect-communications-comm-highlighted.jpg" width="1000"/></p>
+<h3><strong>Step 4:</strong></h3>
+<p>A <strong>copy of the communication</strong> will display.</p>
+<table>
+<tbody>
+<tr>
+<td><img alt="image of Sample SAP Communication" class="img img-original-size" height="551" src="../img/broncodirect-sample-communication.jpg" width="350"/></td>
+</tr>
+</tbody>
+</table>
+<p>Since not all communications may be sent by the same means, they may not all show on your Communications page.&#160; Be sure to keep your email account information updated, and to check your email regularly.</p>
+<p>Continue to check your student email, your personal email, and your MyCommunications screen in your BroncoDirect Student Center to make sure you do not miss any important communications. If is also a good idea to set up voicemail on your phone in case you are contacted by phone.</p>
+<p><em>You can view your email account information on your BroncoDirect Student Center under Personal Information. You are responsible for ensuring this information is accurate and up-to-date. Failure to do so may result in missing important information!</em></p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                         
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+        
+    
+            
+                
+                    
+        
+
+
+        
+         
+ 
+        
+                                
+        
+                <div class="organism-spacer spacer__padding-top--small spacer__padding-bottom--small">
+            <section class="faq">
+                <div class="container">
+                    <div class="row">
+                        <header class="faq__header col-lg-9">
+                            <h2 class="h5__proxima">BroncoDirect Financial Aid Information</h2><br/>
+                            <p class="body2"></p>
+                        </header>
+                        <div class="accordion__items col-lg-9">
+                            
+                                                                                    
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="View Your Award Summary (Financial Aid Package)" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">View Your Award Summary (Financial Aid Package)</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p>You can <span class="text_node" data-v-12d5ae32="" data-v-7f2a960e="">view and manage your current and previous financial aid package information through BroncoDirect.</span></p>
+<h3><strong>Step 1:</strong></h3>
+<p>From the Student Center page, click on the <strong>View Financial Aid</strong> link located in the Finances Section, or the <strong>My Financial Aid</strong> option from the left navigation.</p>
+<table height="467" width="309">
+<tbody>
+<tr>
+<td style="width: 297px;"><img alt="image of BroncoDirect Student Center with View Financial Aid options highlighted" class="img img-original-size" height="442" src="../img/broncodirect-financialaidsummary-selectionoptions.jpg" width="292"/></td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Step 2:</strong></h3>
+<p>Select the Aid Year you wish to review.</p>
+<ul class="bullet_list top_level" data-v-a5ba1e9a="" data-v-ba14e66e="" style="list-style-type: disc;">
+<li class="list_item" data-v-63aa50f9="" data-v-ba14e66e="">
+<p class="" data-v-63aa50f9="" data-v-7f2a960e=""><span class="text_node" data-v-12d5ae32="" data-v-7f2a960e="">If an aid year does not have an active link, no aid has been processed for that year.</span></p>
+</li>
+<li class="list_item" data-v-63aa50f9="" data-v-ba14e66e="">
+<p class="" data-v-63aa50f9="" data-v-7f2a960e=""><span class="text_node" data-v-12d5ae32="" data-v-7f2a960e="">If no line appears for an aid year, aid was not applied for in that year.</span></p>
+</li>
+<li class="list_item" data-v-63aa50f9="" data-v-ba14e66e="">
+<p class="" data-v-63aa50f9="" data-v-7f2a960e=""><span class="text_node" data-v-12d5ae32="" data-v-7f2a960e="">For Financial Aid purposes, an Aid Year includes Fall, Spring, and Summer. For example, Aid Year 2024 includes Fall 2023, Spring 2024, and Summer 2024.</span></p>
+</li>
+</ul>
+<span class="text_node" data-v-12d5ae32="" data-v-7f2a960e=""></span>
+<table>
+<tbody>
+<tr>
+<td><img alt="image of the aid year selection screen in BroncoDirect" class="img img-original-size" height="270" src="../img/broncodirect-myfinancialaid-selectaidyear1.jpg" width="1000"/></td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Step 3:</strong></h3>
+<p>The Financial Aid Summary page for the year you selected will open.&#160; The Award Summary lists your awards for the Academic Year.&#160; You will also see a term specific breakdown of your awards.</p>
+<p><img alt="image of Award Summary page in BroncoDirect" class="img img-original-size" height="906" src="../img/broncodirect-awardsummary-landing.jpg" width="1000"/></p>
+<h3><strong>Additional Information You Can Access from the Award Summary Page</strong></h3>
+<p>From this page, you can access a variety of information related to your financial aid:</p>
+<ul>
+<li>Access your College Financing Plan</li>
+<li>View your Cost of Attendance Summary</li>
+<li>View the Scheduled Disbursement Dates by semester</li>
+<li>Accept or Decline your Loan or Federal Work Study offer.</li>
+</ul>
+<p>Details about accessing each of these features is provided below.</p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="View Your College Financing Plan" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">View Your College Financing Plan</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p>The <strong>College Financing Plan</strong> is a standardized form developed by the U.S. Department of Education to simplify the information about your education-related costs and your financial aid.</p>
+<p>Your College Financing Plan is designed to help you understand the cost of attending Cal Poly Pomona and provide you with your options for covering any costs not covered by grants or scholarships. Once you have been notified that your estimated or official financial aid offer is available to view, your College Financing Plan will also be available.</p>
+<p>To view your College Financing Plan follow the steps below.</p>
+<h3><strong>Step 1:</strong></h3>
+<p>From the <strong>Award Summary</strong> page, click on the College Financing Plan button.</p>
+<p><img alt="image of award summary screen in broncodirect -with the College Financing Plan button highlighted" class="img img-original-size" height="351" src="../img/broncodirect-awardsummary-collegefinancingplan-button.jpg" width="1000"/></p>
+<h3><strong>Step 2:</strong></h3>
+<p>Your College Financing Plan will open in a new window.</p>
+<p>The following information will be displayed within your College Financing Plan:</p>
+<ul>
+<li>Your Expected Family Contribution (EFC) from your FAFSA or Dream Application. This is the figure used by the Financial Aid Office in determining your financial aid package.</li>
+<li>Your Cost of Attendance Budget</li>
+<li>Any Grants or Scholarships that you have been offered</li>
+<li>Your Net Cost (Cost of Attendance minus Grants and Scholarships)</li>
+<li>Self-Help aid that you have been offered to cover your remaining costs</li>
+<li>Other options for covering your remaining costs.</li>
+</ul>
+<p><img alt="image of College Financing Plan" class="img img-original-size" height="1023" src="../img/broncodirect-collegefinancingplan1.jpg" width="809"/></p>
+<p>&#160;</p>
+<p>The College Financing Plan also provides a <strong>Glossary</strong> of common terms and definitions related to your financial aid and your College Financing Plan.</p>
+<p><img alt="image of college financing plan glossary" class="img img-original-size" height="816" src="../img/broncodirect-collegefinancingplan-glossary.jpg" width="796"/></p>
+<h3><strong>Step 3:</strong></h3>
+<p>Click on the <strong>Download</strong> button to download a copy of your College Financing Plan.&#160; We recommend saving a copy to refer back to, in the event there are changes to your cost of attendance or aid package.</p>
+<p><img alt="image of college financning plan with the Download button highlighted" class="img img-original-size" height="1023" src="../img/broncodirect-collegefinancingplan-downloadbutton.jpg" width="809"/></p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="View Your Cost of Attendance Budget" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">View Your Cost of Attendance Budget</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p>You can view a breakdown of your Financial Aid Cost of Attendance Budget within BroncoDirect. This is the budget that was used when determining your eligibility for financial aid.</p>
+<h3><strong>Step 1:</strong></h3>
+<p>From the Financial Aid Summary Page, click on on either the <strong>Cost of Attendance Summary link</strong> (under your Academic Year Award Summary) or the <strong>Cost of Attendance Summary Button</strong> (at the bottom of the page),&#160; to view your <strong><em>Estimated Financial Aid Budget</em></strong> screen.</p>
+<p><img alt="image of Award Summary on BroncoDirect with the Cost of Attendance links highlighted" class="img img-original-size" height="906" src="../img/broncodirect-awardsummary-costofattendance-button1.jpg" width="1000"/></p>
+<h3><strong>Step 2:</strong></h3>
+<p>The Cost of Attendance Summary page will be displayed.</p>
+<p><img alt="image of Cost of Attendance Budget Summary screen in BroncoDirect" class="img img-original-size" height="820" src="../img/broncodirect-coa-budget-clean-summary.jpg" width="1000"/></p>
+<p>This page provides the following information:</p>
+<ul>
+<li>Total Financial Aid Cost of Attendance Budget (COA)</li>
+<li>Expected Family Contribution - also referred to as EFC - from your FAFSA or Dream Application</li>
+<li>Estimated Need (COA minus EFC)</li>
+<li>Total Aid that has been offered</li>
+<li>Remaining Need (COA minus EFC minus Total Aid)</li>
+</ul>
+<h3><strong>Step 3:</strong></h3>
+<p>Click on the hyperlink for the Estimated Financial Aid Budget to display your Estimated Financial Aid Budget Detail page.</p>
+<table height="317" width="477">
+<tbody>
+<tr>
+<td style="width: 466px;"><img alt="image of Cost of Attendance Summary page with the budget hyperlink highlighted" class="img img-original-size" height="307" src="../img/broncodirect-coa-budget-small-hyperlink-summary.jpg" width="466"/></td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Step 4:</strong></h3>
+<p>The Estimated Financial Aid Budget Detail page will be displayed.</p>
+<p><img alt="image of Cost of Attendance Budget Detail screen" class="img img-original-size" height="501" src="../img/broncodirect-coa-budget-detail.jpg" width="1000"/>&#160;</p>
+<p>This page provides a detailed breakdown of your estimated costs by specific category:</p>
+<ul>
+<li>Tuition (and Mandatory Campus Fees)</li>
+<li>Living Expenses (Food &amp; Housing)</li>
+<li>Books, Supplies, Materials</li>
+<li>Transportation</li>
+<li>Personal Expenses</li>
+<li>Direct Loan Fees</li>
+</ul>
+<p><em>The figures&#160;used&#160;for all categories (except Tuition &amp; Fees&#160;and On Campus Room &amp; Board) represent the average expenses reported by Cal Poly Pomona students in the 2021 <a href="https://www.csac.ca.gov/sears">Student Expenses and Resources Survey</a> (SEARS), conducted by the California Student Aid Commission.&#160; 1,500 students from Cal Poly Pomona were contacted regarding the survey &#8211; and the response rate was 32.47%.&#160;</em></p>
+<p><em>Amounts are updated annually based on inflation and the Consumer Price Index for non-surveyed years.</em></p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="View Details of Specific Financial Aid Items" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">View Details of Specific Financial Aid Items</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p>You have the ability to view details of individual items within your financial aid package, including any item-specific messages and all scheduled disbursement dates for the specific item.</p>
+<h3 style="clear: both;"><strong>Step 1:</strong></h3>
+<p>To view item specific information, you must first navigate to the Award Package screen (also known as the Accept/Decline Awards screen).&#160;</p>
+<h4 style="clear: both;">Option A - Award Summary page:</h4>
+<p style="clear: both;">On the Award Summary page, click the&#160;<strong>Accept/Decline Awards</strong>&#160;button.&#160;</p>
+<p style="clear: both;"><img alt="image of accept decline awards button on award summary page" class="img img-original-size" height="906" src="../img/broncodirect-awardsummary-accept-decline-button.jpg" width="1000"/></p>
+<h4 style="clear: both;">Option B - Student Center Left Navigation:</h4>
+<p style="clear: both;">You can select the <strong>Accept/Decline Awards</strong> option from the Left Navigation menu in your Student Center.</p>
+<table>
+<tbody>
+<tr>
+<td><img alt="image of accept decline awards navigation options" class="img img-original-size" height="257" src="../img/broncodirect-accept-decline-options.jpg" width="170"/></td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Step 2:</strong></h3>
+<p>Click on the <em>hyperlink</em> for the item you wish to view detailed information on.</p>
+<p><img alt="image of award package screen with SUG item highlighted" class="img img-original-size" height="422" src="../img/broncodirect-awardpackage_sug-hyperlink-highlighted.jpg" width="1000"/></p>
+<h3><strong>Step 3:</strong></h3>
+<p>The <strong>Award Detail</strong> screen will open.</p>
+<p>Review any information in the <strong>Message</strong> section, as well as the <strong>Disbursement</strong> information (information regarding the term and disbursement amount will display for all scheduled disbursements for the item). <em>Items must be in an <strong>accepted</strong> status in order for disbursement dates to appear.</em></p>
+<p><img alt="image of award detail screen with message box and disbursement box highlighted" class="img img-original-size" height="253" src="../img/broncodirect-award-detail-message-disbursementdates.jpg" width="1000"/></p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="Accept / Decline Your Loan or Federal Work Study Offer" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">Accept / Decline Your Loan or Federal Work Study Offer</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p style="clear: both;">If you have been offered a Federal Direct Loan, CA Dream Loan, or Federal Work Study as part of your aid package you will be required to accept or decline these items before receiving funds.</p>
+<p style="clear: both;">Follow the steps below to accept or decline your loan or Federal Work Study offer.</p>
+<p style="clear: both;">&#160;</p>
+<h3 style="clear: both;"><strong>Step 1:</strong></h3>
+<h4 style="clear: both;">Option A - Award Summary page:</h4>
+<p style="clear: both;">On the Award Summary page, click the&#160;<strong>Accept/Decline Awards</strong>&#160;button.&#160;</p>
+<p style="clear: both;"><img alt="image of accept decline awards button on award summary page" class="img img-original-size" height="906" src="../img/broncodirect-awardsummary-accept-decline-button.jpg" width="1000"/></p>
+<h4 style="clear: both;">Option B - Student Center Left Navigation:</h4>
+<p style="clear: both;">You can select the Accept/Decline Awards option from the Left Navigation menu in your Student Center.</p>
+<table>
+<tbody>
+<tr>
+<td><img alt="image of accept decline awards navigation options" class="img img-original-size" height="257" src="../img/broncodirect-accept-decline-options.jpg" width="170"/></td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Step 2:</strong></h3>
+<p>Review each item listed. You can click on the hyperlink for a specific award name to view detailed information about that item.</p>
+<p><img alt="image of accept decline award screen" class="img img-original-size" height="422" src="../img/broncodirect-awardpackage_accept-decline-highlighted.jpg" width="1000"/></p>
+<h3><strong>Step 3:</strong></h3>
+<p>To accept or decline awards, place a checkmark in either the Accept or Decline column for each item.</p>
+<p>You can choose to accept a <strong>lower</strong> amount than what was offered (for loans and for work study).</p>
+<ul>
+<li>Once a checkmark has been placed in the Accept column, the amount field in the Accepted column will become available.</li>
+<li>Change the amount in the Accepted column if you wish to <strong>reduce</strong> the amount you want to accept.</li>
+<li><em>You <strong>cannot increase</strong> an accepted amount above the amount offered</em>.</li>
+<li>If you make a mistake or want to start over, use the <strong>clear all</strong> button to remove all checkmarks in both the Accept and Decline columns</li>
+</ul>
+<p><img alt="image of award package accept decline screen with federal work study and direct loan highlighted" class="img img-original-size" height="422" src="../img/broncodirect-awardpackage_fws-direct-loan-accept-decline-highlighted.jpg" width="1000"/></p>
+<h3><strong>Step 4:</strong></h3>
+<p>Once you are satisfied with your Accept/Decline options, click the <strong>SUBMIT</strong> button. This will update your information in the system based on your selections. If the update was successful you will receive a message indicating so.&#160;If you receive a status of &#8216;Rejected&#8217; or &#8216;Needs Review&#8217; after clicking the&#160;<strong>SUBMIT</strong> button, it means your selections were not successfully updated in the system.&#160; If this happens, you must contact the <a href="mailto:finaid@cpp.edu">Office of Financial Aid &amp; Scholarships</a>.</p>
+<h3><strong>Important Things to Know About Accepting/Declining Awards:</strong></h3>
+<ul>
+<li>Scholarships and grants cannot be declined on this page. If you wish to decline a scholarship or grant, you must contact the Office of Financial Aid &amp; Scholarships (or the organization that awarded the scholarship)</li>
+<li>Once an item has been disbursed you will not be able to decline or reduce the award</li>
+<li>You cannot decline or reduce a loan award amount if the loan has been originated</li>
+<li>If you want to accept a previously declined award, you must contact the <a href="mailto:finaid@cpp.edu">Office of Financial Aid &amp; Scholarships</a>.</li>
+</ul></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="View Scheduled Disbursement Dates" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">View Scheduled Disbursement Dates</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p>You can view the dates your financial aid is scheduled to be released (or disbursed) to Student Accounting &amp; Cashiering Services for each semester.</p>
+<h3><strong>Step 1:</strong></h3>
+<p>From the Financial Aid Summary page, click on the View Scheduled Disbursement Dates button to view the anticipated dates your financial aid will be released for that specific semester. <em>Each semester must be viewed separately.</em></p>
+<p><img alt="image of award summary sreen showing the View Scheduled Disbursements boxes - each box is highlighted, one for Spring and one for Fall" class="img img-original-size" height="906" src="../img/broncodirect-awardsummary-viewscheduleddisbursements-button1.jpg" width="1000"/></p>
+<h3><strong>Step 2:</strong></h3>
+<p>The Scheduled Disbursements screen will display.</p>
+<p><img alt="image of scheduled disbursement dates screen.  The column showing the scheduled date is highlighted." class="img img-original-size" height="312" src="../img/broncodirect-scheduled-disbursements.jpg" width="1000"/></p>
+<p>The following information will be displayed for each item:</p>
+<ul>
+<li>Name of the Item</li>
+<li>Category (Grant, Scholarship, Loan, etc.)</li>
+<li>Accepted Amount</li>
+<li>Fee (origination fee specific to Direct Loans)</li>
+<li>Net Amount (the amount of the item you will receive, minus the origination fee)</li>
+<li>Scheduled Disbursement Date (this is the date funds for the item are scheduled to be released to Student Accounting &amp; Cashiering Services).</li>
+</ul>
+<h3><strong>Requirements for a Disbursement Date to Display</strong></h3>
+<p>Your financial aid must be in an accepted status in order for a disbursement date to appear:</p>
+<ul>
+<li><strong>Grants and Scholarships</strong> are automatically accepted when offered - so no action is necessary</li>
+<li><strong>Loans</strong> are packaged in an offered status.&#160; You must accept your loans before a disbursement date can be displayed for those items.</li>
+<li><strong>Work Study&#160;</strong>will not appear on the Scheduled Disbursements screen. That's because work study is money you earn - and is released as a paycheck based on hours worked and the scheduled pay period.&#160;</li>
+</ul>
+<h3><strong>Delays in Disbursement (Release) of Funds</strong></h3>
+<p>Although the <strong>Scheduled Disbursement Date</strong> is displayed, there are reasons that release of your aid could be delayed:</p>
+<ul>
+<li>All required items on your To Do List must be completed prior to the disbursement of aid</li>
+<li>Any holds that impact release of specific financial aid must be resolved before funds from that item can be released.</li>
+<li>Some scholarships and grants require full-time enrollment for disbursement. Being waitlisted for a course does not count toward your enrollment status.</li>
+</ul></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="View Your SAP Status For Financial Aid" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">View Your SAP Status For Financial Aid</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p>Satisfactory Academic Progress (SAP) is a set of standards, required by federal law, that student&#8217;s must meet to receive Financial Aid. A complete description of <a href="understanding-sap.shtml">Cal Poly Pomona's Policy</a> can be found online.</p>
+<p>SAP is measured after each semester at Cal Poly Pomona (Fall, Spring, Summer) and determines your eligibility to receive aid for the next semester of enrollment.</p>
+<h3><strong>Step 1:</strong></h3>
+<p>To view your <strong>SAP status</strong>, from the left navigation bar, select <strong>View SAP Status</strong> (under the Financial Section).</p>
+<table>
+<tbody>
+<tr>
+<td><img alt="image of left navigation bar with View SAP highlighted" class="img img-original-size" height="510" src="../img/broncodirect-leftnav-viewsap.jpg" width="150"/></td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Step 2:</strong></h3>
+<p>This will open your <strong>Satisfactory Academic Progress (SAP)&#160;for the Receipt of Financial Aid </strong>page.</p>
+<p><img alt="image of BroncoDirect SAP Status screen" class="img img-original-size" height="768" src="../img/broncodirect-sap-fullscreen.jpg" width="1000"/></p>
+<h3><strong>Understanding the SAP Status Screen</strong></h3>
+<p><strong>The SAP</strong> <strong>Status</strong> screen is broken down into specific sections, with an overview of your evaluation appearing at the top.&#160; The overview contains information regarding when the evaluation was done, your academic program the evaluation was based on, and your overall status.</p>
+<p>The remainder of the SAP Status screen has an Understanding Your Status section and the Details of SAP Evaluation.</p>
+<p><img alt="image of SAP Status screen with the various sections for Understanding Your Status, Details of Evaluation and GPA, Pace, and Maximum Timeframe highlishted" class="img img-original-size" height="768" src="../img/broncodirect-sap-fullscreen_marked.jpg" width="1000"/></p>
+<h4><strong>Understanding Your Status:</strong></h4>
+<p>This section provides information about your Overall SAP Status and eligibility for financial aid.</p>
+<ul>
+<li>If your status is Not Meets, information about your eligibility to submit an appeal will be displayed.</li>
+<li>If you submitted an appeal and it was approved, information about remaining eligible will be displayed.</li>
+<li>To view a complete description of the SAP standards at Cal Poly Pomona, click on the <strong>Cal Poly Pomona SAP Standards for the Receipt of Financial Aid link</strong> within this section. This will take you to the <a href="understanding-sap.shtml">Understanding SAP Page</a> on the Financial Aid website.</li>
+</ul>
+<table>
+<tbody>
+<tr>
+<td><img alt="image of Understanding your Status section of the SAP Status Screen" class="img img-original-size" height="309" src="../img/broncodirect-sap-understanding-status.jpg" width="1000"/></td>
+</tr>
+</tbody>
+</table>
+<h4><br/>Details of SAP Evaulation</h4>
+<p>The Details of SAP Evaulation section provides your status under each of the three SAP Standards (either Meet or Fail), as well as details about how you are measuring within each specific standard.</p>
+<h4><strong>The GPA Standard:</strong></h4>
+<p>A qualitative measure of progress as measured by your cumulative grade point average (GPA). This field displays the minimum GPA required by Cal Poly Pomona and your current cumulative GPA.</p>
+<table>
+<tbody>
+<tr>
+<td><img alt="image of GPA section of the SAP Status page" class="img img-original-size" height="156" src="../img/broncodirect-sap-gpa-standard.jpg" width="1000"/></td>
+</tr>
+</tbody>
+</table>
+<h4><strong>The Pace Standard:</strong></h4>
+<p>A quantitative measure which calculates the pace at which you are progressing toward program completion.</p>
+<p>The required percentage is displayed as is your current percentage of units completed.&#160; You can also see the information about units attempted and units completed that were included in the calculation.</p>
+<p><em>You <strong>must satisfactorily complete at least 67%</strong> of the cumulative credit hours attempted through your academic career in order to be able to complete your program within the Maximum Timeframe.&#160; For a detailed description of the types of units that are counted or are excluded for Pace, please refer to the <a href="understanding-sap.shtml">Cal Poly Pomona Understanding SAP</a> page.</em></p>
+<table>
+<tbody>
+<tr>
+<td><img alt="image of Pace section of the SAP Status page." class="img img-original-size" height="163" src="../img/broncodirect-sap-pace-standard.jpg" width="1000"/></td>
+</tr>
+</tbody>
+</table>
+<h4><strong>The Maximum Time Frame Standard:</strong></h4>
+<p>A quantitative measure to determine if you are completing the academic program within a reasonable overall time frame based on <em><strong>attempted</strong></em> <strong><em>units</em></strong>. This field displays the maximum attempted units allowed for your academic program and the maximum units you have remaining.</p>
+<table>
+<tbody>
+<tr>
+<td><img alt="image of the Maximum Timeframe section of SAP Status screen" class="img img-original-size" height="188" src="../img/broncodirect-sap-max-timeframe-standard.jpg" width="1000"/></td>
+</tr>
+</tbody>
+</table>
+<p><strong><em>Please note: </em></strong><em>Remaining Units Attempted Allowed</em> refers to the units remaining for the term in which SAP has been evaluated. Current units in progress are not deducted from the remaining unit total until the next SAP evaluation. <em>For a detailed description of the types of units that are counted or are excluded for Maximum Time Frame, please refer to the <a href="understanding-sap.shtml">Understanding SAP</a> page.</em></p>
+For additional information on SAP appeals and procedures please refer to our <a href="understanding-sap.shtml">Understanding SAP</a> page.</p>
+                                    </div>
+                                </div>
+                            </section>
+                                                         
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+        
+    
+            
+                
+                    
+        
+
+
+        
+         
+ 
+        
+                                
+        
+                <div class="organism-spacer spacer__padding-top--small spacer__padding-bottom--small">
+            <section class="faq">
+                <div class="container">
+                    <div class="row">
+                        <header class="faq__header col-lg-9">
+                            <h2 class="h5__proxima">BroncoDirect - Other Related Items</h2><br/>
+                            <p class="body2"></p>
+                        </header>
+                        <div class="accordion__items col-lg-9">
+                            
+                                                                                    
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="Account Inquiry" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">Account Inquiry</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p>Your BroncoDirect Student Center provides an easy way to access, view, and manage your student account information online, including viewing your information on charges due and payments you've previously made (including your financial aid) and what the payment was applied to.</p>
+<p><img alt="image of broncodirect student center with the Finances section highlighted" class="img img-original-size" height="506" src="../img/broncodirect-student-center-main-finances-box-highlight.jpg" width="1000"/></p>
+<h3><strong>Step 1: </strong></h3>
+<p>Select the "Account Inquiry" link below the "Finances" section of the Student Center or from the Left Navigation menu.</p>
+<table>
+<tbody>
+<tr>
+<td><img alt="image of broncodirect student center with navigation options for account inquiry" class="img img-original-size" height="242" src="../img/broncodirect-account-inquiry-options.jpg" width="160"/></td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Step 2:</strong></h3>
+<p>The Account Inquiry: Summary page will display.</p>
+<p><img alt="image of broncodirect account inquiry summary page" class="img img-original-size" height="276" src="../img/broncodirect-account-inquiry-summary-due-now.jpg" width="1000"/></p>
+<p>You can select one of the five links on the <em><strong>Account Inquiry navigation box</strong></em> to view specific information related to your account.</p>
+<table>
+<tbody>
+<tr>
+<td><img alt="image of account inquiry navigation box" class="img img-original-size" height="109" src="../img/broncodirect-account-inquiry-summary-navigation-options-box1.jpg" width="170"/></td>
+</tr>
+</tbody>
+</table>
+<p>Information on accessing each of the options, and the information displayed, is provided below.</p>
+<h3><strong>Summary</strong></h3>
+<p>The Summary page provides summarized charges that are currently due, as well as any pending financial aid amount. This information is also broken down by term (if charges for more than one term are due).</p>
+<p><img alt="image of account inquiry summary page in broncodirect - summary in navigation box is highlighted as is the amount due now" class="img img-original-size" height="276" src="../img/broncodirect-account-inquiry-highlighted-summary-due-now.jpg" width="1000"/></p>
+<p><em>The Summary is the first page that displays when you access your Account Inquiry. You can also access the Summary from any other page within the Account Inquiry section by clicking on the Summary link in the Account Inquiry navigation box.&#160;</em></p>
+<h3><strong>Activity</strong></h3>
+<p>The "activity" screen lists all transactions (payments, charges, financial aid and refunds) posted to your account. The information can be viewed by date range and/or by term(s).</p>
+<p><img alt="image of account inquiry activity screen in broncodirect" class="img img-original-size" height="407" src="../img/broncodirect-account-inquiry-activity-screen1.jpg" width="1000"/></p>
+<h3><strong>Charges Due<br/></strong></h3>
+<p>The "charges due" screen lists all outstanding charges to date. Information displayed is grouped into separate views:</p>
+<ul>
+<li>Summary of charges due by due date</li>
+<li>Details of charges due by due date</li>
+<li>Details by charge (includes a description of the specific charge, due date, term, and amount for each charge).</li>
+</ul>
+<p><img alt="image of broncodirect account inquiry charges due screen" class="img img-original-size" height="431" src="../img/broncodirect-account-inquiry-charges-due-page.jpg" width="1000"/></p>
+<h3><strong>Payments</strong></h3>
+<p>The "payments" screen lists all payments that have been posted to your account - including financial aid and scholarship disbursements. This information can be viewed by date range.</p>
+<p><img alt="image of account inquiry payments received screen from broncodirect" class="img img-original-size" height="316" src="../img/broncodirect-account-inquiry-payments-03262023.jpg" width="1000"/></p>
+<h3><strong>View Charges Paid by a Specific Payment</strong></h3>
+<p>In addition to viewing a listing of payments that have been posted to your account, you can view the details on what charges a specific payment was applied to.</p>
+<h4>Step 1:</h4>
+<p>Select the Payments option from the Account Inquiry Navigation Box</p>
+<table>
+<tbody>
+<tr>
+<td><img alt="image of account inquiry navigation box with Payments option highlighted" class="img img-original-size" height="112" src="../img/broncodirect-payments-account-inquiry-summary-navigation-options-box.jpg" width="175"/></td>
+</tr>
+</tbody>
+</table>
+<h4>Step 2:</h4>
+<p>The Payments screen will open</p>
+<p><img alt="image of account inquiry payment screen from broncodirect" class="img img-original-size" height="316" src="../img/broncodirect-account-inquiry-payments-03262023.jpg" width="1000"/></p>
+<h4>Step 3:</h4>
+<p>Click on the amount hyperlink for the payment item you wish to view details on how the payment was applied.</p>
+<p><img alt="image of account inquiry payments screen from broncodirect - with pell grant amount hyperlink highlighted" class="img img-original-size" height="316" src="../img/broncodirect-account-inquiry-payments-pellgrant-hyperlink.jpg" width="1000"/></p>
+<h4>Step 4:</h4>
+<p>The <em><strong>Payment History - Charges Paid by this Payment</strong></em> screen will open.</p>
+<p><img alt="image of payment history - charges paid by this payment screen from broncodirect" class="img img-original-size" height="179" src="../img/broncodirect-paymenthistory-charges-paid-by-item-pell-grant1.jpg" width="1000"/></p>
+<p>This screen provides a breakdown of the charges covered by the payment - including the name of the charge, the term the charge was for, and the amount applied to the charge.</p>
+<h3><strong>Pending Aid<br/></strong></h3>
+<p>The "pending aid" screen lists your pending (or anticipated) financial aid; this is aid that has not yet been released and posted to your account. Information on this page can be viewed by all terms or by a specific term. If you have no pending aid - you will .</p>
+<p><img alt="image of account inquiry pending aid screen" class="img img-original-size" height="214" src="../img/broncodirect-account-inquiry-pending-financial-aid.jpg" width="1000"/></p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="Enroll in Direct Deposit" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">Enroll in Direct Deposit</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p>Cal Poly Pomona students are encouraged to sign up for <strong>Direct Deposit</strong>, which electronically deposits any refunds, including financial aid disbursement refunds, directly into your bank account. This is a faster and safer way to receive your funds. The sign-up instructions for all students can be found below.</p>
+<h3><strong>Step 1:</strong></h3>
+<p>From your BroncoDirect Student Center, click on <strong>Enroll in Direct Deposit</strong> in the Finances Section, or from the Financial drop down menu on the Left Navigation.</p>
+<table>
+<tbody>
+<tr>
+<td><img alt="image of broncodirect student center with enroll in direct deposit navigation options highlighted" class="img img-original-size" height="234" src="../img/broncodirect-enroll-direct-deposit-options.jpg" width="155"/></td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Step 2:</strong></h3>
+<p>The Enroll in Direct Deposit page will open.</p>
+<p><img alt="image of direct deposit enrollment screen" class="img img-original-size" height="472" src="../img/broncodirect-directdeposit-enroll.jpg" width="980"/></p>
+<h3><strong>Step 3:</strong></h3>
+<p>Enter the following information for your banking account:</p>
+<ol>
+<li>Bank Routing Number</li>
+<li>Bank Account Number</li>
+<li>Confirmation of your Bank Account Number</li>
+</ol>
+<p>Read the terms and conditions, click the acknowledgement box and click submit.&#160;</p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="SIRF Fee (and Opting Out of the Fee)" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">SIRF Fee (and Opting Out of the Fee)</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p>On January 28, 2015, the CSU Board of Trustees established a new voluntary student fee, the <strong>Student Involvement and Representation Fee (SIRF)</strong>, which went into effect in the fall 2015 term.</p>
+<p>The SIRF fee is charged to all students unless they choose to opt out of the fee, which can be done via your BroncoDirect self-service portal. The fee amount is $2 per term and is used to support the student leadership, involvement, governance, and advocacy programs managed by the California State Student Association (CSSA).</p>
+<h3><strong>Purpose of CSSA?</strong></h3>
+<p>The Student Involvement and Representation Fee (SIRF) is used to support the student leadership, involvement, governance, and advocacy programs managed by the California State Student Association (CSSA). CSSA is an independent, non-profit, 501(c)(3) organization comprised of elected student leaders from all of the 23 CSU campuses with the sole purpose of representing CSU students to the California State University system and to the state and federal government, ensuring students are active participants in the decisions that shape their education.</p>
+<h3><strong>Purpose of the $2 Fee?</strong></h3>
+<p>Revenue from the fee will be used to ensure that students are able to meaningfully fund the activities of the CSSA and thereby ensure the overall ability of students to participate in policy development and higher education initiatives at the system, state, and national levels. Revenue from the fee will provide additional funding support for the development of student policy recommendations, participation in system, state, and national governance, involvement in leadership development activities, and program support through student and professional staff administration. Because CSSA is an independent, not-for-profit organization governed by Associated Students leaders, the use of this fee will always be determined by students.</p>
+<h3><strong>Can the Fee be Paid by Financial Aid?</strong></h3>
+<p>Financial aid sources that are not restricted to the Tuition Fee or mandatory fees may pay SIRF.</p>
+<h3><strong>Do Fee Waivers or Veteran Benefits Apply to the SIRF Fee?</strong></h3>
+<p>No, the SIRF is not waived by fee waivers such as Cal Vet Dependent, CSU Employee or Dependents, or Allan Pattee. SIRF is not included in Registration and Tuition Fees amounts certified for Veteran Benefits.</p>
+<h3><strong>How Do I Opt Out of SIRF?</strong></h3>
+<p>The ability to opt out of this fee is provided to each student via their BroncoDirect Student Center.</p>
+<p>You can <strong>opt out</strong> <strong>after the fee has been assessed to their student account</strong> in fall and spring terms. SIRF is assessed at the same time as Registration and Tuition Fees.</p>
+<p>To opt out, log into your BroncoDirect student portal and access your Student Center.</p>
+<ul>
+<li>Select 'Account Activity' from the Finances Section or the Left Navigation menu.</li>
+<li>Your charges for the term will appear, including a charge for SIRF</li>
+<li>An OPT OUT icon will appear to the right of the $2 SIRF charge along with an icon on the left for more information. Simply click the OPT OUT icon and follow the instructions onscreen if you choose to opt out.</li>
+</ul>
+<p>The OPT OUT option is only available at or before the time of fee payment, up to the census date for the semester. Campuses cannot refund the $2 fee after the census date for the semester.</p>
+<h3><strong>How Do I Obtain Additional Information about CSSA or the SIRF Fee?</strong></h3>
+<p>For additional information about CSSA or this specific fee, please use one of the following:</p>
+<ul>
+<li>Visit the CSSA Web Site: <a href="https://calstatestudents.org/" onclick="return confirm('You are about to visit an external site. Click OK to continue or Cancel to abort.');" onfocus="Navigation_CloseExtendedMainNav()" rel="noopener" target="_blank">www.calstatestudents.org</a></li>
+<li>Contact the CSSA: (562) 951-4025 / <a href="mailto:info@calstatestudents.org?subject=" onclick="return UnderstandUsage('mailto:info@calstatestudents.org?subject=', 'info@calstatestudents.org', 'content link', 'click');" onfocus="Navigation_CloseExtendedMainNav()">info@calstatestudents.org</a></li>
+</ul>
+<h3><strong>Additional Questions or Need Assistance with Opting Out of the SIRF Fee?</strong></h3>
+<p>Contact Student Accounting &amp; Cashiering Services:</p>
+<ul>
+<li>Website: <a href="https://www.cpp.edu/student-accounting/index.shtml">https://www.cpp.edu/student-accounting/index.shtml</a></li>
+<li>Email: <a href="mailto:sacs@cpp.edu">sacs@cpp.edu</a></li>
+<li>Phone: (909) 869-2010</li>
+<li>Location: Student Services Building (SSB), 121-East, 1160 (First Floor)</li>
+</ul></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="View Your 1098-T" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">View Your 1098-T</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p>Form 1098-T is an annual IRS form completed by Cal Poly Pomona as required by the Taxpayer Relief Act of 1997. The form is provided to students to assist them in the preparation of their annual income tax returns.</p>
+<p>The 1098-T summarizes <strong>qualified tuition and related expenses</strong> for the calendar year (January 1 - December 31) as well as reports the payments received for qualified tuition and related expenses.&#160; Additionally, any financial aid that is processed through the university (scholarships, grants, waivers, etc.) that is not required to be repaid is reported in Box 5 on the 1098-T.&#160; <em>Student loans are not reported on the 1098-T as they are required to be repaid.</em></p>
+<p><em>In order to comply with IRS regulations, Cal Poly Pomona is required to have the student's social security number for 1098-T IRS reporting. Not having the number can delay processing.</em></p>
+<p>If you are a current student, receiving the 1098-T form electronically allows you to save time, eliminate the risk of losing your 1098-T form in the mail, and safeguard your personal information.</p>
+<p><span class="li1">Follow the steps below to access your 1098-T through your BroncoDirect Student Center.<br/></span></p>
+<p><strong><em><span class="li1" style="color: #993366;"><span class="s1">In order to print your 1098-T properly, please use Internet Explorer. The form may not print properly when using other web browsers.</span></span></em></strong></p>
+<h3><strong><span class="li1">Step 1:</span></strong></h3>
+<p><span class="s1">On the BroncoDirect Student Center page, find the<span>&#160;</span><strong>Finances</strong><span>&#160;</span>section on the left side. Click on the drop down box, and select<span>&#160;</span><strong>View 1098-T</strong>.</span></p>
+<table>
+<tbody>
+<tr>
+<td><img alt="image of 1098-t on left navigation menu from BroncoDirect Student Center" class="" height="257" src="/resources/broncodirect-view1098t-options.jpg" width="170"/></td>
+</tr>
+</tbody>
+</table>
+<h4><strong><span class="s1">Grant Consent (if not previously done)<br/></span></strong></h4>
+<p><span class="s1">If you have not previously agreed to receive your 1098-T electronically, the Consent Message will be appear:</span></p>
+<table>
+<tbody>
+<tr>
+<td><img alt="image of 1098-t electronic consent required message" class="img img-original-size" height="59" src="../img/broncodirect-1098-consent-message.jpg" width="300"/></td>
+</tr>
+</tbody>
+</table>
+<p><span class="s1">Click the <strong>Grant Consent</strong> button.<br/></span></p>
+<table>
+<tbody>
+<tr>
+<td><img alt="image of 1098-t consent agreement" class="img img-original-size" height="136" src="../img/broncodirect-1098-consent-agreement.jpg" width="300"/></td>
+</tr>
+</tbody>
+</table>
+<p><span class="s1">Read "<strong>1098-T Consent Agreement</strong>" and click "<strong>Submit</strong>" to retrieve 1098-T electronically. </span><span class="s1"></span></p>
+<h3><strong>Step 2:&#160; Select Year to view</strong></h3>
+<p>From the View 1098-T screen, select the year you wish to view. <span class="s1">The 1098-T will download as a PDF (Adobe Acrobat) file.</span></p>
+<table>
+<tbody>
+<tr>
+<td><img alt="image of 1098-t select year screen" class="img img-original-size" height="90" src="../img/broncodirect-1098-select-year.jpg" width="175"/></td>
+</tr>
+</tbody>
+</table>
+<h3 class="p1"><strong><span class="s1">Questions or Need Assistance with Accessing Your 1098-T?</span></strong></h3>
+<p class="p1"><span class="s1">Any questions related to accessing your 1098-T (including why a 1098-T is not available), should be directed to Student Accounting &amp; Cashiering Services:</span></p>
+<ul>
+<li>Website: <a href="https://www.cpp.edu/student-accounting/1098-t/index.shtml">https://www.cpp.edu/student-accounting/1098-t/index.shtml</a></li>
+<li>Email: <a href="mailto:sacs@cpp.edu">sacs@cpp.edu</a></li>
+<li>Phone: (909) 869-2010</li>
+<li>Location: Student Services Building (SSB), 121-East, 1160 (First Floor)</li>
+</ul></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                         
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+        
+    
+            
+                
+                    
+               
+
+</div>
+
+ 
+
+    <div class="footer__gradient-section">
+<div class="container">
+<div class="row">
+
+     <div class="col-12 col-lg-4">
+        <h2 class="footer__gradient-header">Financial Aid and Scholarships</h2>
+      </div>
+      <div class="col-12 col-lg-8 footer__gradient-socials-wrapper">
+        <h3 class="footer__gradient-social-header button2__transducer">Follow Us:</h3>
+        <div class="footer__gradient-socials">
+              <a href="https://www.instagram.com/cpp.admissions/" target="_blank">
+            <span aria-live="assertive" class="screen-reader-text">Instagram opens a new window</span>
+            <img alt="Instagram" src="/common/green-and-gold/assets/icons/social/insta-reverse.svg"/>
+          </a>
+                               </div>
+ </div>
+ <style>
+    .footer__rip-wrapper {
+         background: none;
+     }
+ </style>
+        <script src="https://ai.ocelotbot.com/embed/standard/7b54fd2d-1135-40d3-9b64-110becef5e33" type="text/javascript"></script>
+
+
+
+
+</div>
+</div>
+</div>
+    
+<style>
+    .footer__rip-wrapper {
+        background: linear-gradient(90deg, #FFB81C 0%, #A4D65E 100%) ;
+    }
+</style>
+
+
+
+         
+<style>
+     @media screen and (min-width: 992px) {
+    .mini-footer .footer__socials-buttons {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}
+
+.mini-footer .button1__transducer {
+    font-size: 12px;
+    letter-spacing: .5px;
+}
+
+.mini-footer .button {
+	margin-top: 0;
+    padding: 8px 20px 8px 20px;
+
+}
+.mini-footer .footer-line {
+    border-top: thin solid #a4d65e;
+    margin-top: 39px;
+    padding-top: 15px;
+}
+ </style>
+<footer class="footer mini-footer">
+    <div class="footer__rip-wrapper">
+        <img class="footer__rip" alt="" src="/common/green-and-gold/assets/images/green-rip.svg" alt="Ripped green paper." />
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-2">
+                <div class="footer__logo-wrapper">
+                    <a href="/" aria-label="CPP Logo">
+                        <img class="footer__logo" src="/common/green-and-gold/assets/logos/cpp_primary_1c_gold_rgb.png" alt="Cal Poly Pomona logo, building with a palm tree." />
+                    </a>
+                </div>
+            </div>
+            <div class="col-12 col-lg-6 offset-lg-4">
+                <div class="footer__socials">
+                    <div class="footer__socials-buttons">
+                        <a class="button button__secondary button1__transducer" href="/apply/">Apply</a>
+                        <a class="button button__secondary button1__transducer" href="https://maps.cpp.edu/">Maps</a>
+                        <a class="button button__secondary button1__transducer" href="/outreach/tours.shtml">Visit</a>
+                        <a class="button button__secondary button1__transducer" href="/contact.shtml">Contact Us</a>
+                    </div>
+                    <div class="footer__socials-icons">
+                        <a href="https://www.instagram.com/calpolypomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram opens a new window" />
+                        </a>
+                        <a href="https://www.linkedin.com/school/cal-poly-pomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn opens a new window" />
+                        </a>
+                        <a href="https://www.youtube.com/user/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="YouTube opens a new window" />
+                        </a>
+                        <a href="https://www.facebook.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook opens a new window" />
+                        </a>
+                        <a href="https://twitter.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X opens a new window" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 footer-line">
+                <div class="footer__errata">
+                    <p class="footer__copyright" style="line-height: 1.8em">Copyright ©2025 California State Polytechnic University, Pomona.  All Rights Reserved 
+                        
+                        <br />A campus of 
+                        
+                        <a class="footer__errata-link" style="display: inline" href="https://www.calstate.edu/">The California State University</a>.
+                    
+                    </p>
+                    <div class="footer__errata-links">
+                        <a class="footer__errata-link" href="https://www.cpp.edu/website-feedback.shtml">Feedback</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/privacy.shtml">Privacy</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/accessibility.shtml">Accessibility</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/file-viewers.shtml">Document Readers</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer__gradient-bottom"></div>
+</footer>
+
+    </body>
+</html>

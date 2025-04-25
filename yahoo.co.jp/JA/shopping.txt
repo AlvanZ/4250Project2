@@ -1,0 +1,1710 @@
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+	
+<meta property="og:url" content="https://business-ec.yahoo.co.jp/shopping/">
+<meta property="og:image" content="https://s.yimg.jp/images/shp_front/pc/front/images/common/img_og_01.png">
+<meta property="og:title" content="ネットショップ開業ならヤフーショッピング">
+<meta property="og:description" content="ネットショップ開業をご検討の方へ。ネットショップを出店するなら、簡単・無料のヤフーショッピングで。日本最大級の集客力。">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="ja_JP">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@yahoo_shopping">
+<meta name="twitter:creator" content="@yahoo_shopping">
+<meta name="twitter:domain" content="business-ec.yahoo.co.jp">
+
+<title>ネットショップ開業ならヤフーショッピング</title>
+<meta name="description" content="ネットショップ開業をご検討の方へ。ネットショップを出店するなら、簡単・無料のヤフーショッピングで。日本最大級の集客力。">
+<meta name="keywords" content="ネットショップ開業, ネットショップ無料,ヤフーショッピング出店,ストア出店, ECサイト,ネット販売, サポート, Yahoo!ショッピング, ヤフー">
+
+
+
+
+<link rel="stylesheet" href="https://s.yimg.jp/images/biz_ec/pc_front/shopping/190712/css/p_promotion2.36.css" type="text/css" media="all">
+<link rel="stylesheet" href="https://s.yimg.jp/images/shp_front/pc/_library/css/_library1.40.css" type="text/css" media="all">
+<link rel="stylesheet" href="https://s.yimg.jp/images/biz_ec/pc_front/shopping/191016/pc/css/p_style3.25.css" type="text/css" media="all">
+<link rel="stylesheet" href="https://s.yimg.jp/images/biz_ec/pc_front/shopping/191016/pc/css/breadCrumb1.0.css" type="text/css" media="all">
+
+
+
+
+<script src="https://s.yimg.jp/images/commerce/js/libs/jquery/core/1.11.1/jquery.min.js"></script>
+<script language="JavaScript" type="text/javascript" src="https://s.yimg.jp/images/biz_ec/js/tt/mbox.js"></script>
+<script src="https://s.yimg.jp/images/biz_ec/pc_front/js/jquery-easing.1.3.min.js" type="text/javascript"></script>
+<script src="https://s.yimg.jp/images/biz_ec/pc_front/shopping/190712/js/librarys.js" type="text/javascript"></script>
+
+
+<link rel="stylesheet" href="https://s.yimg.jp/images/biz_ec/pc_front/shopping/190712/css/colorbox.css" type="text/css">
+<link rel="stylesheet" href="https://s.yimg.jp/images/biz_ec/pc_front/shopping/190712/css/carousel1.0.css" type="text/css" media="all">
+
+
+<script>
+(function () {
+    if (typeof window.console === "undefined") {
+         window.console = {}
+    }
+    if (typeof window.console.log !== "function") {
+         window.console.log = function () {}
+    }
+})();
+</script>
+
+
+<script async src="https://s.yimg.jp/images/ds/yas/ya-1.6.0.min.js"></script>
+<script>
+window.yacmds = window.yacmds || [];
+window.ya = window.ya || function()
+
+{yacmds.push(arguments)}
+;
+ya('init', 'b73fa540bd31498083eee520bb4e1752', '37989209-5268-4d28-85d9-9a855ad64968');
+ya('hit', 'pageview,webPerformance');
+</script>
+
+
+<!-- Facebook Pixelタグ -->
+<iframe src="https://s.yimg.jp/images/biz_ec/pc_front/shopping/fb_ad_count.html" width="1" height="1" frameborder="0" style="display:none"></iframe>
+<!-- /Facebook Pixelタグ -->
+
+
+<script>
+var noPv = 'false';
+
+var TLDataContext = {
+  ual : {
+    pageview : {
+      opttype : 'pc',
+      content_id : '',
+      id_type : 'shopping',
+      nopv : noPv === 'true' ? 'true' : 'false',
+      mtestid : '',
+      ss_join_id : '',
+      ss_join_id_type : '',
+      hierarchy_id : ''
+    }
+  }
+};
+</script>
+<script async src="https://s.yimg.jp/images/ds/managed/1/managed-ual.min.js?tk=e8a95dd8-c2f5-45a4-911a-3524b82a6610&service=shopping"></script>
+
+<script>
+  (function() {
+    var domain = "business-ec.yahoo.co.jp";
+    var spaceid = "2080212239";
+    var property = "jp_btools";
+    var url = "https://pvtag.yahoo.co.jp/t?f=" + spaceid + "&p=" + property + "&domain=" + domain + "&js=1&rnd=" + new Date().getTime();
+    document.write("<sc" + "ript src=\""  + url + "\"></sc" + "ript>");
+    })();
+</script>
+
+<noscript>
+  <iframe src="https://pvtag.yahoo.co.jp/t?f=2080212239&amp;p=jp_btools&amp;domain=business-ec.yahoo.co.jp&amp;js=0" height=1 width=1 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling="no"></iframe>
+</noscript>
+
+</head>
+
+<body class="yj950-1" id="top">
+<div id="wrapper">
+<div id="header">
+<span class="yjGuid"><a name="yjPagetop" id="yjPagetop"></a></span>
+
+<!-- JS OFF ALERT -->
+<noscript>
+<div class="mdJsOffAlert">
+<div class="dvBox">
+<p class="dcAlert">現在JavaScriptの設定が無効になっています。</p>
+<p class="dcMintxt">すべての機能を利用するためには、設定を有効にしてください。詳しい設定方法は「<a href="https://support.yahoo-net.jp/noscript">JavaScriptの設定方法</a>」をご覧ください。</p>
+</div>
+</div>
+</noscript>
+<!-- /JS OFF ALERT -->
+
+<div id="masthead">
+<div class="yjmth">
+<div class="yjmthproplogoarea"><a href="https://shopping.yahoo.co.jp/"><img src="https://s.yimg.jp/c/logo/f/2.0/shopping_r_34_2x.png" alt="Yahoo!ショッピング" id="ygmhlog" width="238" height="34" class="exLogo"></a></div><!--.yjmthproplogoarea -->
+<div id="yjmthcmnlnkarea"><a href="https://www.yahoo.co.jp/">Yahoo! JAPAN</a></div><!--#yjmthcmnlnkarea -->
+<div class="yjmthsnsarea">
+
+<div class="mdSocialButton">
+  <div data-promo-part-socialbuttonnoscript id="snsButton">
+    <ul class="elList">
+    
+      <li data-promo-part-socialbuttonnoscript-item="facebook"><a data-cl-params="_cl_link:etc_bt;_cl_position:1;" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbusiness-ec.yahoo.co.jp%2Fshopping%2F" target="_blank">facebook</a></li>
+      <li data-promo-part-socialbuttonnoscript-item="twitter"><a data-cl-params="_cl_link:etc_bt;_cl_position:2;" href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fbusiness-ec.yahoo.co.jp%2Fshopping%2F&text=%E3%83%8D%E3%83%83%E3%83%88%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E9%96%8B%E6%A5%AD%E3%82%92%E3%81%94%E6%A4%9C%E8%A8%8E%E3%81%AE%E6%96%B9%E3%81%B8%E3%80%82%E3%83%8D%E3%83%83%E3%83%88%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E3%82%92%E5%87%BA%E5%BA%97%E3%81%99%E3%82%8B%E3%81%AA%E3%82%89%E3%80%81%E7%B0%A1%E5%8D%98%E3%83%BB%E7%84%A1%E6%96%99%E3%81%AE%E3%83%A4%E3%83%95%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%81%A7%E3%80%82%E6%97%A5%E6%9C%AC%E6%9C%80%E5%A4%A7%E7%B4%9A%E3%81%AE%E9%9B%86%E5%AE%A2%E5%8A%9B%E3%80%82&url=https%3A%2F%2Fbusiness-ec.yahoo.co.jp%2Fshopping%2F" target="_blank">twitter</a></li>
+    
+    </ul>
+  </div>
+</div>
+
+</div><!--/.yjmthsnsarea-->
+</div><!--/.yjmth-->
+</div><!--/#masthead-->
+
+
+<!-- EMG -->
+<div class="EMG">
+<script defer src="https://s.yimg.jp/images/templa/mhdemg/v2/templa.min.js"></script>
+<script>
+    window.addEventListener('DOMContentLoaded', function () {
+        if (typeof YAHOO !== 'undefined' && typeof YAHOO.JP !== 'undefined' && typeof YAHOO.JP.templa.EMG !== 'undefined' && typeof YAHOO.JP.templa.EMG.load !== 'undefined') {
+            YAHOO.JP.templa.EMG.load({"device_id":"pc"});
+        }
+    }, false);
+</script>
+<div id="TEMPLA_EMG"></div>
+</div>
+<!-- /EMG -->
+
+</div><!--/#header-->
+
+<hr class="yjSeparation">
+
+<div id="contents" class="shopTop">
+<div id="yjContentsBody" class="btmLayout">
+<div id="containerV2">
+
+
+<div id="twoWayBtn">
+    <ul class="headBtns cf">
+    <li><a id="scriptHeaderLink_01" href="https://business-ec.yahoo.co.jp/shopping/attention/">出店の申込み</a></li>
+    <li><a id="log_doc1" href="https://form-business.yahoo.co.jp/claris/enqueteForm?inquiry_type=requestform_8641">資料請求</a></li>
+    </ul>
+</div><!--/#twoWayBtn -->
+
+<script>
+document.getElementById("scriptHeaderLink_01").onclick = (event) => {
+
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+
+<script>
+document.getElementById("log_doc1").onclick = (event) => {
+ya("hit", "event",
+{ name: "doc1", action: "クリック", category: "資料請求", value: 0, }
+);
+event.currentTarget.href=event.currentTarget.href+'&'+location.search.replace('?','');
+};
+</script>
+
+
+
+
+
+
+
+<div id="headNav">
+<div class="pcGnav js-pcGnav">
+<div id="js-gnavDropdown">
+<div class="js-gnavDropdownCover">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="NavG01" class="navi selected">
+
+<a href="https://business-ec.yahoo.co.jp/shopping/" id="phase2_grobalnavLink_01"><span>トップ</span></a>
+
+
+
+  
+
+
+</div><!-- /.navi -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="NavG02" class="navi">
+
+<a href="https://business-ec.yahoo.co.jp/shopping/cost/" id="phase2_grobalnavLink_02"><span>料金・費用</span></a>
+
+
+
+  
+    <div class="dropdown">
+      <div class="cont">
+        <ul>
+          
+          
+          
+          
+          
+          
+          <li><a href="https://business-ec.yahoo.co.jp/shopping/cost/" id="phase2_grobalnav_dropdownLink_021">料金･費用について</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a href="https://business-ec.yahoo.co.jp/shopping/cost/#simulation" id="phase2_grobalnav_dropdownLink_022">月額費用シミュレーション</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a href="https://business-ec.yahoo.co.jp/shopping/cost/#rival-comparison" id="phase2_grobalnav_dropdownLink_023">他社と比較</a></li>
+          
+        </ul>
+      </div><!-- /.cont -->
+      
+    </div><!-- /.dropdown -->
+  
+
+
+</div><!-- /.navi -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="NavG03" class="navi">
+
+<a href="https://business-ec.yahoo.co.jp/shopping/settlement/" id="phase2_grobalnavLink_03"><span>決済サービス</span></a>
+
+
+
+
+</div><!-- /.navi -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="NavG04" class="navi">
+
+<a href="https://business-ec.yahoo.co.jp/shopping/example/" id="phase2_grobalnavLink_04"><span>ストア紹介と成功事例</span></a>
+
+
+
+
+</div><!-- /.navi -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="NavG05" class="navi">
+
+<a href="https://business-ec.yahoo.co.jp/shopping/safesupport/" id="phase2_grobalnavLink_05"><span>安全・安心への取り組み</span></a>
+
+
+
+
+</div><!-- /.navi -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="NavG06" class="navi">
+
+<a href="https://business-ec.yahoo.co.jp/shopping/question/" id="phase2_grobalnavLink_06"><span>よくある質問</span></a>
+
+
+
+
+</div><!-- /.navi -->
+
+
+
+
+
+</div><!-- .js-gnavDropdownCover -->
+</div><!-- #js-gnavDropdown -->
+
+
+
+
+
+
+
+
+
+
+
+<script>
+document.getElementById("phase2_grobalnavLink_01").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+document.getElementById("phase2_grobalnavLink_02").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+
+
+
+
+
+
+<script>
+  document.getElementById("phase2_grobalnav_dropdownLink_021").onclick = (event) => {
+  event.currentTarget.href=event.currentTarget.href+location.search;
+  };
+ </script>
+
+
+
+
+<script>
+  document.getElementById("phase2_grobalnav_dropdownLink_022").onclick = (event) => {
+  event.currentTarget.href=event.currentTarget.href+location.search;
+  };
+ </script>
+
+
+
+
+<script>
+  document.getElementById("phase2_grobalnav_dropdownLink_023").onclick = (event) => {
+  event.currentTarget.href=event.currentTarget.href+location.search;
+  };
+ </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+document.getElementById("phase2_grobalnavLink_03").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+document.getElementById("phase2_grobalnavLink_04").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+document.getElementById("phase2_grobalnavLink_05").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+document.getElementById("phase2_grobalnavLink_06").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    <div class="mdHeadSubLink">
+      <ul class="elLinkList">
+      
+        
+        
+        
+        
+        
+        <li class="elLinkListItem"><a  id="phase2_headSubLink_01" class="elLink" href="https://business-ec.yahoo.co.jp/shopping/introduction/">出店のメリット</a></li>
+      
+        
+        
+        
+        
+        
+        <li class="elLinkListItem"><a  id="phase2_headSubLink_02" class="elLink" href="https://business-ec.yahoo.co.jp/shopping/try/">取組み</a></li>
+      
+        
+        
+        
+        
+        
+        <li class="elLinkListItem"><a  id="phase2_headSubLink_03" class="elLink" href="https://business-ec.yahoo.co.jp/shopping/function/">機能</a></li>
+      
+        
+        
+        
+        
+        
+        <li class="elLinkListItem"><a  id="phase2_headSubLink_04" class="elLink" href="https://business-ec.yahoo.co.jp/shopping/introduction/beginner/">はじめての方</a></li>
+      
+        
+        
+        
+        
+        
+        <li class="elLinkListItem"><a  id="phase2_headSubLink_05" class="elLink" href="https://business-ec.yahoo.co.jp/shopping/introduction/expert/">経験者の方</a></li>
+      
+        
+        
+        
+        
+        
+        <li class="elLinkListItem"><a  id="phase2_headSubLink_06" class="elLink" href="https://business-ec.yahoo.co.jp/shopping/ekimu/">役務サービス商材</a></li>
+      
+        
+        
+        
+        
+        
+        <li class="elLinkListItem"><a  id="phase2_headSubLink_07" class="elLink" href="https://business-ec.yahoo.co.jp/shopping/digitalplatformer/">透明性向上のため</a></li>
+      
+      </ul>
+    </div><!-- .headBtnsSubCover -->
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div><!-- .pcGnav js-pcGnav -->
+</div><!--/headNav-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+  
+  
+  <script>
+  document.getElementById("phase2_headSubLink_01").onclick = (event) => {
+  event.currentTarget.href=event.currentTarget.href+location.search;
+  };
+  </script>
+  
+  
+  <script>
+  document.getElementById("phase2_headSubLink_02").onclick = (event) => {
+  event.currentTarget.href=event.currentTarget.href+location.search;
+  };
+  </script>
+  
+  
+  <script>
+  document.getElementById("phase2_headSubLink_03").onclick = (event) => {
+  event.currentTarget.href=event.currentTarget.href+location.search;
+  };
+  </script>
+  
+  
+  <script>
+  document.getElementById("phase2_headSubLink_04").onclick = (event) => {
+  event.currentTarget.href=event.currentTarget.href+location.search;
+  };
+  </script>
+  
+  
+  <script>
+  document.getElementById("phase2_headSubLink_05").onclick = (event) => {
+  event.currentTarget.href=event.currentTarget.href+location.search;
+  };
+  </script>
+  
+  
+  <script>
+  document.getElementById("phase2_headSubLink_06").onclick = (event) => {
+  event.currentTarget.href=event.currentTarget.href+location.search;
+  };
+  </script>
+  
+  
+  <script>
+  document.getElementById("phase2_headSubLink_07").onclick = (event) => {
+  event.currentTarget.href=event.currentTarget.href+location.search;
+  };
+  </script>
+  
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="mdPageTitle"><h1>ネットショップ開業ならヤフーショッピング</h1></div>
+
+
+
+
+
+
+<div class="mdCarousel" data-libCarousel data-libcarousel-parameter="layoutMode:stream, autoInterval:5000">
+    <div class="elCarouselImg" data-libCarousel-parts="stage">
+    <ul data-libCarousel-parts="panel">
+    
+    
+    
+    
+    
+        <li><a href="https://business-ec.yahoo.co.jp/shopping/introduction/" id="phase2_CarouselLink_01"><img src="https://s.yimg.jp/images/biz_ec/pc_front/shopping/191016/pc/images/img_carousel_01.jpg" width="950" height="400" alt="ネットショップ開業を０円で！"></a></li>
+    
+    
+    
+    
+    
+        <li><a href="https://business-ec.yahoo.co.jp/shopping/introduction/expert/" id="phase2_CarouselLink_02"><img src="https://s.yimg.jp/images/biz_ec/pc_front/shopping/221012/images/carousel_02.png" width="950" height="400" alt="Yahoo!ショッピングの強み"></a></li>
+    
+    
+    
+    
+    
+        <li><a href="https://business-ec.yahoo.co.jp/shopping/example/" id="phase2_CarouselLink_03"><img src="https://s.yimg.jp/images/biz_ec/pc_front/shopping/191016/pc/images/img_carousel_07.jpg" width="950" height="400" alt="売り上げはどう伸びた？　ストア紹介8選　ストア成功事例　出店メリットや成功の秘訣を公開中　ストア運営方法をインタビュー"></a></li>
+    
+    
+    
+    
+    
+        <li><a href="https://business-ec.yahoo.co.jp/commerce_partner/" id="phase2_CarouselLink_04"><img src="https://s.yimg.jp/images/biz_ec/pc_front/shopping/191016/pc/images/img_carousel_06.png" width="950" height="400" alt="Yahoo! JAPANコマースパートナー"></a></li>
+    
+    </ul>
+    </div><!-- /elCarouselImg -->
+    <div class="elCircle">
+        <div class="elPagenation">
+            <ol class="elHide" data-libCarousel-parts="pagination-list">
+                <li data-libCarousel-parts="pagination-circle"><a href="javascript:void(0);"></a></li>
+            </ol>
+        </div><!-- /elPagenation -->
+        <div class="elButtonWrap">
+            <ul class="elButton">
+                <li><a href="javascript:void(0);" class="elPrev elHide" data-libCarousel-parts="pagination-prev">前へ</a></li>
+                <li><a href="javascript:void(0);" class="elNext elHide" data-libCarousel-parts="pagination-next">次へ</a></li>
+            </ul>
+        </div><!-- /elButtonWrap -->
+    </div><!-- /elCircle -->
+</div><!-- /mdCarousel -->
+
+
+
+
+<script>
+document.getElementById("phase2_CarouselLink_01").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+
+
+<script>
+document.getElementById("phase2_CarouselLink_02").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+
+
+<script>
+document.getElementById("phase2_CarouselLink_03").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+
+
+<script>
+document.getElementById("phase2_CarouselLink_04").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+
+
+
+
+<div id="contsLead">
+  <ul class="cf">
+    <li>
+      <dl>
+        <dt><span>圧倒的集客力</span></dt>
+        <dd>Yahoo! JAPAN各サービスからの集客のほか、ソフトバンク、<br>LINE、PayPayなどグループ企業の顧客基盤が大きな強みです</dd>
+      </dl>
+    </li>
+    <li>
+      <dl>
+        <dt><span>無料</span></dt>
+        <dd>初期費用、毎月の固定費、売上ロイヤリティが無料だからリスクなく開店</dd>
+      </dl>
+    </li>
+  </ul>
+
+
+<div class="mdMovieButtonWrap">
+  <div class="elButton">
+    <a id="movieLink_01" href="https://business-ec.yahoo.co.jp/shopping/movie01/" class="elLink">出店案内を動画で見る</a>
+  </div>
+</div>
+
+</div><!--/#contsLead-->
+
+<div id="conts05">
+  <div class="elBackground">
+    <div class="elLeftColumn">
+        <h2 class="elHeading">国内最大級の集客力と顧客基盤</h2>
+        <p class="elTitle">グループ相乗効果を活かし、さまざまなサービスと連携</p>
+        <p class="elText">Yahoo!ショッピングは、日本で最も利用されているYahoo! JAPANの各サービスのほか、ソフトバンクやLINEからの集客、日本最大級の会員数を誇るLYPプレミアム会員や、<br>PayPay、PayPayカードなどの顧客基盤が大きな強みです。</p>
+    </div>
+    <div class="elRightColumn">
+    <p class="elImage"><img src="https://s.yimg.jp/images/biz_ec/pc_front/shopping/2311/images/img_merit_01.png" width="380" height="303" alt="Yahoo! JAPAN LINE PayPay PayPayカード LYPプレミアム Yahoo!オークション SoftBank Yahoo!ショッピング"></p>
+    </div>
+  </div><!--/.inner-->
+</div><!--/#conts05-->
+
+<div id="conts01">
+<div class="inner">
+<h2>無料でお店ができる</h2>
+<dl>
+<dt>初期費用、毎月の固定費、売上ロイヤリティが無料</dt>
+<dd>費用を気にせず、「誰でも、無料で、簡単にネットショップを開ける」。<br>
+これが、Yahoo!ショッピング最大の魅力です。</dd>
+</dl>
+<ul><li>※ ヤフーが実施するキャンペーン等の原資、アフィリエイトパートナー報酬・手数料、決済サービス個別手数料、一部オプションサービスはご負担いただくことがございます。<br>
+◆詳細は<a id="phase2Link_01" href="https://business-ec.yahoo.co.jp/shopping/cost/#simulation">月額費用シミュレーション</a>でご確認いただけます。</li>
+</ul>
+</div><!--/.inner-->
+</div><!--/#conts01-->
+
+<div id="conts03">
+<h2>出店方法</h2>
+<ul class="elYahooSHPInfo">
+<li><dl>
+<dt><h3>Yahoo!ショッピング出店</h3>
+<img src="https://s.yimg.jp/images/biz_ec/pc_front/shopping/180315/images/img_pro_01.png" width="357" height="178" alt="Yahoo!ショッピング出店">
+</dt>
+<dd>
+<dl><dt>自由にプロモーションしたい方にオススメ</dt>
+<dd>・外部リンクOK、自社サイトへの送客も可能（※１）<br>
+・無料メールマガジンの配信OK、SNSへの誘導もOK<br>
+・お客様のメールアドレスを保有してリピート購入促進（※２）<br>
+・分析ツールや統計情報を活用した戦略的な店舗運営可能<br>
+・無料の電話サポートあり<br>
+<br>
+多機能ツールとサポートで、お店のビジネスチャンスが広がります。</dd>
+</dl>
+<div class="elbtnApply">
+<a href="https://business-ec.yahoo.co.jp/shopping/attention/" id="phase2Link_02" class="btnApply">出店の申込み</a>
+</div>
+</dd></dl>
+</li>
+</ul>
+
+<ul class="elAttention"><li>※1 リンク先が弊社で不適切であると判断した場合、削除させていただくことがあります</li>
+<li>※2 お客様の同意を得たメールアドレスに限ります</li>
+</ul>
+
+</div><!--#conts03-->
+
+<div id="conts04">
+<h2>日本中の人に届けられます</h2>
+<p class="lead">お客様から支持されるストアには、理由があります。Yahoo!ショッピングの成功ストアをご紹介。</p>
+<ul class="cf">
+<li><img src="https://s.yimg.jp/images/biz_ec/pc_front/shopping/remodel/2021/img_example_sanae_kuki.png" width="200" height="200" alt="DIYツール ドットコム">
+<p>お手頃な価格でセルフリフォーム商材を得意とする壁紙屋本舗</p>
+<p>壁紙屋本舗</p>
+<a href="https://business-ec.yahoo.co.jp/shopping/example/case1/" id="phase2Link_04" class="btnInterview">インタビューを見る<span></span></a>
+</li>
+<li><img src="https://s.yimg.jp/images/biz_ec/pc_front/shopping/remodel/2021/img_example_moe_hirose.png" width="200" height="200" alt="LOWTEX">
+<p>激落ちくんでお馴染み、レックの直販インターネットショップ</p>
+<p>レックダイレクト</p>
+<a href="https://business-ec.yahoo.co.jp/shopping/example/case2/" id="phase2Link_05" class="btnInterview">インタビューを見る<span></span></a>
+</li>
+<li><img src="https://s.yimg.jp/images/biz_ec/pc_front/shopping/remodel/img_example_takuya_shimoshiro.png" width="200" height="200" alt="道の駅">
+<p>商品と情報を発信する道の駅ネットショップ</p>
+<p>道の駅阿蘇</p>
+<a href="https://business-ec.yahoo.co.jp/shopping/example/case7/" id="phase2Link_06" class="btnInterview">インタビューを見る<span></span></a>
+</li>
+</ul>
+</div><!--#conts04-->
+<div id="contsFoot" class="mdContsFoot top">
+  <div class="elContsFootWrap">
+    <div class="elContsFootParts">
+      <div class="elContsFootTtl">
+      <h2>一番いい場所にお店を開こう</h2>
+      </div><!-- elContsFootTtl -->
+      <p class="elBtnApplyPro"><a href="https://business-ec.yahoo.co.jp/shopping/attention/" id="phase2Link_07">Yahoo!ショッピング出店</a></p>
+    </div><!-- elContsFootParts -->
+    <p class="aflo">写真：アフロ</p>
+  </div><!-- elContsFootWrap -->
+</div><!--/#contsFoot-->
+
+
+<div id="footList">
+  <dl class="footListCover">
+      <dt class="column01"><a href="https://business-ec.yahoo.co.jp/shopping/" id="phase2_footer_listLink_01">Yahoo!ショッピング出店</a></dt>
+      <div class="ddWrap">
+          <dd><a href="https://business-ec.yahoo.co.jp/shopping/introduction/" id="phase2_footer_listLink_01_1">出店のメリット</a></dd>
+          <dd><a href="https://business-ec.yahoo.co.jp/shopping/try/" id="phase2_footer_listLink_01_2">取組み</a></dd>
+          <dd><a href="https://business-ec.yahoo.co.jp/shopping/ekimu/" id="phase2_footer_listLink_01_3">役務サービス商材</a></dd>
+          <dd><a href="https://business-ec.yahoo.co.jp/shopping/digitalplatformer/" id="phase2_footer_listLink_01_4">透明性向上のため</a></dd>
+      </div>
+      <div class="ddWrap">
+          <dd>機能</dd>
+          <dd class="ddChild"><a href="https://business-ec.yahoo.co.jp/shopping/function/" id="phase2_footer_listLink_01_5">ストア運営ツールの機能</a></dd>
+          <dd class="ddChild"><a href="https://business-ec.yahoo.co.jp/shopping/function/overview/" id="phase2_footer_listLink_01_6">ストア運営の概要</a></dd>
+          <dd class="ddChild"><a href="https://business-ec.yahoo.co.jp/shopping/function/experience/" id="phase2_footer_listLink_01_7">商品ページ作成ツールのご紹介</a></dd>
+      </div>
+      <div class="ddWrap">
+          <dd>はじめての方</dd>
+          <dd class="ddChild"><a href="https://business-ec.yahoo.co.jp/shopping/introduction/beginner/" id="phase2_footer_listLink_01_8">はじめてネットショップを運営する方へ</a></dd>
+          <dd class="ddChild"><a href="https://business-ec.yahoo.co.jp/shopping/introduction/beginner/knowledge/" id="phase2_footer_listLink_01_9">ネットショップ開設の基礎知識</a></dd>
+          <dd><a href="https://business-ec.yahoo.co.jp/shopping/introduction/expert/" id="phase2_footer_listLink_01_10">経験者の方</a></dd>
+      </div>
+      <dt><a href="https://business-ec.yahoo.co.jp/shopping/cost/" id="phase2_footer_listLink_02">料金・費用</a></dt>
+      <dt><a href="https://business-ec.yahoo.co.jp/shopping/settlement/" id="phase2_footer_listLink_03">決済サービス</a></dt>
+      <dt><a href="https://business-ec.yahoo.co.jp/shopping/example/" id="phase2_footer_listLink_04">ストア紹介と成功事例</a></dt>
+      
+      
+        <dt><a href="https://business-ec.yahoo.co.jp/shopping/safesupport/" id="phase2_footer_listLink_05">安全・安心への取り組み</a></dt>
+        <dt><a href="https://business-ec.yahoo.co.jp/shopping/question/" id="phase2_footer_listLink_06">よくある質問</a></dt>
+      
+      <dt><a id="log_doc2" href="https://form-business.yahoo.co.jp/claris/enqueteForm?inquiry_type=requestform_8641">資料請求</a></dt>
+      <dt><a id="scriptFooterLink_01" href="https://business-ec.yahoo.co.jp/shopping/attention/">出店の申込み</a></dt>
+  </dl><!-- /.footListCover -->
+</div><!-- /.#footList-->
+
+<script>
+document.getElementById("log_doc2").onclick = (event) => {
+ya("hit", "event",
+{ name: "doc2", action: "クリック", category: "資料請求", value: 0, }
+);
+event.currentTarget.href=event.currentTarget.href+'&'+location.search.replace('?','');
+};
+</script>
+<script>
+document.getElementById("scriptFooterLink_01").onclick = (event) => {
+
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+<script>
+document.getElementById("phase2_footer_listLink_01").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+<script>
+document.getElementById("phase2_footer_listLink_01_1").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+<script>
+document.getElementById("phase2_footer_listLink_01_2").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+<script>
+document.getElementById("phase2_footer_listLink_01_3").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+<script>
+document.getElementById("phase2_footer_listLink_01_4").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+<script>
+document.getElementById("phase2_footer_listLink_01_5").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+<script>
+document.getElementById("phase2_footer_listLink_01_6").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+<script>
+document.getElementById("phase2_footer_listLink_01_7").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+<script>
+document.getElementById("phase2_footer_listLink_01_8").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+<script>
+document.getElementById("phase2_footer_listLink_01_9").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+<script>
+document.getElementById("phase2_footer_listLink_01_10").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+
+
+<script>
+document.getElementById("phase2_footer_listLink_02").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+
+
+<script>
+document.getElementById("phase2_footer_listLink_03").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+
+<script>
+document.getElementById("phase2_footer_listLink_04").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+
+<script>
+document.getElementById("phase2_footer_listLink_05").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+
+
+<script>
+document.getElementById("phase2_footer_listLink_06").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+
+<div id="footTopics">
+<dl><dt>画像提供：くまもと風土</dt><dd>インタビュー記事は<a target="new" href="https://business-ec.yahoo.co.jp/shopping/example/case9/" id="phase2_footTopicsLink_01">こちら</a></dd></dl>
+</div>
+
+<script>
+document.getElementById("phase2_footTopicsLink_01").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+
+
+
+<div id="footNav">
+<ul class="cf">
+<li><a href="https://business-ec.yahoo.co.jp/shopping/" id="phase2_footNavLink_01">Yahoo!ショッピング出店のご案内</a></li>
+<li><a href="https://business-ec.yahoo.co.jp/shopping/regulation.html" id="phase2_footNavLink_02">約款・ガイドライン</a></li>
+<li><a id="log_doc3" href="https://form-business.yahoo.co.jp/claris/enqueteForm?inquiry_type=requestform_8641">資料請求</a></li>
+<li><a id="log_inquiry1" href="https://form-business.yahoo.co.jp/claris/enqueteForm?inquiry_type=biz_form_new_8601">お問い合わせ</a></li>
+<li><a href="https://business-ec.yahoo.co.jp/shopping/digitalplatformer/" id="phase2_footNavLink_05">透明性向上のための取組み</a></li>
+</ul>
+</div><!--#footNav-->
+
+<script>
+document.getElementById("phase2_footNavLink_01").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+
+<script>
+document.getElementById("phase2_footNavLink_02").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+
+<script>
+document.getElementById("log_doc3").onclick = (event) => {
+ya("hit", "event",
+{ name: "doc3", action: "クリック", category: "資料請求", value: 0, }
+);
+event.currentTarget.href=event.currentTarget.href+'&'+location.search.replace('?','');
+};
+</script>
+
+<script>
+document.getElementById("log_inquiry1").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+
+<script>
+document.getElementById("phase2_footNavLink_05").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+
+
+
+
+
+<div id="footBnr">
+<ul class="cf">
+
+<li><a id="phase2_footBnrLink_01" href="https://business-ec.yahoo.co.jp/commerce_partner/" target="_blank"><img src="https://s.yimg.jp/images/biz_ec/commerce_partner/bnr/mkpl300_60.png" width="300" height="60" alt="コマースパートナーマーケットプレイス" title="Yahoo!JAPANコマースパートナーマーケットプレイスでストア経営を効率化"></a></li>
+
+<li><a id="phase2_footBnrLink_02" href="https://business.yahoo.co.jp/" target="_blank"><img src="https://s.yimg.jp/images/biz/bzc4/img/banner_201602_1.png" width="300" height="60" alt="ビジネスセンター" title="ビジネスセンター"></a></li>
+
+<li><a id="phase2_footBnrLink_03" href="https://bspace.jp/?utm_source=business-ec&utm_medium=banner&utm_campaign=business-ec_shopping_banner_20210218" target="_blank"><img src="https://s.yimg.jp/images/biz_ec/commerce_partner/bnr/300_60_210224.png" width="300" height="60" alt="B-Space|ネットショップの制作サポートツール" title="B-Space|ネットショップの制作サポートツール"></a></li>
+
+<li><a id="phase2_footBnrLink_04" href="https://www.askul.co.jp/e/14/?sc_e=cp_xz_as_ya_yse_xz_t_00_2404" target="_blank"><img src="https://s.yimg.jp/images/shp_edit/askul/ec/20240426_1.png" width="300" height="60" alt="ASKUL 梱包資材 まとめて購入が断然おトク！" title="ASKUL 梱包資材 まとめて購入が断然おトク！"></a></li>
+
+<li><a id="phase2_footBnrLink_05" href="https://login.japannetbank.co.jp/wctx/AF.do?SikibetuId=2015000095" target="_blank"><img src="https://s.yimg.jp/images/biz_ec/commerce_partner/bnr/300x60_1.png" width="300" height="60" alt="PayPay銀行の口座開設はこちら" title="PayPay銀行の口座開設はこちら"></a></li>
+
+</ul>
+</div><!--#footBnr-->
+
+<script>
+document.getElementById("phase2_footBnrLink_01").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+
+<script>
+document.getElementById("phase2_footBnrLink_02").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+
+
+
+
+
+</div><!--End Ver.2-->
+<hr class="yjSeparation">
+
+<div id="footer">
+
+
+<div class="footerInner">
+<div class="ycMdCopyright">
+
+
+
+
+
+<ul  class="commonLink">
+<li><a id="phase2_footerLink_01" href="https://www.lycorp.co.jp/ja/company/privacypolicy/">プライバシーポリシー</a><span class="elHyphen">-</span></li>
+<li><a id="phase2_footerLink_02" href="https://privacy.lycorp.co.jp/ja/">プライバシーセンター</a><span class="elHyphen">-</span></li>
+<li><a id="phase2_footerLink_03" href="https://www.lycorp.co.jp/ja/company/terms/">利用規約</a><span class="elHyphen">-</span></li>
+<li><a id="phase2_footerLink_04" href="https://www.lycorp.co.jp/ja/company/disclaimer/">免責事項</a><span class="elHyphen">-</span></li>
+<li><a id="phase2_footerLink_05" href="https://support.yahoo-net.jp/PccHelpcenter/s/">ヘルプ・お問い合わせ</a></li>
+</ul>
+<p class="elCopyright">© LY Corporation</p>
+
+</div>
+</div>
+</div><!--/#footer-->
+
+
+<script>
+document.getElementById("phase2_footerLink_01").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+
+<script>
+document.getElementById("phase2_footerLink_02").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+
+<script>
+document.getElementById("phase2_footerLink_03").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+
+<script type="text/javascript" src="https://s.yimg.jp/images/biz_ec/pc_front/js/tooltip-min.js"></script>
+<script type="text/javascript">
+<!--
+(function() {
+YAHOO.JP.lib.namespace("Page");
+YAHOO.JP.Page.init = function() {
+	YAHOO.JP.lib.ToolTip.setup({
+		TEXTLIST : YAHOO.JP.Page.TipText,
+		MODE : 'mouseover',
+		BTNCLASS : 'ToolTipBtn',
+		TIPCLASS : 'ToolTipPopup',
+		MAXWIDTH : 400
+	});
+};
+YAHOO.JP.lib.domReady.add(YAHOO.JP.Page.init);
+})();
+//-->
+</script>
+
+
+</div><!--/#yjContentsBody-->
+</div><!--/#contents-->
+<div id="pagetopB" style="display: block;"><p class="button"><a href="#top" id="phase2Link_08">↑</a></p></div>
+</div><!--/#wrapper-->
+
+<script src="https://s.yimg.jp/images/ds/cl/ds-custom-logger-1.1.0.min.js"></script>
+<script type="text/javascript">
+let appType = 'web';
+const isShpApp = false;
+const isPMallApp = false;
+const isPaypayApp = false;
+const domainName = document.location.hostname;
+const isShpDomain = domainName.indexOf('shopping.yahoo.co.jp') >= 0;
+const isPMallDomain =  domainName.indexOf('paypaymall.yahoo.co.jp') >= 0;
+
+if (isShpDomain && isShpApp || isPMallDomain && isPMallApp) {
+    appType = 'app';
+}
+
+if (typeof YAHOO == 'undefined') {
+    var YAHOO = {};
+    YAHOO.JP = {};
+    YAHOO.JP.shp = {};
+} else if (typeof YAHOO.JP == 'undefined') {
+    YAHOO.JP = {};
+    YAHOO.JP.shp = {};
+} else if (typeof YAHOO.JP.shp == 'undefined') {
+    YAHOO.JP.shp = {};
+}
+
+YAHOO.JP.shp.data = {
+    
+    status: {
+        app_type: appType,
+        promotion_id: "no_promo",
+        device: 1,
+        login: false
+    },
+    page_detail: {
+        module_ids: "snsButton",
+        yjcard: "g",
+        spaceid: "2080212239",
+        service_name: "shopping",
+        page_type: "bussec",
+        conttype: "shop"
+    }
+};
+
+let rapidUtilData = {};
+let appName = null;
+
+if (isShpApp) {
+    rapidUtilData.appname = 'shopping';
+    appName = 'shopping';
+} else if (isPMallApp) {
+    rapidUtilData.appname = 'pmall';
+    appName = 'pmall';
+} else if (isPaypayApp) {
+    rapidUtilData.appname = 'paypay';
+    appName = 'paypay';
+} else {
+    rapidUtilData.appname = null;
+}
+
+let clSearchQuery = '';
+
+
+
+
+let clStoreId = '';
+
+
+let scI = scE = '';
+
+
+
+
+if (Object.keys(rapidUtilData).length > 0) {
+    YAHOO.JP.shp.data.rapid_util = rapidUtilData;
+}
+
+// =================================================================
+// CustomLogger ====================================================
+// =================================================================
+function getCustomLogger(pageData, conf) {
+    const customLogger = new DSCustomLogger.CustomLogger();
+    if (Object.keys(conf).length > 0) {
+        customLogger.setCustomLoggerCoreConf(conf);
+    }
+    const customLoggerCore = customLogger.setHierarchyid("2080212239")
+        .setPageData(pageData)
+        .targetClass()
+        .targetViewableClass()
+        .startViewable()
+        .initCustomLoggerCore();
+
+    return customLoggerCore;
+}
+
+const clConf = {};
+const moduleIds = "snsButton".split(',');
+const clModules = [];
+if (moduleIds.length > 0) {
+    moduleIds.forEach(function(moduleId) {
+        if (document.getElementById(moduleId)) {
+            clModules.push(moduleId);
+        }
+    });
+}
+if (clModules.length > 0) {
+    clConf.target_modules = clModules;
+}
+
+
+// 確認
+let metaKeyword = '';
+const keywords = document.getElementsByName('keywords');
+if (keywords.length > 0) {
+    if(typeof(keywords.item(0).content) != 'undefined') {
+        metaKeyword = keywords.item(0).content;
+    }
+}
+
+let clPageData = {
+    service: "shopping",
+    pagetype: "bussec",
+    conttype: "shop",
+    apptype: appType,
+    opttype: "pc",
+    status: "logout",
+    metakwd: metaKeyword,
+    promoid: "no_promo",
+    appname: appName,
+    yjcard: "g",
+
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+YAHOO.JP.shp.cmstool = {
+    customLogger: getCustomLogger(clPageData, clConf)
+}
+
+</script>
+
+<script src="https://s.yimg.jp/images/biz_ec/pc_front/js/jquery-sliding-menu.js" type="text/javascript"></script>
+<script src="https://s.yimg.jp/images/biz_ec/pc_front/js/jquery.ah-placeholder.js" type="text/javascript"></script>
+<script src="https://s.yimg.jp/images/biz_ec/pc_front/js/common.js" type="text/javascript"></script>
+
+<script src="https://s.yimg.jp/images/biz_ec/pc_front/shopping/180315/js/jquery.colorbox-min.js" type="text/javascript"></script>
+<script>
+//動画再生
+  $.youtubeReady = function(callback){
+    var EVENT_READY = "youtubeready";
+    if(window.YT && window.YT.Player){
+      return callback();
+    }
+    $(window).on(EVENT_READY, callback);
+    window.onYouTubeIframeAPIReady = function(){
+      $(this).trigger(EVENT_READY);
+      window.onYouTubeIframeAPIReady = void 0;
+    };
+    var tag = document.createElement('script');
+    tag.src = "https://www.youtube.com/iframe_api";
+    var firstScriptTag = document.getElementsByTagName('script')[0];
+    firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+  };
+  function yt_generate_method(target, video_id){
+    new YT.Player( target, {
+      height: '450',
+      width: '800',
+      playerVars: { 'rel': 0, 'showinfo': 0, 'autoplay': 1 },
+      videoId: video_id,
+      events: {
+        'onReady': onPlayerReady
+      }
+    });
+    function onPlayerReady(event) {
+      event.target.mute();
+      event.target.playVideo();
+    }
+  }
+  $(function() {
+    $("#cmovie").colorbox({
+      iframe:true,
+      innerWidth:800,
+      innerHeight:450,
+      onComplete: function(){
+        $.youtubeReady(function(){
+          yt_generate_method('cboxLoadedContent', 'T0yV_f0jxDI');
+        });
+      },
+      onClosed: function(){
+        $('#cboxLoadedContent').remove();
+      }
+    });});
+  $(document).ready(function()
+  {$('#menu').menu({
+      backLabel:'戻る',
+      });
+    //戻るを下へ
+    $('#menu').find('a.back').each(function(){
+    $target = $(this).closest('ul');
+    $(this).appendTo($target);
+      });});
+/**
+ * Adobe Analytics Video Tracking
+ * Business-ec Appending code
+ * @uses  jQuery, jQuery.colorbox
+ */
+$(document).bind('cbox_closed', function(){
+  window.s_YTcl("YouTubeV1");
+});
+</script>
+
+<!-- 効果測定用 -->
+<script type="text/javascript" language="javascript">
+var yahoo_retargeting_id = 'listing1875';
+var yahoo_retargeting_label = '';
+</script>
+<script type="text/javascript" language="javascript" src="//b92.yahoo.co.jp/js/s_retargeting.js"></script>
+<!-- /効果測定用 -->
+
+
+<script src="https://s.yimg.jp/images/shp_front/smartphone/_library/js/cre/libCarousel1.6.js"></script>
+<script>
+$(function(){
+  $('[data-libCarousel]').libCarousel();
+});
+</script>
+
+
+<script>
+document.getElementById("log_doc1").onclick = (event) => {
+ya("hit", "event",
+{ name: "doc1", action: "クリック", category: "資料請求", value: 0, }
+);
+event.currentTarget.href=event.currentTarget.href+'&'+location.search.replace('?','');
+};
+
+document.getElementById("log_inquiry1").onclick = (event) => {
+ya("hit", "event",
+{ name: "inquiry1", action: "クリック", category: "お問い合わせ", value: 0, }
+);
+event.currentTarget.href=event.currentTarget.href+'&'+location.search.replace('?','');
+};
+
+
+</script>
+
+
+<script>	
+$('a[href^=#]').not('a[href^=#menu],a[href^=#top]').click(function() {
+	YAHOO.JP.sc.linkTrackEvents = 'None';
+	YAHOO.JP.sc.events = '';
+	YAHOO.JP.sc.linkTrackVars = 'prop4';
+	if("href" in this && this.href.indexOf("#") > -1){
+    YAHOO.JP.sc.prop4 = YAHOO.JP.sc.pageName + ':' + 
+this.href.split('#')[1];
+	  YAHOO.JP.sc.tl(this,'o','Internal Link');
+	}
+	YAHOO.JP.sc.linkTrackVars = 'None';
+	});
+</script>
+
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 977332767;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<div style="height: 0; line-height: 0; margin: -20px 0 0 0; padding: 0;">
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+</div>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/977332767/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+
+<script type="text/javascript" language="javascript">
+/* <![CDATA[ */
+var yahoo_retargeting_id = 'LNXI98E94D';
+var yahoo_retargeting_label = '';
+/* ]]> */
+</script>
+<script type="text/javascript" language="javascript" src="//b92.yahoo.co.jp/js/s_retargeting.js"></script>
+
+
+<!-- Yahoo Code for your Target List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var yahoo_ss_retargeting_id = 1000231675;
+var yahoo_sstag_custom_params = window.yahoo_sstag_params;
+var yahoo_ss_retargeting = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//s.yimg.jp/images/listing/tool/cv/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//b97.yahoo.co.jp/pagead/conversion/1000231675/?guid=ON&script=0&disvt=false"/>
+</div>
+</noscript>
+
+
+<script>
+document.getElementById("yjPagetop").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+
+<script>
+document.getElementById("phase2Link_01").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+
+<script>
+document.getElementById("phase2Link_02").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+
+<script>
+document.getElementById("phase2Link_03").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+
+<script>
+document.getElementById("phase2Link_04").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+
+<script>
+document.getElementById("phase2Link_05").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+
+<script>
+document.getElementById("phase2Link_06").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+
+<script>
+document.getElementById("phase2Link_07").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+
+<script>
+document.getElementById("phase2Link_08").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+
+<script>
+document.getElementById("movieLink_01").onclick = (event) => {
+event.currentTarget.href=event.currentTarget.href+location.search;
+};
+</script>
+
+</body>
+</html>
+

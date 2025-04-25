@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="ja" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <script type="text/javascript" src="https://s.yimg.jp/images/listing/optout/btoptout/js/application.js"></script>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+  <title>Yahoo!マーケティングソリューションにおけるパーソナルデータの利用</title>
+  <meta name="description" content="Yahoo! JAPANが配信する広告などへのパーソナルデータの利用" />
+  <meta name="_csrf" content="nnve_PTTzAltiFs9TbWryU3CUewLryirzA7dpZBz5u-xncN8qEi7ycDgrjxAvzkOeJif-XunfNU5mx-Grje-waVL1oyJrPQe"/>
+  <meta name="_csrf_header" content="X-CSRF-TOKEN"/>
+  <link rel="stylesheet" href="//s.yimg.jp/images/netadguide/privacy/css/styles.css" />
+  <link rel="stylesheet" href="https://s.yimg.jp/images/listing/optout/btoptout/css/style.css" />
+
+  <script type="text/javascript" src="https://s.yimg.jp/l/jquery/3.4.1/jquery.min.js"></script>
+  <script type="text/javascript" src="https://s.yimg.jp/images/listing/optout/btoptout/js/script_20210813.js"></script>
+  <script type="text/javascript" src="https://s.yimg.jp/images/listing/optout/btoptout/js/css-select.js"></script>
+
+
+  <link rel="shortcut icon" href="https://s.yimg.jp/c/icon/s/bsc/2.0/favicon.ico " type="image/vnd.microsoft.icon" />
+  <link rel="icon" href="https://s.yimg.jp/c/icon/s/bsc/2.0/favicon.ico " type="image/vnd.microsoft.icon" />
+
+  <!-- YA -->
+  <script src="https://s.yimg.jp/images/ds/yas/ya-1.3.0.min.js"></script>
+  <script>
+    window.yacmds = window.yacmds || [];
+    window.ya = window.ya || function(){yacmds.push(arguments)};
+    ya('init', "74561a9d788c4c088058ca1a4675fa39", "7b1a461c-2905-4a95-b28d-9b90bbe7eddb");
+    ya('hit', 'pageview,webPerformance');
+  </script>
+</head>
+<body role="document" class="">
+<div id="yj-wrapper">
+  <header id="yj-header" role="banner">
+    <div id="sh">
+      <div id="yj-masthead">
+        <div class="yj-inner">
+          <div><iframe id="TEMPLA_MH" style="width: 100%;height: 88px;border-width: 0;vertical-align: bottom;margin: 0 auto 10px;"src="https://s.yimg.jp/images/templa/mhdemg/v2/static_mhd.html"></iframe>
+<script>
+    YAHOO = window.YAHOO || {};
+    YAHOO.JP = YAHOO.JP || {};
+    YAHOO.JP.templa = YAHOO.JP.templa || {};
+    YAHOO.JP.templa.param = {
+        device_id: 'pc',
+        domain: 'japan',
+        mh_login_done: 'https://btoptout.yahoo.co.jp/optout/index.html',
+        mh_logo_width: 136,
+        mh_logo_height: 34,
+        mh_logo_alt: 'Yahoo! JAPAN',
+        mh_logo_link: 'https://www.yahoo.co.jp/',
+        mh_logo_img: '/c/logo/f/2.0/yj_r_34_2x.png',
+        mh_help_link: 'https://support.yahoo-net.jp/PccHelpcenter/s/',
+        disable_emg1: false,
+        disable_emg2: false,
+        disable_emg3: false
+    }
+</script>
+<script defer src="https://s.yimg.jp/images/templa/mhdemg/v2/templa.min.js"></script>
+</div>
+          
+        </div>
+      </div>
+    </div>
+  </header>
+  <div id="yj-contents">
+    <div id="yj-contents-header">
+      <div class="yj-inner">
+        <div class="page-header">
+          <h1>Yahoo!マーケティングソリューションにおけるパーソナルデータの利用</h1>
+        </div>
+      </div>
+    </div>
+    <div id="yj-contents-body">
+      <div class="yj-inner">
+        <div id="text">
+          <div id="yj-main">
+            <div id="yj-main-inner">
+              <main id="main" role="main">
+                <article class="section">
+                  <h1>パーソナルデータの利用方法</h1>
+                  <p>Yahoo!マーケティングソリューションの広告などのサービスでは、お客様により適切な広告を表示するために、お客様から取得した以下のような<a href="https://privacy.lycorp.co.jp/ja/acquisition/">パーソナルデータ</a>を利用しています。</p>
+                  <ul>
+                    <li>Yahoo! JAPAN IDの登録情報</li>
+                    （生年月、性別など）
+                    <li>広告配信時に取得する情報</li>
+                    （時間帯、おおまかな現在地、広告が表示されるページ、広告表示時に検索していたキーワードなど）
+                    <li>広告配信前に取得した過去の履歴（※）</li>
+                    ①Yahoo! JAPANサービスの利用履歴
+                    <br />（過去に検索したキーワード、閲覧したウェブページや広告、利用したアプリ、購入した商品、利用時間帯、地域、デバイスなど）
+                    <br />②広告主やパートナーサイトの利用履歴
+                  </ul>
+                  <p>※法令に基づく場合を除き、履歴を蓄積する期間は以下のとおりです。</p>
+                  <ul>
+                    <li>分析し、独自の基準で興味関心別に分類する目的のために蓄積する各種履歴：最大180日間</li>
+                    <li>お客様が特定のウェブサイトを訪問された履歴に基づいて広告を配信する目的のために蓄積するページ閲覧履歴：最大2年</li>
+                  </ul>
+                  <p>また、人種、宗教、性的指向、健康状態など、慎重に扱うべき個人に関するデータは利用しません。</p>
+                  <p>ディスプレイ広告の表示に利用するパーソナルデータの設定を<a href="https://ad-personalize-center.yahoo.co.jp/privacy">アドパーソナライズセンター「プライバシー管理」</a>で行えます。</p>
+                </article>
+                <article class="section">
+                  <h1>過去の行動履歴の削除（Yahoo!広告 ディスプレイ広告限定）</h1>
+                  <p>Yahoo!広告 ディスプレイ広告の広告配信用データベースに蓄積されたお客様の過去の行動履歴情報を削除することができます。削除をご希望のお客様は、下記リンクより行動履歴を削除してください。</p>
+
+                  <div>
+                    <dl class="textBox">
+                      <dt>お使いのブラウザの設定では、クッキーの送受信が拒否されており、過去の行動履歴情報の削除機能をご利用いただけません。</dt>
+                      <dd>クッキーの拒否設定を解除していただきますと、行動ターゲティング広告が表示され、過去の行動履歴情報の削除機能をご利用いただくことができるようになります。</dd>
+                    </dl><br />
+                  </div>
+
+                  
+                </article>
+
+                <article class="section">
+                  <h1>行動ターゲティング広告の設定</h1>
+                  <p>お客様の興味・関心を分析、推知して配信する「行動ターゲティング広告」の有効化/無効化を選択できます。<br>
+                    ※Yahoo! JAPAN IDでログインしている場合は、「行動ターゲティング広告」で外部サイトでの行動履歴を利用するかどうかの選択になります。（Yahoo!広告 ディスプレイ広告限定）</p>
+                  <a href="https://ad-personalize-center.yahoo.co.jp/optout/ads?.done=https%3A%2F%2Fwww.yahoo.co.jp">行動ターゲティング広告の設定</a>
+                </article>
+
+                <article class="section">
+                  <h1>スマートフォン端末の広告設定について</h1>
+                  <p>Apple社（iOS）やGoogle社（Android）が発行する広告用の一時的なID（*）を使ってアプリに掲載される広告については、お客様がお使いのスマートフォン上で有効化/無効化の設定が可能です。 <br>設定方法は以下のURLをご参照ください。<br>* Apple社のIdentifier for Advertisers（IDFA）、Google社のAdvertising ID</p>
+                  <ul>
+                    <li><a href="https://support.apple.com/ja-jp/HT212025">iOSでの設定方法（外部サイト）</a></li>
+                    <li><a href="https://support.google.com/googleplay/answer/3405269">Androidでの設定方法（外部サイト）</a></li>
+                  </ul>
+                </article>
+
+              </main>
+            </div>
+          </div>
+        </div>
+        <div id="yj-sub"></div>
+      </div>
+    </div>
+  </div>
+  <!DOCTYPE html>
+<div id="sf">
+  <footer id="yj-footer" role="contentinfo">
+    <div class="yj-inner">
+      <ul class="link">
+        <li><a href="https://www.lycorp.co.jp/ja/company/privacypolicy/">プライバシーポリシー</a><span aria-hidden="true"> - </span></li>
+        <li><a href="https://www.lycorp.co.jp/ja/company/terms/"><span>利用</span>規約</a><span aria-hidden="true"> - </span></li>
+        <li><a href="https://www.lycorp.co.jp/ja/">会社概要</a><span aria-hidden="true"> - </span></li>
+        <li><a href="https://www.lycbiz.com/">Yahoo!広告掲載について</a><span aria-hidden="true"> - </span></li>
+        <li><a href="https://support.yahoo-net.jp/PccHelpcenter/s/" rel="help">ヘルプ<span>・お問い合わせ</span></a></li>
+      </ul>
+      <p class="copyright"><small>© LY Corporation</small></p>
+    </div>
+  </footer><!--/#yj-footer-->
+</div><!--/#sf-->
+</div>
+
+<script type="text/javascript">
+  $(document).ready(function() {
+    YAHOO.JP.listing.optout.Popup.setClickEvent();
+    YAHOO.JP.listing.optout.Explain.setClickEvent();
+  });
+</script>
+<div id="popupWindowMask" class="hidden"></div>
+<div id="popupWindow" class="hidden">過去の行動履歴を削除します。<br />よろしければ、[削除]ボタンを押してください。
+  <div class="flex spaceAround">
+    <span><a href="javascript:void(0)">削除</a></span><a href="javascript:void(0)">キャンセル</a>
+  </div>
+</div>
+</body>
+
+</html>

@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<!-- Required meta tags -->
+		<meta charset="utf-8"/>
+		<meta content="width=device-width, initial-scale=1" name="viewport"/>
+		<title>
+			Chef Kristopher Arguin Takes Diners on a Culinary World Tour
+		</title>
+		
+		
+		<title>Chef Kristopher Arguin Takes Diners on a Culinary World Tour</title>
+<!--  Essential META Tags -->
+<meta content="Chef Kristopher Arguin Takes Diners on a Culinary World Tour" property="og:title"/>
+<meta content="article" property="og:type"/>
+<meta content="https://www.cpp.edu/news/img/news/2025/04/centerpointe-halal-station-arguin.jpg" property="og:image"/>
+<meta content="https://www.cpp.edu/news/content/2025/04/chef-kristopher-arguin-takes-diners-on-a-culinary-world-tour/index.shtml" property="og:url"/>
+<!-- Twitter Meta Tags -->
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="cpp.edu" property="twitter:domain"/>
+<meta content="ttps://www.cpp.edu/news/content/2025/04/chef-kristopher-arguin-takes-diners-on-a-culinary-world-tour/index.shtml" property="twitter:url"/>
+<meta content="Chef Kristopher Arguin Takes Diners on a Culinary World Tour" name="twitter:title"/>
+<meta content="https://www.cpp.edu/news/img/news/2025/04/centerpointe-halal-station-arguin.jpg" name="twitter:image"/>
+<meta content="Chef Kris Arguin at the Halal Station in Centerpointe" name="twitter:image:alt"/>
+<!-- Google search thumbnail -->
+
+  <PageMap>
+    <DataObject type="thumbnail">
+      <Attribute name="src" value="https://www.cpp.edu/news/img/news/2025/04/centerpointe-halal-station-arguin.jpg"/>
+      <Attribute name="width" value="150"/>
+      <Attribute name="height" value="120"/>
+    </DataObject>
+  </PageMap>
+
+
+<meta content="https://www.cpp.edu/news/img/news/2025/04/centerpointe-halal-station-arguin.jpg" name="thumbnail"/>
+		<!-- Google Tag Manager -->
+		
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSKJRNV');</script>
+
+		<!-- End Google Tag Manager -->
+		<!-- Bootstrap CSS -->
+		<link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" rel="stylesheet"/>
+		<link href="/news/inc/template/news.css" rel="stylesheet"/>
+		<script crossorigin="anonymous" defer="defer" integrity="sha384-FW78RPcSpi13vjx77nPWQIrQbNSLkPBopb0qGzLCxD2x4Kr6FA8V05C/6cpgkKPL" src="https://pro.fontawesome.com/releases/v5.10.1/js/all.js"></script>
+	</head>
+	<body>
+		<!-- Google Tag Manager (noscript) -->
+		<noscript>
+			<iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-PSKJRNV" style="display:none;visibility:hidden" width="0"></iframe>
+		</noscript>
+		<!-- End Google Tag Manager (noscript) -->
+		<div id="alert">
+</div>
+<div id="printheader">
+	<img class="w-100" src="/news/img/print-header.png" alt="print header, cpp news" />
+</div>
+<header id="wacheader">
+	<div id="newsgreenbar">
+		<h1>
+			<a href="/news/index.shtml"><span class="cppwhitetxt">CPP</span>
+			<span class="newsyellowtxt">NEWS</span></a>
+		</h1>
+	</div>
+	<div class="row d-flex align-items-center" id="newsgraybar">
+	    <div class="col-sm-3" id="cpp-logo">
+		<a href="https://www.cpp.edu">
+			<img id="cpplogo" src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png" alt="cal poly pomona">
+			</a>
+		</div>
+			<nav class="col-sm-6" id="newsnav">
+				<ul>
+					<li>
+						<a href="/news/all-news.shtml">News</a>
+					</li>
+					<li>
+						<a href="/news/social-media-directory.shtml">Social Media</a>
+					</li>
+					<li>
+						<a href="/news/for-the-media.shtml">For the Media</a>
+					</li>
+				</ul>
+			</nav>
+			<div class="col-sm-3" id="search">
+				<form action="/news/search.shtml" autocomplete="off" id="search-form" method="GET">
+					<label class="sr-only" for="searchbox">Search Box</label>
+					<input id="searchbox" name="q" type="text" placeholder="Search" />
+					<label class="sr-only" for="submit">Submit</label>
+					<button id="submit" name="submit" type="submit">
+						<svg fill="#008345" height="18" viewbox="0 0 13 13" width="18">
+							<title>search</title>
+							<path d="m4.8495 7.8226c0.82666 0 1.5262-0.29146 2.0985-0.87438 0.57232-0.58292 0.86378-1.2877 0.87438-2.1144 0.010599-0.82666-0.28086-1.5262-0.87438-2.0985-0.59352-0.57232-1.293-0.86378-2.0985-0.87438-0.8055-0.010599-1.5103 0.28086-2.1144 0.87438-0.60414 0.59352-0.8956 1.293-0.87438 2.0985 0.021197 0.8055 0.31266 1.5103 0.87438 2.1144 0.56172 0.60414 1.2665 0.8956 2.1144 0.87438zm4.4695 0.2115 3.681 3.6819-1.259 1.284-3.6817-3.7 0.0019784-0.69479-0.090043-0.098846c-0.87973 0.76087-1.92 1.1413-3.1207 1.1413-1.3553 0-2.5025-0.46363-3.4417-1.3909s-1.4088-2.0686-1.4088-3.4239c0-1.3553 0.4696-2.4966 1.4088-3.4239 0.9392-0.92727 2.0864-1.3969 3.4417-1.4088 1.3553-0.011889 2.4906 0.45771 3.406 1.4088 0.9154 0.95107 1.379 2.0924 1.3909 3.4239 0 1.2126-0.38043 2.2588-1.1413 3.1385l0.098834 0.090049z"></path>
+						</svg>
+					</button>
+				</form>
+			</div>
+		</div>
+	</header>
+		<div id="main">
+			
+
+    <article class="container">
+    <h1>Chef Kristopher Arguin Takes Diners on a Culinary World Tour</h1>
+        
+     
+                                                                                                                                                                                                                                                                                                                                                                                                                                                      <ul class="tags">
+        
+        <li class="UniversityNews"><a href="/news/all-news.shtml?category=22">University News</a></li>
+        
+                   
+                <li class="HuntleyCollegeofAgriculture"><a href="/news/all-news.shtml?category=7">Huntley College of Agriculture</a></li>
+                        
+    </ul>
+    <p class="byline">April 24, 2025 | <a href="/news/all-news.shtml?author=Ana Cerna Martinez">ana cerna martinez</a></p>
+   <aside class="share">
+       <h2>Share</h2>
+       <ul>
+           <li>
+              <a href="#" onclick="copyLink();return false;" title="copy article link to clipboard"><i class="far fa-link" style="color: #31814b;"></i></a>
+           </li>
+          <li>
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.cpp.edu/news/content/2025/04/chef-kristopher-arguin-takes-diners-on-a-culinary-world-tour/index.shtml" title="share this article on facebook"><i class="fab fa-facebook" style="color: #31814b;"></i></a>
+          </li> 
+           <li>
+            <a href="https://twitter.com/intent/tweet?text=https://www.cpp.edu/news/content/2025/04/chef-kristopher-arguin-takes-diners-on-a-culinary-world-tour/index.shtml" title="share this article on twitter">
+                <svg xmlns="http://www.w3.org/2000/svg" class="bi bi-twitter-x" fill="currentColor" height="16" style="color: #31814b;" viewBox="0 0 16 16" width="16">
+  <path d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865z"/>
+</svg>
+           </a>
+          </li> 
+            <li>
+                
+            <a title="share this article on linked in" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.cpp.edu/news/content/2025/04/chef-kristopher-arguin-takes-diners-on-a-culinary-world-tour/index.shtml"><i class="fab fa-linkedin-in" style="color: #31814b;"></i></a>
+                
+          </li> 
+        <li>
+            <a href="mailto:?subject=Check out this article from Cal Poly Pomona News&amp;body=Check out this article - Chef Kristopher Arguin Takes Diners on a Culinary World Tour, https://www.cpp.edu/news/content/2025/04/chef-kristopher-arguin-takes-diners-on-a-culinary-world-tour/index.shtml" title="Share by Email"><i class="fas fa-envelope" style="color: #31814b;"></i></a>
+          </li> 
+            <li>
+            <a href="#" onclick="window.print();return false;" title="Print this article"><i class="fas fa-print" style="color: #31814b;"></i></a>
+          </li> 
+       </ul>
+   </aside>
+                        <figure class="top-figure">
+                                 <img alt="Chef Kris Arguin at the Halal Station in Centerpointe" class="w-100" src="../../../../img/news/2025/04/centerpointe-halal-station-arguin.jpg"/>
+                               
+                <figcaption>
+                    
+                </figcaption>
+            </figure>
+        
+                   
+    
+   
+    
+    
+                    <p>Strolling through &#160;<a href="https://www.centerpointedining.com/">Centerpointe</a>, diners are hit by a wave of aromas from around the world, from South American-inspired burrito bowls to Japanese sushi to Italian pizza.</p>
+<p>For <span>Executive Chef Kristopher Arguin and his team, who are always in the kitchen working on perfecting their next dish, serving up a sampling of cuisines from around the globe is a labor of love. </span></p>
+<p><img alt="Golden Dragonfruit Blossom with Cucumber, Dragonfruit and honey accented by vanilla, jasmine and edible gold. " class="image-300px-float-right" height="1803" src="../../../../img/news/2025/04/dragon-fruit-dish.jpg" width="1868"/>A lifelong passion for cooking and 15 years of spearfishing inspired <span>Arguin </span>to create a sustainable, secure and inclusive experience for visitors of Cal Poly Pomona's official dining hall<span>. </span></p>
+<p>That early love for cooking transformed into motivation to pursue a career goal after Arguin got his first job as a dishwasher at a fine-dining restaurant.</p>
+<p>&#8220;Usually, everybody gets their first job doing anything and then they go their separate path, but I loved my first job&#8212;I was immediately drawn to it,&#8221; Arguin said. &#8220;Of course, I was a dishwasher, but watching the different plates going out of the kitchen intrigued me, and then I decided to go to culinary school.&#8221;</p>
+<p>Arguin was a fast learner, and even after culinary school, he spent his time learning more innovative and creative ways of cooking. Living in Hawaii, he was surrounded by a melting pot of different cuisines and cooking styles, and eventually, he started to create his own. His passion for spearfishing, one of the earliest fishing techniques, helped his experimentation as he caught a variety of <span>fish.</span></p>
+<h2>Joining the Bronco Family</h2>
+<p><span>After the COVID-19 pandemic, his life changed dramatically. He moved from the tropical state of Hawaii to California after his wife&#8217;s job relocation. </span></p>
+<p><span>&#8220;When I arrived in California, spearfishing was different. Here, it is colder; I had to wear a thicker suit and learn new fish and how they act,&#8221; Arguin said. &#8220;But, when you have a passion for something, you will do it because you love to do it. I do not have as much time to spearfish as I used to, but I still make time for it.&#8221;</span></p>
+<p><span>Arguin&#8217;s background and connections brought him a variety of job offers in California, including at top restaurants like Club 33 at Disneyland. Although he first rejected CPP&#8217;s offer, after taking a campus tour and seeing the agricultural community, he knew CPP was the place for him and joined the Bronco family in 2022.</span></p>
+<p><span>Throughout his time on campus, Arguin has helped implement sustainable approaches and promote inclusivity through his cooking. </span></p>
+<p><span>Arguin </span>purchases 35 percent of all his produce from <a href="https://www.cpp.edu/maps/text-map.php?id=299991&amp;list=loc">Spadra Farms</a>, which helps support the campus farm's operations while providing high-quality local produce for Centerpointe. Arguin also works closely with the <a href="https://www.cpp.edu/agri/">Don B. Huntley College of Agriculture</a> on projects to supply the campus&#8217; <a href="https://asi.cpp.edu/services/poly-pantry/">Poly Pantry</a>, helping to address student food insecurity.</p>
+<p>Arguin knows the power of bringing Broncos together and has worked with the <a href="https://asi.cpp.edu/">Associated Students Incorporated</a> (ASI) for events such as Hispanic Heritage Month and Black History Month. His value for ensuring accurate representation sets him apart from any other chef.</p>
+<p><span>He has also made changes to the different stations, transforming Centerpointe from a cafeteria into a dining hub featuring multiple food concepts consisting of modern global cuisine with a focus on sustainability.</span></p>
+<p>&#8220;You need to learn your demographic. Even after being given a number, I walked through campus and observed what was popular,&#8221; Arguin said. &#8220;The Panda Express had a huge line at the door, and I noticed the Asian, Latino, and Middle Eastern population was huge, and I wanted to embrace those cultures.&#8221;</p>
+<p><img alt="Dragon Fruit Dish at the Kellogg West Conference Center." class="" height="377" src="../../../../img/news/2025/04/drangon-fruit-dish-table.jpg" width="1000"/></p>
+<h2>Creating a New Food Culture</h2>
+<p>With the help of CPP&#8217;s <a href="https://www.cpp.edu/agri/nutrition-food-science/index.shtml">food science</a> lab and outside companies, Arguin has implemented initiatives such as making 85 percent of <a href="https://www.cpp.edu/news/content/2023/11/centerpointe-now-offering-halal-options/index.shtml">Centerpointe&#8217;s protein halal</a> to accommodate CPP&#8217;s Muslim population. He also works with <a href="https://www.cpp.edu/engineering/">engineering</a> students to track recipes, customers, and food quantities using innovative technologies.</p>
+<p>&#8220;I am really big on the future of mass food consumption in the world. As the population grows, there needs to be alternative ways to ensure no one is starving. Part of the solution to the problem is plant-based food,&#8221; Arguin said. &#8220;However, there is a negative stigma that it is garbage and fake food, and I urge people at least try it.&#8221;</p>
+<p>Working with departments such as the Poly Pantry, Arguin hopes to reduce and hopefully one day eliminate food insecurity and food waste on campus.</p>
+<p>He credits his colleague Carlo Arceo, assistant director of residential for Centerpointe Dining Commons, with helping put plans into action. Arceo joined the team back in June of 2023, and his background working at other higher education facilities positioned him to work innovatively alongside Arguin.</p>
+<p>&#8220;During COVID, the whole dining and the hospitality industry took a huge hit,&#8221; said Arceo. &#8220;Having a good core group with talented and passionate individuals made us strong. Being able to work with a sharp, talented chef like Chef Kris, we established the whole dining program. Our current concept is modern, global, and focuses on sustainability.&#8221;</p>
+<p><img alt="Kellogg West Catering Golden Dragonfruit Blossom Featured Drink" class="image-300px-float-left" height="523" src="../../../../img/news/2025/04/golden-dragonfruit-blossom-flyer1.jpg" width="448"/>Although Arguin has already made historical changes to campus dining options, he marks this as the start of many more projects. He is planning Persian New Year&#8217;s and Cinco de Mayo events this spring semester.</p>
+<p>He has also taken on the role of overseeing catering for the <a href="https://kelloggwest.com/">Kellogg West Conference Center</a>. His plans include working on a new menu, from easy sandwiches to high-end meals, Arguin is offering a unique dining experience.</p>
+<p>These new menu items are easy to incorporate by tapping into multiple campus resources including Spadra Farm, Huntley Department of Agriculture, and <a href="https://www.ibrewworks.com/">Innovation Brew Works</a>.</p>
+<p><span>&#8220;I am always up to date with food trends, and you should be if you&#8217;re a chef,&#8221; Arguin said. &#8220;As time progresses, the vegetarian, vegan, gluten and allergy awareness, and halal movement are growing, and if you haven&#8217;t started, you are behind. As a chef, you have to be on board with change before people are on board.&#8221;</span></p>
+<p>For <span>opportunities for collaboration, contact </span><a href="mailto:diningservices@cpp.edu">diningservices@cpp.edu</a><span> or </span><a href="https://chefarguin.com/">Chef Arguin</a><span>. </span></p> 
+    
+                                 
+            
+    
+    
+         
+<div id="sitetags">
+    <h2>Tags </h2>
+    <ul>
+                   <li><a href="/news/all-news.shtml?tag=HUNTLEY COLLEGE OF AGRICULTURE">HUNTLEY COLLEGE OF AGRICULTURE</a></li>
+                   <li><a href="/news/all-news.shtml?tag=engineering">engineering</a></li>
+                   <li><a href="/news/all-news.shtml?tag=Spadra Farms">Spadra Farms</a></li>
+                   <li><a href="/news/all-news.shtml?tag=student food insecurity">student food insecurity</a></li>
+                   <li><a href="/news/all-news.shtml?tag=Carlo Aceo">Carlo Aceo</a></li>
+                   <li><a href="/news/all-news.shtml?tag=food science lab">food science lab</a></li>
+                   <li><a href="/news/all-news.shtml?tag=Centerpointe">Centerpointe</a></li>
+                   <li><a href="/news/all-news.shtml?tag=ASI">ASI</a></li>
+                   <li><a href="/news/all-news.shtml?tag=Poly Pantry">Poly Pantry</a></li>
+                   <li><a href="/news/all-news.shtml?tag=Executive Chef Kristopher Arguin">Executive Chef Kristopher Arguin</a></li>
+                   <li><a href="/news/all-news.shtml?tag=sustainability">sustainability</a></li>
+            </ul>
+</div>         
+</article>
+
+
+
+
+		</div>
+		<footer>
+			<section class="container" id="bottom-nav">
+	<div class="row">
+		<div class="card col-md-3 news-card">
+			<div class="card-body">
+				<h2 class="card-title">News</h2>
+				<ul>
+					<li>
+						<a class="card-link" href="/news/all-news.shtml">View All News</a>
+					</li>
+						<li>
+						<a class="card-link" href="/news/browse-by-topic.shtml">Browse by Topic</a>
+					</li>
+						<li>
+						<a class="card-link" href="https://www.cpp.edu/stratcomm/cpp-news-and-stories.shtml">Submit a Story Idea</a>
+					</li>
+				</ul>
+				
+		
+			</div>
+		</div>
+		<div class="card social-card col-md-3">
+			<div class="card-body">
+				<h2 class="card-title">Social Media</h2>
+				<ul>
+					<li>
+						<a class="card-link" href="/news/social-media-directory.shtml">Social Media Directory</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="card press-card col-md-3">
+			<div class="card-body">
+				<h2 class="card-title">For the Media</h2>
+				<ul>
+					<li>
+						<a class="card-link" href="/news/for-the-media.shtml">Media Relations</a>
+					</li>
+					<li>
+						<a class="card-link" href="https://experts.cpp.edu/" target="_blank">Experts Database 
+                            <svg title="Opens in new window"
+										xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-box-arrow-up-right" viewBox="0 0 16 16">
+										<path fill-rule="evenodd" d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5"/>
+										<path fill-rule="evenodd" d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0z"/>
+									</svg>
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+				<div class="card publications-card col-md-3">
+					<div class="card-body">
+						<h2 class="card-title">Publications</h2>
+						<ul>
+							<li>
+								<a class="card-link" href="https://www.cpp.edu/cppmag/" target="_blank" >CPP Magazine 
+									<svg title="Opens in new window"
+										xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-box-arrow-up-right" viewBox="0 0 16 16">
+										<path fill-rule="evenodd" d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5"/>
+										<path fill-rule="evenodd" d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0z"/>
+									</svg>
+								</a>
+							</li>
+							<li>
+								<a class="card-link" href="https://broncomag.cpp.edu/"  target="_blank">Bronco Digital Magazine 
+        											<svg title="Opens in new window"
+												xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-box-arrow-up-right" viewBox="0 0 16 16">
+												<path fill-rule="evenodd" d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5"/>
+												<path fill-rule="evenodd" d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0z"/>
+											</svg>
+										</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section>
+				<footer class="container-fluid">
+					<div class="row">
+						<img class="footer-logo" src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png" alt="calpoly pomona">
+							<p class="footer-address">3801 W. TEMPLE AVE. POMONA, CA 91768</p>
+					  
+    							<ul id="footer-social">
+                                  <li>
+                                    <a href="https://www.facebook.com/calpolypomona"><i class="fab fa-facebook"></i><span class="sr-only">Facebook</span></a>
+                                  </li>
+                                   <li>
+                                    <a href="https://www.instagram.com/calpolypomona"><i class="fab fa-instagram"></i><span class="sr-only">Instagram</span></a>
+                                  </li> 
+                                   <li>
+                                    <a href="https://www.youtube.com/user/calpolypomona"><i class="fab fa-youtube-square"></i><span class="sr-only">Youtube</span></a>
+                                  </li> 
+                                   <li>
+                                    <a href="https://www.twitter.com/calpolypomona">
+                                    <svg style="margin-top: -5px;" xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-twitter-x" viewBox="0 0 16 16">
+  <path d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865z"/>
+</svg>    
+                                    <span class="sr-only">Twitter</span></a>
+                                  </li> 
+                                    <li>
+                                    <a href="https://www.linkedin.com/edu/school?id=17815"><i class="fab fa-linkedin-in"></i><span class="sr-only">Linked In</span></a>
+                                  </li> 
+                               </ul>
+                           
+							<p class="footer-bottom"><a href="https://www.cpp.edu/stratcomm/">CPP News is managed by the Department of Strategic Communications.</a></p>
+						</div>
+					</footer>
+<script>
+    
+    function copyLink(copyText) {
+          // Select the text field
+          copyText = window.location.href;
+          navigator.clipboard.writeText(copyText);
+          // Alert the copied text
+          alert("Copied the article link: " + copyText);
+}
+</script>
+
+		</footer>
+		<script crossorigin="anonymous" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" type="text/javascript"></script>
+		<script crossorigin="anonymous" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+		<script src="/news/_files/js/functions.js" type="text/javascript"></script>
+	</body>
+</html>

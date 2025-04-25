@@ -1,0 +1,569 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+		<title>
+			Calendar of Events
+		</title>
+		<!-- Required meta tags -->
+		<meta charset="utf-8"/>
+		<meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
+		<meta content="$dept_name" property="cludo:category"/>
+<meta content="2021-06-22T17:03Z" property="date"/>
+<link href="https://www.cpp.edu/events/index.shtml" rel="canonical"/>
+		
+		
+		
+    <div lang="en">
+
+
+                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                <script src="https://cdn.levelaccess.net/accessjs/YW1wX2NwcDExMDM/access.js"></script>
+<script>// <![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSKJRNV');
+// ]]></script>
+<link href="/common/green-and-gold/assets/icons/gg-favicon.svg" rel="icon" type="image/svg+xml"/> <link crossorigin="anonymous" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" rel="stylesheet"/>
+<script crossorigin="anonymous" defer="defer" integrity="sha384-FW78RPcSpi13vjx77nPWQIrQbNSLkPBopb0qGzLCxD2x4Kr6FA8V05C/6cpgkKPL" src="https://pro.fontawesome.com/releases/v5.10.1/js/all.js"></script>
+<link href="https://www.cpp.edu/common/2018/assets/css/cpp-base-styles.css" rel="stylesheet"/> <link href="https://www.cpp.edu/common/2018/assets/css/cpp-extended-styles.css" rel="stylesheet"/> <link href="https://use.typekit.net/fia5dle.css" rel="stylesheet"/> <link href="/common/green-and-gold/assets/css/cpp-fonts.css" rel="stylesheet"/> <link href="/common/green-and-gold/assets/css/gg-header-footer.css" rel="stylesheet"/>
+
+</div>
+    
+		
+		
+	</head>
+	<body>
+		
+		
+    
+
+                
+        
+               
+          
+       
+        
+        
+    
+    
+                                <style><!--
+#consent-box {
+	width: 315px;
+	background: #fff;
+	position: fixed;
+	bottom: 20px;
+	line-height: 25px;
+	right: 20px;
+	z-index: 9999999;
+	padding: 15px;
+	-webkit-box-shadow: 0 0 15px rgba(0, 0, 0, .5);
+	box-shadow: 0 0 15px rgba(0, 0, 0, .5);
+	font-size: 11pt;
+	display: none;
+}
+
+#accept-btn,
+#learn-more {
+	margin: 0 5px
+}
+@media screen and max-width(767px) {
+    form.gsc-search-box {
+        width: 100%;
+    }
+    #searchhelp {
+        top: 120px;
+    }
+}
+form.gsc-search-box {
+	margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    width: auto;
+}
+table.gsc-seach-box td.gsc-input {
+padding: 0;
+    margin: 0;
+}
+table.gsc-inpute {
+width: 250px;
+    padding: 0px;
+}
+table.gsc-search-box td.gsc-input {
+    padding-right: 0;
+    width: 290px;
+    background-color: #e6e6e6;
+}
+
+input.gsc-input, .gsc-input-box, .gsc-input-box-hover, .gsc-input-box-focus {
+    border-color: #DFE1E5;
+    width: 100%;
+    padding: 0 0 0 5px !important;
+    font-weight: 100;
+    height: 60px;
+    background: none !important;
+    border: none;
+    color: #4e4e4e;
+}
+.gsc-search-button-v2 {
+    padding: 0;
+}
+.gsc-search-button-v2 svg {
+	width: auto;
+    	height: 18px;
+}
+form.gsc-search-box {
+    margin-top: -1px;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    width: auto;
+}
+.gsib_a {
+    padding: 0;
+}
+.gscb_a {
+    line-height: 60px;
+}
+.gsc-search-button-v2, .gsc-search-button-v2:hover, .gsc-search-button-v2:focus {
+    border-color: #01426A;
+    background-color: #01426A;
+    background-image: none;
+    filter: none;
+    height: 60px;
+    width: 50px;
+    border: none;
+    font-size: 24px;
+    border-radius: 0;
+    margin: 0;
+    vertical-align: top;
+}
+input.gsc-input {
+    font-weight: 100;
+    font-size: 20px !important;
+    color: #4e4e4e;
+}
+input.gsc-input::placeholder {
+    font-weight: 100;
+    font-size: 20px !important;
+    color: #4e4e4e;
+}
+
+#searchhelp {
+    width: 340px;
+}
+#gsc-i-id1 {
+    height:auto !important;
+}
+--></style>
+<div id="consent-box" role="alert" tabindex="0">We use cookies to make your website experience better. To learn about how we keep your information safe, view our <a href="https://www.cpp.edu/privacy.shtml" rel="noopener" target="_blank">Privacy Policy</a>.
+<div style="text-align: center; margin-top: 15px;"><button class="btn btn-primary" id="accept-btn" type="submit">Accept</button><button class="btn btn-primary" id="dismiss-btn" type="submit">Dismiss</button></div>
+</div>
+<div class="cpp-alert-bar"><?xml version="1.0" encoding="utf-8" ?>
+<div lang="en">
+
+
+</div></div>
+<a class="sr-only" href="#main" id="skip-to-nav" style="top: 0px; left: 15px;">Skip To Main Content</a><header title="audience gateway"><nav>
+<ul class="audience">
+<li class="afs"><a href="/apply/index.shtml">Apply</a></li>
+<li class="acs"><a href="/student-gateway/index.shtml">Current Students</a></li>
+<li class="acl"><a href="/campus-life/index.shtml">Campus Life</a></li>
+<li class="astaff"><a href="/faculty-staff-gateway/index.shtml">Faculty/Staff</a></li>
+<li class="afamily"><a href="/family/index.shtml">Parents/Family</a></li>
+<li class="aalumni"><a href="https://www.cpp.edu/alumni/">Alumni</a></li>
+<li class="amycpp"><a href="https://my.cpp.edu">MyCPP <i class="fas fa-sign-in-alt"></i> </a></li>
+</ul>
+</nav></header><header class="fixed-top" title="Cal Poly Pomona Search"><nav class="navbar navbar-expand transparent cpp-logobar-min" id="cpp-logobar">
+<div class="navbar-nav mr-auto"><a class="logo align-middle" href="https://www.cpp.edu/index.shtml" id="cpp-header-logo-link"> <img alt="Cal Poly Pomona" id="cpp-logo-octo" src="/common/2018/assets/img/cpp-octo-web.svg"/> <!--	<img alt="Cal Poly Pomona" id="cpp-logo-octo" src="/common/2018/assets/img/calpoly-3-color-adjusted.png" />--> </a></div>
+<script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+<div class="gcse-searchbox-only" data-resultsurl="https://www.cpp.edu/search.shtml"></div>
+<div aria-expanded="false" class="show" id="shcontainer">
+<div aria-labelledby="suggestedh2" aria-live="polite" class="" id="searchhelp">
+<h2 id="suggestedh2" tabindex="0">Popular Searches</h2>
+<button aria-label="close popular searches window" class="close" id="close-search" type="button">&#215;</button>
+<ul id="autocomplete-results"></ul>
+</div>
+</div>
+</nav></header>
+<div id="alert"></div>
+
+    
+		                                                                                                                                                        																										                                                            															    		    
+
+
+            
+
+    <header title="Calendar of Events">
+
+
+
+      
+        
+    
+<style>
+.glance li {
+	display: inline;
+
+}
+.glance-title {
+    display: block;
+    margin-left: 15px;
+    color: #00416b;
+    font-size: 45px;
+    line-height: 70px;
+    font-weight: 800;
+}
+.glance-desc {
+    display: block;
+    background-color: #ffc107;
+    padding: 15px;
+    margin-left: 35px;
+    margin-right: -15px;
+    color: #000000;
+	font-style: italic;
+}
+
+.glance {
+    padding: 0px;
+}
+
+.glance-section {
+    background-color: #00416b;
+        padding: 20px 20px;
+}
+
+
+.glance h2 {
+    color: #fff;
+    font-size: 1.2em;
+    font-weight: 500;
+}
+</style>
+ 
+
+    
+        </header>
+
+    
+
+
+    <main class="container-fluid flex-grow">
+
+    <div class="row">
+                <div class="col-lg-9 col-sm-12" id="main">
+                        <h1 class="cpp-h1">Calendar of Events</h1>
+            
+
+
+    
+                    
+            
+                
+                                     <div class="alert alert-secondary" role="alert">
+Notifications are not provided to users when a date is selected and page is updated.&#160; Some links open a new window without providing advanced warning to users. &#160;If you need assistance, contact <a href="mailto:calendar@cpp.edu">calendar@cpp.edu</a>
+
+
+</div>
+                                          
+       
+	
+	
+ 
+         
+    
+
+    
+                                            
+                                    <section class="text-images" id="s0">
+                                
+                                                        
+        
+               
+          
+       
+        
+        
+    
+    
+                                            <style><!--
+td.twMiniCalToday {
+        text-decoration:underline;
+    }
+    .twRyoPhotoEventsItemHeader {
+    font-family: 'Open Sans', helvetica, arial, sans-serif;
+    font-size: 14pt;
+    color: #333333;
+    font-weight: bold;
+ Margin-top:15px;
+}
+
+.twRyoPhotoEventsItem {
+    margin-bottom: 6px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #cccccc;
+}
+
+.twContentCell br {
+	display:none;
+}
+
+.twRyoPhotoEventsDescription a {
+    font-family: 'Open Sans', helvetica, arial, sans-serif;
+    font-size: 16pt;
+    color: #333333;
+    font-weight: 400;
+    padding-right: 8px;
+}
+.twRyoPhotoEventsNotes p {
+    margin-top: 0;
+    margin-bottom: 10px;
+	line-height: 16pt;
+   color: #545b62;
+}
+--></style>
+<section id="calendar">
+<script src="//25livepub.collegenet.com/scripts/spuds.js" type="text/javascript"></script>
+<div class="row">
+<div class="col-sm-3">
+<div class="mb-3">
+<script type="text/javascript">// <![CDATA[
+$Trumba.addSpud({
+webName: "cpp-master-calendar",
+spudType : "datefinder" });
+// ]]></script>
+</div>
+<div class="mb-3">
+<script type="text/javascript">// <![CDATA[
+$Trumba.addSpud({
+webName: "cpp-master-calendar",
+spudType : "mix" ,
+url : { filterview : "master-default" }
+ });
+// ]]></script>
+</div>
+<div class="mb-3">
+<script type="text/javascript">// <![CDATA[
+$Trumba.addSpud({
+webName: "cpp-master-calendar",
+spudType : "searchlabeled", 
+    url : { filterview : "master-default" } });
+});
+// ]]></script>
+</div>
+</div>
+<div class="col-sm-9"><!--
+<script type="text/javascript">// <![CDATA[
+$Trumba.addSpud({
+webName: "cpp-master-calendar",
+spudType : "tabchooser" });
+// ]]></script>
+-->
+<div aria-live="polite">
+<script type="text/javascript">// <![CDATA[
+$Trumba.addSpud({
+webName: "cpp-master-calendar",
+spudType : "main",
+url : { filterview : "master-default" } 
+    
+});
+// ]]></script>
+</div>
+</div>
+</div>
+</section>
+            </section>
+                            
+                  
+       
+	
+	
+ 
+         
+    
+
+        
+    </div>
+        <aside class="col-lg-3 col-md offset-md-4 offset-lg-0 offset-0 col-12">
+                                                    <div>
+                  
+                                    <h2>Related Links</h2>
+                                
+                        
+        
+               
+          
+       
+        
+        
+    
+    
+                                            <ul>
+<li><a href="https://schedule.cpp.edu/" rel="noopener" target="_blank" title="Public Schedule of Classes (opens in new window)">Public Schedule of Classes</a></li>
+<li><a href="https://www.cpp.edu/studentsuccess/academic-calendar/finals-week.shtml" rel="noopener" target="_blank" title="Final Exam Schedules (opens in new window)">Final Exam Schedules</a></li>
+<li><a href="https://livecsupomona.sharepoint.com/:f:/s/sem1/EqNNb22E_aFLrduW5rA-XAkBbzB8mEA5BFfvZHLticVLWw?e=dK4wuT" rel="noopener" target="_blank" title="25Live Training Guides (opens in new window)">25Live Training Guides</a></li>
+</ul>
+                
+                                </div>
+                                                                <div>
+                  
+                                    <h2>Submit an Event</h2>
+                                
+                        
+        
+               
+          
+       
+        
+        
+    
+    
+                                            <p>Faculty, Staff, and Student e-Board Schedulers: If you like to submit an event, please login to 25Live.</p>
+<ul>
+<li><a href="https://25live.collegenet.com/pro/cpp#!/home/dash">Log into 25live</a></li>
+</ul>
+                
+                                </div>
+                        </aside>
+</div>
+</main>
+
+		
+    <div lang="en">
+
+
+                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                 
+<style>
+     @media screen and (min-width: 992px) {
+    .mini-footer .footer__socials-buttons {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}
+
+.mini-footer .button1__transducer {
+    font-size: 12px;
+    letter-spacing: .5px;
+}
+
+.mini-footer .button {
+	margin-top: 0;
+    padding: 8px 20px 8px 20px;
+
+}
+.mini-footer .footer-line {
+    border-top: thin solid #a4d65e;
+    margin-top: 39px;
+    padding-top: 15px;
+}
+ </style>
+<footer class="footer mini-footer">
+    <div class="footer__rip-wrapper">
+        <img class="footer__rip" alt="" src="/common/green-and-gold/assets/images/green-rip.svg" alt="Ripped green paper." />
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-2">
+                <div class="footer__logo-wrapper">
+                    <a href="/" aria-label="CPP Logo">
+                        <img class="footer__logo" src="/common/green-and-gold/assets/logos/cpp_primary_1c_gold_rgb.png" alt="Cal Poly Pomona logo, building with a palm tree." />
+                    </a>
+                </div>
+            </div>
+            <div class="col-12 col-lg-6 offset-lg-4">
+                <div class="footer__socials">
+                    <div class="footer__socials-buttons">
+                        <a class="button button__secondary button1__transducer" href="/apply/">Apply</a>
+                        <a class="button button__secondary button1__transducer" href="https://maps.cpp.edu/">Maps</a>
+                        <a class="button button__secondary button1__transducer" href="/outreach/tours.shtml">Visit</a>
+                        <a class="button button__secondary button1__transducer" href="/contact.shtml">Contact Us</a>
+                    </div>
+                    <div class="footer__socials-icons">
+                        <a href="https://www.instagram.com/calpolypomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram opens a new window" />
+                        </a>
+                        <a href="https://www.linkedin.com/school/cal-poly-pomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn opens a new window" />
+                        </a>
+                        <a href="https://www.youtube.com/user/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="YouTube opens a new window" />
+                        </a>
+                        <a href="https://www.facebook.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook opens a new window" />
+                        </a>
+                        <a href="https://twitter.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X opens a new window" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 footer-line">
+                <div class="footer__errata">
+                    <p class="footer__copyright" style="line-height: 1.8em">Copyright ©2025 California State Polytechnic University, Pomona.  All Rights Reserved 
+                        
+                        <br />A campus of 
+                        
+                        <a class="footer__errata-link" style="display: inline" href="https://www.calstate.edu/">The California State University</a>.
+                    
+                    </p>
+                    <div class="footer__errata-links">
+                        <a class="footer__errata-link" href="https://www.cpp.edu/website-feedback.shtml">Feedback</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/privacy.shtml">Privacy</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/accessibility.shtml">Accessibility</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/file-viewers.shtml">Document Readers</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer__gradient-bottom"></div>
+</footer>
+
+
+<script   src="https://code.jquery.com/jquery-3.2.1.min.js"   integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="   crossorigin="anonymous">
+</script><script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script src="https://www.cpp.edu/common/green-and-gold/assets/js/cpp-legacy.js" ></script>
+<script src="https://www.cpp.edu/common/2018/assets/js/tabs.js" ></script>
+<script src="/common/green-and-gold/assets/js/nav.js"></script>
+
+
+</div>
+    
+		
+		
+	</body>
+</html>

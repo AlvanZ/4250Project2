@@ -1,0 +1,2130 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+    <head>
+        <meta charset="UTF-8"/>
+        <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+        <meta content="ie=edge" http-equiv="X-UA-Compatible"/>
+        <title>
+            Office of Academic Innovation
+        </title>
+        <meta content="Office of Academic Innovation, OAI, AI" name="keywords"/>
+        <meta content="The Office of Academic Innovation fosters student success by promoting creativity, innovation, and lifelong learning through collaboration at Cal Poly Pomona.&#13;&#10;&#13;&#10;" name="description"/>
+        
+            <script src="https://cdn.levelaccess.net/accessjs/YW1wX2NwcDExMDM/access.js"></script>
+<script>// <![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSKJRNV');
+// ]]></script>
+<link rel="icon" href="/common/green-and-gold/assets/icons/gg-favicon.svg"  type="image/svg+xml" />
+<link rel="icon" href="/common/green-and-gold/assets/icons/gg-favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/index.css" />
+<link rel="stylesheet" href="https://use.typekit.net/fia5dle.css" />
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/cpp-fonts.css" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+<script src="/common/green-and-gold/assets/js/accordion.js"></script>
+<script crossorigin="anonymous" defer="defer" integrity="sha384-FW78RPcSpi13vjx77nPWQIrQbNSLkPBopb0qGzLCxD2x4Kr6FA8V05C/6cpgkKPL" src="https://pro.fontawesome.com/releases/v5.10.1/js/all.js"></script>
+<script src="/common/green-and-gold/assets/js/modal.js"></script>
+<script src="/common/green-and-gold/assets/js/fontawesome/v6.0x/sharp-light.js" crossorigin="anonymous" type="text/javascript"></script>
+<script src="/common/green-and-gold/assets/js/fontawesome/v6.0x/sharp-others.js" crossorigin="anonymous" type="text/javascript"></script>
+<!-- Swiper Library -->
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/swiper-bundle.min.css" />
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/swiper-carousel.css" />
+<script src="/common/green-and-gold/assets/js/swiper-bundle.min.js"></script>
+<script src="/common/green-and-gold/assets/js/carousel-cards-swiper.js"></script>
+
+    </head>
+    <body>
+        <a class="skip-to-content-link" href="#main">Skip to content</a>
+             <header class="nav fixed">
+    <nav class="container">
+        <ul class="row nav__main" id="mainNavMenu">
+            <li id="main-logo" class="col-6 col-lg-3 nav__logo">
+                <a href="/" aria-label="Cal Poly Pomona Home" tabindex="0">
+                    <div class="nav__logo--horizontal">
+                        <img src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png" alt="Cal Poly Pomona Logo" />
+                    </div>
+                </a>
+            </li>
+            <!-- department header hidden by default-->
+            <li id="dept-header-desktop" class="col-sm-5 col-md-6 nav__logo desktop d-none">
+                <a href="/" aria-label="Cal Poly Pomona Home" tabindex="0">
+                    <div class="nav__logo--stacked">
+                        <img src="/common/green-and-gold/assets/logos/cpp_primary_2c_green_cmyk.png" alt="Cal Poly Pomona Logo">
+                        </div>
+                    </a>
+                    <div class="divider"></div>
+                    <div id="split-header" class="nav__division col-lg-6">
+                        <div id="large-name"></div>
+                        <div style="display:none" id="sub-name"></div>
+                    </div>
+                </div>
+            </li>
+            <li class="nav__links col-2" id="head-links">
+                <a class="nav__link nav__link--desktop col-1" href="/commencement/" tabindex="0">
+                    <svg
+                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 1px;
+    width: auto;
+">
+                        <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                        <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#005030"></path>
+                    </svg>
+                    <span class="sr-only">commencement</span>
+                </a>
+                <a class="nav__link nav__link--desktop col-1" href="/apply/" tabindex="0">apply</a>
+                <a class="nav__link nav__link--desktop col-1" href="/outreach/tours.shtml" tabindex="0">visit</a>
+                <a class="nav__link nav__link--desktop col-1" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="0">info</a>
+                <a class="nav__link nav__link--desktop col-1" href="/giving/" tabindex="0">give</a>
+                <a class="nav__link nav__link--desktop col-1" href="https://my.cpp.edu" tabindex="0">mycpp</a>
+                <button id="search-open" class="nav__search col-1" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/search-dark-green.svg" alt="Open search box" />
+                </button>
+                <button class="nav__menu col-1" id="menuButton" aria-expanded="false" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/menu.svg" alt="menu" />
+                </button>
+            </li>
+        </ul>
+    </nav>
+</header>
+<header id="search-header" style="display:none">
+    <div class="row">
+        <div class="col-md-6"></div>
+        <div id="searchbox" class="col-md-6">
+            <div id="search-slide">
+                <label for="#gsc-i-id1" class="sr-only">Search</label>
+                <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+                <div class="gcse-searchbox-only" data-resultsurl="https://www.cpp.edu/search.shtml"></div>
+                <button class="nav__menu col-1" id="search-close" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close search menu">
+                    </button>
+                </div>
+            </div>
+            <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+            <script>
+       $("#search-open").click(function() {
+         $("#search-header").show();
+         $("#search-slide").addClass("slideup");
+         $("#gsc-i-id1").focus();
+         $('#search-close').focusout(function() {
+           $("#search-header").hide();
+           $("#search-slide").removeClass("slideup");
+           $("#search-open").focus();
+         })
+       });
+       $("#search-close").click(function() {
+         $("#search-header").hide();
+         $("#search-slide").removeClass("slideup");
+         $("#search-open").focus();
+       });
+     </script>
+            <style>
+       .gstl_50 gssb_c {
+         position: fixed !important;
+       }
+
+       #searchbox {
+         height: 93px;
+         overflow: hidden;
+       }
+
+       #search-header {
+         position: fixed;
+         height: 100px;
+         width: 100%;
+         height: 93px;
+         z-index: 99999;
+         top: 0;
+       }
+
+       #gsc-i-id1 {
+         height: 40px;
+         width: 70%;
+         border-radius: 4px;
+         border: none;
+         padding: 15px;
+       }
+
+       #search-submit {
+         margin: 15px;
+       }
+
+       #search-close {
+         width: 23px;
+         height: 21px;
+         position: absolute;
+         top: 32px;
+       }
+
+       #search-slide {
+         width: 0px;
+         right: -100%;
+         padding: 20px 15px;
+         position: relative;
+         background: #005030;
+         height: 100%;
+         transition: all .5s ease 0s
+       }
+
+       #search-slide.slideup {
+         right: 0;
+         width: 100%;
+         position: relative;
+       }
+
+       @media screen and (max-width:991px) {
+         #search-slide {
+           height: 77px !important;
+           padding: 12px 10px;
+         }
+       }
+
+       @media screen and (max-width:767px) {
+         #search-header {
+           position: relative !important;
+         }
+
+         #search-slide {
+           text-align: center !important;
+         }
+       }
+
+       .gsc-search-button-v2 svg {
+         width: auto;
+         height: 21px;
+       }
+
+       .gsc-search-button-v2,
+       .gsc-search-button-v2:hover,
+       .gsc-search-button-v2:focus {
+         border: none !important;
+         background: none !important;
+       }
+
+       form.gsc-search-box {
+         font-size: 13px;
+         margin-top: 0;
+         margin-right: 0;
+         margin-bottom: 4px;
+         margin-left: 0;
+         width: 100%;
+         display: inline-block;
+       }
+
+       #___gcse_0 {
+         width: 70%;
+         display: inline-block;
+       }
+
+       table.gsc-search-box td.gsc-input {
+         padding-right: 0;
+       }
+
+       #gsc-i-id1 {
+         width: 100%;
+         padding: 0px;
+         border: none;
+         margin: -0.0625em 0px 0px;
+         height: 40px !important;
+         background: rgb(255, 255, 255);
+         outline: none;
+         font-size: 20px;
+         font-weight: 200;
+       }
+
+       .gstl_50.gssb_c {
+         z-index: 99999;
+       }
+
+       .gsq_a {
+         font-weight: 200;
+         font-size: 18px;
+         padding: 2px;
+       }
+
+       .gssb_a img {
+         display: none;
+       }
+     </style>
+        </div>
+    </header>
+    <section class="side-nav" id="sideNavOverlay">
+        <header class="side-nav__overlay relative">
+            <nav class="container">
+                <ul class="row nav__overlay" id="sideNavMenu">
+                    <li class="nav__logo col-12 col-md-10 col-lg-3" id="navLogoOverlay">
+                        <a href="/" aria-label="Cal Poly Pomona Home" tabindex="-1">
+                            <img src="/common/green-and-gold/assets/logos/cpp_horizontal_1c_gold_rgb.png" alt="Cal Poly Pomona Logo" />
+                        </a>
+                    </li>
+                    <div class="nav__overlay--right col-12 col-lg-9">
+                        <li class="nav__links nav__links--desktop col-12 col-lg-6">
+                            <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 1px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/apply/" tabindex="-1">apply</a>
+                            <a class="nav__link nav__link--mobile col-1" href="/outreach/tours.shtml" tabindex="-1">visit</a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="-1">info</a>
+                            <a class="nav__link nav__link--mobile col-1" href="/giving/" tabindex="-1">give</a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://my.cpp.edu" tabindex="-1">mycpp</a>
+                        </li>
+                        <li class="nav__icons col-1">
+                            <button id="search-open-green" class="nav__search col-1" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/search-white.svg" alt="Open search box" />
+                            </button>
+                            <button class="nav__close col-1" id="closeButton" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close menu" />
+                            </button>
+                        </li>
+                        <li class="nav__links nav__links--mobile col-12 col-lg-6">
+                            <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 1px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/apply/" tabindex="-1">apply </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/outreach/tours.shtml" tabindex="-1">visit </a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="-1">info </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/giving/" tabindex="-1">give </a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://my.cpp.edu" tabindex="-1">mycpp </a>
+                        </li>
+                    </div>
+                </ul>
+            </nav>
+        </header>
+        <nav class="container side-nav__container">
+            <ul class="row side-nav__links">
+                <li class="side-nav__link col-12">
+                    <a class="h3__proxima" href="/" tabindex="-1" aria-label="Cal Poly Pomona Home page">Home</a>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--0">
+                    <button class="h3__proxima" id="0" aria-expanded="false" tabindex="-1" aria-label="About">
+                        <span>about</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--1">
+                    <button class="h3__proxima" id="1" aria-expanded="false" tabindex="-1" aria-label="Admissions & Aid">
+                        <span>admissions &amp; aid</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--2">
+                    <button class="h3__proxima" id="2" aria-expanded="false" tabindex="-1" aria-label="Academics">
+                        <span>academics</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--3">
+                    <button class="h3__proxima" id="3" aria-expanded="false" tabindex="-1" aria-label="Life at CPP">
+                        <span>life at CPP</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small">
+            <ul class="row">
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="https://broncoathletics.com/" tabindex="-1">athletics</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/alumni/" tabindex="-1">alumni</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/news/" tabindex="-1">news &amp; events</a>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small-bottom">
+            <ul class="col-12 col-lg-6 side-nav__links--small-bottom">
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/prospective-student-gateway/" tabindex="-1">future students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/student-gateway/" tabindex="-1">current students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/family/" tabindex="-1">families</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/faculty-staff-gateway/" tabindex="-1">faculty &amp; staff</a>
+                </li>
+            </ul>
+            <ul class="col-12 col-lg-6 social-icons">
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.instagram.com/calpolypomona/" aria-label="Instagram" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.linkedin.com/school/cal-poly-pomona/" aria-label="LinkedIn " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.youtube.com/user/calpolypomona" aria-label="Youtube " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="Youtube" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.facebook.com/calpolypomona" aria-label="Facebook " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://twitter.com/calpolypomona" aria-label="X (Twitter)" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X" />
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </section>
+    <script src="/common/green-and-gold/assets/js/nav.js"></script>
+
+            <script>
+    
+                      
+    
+                var mobileHtml = '<li class="col-6 nav__logo mobile"><a aria-label="Cal Poly Pomona Home" href="https://www.cpp.edu/" tabindex="0"><div class="nav__logo--horizontal"><img alt="Cal Poly Pomona Logo" src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png"/></div></a></li>';
+                $( "#main-logo" ).hide();
+                $( "#split-header #large-name" ).html('<a href="/ai/index.shtml">Office of Academic Innovation</a>');
+                $( "#dept-header-desktop" ).removeClass("d-none");
+                $( "#dept-header-desktop" ).addClass("d-flex");
+                $( "#dept-header-desktop" ).parent().prepend(mobileHtml);
+       
+        
+                
+     </script>
+
+    
+
+
+  
+
+   
+
+
+  
+
+  
+            
+    
+       
+
+
+                 
+
+<header class="sub-nav">
+<nav class="container" id="subNavContainer">
+    <ul class="row sub-nav__links">
+
+           <li class="sub-nav__link">
+            <a class="button__proxima sub-nav__link--default" href="/ai/index.shtml" tabindex="0">Home</a>
+        </li>
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">How to Participate <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/ai/student-opportunities.shtml" tabindex="0">Student Opportunities</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/ai/faculty-and-staff-opportunities.shtml" tabindex="0">Faculty and Staff Opportunities</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/ai/alumni-opportunities.shtml" tabindex="0">Alumni Opportunities</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Offices <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://careercenter.cpp.edu/" tabindex="0">Career Center</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/~cce/" tabindex="0">Center for Community Engagement</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/ii/index.shtml" tabindex="0">Innovation Incubator</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/~honorscollege/index.shtml" tabindex="0">Kellogg Honors College</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/our-cpp/" tabindex="0">Office of Undergraduate Research</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/siil" tabindex="0">Student Innovation Idea Labs</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Programs <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/cpp-invests/index.shtml" tabindex="0">CPP Invests</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/~i-corps/index.shtml" tabindex="0">Cal Poly Pomona I-Corps</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/spice/index.shtml" tabindex="0">SPICE</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Events <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/ai/oai-events.shtml" tabindex="0">OAI Events</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/ai/faculty-and-staff-summer-conference.shtml" tabindex="0">OAI Summer Conference</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/ai/faculty-and-staff-winter-institute.shtml" tabindex="0">OAI Winter Institute</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/ai/past-conferences-and-institutes.shtml" tabindex="0">Past Conferences and Institutes</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">News <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/ai/oai-in-the-news.shtml" tabindex="0">OAI in the News</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/ai/oai-newsletters.shtml" tabindex="0">OAI Newsletters</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">About Us <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/ai/meet-the-team.shtml" tabindex="0">Meet the Team</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/ai/mission-and-vision.shtml" tabindex="0">Mission &amp; Vision</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+</ul>
+
+<div class="row sub-nav__division-menu">
+    <div class="sub-nav__division"></div>
+        <div class="col-4 menu-button">
+        <button aria-expanded="false" aria-label="Site Menu" class="button button__primary--yellow-green button__proxima" data-dropdown-id="dropdownMenuBtn" id="dropdownMenuBtn">Menu
+             <span class="icon chevron">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" height="12" viewBox="0 0 19 12" width="19">
+            <g id="Atom / Icon / Expand Arrow / Small">
+            <path d="M2 2L9.5 9L17 2" id="Vector 2" stroke="none" stroke-width="3"/>
+            </g>
+            </svg>
+            </span>
+        </button>
+    </div>
+    <div class="sub-nav__dropdown hidden" id="dropdownMenu">
+       
+                       
+             <li class="sub-nav__link">
+    <a class="button__proxima" href="/ai/index.shtml" tabindex="0">Home</a>
+  </li>
+      
+
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="1" tabindex="0">How to Participate<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--1">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/ai/student-opportunities.shtml" tabindex="0">Student Opportunities</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/ai/faculty-and-staff-opportunities.shtml" tabindex="0">Faculty and Staff Opportunities</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/ai/alumni-opportunities.shtml" tabindex="0">Alumni Opportunities</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="2" tabindex="0">Offices<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--2">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://careercenter.cpp.edu/" tabindex="0">Career Center</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/~cce/" tabindex="0">Center for Community Engagement</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/ii/index.shtml" tabindex="0">Innovation Incubator</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/~honorscollege/index.shtml" tabindex="0">Kellogg Honors College</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/our-cpp/" tabindex="0">Office of Undergraduate Research</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/siil" tabindex="0">Student Innovation Idea Labs</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="3" tabindex="0">Programs<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--3">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/cpp-invests/index.shtml" tabindex="0">CPP Invests</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/~i-corps/index.shtml" tabindex="0">Cal Poly Pomona I-Corps</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/spice/index.shtml" tabindex="0">SPICE</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="4" tabindex="0">Events<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--4">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/ai/oai-events.shtml" tabindex="0">OAI Events</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/ai/faculty-and-staff-summer-conference.shtml" tabindex="0">OAI Summer Conference</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/ai/faculty-and-staff-winter-institute.shtml" tabindex="0">OAI Winter Institute</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/ai/past-conferences-and-institutes.shtml" tabindex="0">Past Conferences and Institutes</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="5" tabindex="0">News<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--5">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/ai/oai-in-the-news.shtml" tabindex="0">OAI in the News</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/ai/oai-newsletters.shtml" tabindex="0">OAI Newsletters</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="6" tabindex="0">About Us<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--6">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/ai/meet-the-team.shtml" tabindex="0">Meet the Team</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/ai/mission-and-vision.shtml" tabindex="0">Mission &amp; Vision</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+    </div>
+</div>
+
+
+
+
+</nav>
+<script type="text/javascript">
+    $(".button").attr("data-dropdown-id", "dropdownMenuBtn").on("click", function(event) {
+        var dropdownMenu = $("#dropdownMenu");
+        var nestedDropdownMenus = $(".sub-nav__nested-dropdown");
+        
+        if ($(this).attr("aria-expanded") === "false") {
+            $(this).attr("aria-expanded", "true");
+        } else {
+            $(this).attr("aria-expanded", "false");
+        }
+
+        toggleDropdown(dropdownMenu);;
+        
+        // close all nested dropdown menus if open
+        nestedDropdownMenus.each(function() {
+            if ($(this).hasClass("show")) {
+                $(this).removeClass("show");
+                $(this).addClass("hidden");
+            }
+        })
+    })
+    $(".sub-nav__nested-button").on("click", function(event) {
+        var currentButtonId = $(this).attr("id")
+        var nestedDropdownMenu = $(`#nestedDropdownMenu--${currentButtonId}`)
+        $(this).find(".chevron").toggleClass("active");
+
+        if ($(this).attr("aria-expanded") === "false") {
+            $(this).attr("aria-expanded", "true");
+        } else {
+            $(this).attr("aria-expanded", "false");
+        }
+
+        toggleDropdown(nestedDropdownMenu);
+    })
+    function toggleDropdown(menu) {
+        if (menu.hasClass("hidden")) {
+            menu.removeClass("hidden");
+            menu.addClass("show");
+            
+            //add click listener to check for clicks outside of the nav
+            //https://stackoverflow.com/questions/152975/how-do-i-detect-a-click-outside-an-element/3028037#3028037
+            $(document).click(function(event) { 
+                var $target = $(event.target);
+                if(!$target.closest('#subNavContainer').length) {
+                    closeDropdown(menu);
+                }
+            });
+            
+            //add listener for escape key
+            $(document).on('keydown', function(event) {
+                if (event.key == "Escape") {
+                    closeDropdown(menu);
+            }});
+        } else {
+            menu.removeClass("show");
+            menu.addClass("hidden");
+        }
+    }
+
+    function closeDropdown(menu) {
+        var dropdownMenu = $("#dropdownMenu");
+        var nestedDropdownMenus = $(".sub-nav__nested-dropdown");  
+        $(".button").attr("data-dropdown-id", "dropdownMenuBtn").attr("aria-expanded", "false");
+        nestedDropdownMenus.each(function() {
+            if ($(".button").attr("data-dropdown-id", "dropdownMenuBtn").hasClass("show")) {
+                $(".button").attr("data-dropdown-id", "dropdownMenuBtn").removeClass("show");
+                $(".button").attr("data-dropdown-id", "dropdownMenuBtn").addClass("hidden");
+            }
+        })
+        menu.removeClass("show");
+        menu.addClass("hidden");
+    }
+
+</script>
+</header>
+
+                   
+                           <code></code>
+           
+                            
+<div class="cqw-wrapper" id="main">
+     
+
+<div class="organism-spacer">
+  <section class="hero-subdomain">
+    <img alt="Three individuals in a laboratory setting, wearing lab coats and a headscarf, gathered around laboratory equipment with a laptop in the foreground." class="hero-subdomain__image-accent" src="img/homepage/header/1.jpg"/>
+    <div class="container">
+      <div class="row">
+        <div class="col-12 col-lg-6">
+          <h1 class="hero-subdomain__header h2__proxima">Office of Academic Innovation</h1>
+        </div>
+        <div class="col-12 col-lg-5 offset-lg-1">
+          <div class="hero-subdomain__image-wrapper">
+            <img alt="Group of people posing on a staircase outside a brick building." class="hero-subdomain__image" src="img/homepage/header/2.jpg"/>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+
+
+
+      
+            
+                
+                    
+                        
+                                   
+                            <div class="organism-spacer eggshell-bg cta-green-card__header spacer__padding-top--medium spacer__padding-bottom--large">    
+                                <section class="standard-text body2 cta-green-card" id="content-section-1">
+                        <div class="container">
+                            <div class="row">
+                               
+                                     <header class="cta-green-card__header text-start col-12 col-sm-8">
+                                                                        <h2 class="h4__proxima">The Offices of Academic Innovation curate experiential learning, discovery and innovation opportunities for the Cal Poly Pomona community.</h2>
+                                                                </header>
+                            </div>
+                            <div class="row">
+                                <div class="body2 text-start col-12 col-sm-8"><p>The Office of Academic Innovation (OAI) is dedicated to fostering student success by cultivating a culture of creativity and innovation in teaching and learning. Aligned with Cal Poly Pomona&#8217;s mission to <em><a href="https://www.cpp.edu/strategicplan/mission.shtml">promote success through experiential learning, discovery, and innovation,</a></em> OAI supports the university&#8217;s strategic goal of becoming the epicenter of creativity, innovation, and discovery. Through collaborative efforts with faculty, staff, students, alumni, and external partners we design and implement innovative curricula that inspire engaged, lifelong learning across the Cal Poly Pomona community.</p></div>  
+                            </div>
+                       </div>
+                    </section>
+                </div>
+                                           
+        
+    
+    
+     
+                                                     
+                        
+                      
+            <style>
+  <!--
+  @media (max-width: 767px) {
+    #cardCarousel2 .carousel-inner .card-carousel-item>div {
+      display: none;
+    }
+
+    #cardCarousel2 .carousel-inner .carousel-item>div:first-child {
+      display: block;
+    }
+   
+  }
+  
+  #cardCarousel2 .carousel-inner .carousel-item.active,
+  #cardCarousel2 .carousel-inner .carousel-item-next,
+  #cardCarousel2 .carousel-inner .carousel-item-prev {
+    display: flex;
+  }
+
+  /* medium and up screens */
+  @media (min-width: 768px) {
+
+    #cardCarousel2 .carousel-inner .carousel-item-end.active,
+    #cardCarousel2 .carousel-inner .carousel-item-next {
+      transform: translateX(33%);
+    }
+
+    #cardCarousel2 .carousel-inner .carousel-item-start.active,
+    #cardCarousel2 .carousel-inner .carousel-item-prev {
+      transform: translateX(-33%);
+    }
+  }
+
+  #cardCarousel2 .carousel-inner .carousel-item-end,
+  #cardCarousel2 .carousel-inner .carousel-item-start {
+    transform: translateX(0);
+  }
+
+  #cardCarousel2 .carousel-indicators {
+    bottom: 60px !important;
+  }
+
+  .card-carousel .carousel-item {
+    gap: 20px;
+    padding-top: 20px;
+    height: 100% !important;
+  }
+  -->
+</style>
+         
+      <div class="organism-spacer spacer__padding-top--small spacer__padding-bottom--small">
+                  <div class="container">
+                     <div class="row">
+                      <div class="content-carousel content-carousel--default">
+                                                                       <div class="content-carousel__header stacked">
+                                <h2 class="kicker kicker__transducer">Students</h2>
+                                    <h3 class="h2__proxima col-lg-8">Discover Opportunities to Ignite Your Future</h3>
+                                        <p class="body2 col-12 col-lg-8">The Office of Academic Innovation provides resources and support for student research, innovative solutions, and connecting with a vibrant community of thinkers and doers—turn your ambitions into action and build a future fueled by creativity.</p>
+                                              
+     
+                          <div class="content-carousel content-carousel__controls-wrapper d-flex justify-content-end">
+                          <div class="content-carousel content-carousel__controls">
+                              <button aria-disabled="false" aria-label="Previous slide" class="carousel-prev--2" data-bs-slide="prev" data-bs-target="#cardCarousel2" style="opacity: 1;" type="button">
+                                <span class="visually-hidden">Previous </span>
+                              </button>
+                              <div aria-live="polite" class="carousel-tracker body3">
+                                <div id="cardCarouselNum2"></div>
+                              </div>
+                              <button aria-disabled="false" aria-label="Next slide" class="carousel-next carousel-next--2" data-bs-slide="next" data-bs-target="#cardCarousel2" style="opacity: 1;" type="button">
+                                <span class="visually-hidden">Next </span>
+                              </button>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                     
+                    <div class="card-carousel cutoff carousel slide" data-bs-interval="false" id="cardCarousel2">
+                        <div class="carousel-inner" role="listbox">        
+        
+                                                                                                                              
+                                <div class="card-carousel-item carousel-item  dept-card active col-12" role="group">
+                                  <div class="carousel__card col-12 col-md-4">
+                                     <a class="card card__open card__open--link bar--magenta--with-arrow bar--thin" href="https://www.cpp.edu/polyx/index.shtml">
+                                    
+                                      <div class="card__open-img">
+                                        <img alt="A student in a red plaid shirt explains a research poster to a woman at a busy academic showcase event." class="bright-green-card__image" src="img/homepage/student-opportunities/upscaled/polyx.jpg"/>
+                                      </div>
+                                        <div class="card__open-content">
+                                            <h3 class="h6__proxima">Participate in Polytechnic Experiences (PolyX)</h3>
+                                                                                            <p class="body2 image-card-text">Engage in hands-on, interdisciplinary projects addressing real-world challenge. </p>
+                                                                                    </div>
+                                    </a>
+                                  </div>
+                                </div>
+                                
+                                
+                                                                                                                              
+                                <div class="card-carousel-item carousel-item dept-card col-12" role="group">
+                                  <div class="carousel__card col-12 col-md-4">
+                                     <a class="card card__open card__open--link bar--magenta--with-arrow bar--thin" href="https://www.cpp.edu/our-cpp/index.shtml">
+                                    
+                                      <div class="card__open-img">
+                                        <img alt="A student explains their robotics project to two attendees at a research showcase, with posters and robotic devices displayed on tables." class="bright-green-card__image" src="img/homepage/student-opportunities/upscaled/undergraduate-research.jpg"/>
+                                      </div>
+                                        <div class="card__open-content">
+                                            <h3 class="h6__proxima">Participate in Undergraduate Research Opportunities</h3>
+                                                                                            <p class="body2 image-card-text">Collaborate on research projects to enhance your academic and professional experience.</p>
+                                                                                    </div>
+                                    </a>
+                                  </div>
+                                </div>
+                                
+                                
+                                                                                                                              
+                                <div class="card-carousel-item carousel-item dept-card col-12" role="group">
+                                  <div class="carousel__card col-12 col-md-4">
+                                     <a class="card card__open card__open--link bar--magenta--with-arrow bar--thin" href="https://www.cpp.edu/siil/index.shtml">
+                                    
+                                      <div class="card__open-img">
+                                        <img alt="Students in a maker studio work together on a project involving a sign and tools." class="bright-green-card__image" src="img/homepage/student-opportunities/upscaled/maker-studio.jpg"/>
+                                      </div>
+                                        <div class="card__open-content">
+                                            <h3 class="h6__proxima">Create at the Maker Studio and iLab</h3>
+                                                                                            <p class="body2 image-card-text">Use state-of-the-art tools and resources to bring your ideas to life. </p>
+                                                                                    </div>
+                                    </a>
+                                  </div>
+                                </div>
+                                
+                                
+                                                                                                                              
+                                <div class="card-carousel-item carousel-item dept-card col-12" role="group">
+                                  <div class="carousel__card col-12 col-md-4">
+                                     <a class="card card__open card__open--link bar--magenta--with-arrow bar--thin" href="https://www.cpp.edu/siil/events/bronco-startup-challenge.shtml">
+                                    
+                                      <div class="card__open-img">
+                                        <img alt=" A man with a microphone presents his project titled &quot;Boundary RSS&quot; in front of a large projector screen during an event." class="bright-green-card__image" src="img/homepage/student-opportunities/upscaled/start-ups.jpg"/>
+                                      </div>
+                                        <div class="card__open-content">
+                                            <h3 class="h6__proxima">Launch Startups</h3>
+                                                                                            <p class="body2 image-card-text">Transform your entrepreneurial ideas into successful ventures.</p>
+                                                                                    </div>
+                                    </a>
+                                  </div>
+                                </div>
+                                
+                                
+                                                                                                                              
+                                <div class="card-carousel-item carousel-item dept-card col-12" role="group">
+                                  <div class="carousel__card col-12 col-md-4">
+                                     <a class="card card__open card__open--link bar--magenta--with-arrow bar--thin" href="https://www.cpp.edu/ii/digital-badging/digital-badges.shtml">
+                                    
+                                      <div class="card__open-img">
+                                        <img alt="Two women shake hands at a busy outdoor career fair with informational booths in the background." class="bright-green-card__image" src="img/homepage/student-opportunities/upscaled/digital-credentials.jpg"/>
+                                      </div>
+                                        <div class="card__open-content">
+                                            <h3 class="h6__proxima">Earn Digital Badges</h3>
+                                                                                            <p class="body2 image-card-text">Showcase your skills and achievements with recognized digital credentials. </p>
+                                                                                    </div>
+                                    </a>
+                                  </div>
+                                </div>
+                                
+                                
+                                                                                                                              
+                                <div class="card-carousel-item carousel-item dept-card col-12" role="group">
+                                  <div class="carousel__card col-12 col-md-4">
+                                     <a class="card card__open card__open--link bar--magenta--with-arrow bar--thin" href="https://www.cpp.edu/ii/pop-up-course/about-course.shtml">
+                                    
+                                      <div class="card__open-img">
+                                        <img alt="A large group of students listens attentively to a speaker during a presentation in a lecture hall." class="bright-green-card__image" src="img/homepage/student-opportunities/upscaled/pop-up-courses.jpg"/>
+                                      </div>
+                                        <div class="card__open-content">
+                                            <h3 class="h6__proxima">Pop-Up Courses</h3>
+                                                                                            <p class="body2 image-card-text">Dive into innovative, short-term courses on emerging topics. </p>
+                                                                                    </div>
+                                    </a>
+                                  </div>
+                                </div>
+                                
+                                
+                                                                                                                              
+                                <div class="card-carousel-item carousel-item dept-card col-12" role="group">
+                                  <div class="carousel__card col-12 col-md-4">
+                                     <a class="card card__open card__open--link bar--magenta--with-arrow bar--thin" href="https://www.cpp.edu/ii/micro-internships/for-students.shtml">
+                                    
+                                      <div class="card__open-img">
+                                        <img alt="People sit around a table discussing micro-internship opportunities while using laptops and printed materials." class="bright-green-card__image" src="img/homepage/student-opportunities/upscaled/micro-internships.jpg"/>
+                                      </div>
+                                        <div class="card__open-content">
+                                            <h3 class="h6__proxima">Participate in Micro-Internships</h3>
+                                                                                            <p class="body2 image-card-text">Gain professional experience through short-term, project-based internships. </p>
+                                                                                    </div>
+                                    </a>
+                                  </div>
+                                </div>
+                                
+                                
+                                                                                                                              
+                                <div class="card-carousel-item carousel-item dept-card col-12" role="group">
+                                  <div class="carousel__card col-12 col-md-4">
+                                     <a class="card card__open card__open--link bar--magenta--with-arrow bar--thin" href="https://www.cpp.edu/cce/students/service-learning.shtml">
+                                    
+                                      <div class="card__open-img">
+                                        <img alt="A young volunteer hands bread to an older man at an outdoor food distribution event." class="bright-green-card__image" src="img/homepage/student-opportunities/upscaled/service-learning.jpg"/>
+                                      </div>
+                                        <div class="card__open-content">
+                                            <h3 class="h6__proxima">Volunteer with Service Learning</h3>
+                                                                                            <p class="body2 image-card-text">Apply classroom knowledge to real-world situations through community service.</p>
+                                                                                    </div>
+                                    </a>
+                                  </div>
+                                </div>
+                                
+                                
+                                                                                                                              
+                                <div class="card-carousel-item carousel-item dept-card col-12" role="group">
+                                  <div class="carousel__card col-12 col-md-4">
+                                     <a class="card card__open card__open--link bar--magenta--with-arrow bar--thin" href="https://www.cpp.edu/cce/students/co-op-education/index.shtml">
+                                    
+                                      <div class="card__open-img">
+                                        <img alt="A woman in a striped shirt examines architectural blueprints in a well-lit office space." class="bright-green-card__image" src="img/homepage/student-opportunities/upscaled/cooperation.jpg"/>
+                                      </div>
+                                        <div class="card__open-content">
+                                            <h3 class="h6__proxima">Participate in Cooperative Education</h3>
+                                                                                            <p class="body2 image-card-text">Combine academic learning with practical work experience in your field.</p>
+                                                                                    </div>
+                                    </a>
+                                  </div>
+                                </div>
+                                
+                                
+                                                                                                                              
+                                <div class="card-carousel-item carousel-item dept-card col-12" role="group">
+                                  <div class="carousel__card col-12 col-md-4">
+                                     <a class="card card__open card__open--link bar--magenta--with-arrow bar--thin" href="https://www.cpp.edu/cce/learn-by-doing-good/bronco-stampede-service.shtml">
+                                    
+                                      <div class="card__open-img">
+                                        <img alt="Two people paint a wooden garden border near a blue building as part of a community service project." class="bright-green-card__image" src="img/homepage/student-opportunities/upscaled/bronco-stampede-of-service.jpg"/>
+                                      </div>
+                                        <div class="card__open-content">
+                                            <h3 class="h6__proxima">Volunteer at Bronco Stampede of Service</h3>
+                                                                                            <p class="body2 image-card-text">Participate in university-wide service events that bring the CPP community together to support local organizations and causes.</p>
+                                                                                    </div>
+                                    </a>
+                                  </div>
+                                </div>
+                                
+                                
+                                                                                                                              
+                                <div class="card-carousel-item carousel-item dept-card col-12" role="group">
+                                  <div class="carousel__card col-12 col-md-4">
+                                     <a class="card card__open card__open--link bar--magenta--with-arrow bar--thin" href="https://www.cpp.edu/honorscollege/index.shtml">
+                                    
+                                      <div class="card__open-img">
+                                        <img alt=" A group of students sits around a large table in a classroom, collaborating and discussing their work." class="bright-green-card__image" src="img/homepage/student-opportunities/upscaled/honors-community.jpg"/>
+                                      </div>
+                                        <div class="card__open-content">
+                                            <h3 class="h6__proxima">Join the Honors Community</h3>
+                                                                                            <p class="body2 image-card-text">Connect with high-achieving peers, take specialized courses, and participate in civic engagement opportunities.</p>
+                                                                                    </div>
+                                    </a>
+                                  </div>
+                                </div>
+                                
+                                
+                                                      </div>
+                </div>
+            </div>
+        </div>
+    </div>
+  
+           <script>
+        let items2 = document.querySelectorAll('#cardCarousel2 .card-carousel-item')
+        
+         var cardHeight = 0;
+    var cardMaxHeight = 0;
+      items2.forEach((el) => {
+      
+       if( $(el).css('display') == 'flex') {
+          cardHeight = el.offsetHeight;
+    } else {
+        $(el).addClass('active');
+       cardHeight = el.offsetHeight;
+       $(el).removeClass('active');
+    }
+      if(cardHeight > cardMaxHeight) {
+        cardMaxHeight = cardHeight;
+      }
+        const minPerSlide = 3
+        let next = el.nextElementSibling
+        for (var i = 1; i < minPerSlide; i++) {
+          if (!next) {
+            // wrap carousel by using first child
+            console.log(next);
+            next = items2[0]
+          }
+          let cloneChild = next.cloneNode(true)
+          el.appendChild(cloneChild.children[0])
+          next = next.nextElementSibling
+        }
+      }) 
+            console.log("Max Card Height " + cardMaxHeight);
+    $('#cardCarousel2 .card-carousel-item').height(cardMaxHeight);
+    $('#cardCarousel2 .card-carousel-item .carousel__card').height(cardMaxHeight);
+    var totalItems2 = $('#cardCarousel2 .carousel-item').length;
+    $('#cardCarouselNum2').html(totalItems2);
+   
+    var slide2 = $('#cardCarousel2 .carousel-item.active').index() + 1; 
+    var slideTitle2 = $('#cardCarousel2 .carousel-item.active h3').html(); 
+    $('#cardCarouselNum2').html('<span class="sr-only">Slide</span> ' + slide2 + ' /' + totalItems2 + ' <span class="sr-only">Title:' + slideTitle2 + '</span>');
+    
+       $('#cardCarousel2').on('slid.bs.carousel', function() {
+            slide2 = $('#cardCarousel2 .carousel-item.active').index() + 1; 
+            slideTitle2 = $('#cardCarousel2 .carousel-item.active h3').html(); 
+            $('#cardCarouselNum2').html('<span class="sr-only">Slide</span> ' + slide2 + ' /' + totalItems2 + ' <span class="sr-only">Title:' + slideTitle2 + '</span>');
+          })
+ 
+   
+   
+</script>
+           
+           
+ 
+ 
+
+     
+        
+        
+    
+    
+     
+                                                     
+                        
+                      
+            <style>
+  <!--
+  @media (max-width: 767px) {
+    #cardCarousel3 .carousel-inner .card-carousel-item>div {
+      display: none;
+    }
+
+    #cardCarousel3 .carousel-inner .carousel-item>div:first-child {
+      display: block;
+    }
+   
+  }
+  
+  #cardCarousel3 .carousel-inner .carousel-item.active,
+  #cardCarousel3 .carousel-inner .carousel-item-next,
+  #cardCarousel3 .carousel-inner .carousel-item-prev {
+    display: flex;
+  }
+
+  /* medium and up screens */
+  @media (min-width: 768px) {
+
+    #cardCarousel3 .carousel-inner .carousel-item-end.active,
+    #cardCarousel3 .carousel-inner .carousel-item-next {
+      transform: translateX(33%);
+    }
+
+    #cardCarousel3 .carousel-inner .carousel-item-start.active,
+    #cardCarousel3 .carousel-inner .carousel-item-prev {
+      transform: translateX(-33%);
+    }
+  }
+
+  #cardCarousel3 .carousel-inner .carousel-item-end,
+  #cardCarousel3 .carousel-inner .carousel-item-start {
+    transform: translateX(0);
+  }
+
+  #cardCarousel3 .carousel-indicators {
+    bottom: 60px !important;
+  }
+
+  .card-carousel .carousel-item {
+    gap: 20px;
+    padding-top: 20px;
+    height: 100% !important;
+  }
+  -->
+</style>
+         
+      <div class="organism-spacer spacer__padding-top--small spacer__padding-bottom--small">
+                  <div class="container">
+                     <div class="row">
+                      <div class="content-carousel content-carousel--default">
+                                                                       <div class="content-carousel__header stacked">
+                                <h2 class="kicker kicker__transducer">Faculty and Staff</h2>
+                                    <h3 class="h2__proxima col-lg-8">Explore Opportunities to Transform Higher Education</h3>
+                                        <p class="body2 col-12 col-lg-8">The Office of Academic Innovation (OAI) believes in inspiring faculty and staff to lead the charge in redefining education. Through innovative resources and collaborative opportunities, we foster an environment where creativity flourishes, professional growth thrives, and transformative learning takes shape for the Cal Poly Pomona community.</p>
+                                              
+     
+                          <div class="content-carousel content-carousel__controls-wrapper d-flex justify-content-end">
+                          <div class="content-carousel content-carousel__controls">
+                              <button aria-disabled="false" aria-label="Previous slide" class="carousel-prev--2" data-bs-slide="prev" data-bs-target="#cardCarousel3" style="opacity: 1;" type="button">
+                                <span class="visually-hidden">Previous </span>
+                              </button>
+                              <div aria-live="polite" class="carousel-tracker body3">
+                                <div id="cardCarouselNum3"></div>
+                              </div>
+                              <button aria-disabled="false" aria-label="Next slide" class="carousel-next carousel-next--2" data-bs-slide="next" data-bs-target="#cardCarousel3" style="opacity: 1;" type="button">
+                                <span class="visually-hidden">Next </span>
+                              </button>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                     
+                    <div class="card-carousel cutoff carousel slide" data-bs-interval="false" id="cardCarousel3">
+                        <div class="carousel-inner" role="listbox">        
+        
+                                                                                                                              
+                                <div class="card-carousel-item carousel-item  dept-card active col-12" role="group">
+                                  <div class="carousel__card col-12 col-md-4">
+                                     <a class="card card__open card__open--link bar--magenta--with-arrow bar--thin" href="faculty-and-staff-summer-conference.shtml">
+                                    
+                                      <div class="card__open-img">
+                                        <img alt="Three attendees in a lecture hall collaborate on a discussion during a workshop, surrounded by others engaged in group conversations." class="bright-green-card__image" src="img/homepage/faculty-opportunities/summer-conference.jpg"/>
+                                      </div>
+                                        <div class="card__open-content">
+                                            <h3 class="h6__proxima">Innovate the Future of Academia at Summer Conferences</h3>
+                                                                                            <p class="body2 image-card-text">Participate in professional development sessions to enhance teaching practices, explore innovative pedagogy, and develop curriculum design skills with guidance from national experts.</p>
+                                                                                    </div>
+                                    </a>
+                                  </div>
+                                </div>
+                                
+                                
+                                                                                                                              
+                                <div class="card-carousel-item carousel-item dept-card col-12" role="group">
+                                  <div class="carousel__card col-12 col-md-4">
+                                     <a class="card card__open card__open--link bar--magenta--with-arrow bar--thin" href="https://www.cpp.edu/polyx/faculty-and-staff.shtml">
+                                    
+                                      <div class="card__open-img">
+                                        <img alt="articipants engage in a resume review workshop, seated at tables and exchanging documents in a professional setting." class="bright-green-card__image" src="img/homepage/faculty-opportunities/experiential-learning.jpg"/>
+                                      </div>
+                                        <div class="card__open-content">
+                                            <h3 class="h6__proxima">Support Experiential Learning by making your class a PolyX</h3>
+                                                                                            <p class="body2 image-card-text">PolyX at Cal Poly Pomona enables students to tackle field challenges and create innovative solutions. Through collaboration and mentorship, faculty and staff prepare students for success beyond the classroom.</p>
+                                                                                    </div>
+                                    </a>
+                                  </div>
+                                </div>
+                                
+                                
+                                                                                                                              
+                                <div class="card-carousel-item carousel-item dept-card col-12" role="group">
+                                  <div class="carousel__card col-12 col-md-4">
+                                     <a class="card card__open card__open--link bar--magenta--with-arrow bar--thin" href="faculty-and-staff-winter-institute.shtml">
+                                    
+                                      <div class="card__open-img">
+                                        <img alt="Attendees in a large lecture hall take notes and listen attentively to a presentation during a conference or seminar." class="bright-green-card__image" src="img/homepage/faculty-opportunities/institutes.jpg"/>
+                                      </div>
+                                        <div class="card__open-content">
+                                            <h3 class="h6__proxima">Develop Innovative curriculum at Winter Institutes</h3>
+                                                                                            <p class="body2 image-card-text">Participate in professional development sessions to enhance teaching practices, explore innovative pedagogy, and develop curriculum design skills with guidance from national experts.</p>
+                                                                                    </div>
+                                    </a>
+                                  </div>
+                                </div>
+                                
+                                
+                                                                                                                              
+                                <div class="card-carousel-item carousel-item dept-card col-12" role="group">
+                                  <div class="carousel__card col-12 col-md-4">
+                                     <a class="card card__open card__open--link bar--magenta--with-arrow bar--thin" href="https://www.cpp.edu/ii/micro-internships/for-faculty.shtml">
+                                    
+                                      <div class="card__open-img">
+                                        <img alt=" A mentor assists a student with a laptop, pointing to the screen during a one-on-one tutoring session in a bright, modern space." class="bright-green-card__image" src="img/homepage/faculty-opportunities/micro-interns.jpg"/>
+                                      </div>
+                                        <div class="card__open-content">
+                                            <h3 class="h6__proxima">Mentor Student Micro-Interns</h3>
+                                                                                            <p class="body2 image-card-text">Guide students in short-term, project-based internships that align with your expertise and organizational goals, fostering professional growth for both mentors and students.</p>
+                                                                                    </div>
+                                    </a>
+                                  </div>
+                                </div>
+                                
+                                
+                                                                                                                              
+                                <div class="card-carousel-item carousel-item dept-card col-12" role="group">
+                                  <div class="carousel__card col-12 col-md-4">
+                                     <a class="card card__open card__open--link bar--magenta--with-arrow bar--thin" href="https://www.cpp.edu/ii/digital-badging/award-a-badge.shtml">
+                                    
+                                      <div class="card__open-img">
+                                        <img alt="Two men in business attire have a conversation at a career fair booth promoting a luxury resort property." class="bright-green-card__image" src="img/homepage/faculty-opportunities/digital-credentials.jpg"/>
+                                      </div>
+                                        <div class="card__open-content">
+                                            <h3 class="h6__proxima">Engage with Digital Credentialing</h3>
+                                                                                            <p class="body2 image-card-text">Incorporate digital badges to recognize and validate specific skills, accomplishments, and learning outcomes for students, colleagues, or teams.</p>
+                                                                                    </div>
+                                    </a>
+                                  </div>
+                                </div>
+                                
+                                
+                                                                                                                              
+                                <div class="card-carousel-item carousel-item dept-card col-12" role="group">
+                                  <div class="carousel__card col-12 col-md-4">
+                                     <a class="card card__open card__open--link bar--magenta--with-arrow bar--thin" href="https://www.cpp.edu/cce/learn-by-doing-good/bronco-stampede-service.shtml">
+                                    
+                                      <div class="card__open-img">
+                                        <img alt=" A person kneels in a garden, examining the soil and plants on a sunny day during an outdoor service activity." class="bright-green-card__image" src="img/homepage/faculty-opportunities/bronco-stampede-of-service.jpg"/>
+                                      </div>
+                                        <div class="card__open-content">
+                                            <h3 class="h6__proxima">Volunteer at Bronco Stampede of Service</h3>
+                                                                                            <p class="body2 image-card-text">Join university-wide service events that unite the CPP community in supporting local organizations and causes.</p>
+                                                                                    </div>
+                                    </a>
+                                  </div>
+                                </div>
+                                
+                                
+                                                                                                                              
+                                <div class="card-carousel-item carousel-item dept-card col-12" role="group">
+                                  <div class="carousel__card col-12 col-md-4">
+                                     <a class="card card__open card__open--link bar--magenta--with-arrow bar--thin" href="https://www.cpp.edu/ii/pop-up-course/about-course.shtml">
+                                    
+                                      <div class="card__open-img">
+                                        <img alt=" A presenter with a microphone explains a scientific diagram projected on a screen during a research presentation." class="bright-green-card__image" src="img/homepage/faculty-opportunities/pop-up-courses.jpg"/>
+                                      </div>
+                                        <div class="card__open-content">
+                                            <h3 class="h6__proxima">Create Innovative Pop-Up Courses</h3>
+                                                                                            <p class="body2 image-card-text">Design and teach unique courses that address emerging topics and provide students with dynamic learning experiences.</p>
+                                                                                    </div>
+                                    </a>
+                                  </div>
+                                </div>
+                                
+                                
+                                                                                                                              
+                                <div class="card-carousel-item carousel-item dept-card col-12" role="group">
+                                  <div class="carousel__card col-12 col-md-4">
+                                     <a class="card card__open card__open--link bar--magenta--with-arrow bar--thin" href="https://www.cpp.edu/honorscollege/faculty-resources.shtml">
+                                    
+                                      <div class="card__open-img">
+                                        <img alt="A group of five students collaborate at a round table with open textbooks and notebooks in a study session." class="bright-green-card__image" src="img/homepage/faculty-opportunities/honors-community.jpg"/>
+                                      </div>
+                                        <div class="card__open-content">
+                                            <h3 class="h6__proxima">Teach in the Honors Community</h3>
+                                                                                            <p class="body2 image-card-text">Lead specialized courses and mentor high-achieving students in their academic journey.</p>
+                                                                                    </div>
+                                    </a>
+                                  </div>
+                                </div>
+                                
+                                
+                                                                                                                              
+                                <div class="card-carousel-item carousel-item dept-card col-12" role="group">
+                                  <div class="carousel__card col-12 col-md-4">
+                                     <a class="card card__open card__open--link bar--magenta--with-arrow bar--thin" href="https://www.cpp.edu/cce/faculty/service-learning.shtml">
+                                    
+                                      <div class="card__open-img">
+                                        <img alt="Volunteers wearing gloves work together to remove weeds and maintain plants in a community garden." class="bright-green-card__image" src="img/homepage/faculty-opportunities/service-learning.jpg"/>
+                                      </div>
+                                        <div class="card__open-content">
+                                            <h3 class="h6__proxima">Incorporate Service Learning</h3>
+                                                                                            <p class="body2 image-card-text">Integrate community service into academic coursework for real-world impact.</p>
+                                                                                    </div>
+                                    </a>
+                                  </div>
+                                </div>
+                                
+                                
+                                                      </div>
+                </div>
+            </div>
+        </div>
+    </div>
+  
+           <script>
+        let items3 = document.querySelectorAll('#cardCarousel3 .card-carousel-item')
+        
+         var cardHeight = 0;
+    var cardMaxHeight = 0;
+      items3.forEach((el) => {
+      
+       if( $(el).css('display') == 'flex') {
+          cardHeight = el.offsetHeight;
+    } else {
+        $(el).addClass('active');
+       cardHeight = el.offsetHeight;
+       $(el).removeClass('active');
+    }
+      if(cardHeight > cardMaxHeight) {
+        cardMaxHeight = cardHeight;
+      }
+        const minPerSlide = 3
+        let next = el.nextElementSibling
+        for (var i = 1; i < minPerSlide; i++) {
+          if (!next) {
+            // wrap carousel by using first child
+            console.log(next);
+            next = items3[0]
+          }
+          let cloneChild = next.cloneNode(true)
+          el.appendChild(cloneChild.children[0])
+          next = next.nextElementSibling
+        }
+      }) 
+            console.log("Max Card Height " + cardMaxHeight);
+    $('#cardCarousel3 .card-carousel-item').height(cardMaxHeight);
+    $('#cardCarousel3 .card-carousel-item .carousel__card').height(cardMaxHeight);
+    var totalItems3 = $('#cardCarousel3 .carousel-item').length;
+    $('#cardCarouselNum3').html(totalItems3);
+   
+    var slide3 = $('#cardCarousel3 .carousel-item.active').index() + 1; 
+    var slideTitle3 = $('#cardCarousel3 .carousel-item.active h3').html(); 
+    $('#cardCarouselNum3').html('<span class="sr-only">Slide</span> ' + slide3 + ' /' + totalItems3 + ' <span class="sr-only">Title:' + slideTitle3 + '</span>');
+    
+       $('#cardCarousel3').on('slid.bs.carousel', function() {
+            slide3 = $('#cardCarousel3 .carousel-item.active').index() + 1; 
+            slideTitle3 = $('#cardCarousel3 .carousel-item.active h3').html(); 
+            $('#cardCarouselNum3').html('<span class="sr-only">Slide</span> ' + slide3 + ' /' + totalItems3 + ' <span class="sr-only">Title:' + slideTitle3 + '</span>');
+          })
+ 
+   
+   
+</script>
+           
+           
+ 
+ 
+
+     
+        
+        
+    
+    
+     
+                      
+
+<div class="organism-spacer spacer__padding-top--small spacer__padding-bottom--small">
+  <section class="image-cta-lockup image-cta-lockup--dark-green" id="content-section-4">
+       <div class="linework">
+              
+      <img alt="" class="linework--mobile" src="https://www.cpp.edu/common//green-and-gold/assets/images/linework-combo-offset-white-mobile.svg"/>
+      <img alt="" class="linework--desktop" src="https://www.cpp.edu/common//green-and-gold/assets/images/linework-combo-offset-white.svg"/>
+      
+    </div>
+        <div class="container">
+      <div class="row">
+        <div class="image-cta-lockup__content col-lg-6">
+          <header class="image-cta-lockup__header">
+                          <h2 class="kicker__transducer">Alumni</h2>
+              <h3 class="h2__proxima">Alumni Making an Impact</h3>
+                        <p class="body2">Alumni can engage and inspire the Cal Poly Pomona community. By seizing transformative opportunities to mentor, collaborate, and support student success, alumni play a vital role in shaping the next generation of leaders while making a positive impact on their alma mater and beyond.</p>
+          </header>
+                                      <div class="image-cta-lockup__cta">
+                                                                    <a class="button button__secondary button1__transducer" href="alumni-opportunities.shtml" target="_blank" title="opens a new window">Make Your Impact Today</a>
+                                                    </div>
+                        </div>
+        <div class="col-lg-6">
+          <div class="image-cta-lockup__img">
+            <img alt="An alumnus in a black blazer speaks at a podium with a microphone during a formal presentation against a dark background." src="img/homepage/alumni-opportunities/ashish.jpg"/>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+                            
+        
+    
+    
+     
+     
+                                                     
+                        
+                      
+            <style>
+  <!--
+  @media (max-width: 767px) {
+    #cardCarousel5 .carousel-inner .card-carousel-item>div {
+      display: none;
+    }
+
+    #cardCarousel5 .carousel-inner .carousel-item>div:first-child {
+      display: block;
+    }
+   
+  }
+  
+  #cardCarousel5 .carousel-inner .carousel-item.active,
+  #cardCarousel5 .carousel-inner .carousel-item-next,
+  #cardCarousel5 .carousel-inner .carousel-item-prev {
+    display: flex;
+  }
+
+  /* medium and up screens */
+  @media (min-width: 768px) {
+
+    #cardCarousel5 .carousel-inner .carousel-item-end.active,
+    #cardCarousel5 .carousel-inner .carousel-item-next {
+      transform: translateX(33%);
+    }
+
+    #cardCarousel5 .carousel-inner .carousel-item-start.active,
+    #cardCarousel5 .carousel-inner .carousel-item-prev {
+      transform: translateX(-33%);
+    }
+  }
+
+  #cardCarousel5 .carousel-inner .carousel-item-end,
+  #cardCarousel5 .carousel-inner .carousel-item-start {
+    transform: translateX(0);
+  }
+
+  #cardCarousel5 .carousel-indicators {
+    bottom: 60px !important;
+  }
+
+  .card-carousel .carousel-item {
+    gap: 20px;
+    padding-top: 20px;
+    height: 100% !important;
+  }
+  -->
+</style>
+         
+      <div class="organism-spacer spacer__padding-top--small spacer__padding-bottom--small">
+                  <div class="container">
+                     <div class="row">
+                      <div class="content-carousel content-carousel--default">
+                                                                       <div class="content-carousel__header stacked">
+                                <h2 class="kicker kicker__transducer">Industry and Community Partners</h2>
+                                    <h3 class="h2__proxima col-lg-8">Get the PolyX Advantage</h3>
+                                        <p class="body2 col-12 col-lg-8">Discover how your organization can contribute to a vibrant future while gaining access to emerging talent and impactful collaboration opportunities.</p>
+                                              
+     
+                          <div class="content-carousel content-carousel__controls-wrapper d-flex justify-content-end">
+                          <div class="content-carousel content-carousel__controls">
+                              <button aria-disabled="false" aria-label="Previous slide" class="carousel-prev--2" data-bs-slide="prev" data-bs-target="#cardCarousel5" style="opacity: 1;" type="button">
+                                <span class="visually-hidden">Previous </span>
+                              </button>
+                              <div aria-live="polite" class="carousel-tracker body3">
+                                <div id="cardCarouselNum5"></div>
+                              </div>
+                              <button aria-disabled="false" aria-label="Next slide" class="carousel-next carousel-next--2" data-bs-slide="next" data-bs-target="#cardCarousel5" style="opacity: 1;" type="button">
+                                <span class="visually-hidden">Next </span>
+                              </button>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                     
+                    <div class="card-carousel cutoff carousel slide" data-bs-interval="false" id="cardCarousel5">
+                        <div class="carousel-inner" role="listbox">        
+        
+                                                                                                                              
+                                <div class="card-carousel-item carousel-item  dept-card active col-12" role="group">
+                                  <div class="carousel__card col-12 col-md-4">
+                                     <a class="card card__open card__open--link bar--magenta--with-arrow bar--thin" href="https://www.cpp.edu/thehub/index.shtml">
+                                    
+                                      <div class="card__open-img">
+                                        <img alt="he exterior sign of the Cal Poly Pomona Community Innovation Hub is displayed on a beige building with large windows." class="bright-green-card__image" src="img/homepage/external-partners/the-hub.jpg"/>
+                                      </div>
+                                        <div class="card__open-content">
+                                            <h3 class="h6__proxima">Engage in Workforce Development Initiatives</h3>
+                                                                                            <p class="body2 image-card-text">Partner with The Hub to invigorate Pomona’s workforce through comprehensive programs in science, technology, and entrepreneurship. This collaboration aims to empower the local community and foster economic growth.</p>
+                                                                                    </div>
+                                    </a>
+                                  </div>
+                                </div>
+                                
+                                
+                                                                                                                              
+                                <div class="card-carousel-item carousel-item dept-card col-12" role="group">
+                                  <div class="carousel__card col-12 col-md-4">
+                                     <a class="card card__open card__open--link bar--magenta--with-arrow bar--thin" href="https://www.cpp.edu/ii/micro-internships/for-industry-partners.shtml">
+                                    
+                                      <div class="card__open-img">
+                                        <img alt="A group of students gathers around a speaker in a technology lab with 3D printers and advanced equipment." class="bright-green-card__image" src="img/homepage/external-partners/micro-internships.jpg"/>
+                                      </div>
+                                        <div class="card__open-content">
+                                            <h3 class="h6__proxima">Provide Short-Term, Project-Based Internships</h3>
+                                                                                            <p class="body2 image-card-text">Organizations can offer micro-internships to Cal Poly Pomona students, allowing them to gain practical experience while contributing to your projects. This engagement supports student career readiness and allows partners to access emerging talent.</p>
+                                                                                    </div>
+                                    </a>
+                                  </div>
+                                </div>
+                                
+                                
+                                                                                                                              
+                                <div class="card-carousel-item carousel-item dept-card col-12" role="group">
+                                  <div class="carousel__card col-12 col-md-4">
+                                     <a class="card card__open card__open--link bar--magenta--with-arrow bar--thin" href="https://careercenter.cpp.edu/channels/career-fairs-recruitment/">
+                                    
+                                      <div class="card__open-img">
+                                        <img alt="A recruiter speaks to a group of students at a bustling outdoor career fair with booths and informational banners." class="bright-green-card__image" src="img/homepage/external-partners/internships.jpg"/>
+                                      </div>
+                                        <div class="card__open-content">
+                                            <h3 class="h6__proxima">Get Access to Skilled Talent</h3>
+                                                                                            <p class="body2 image-card-text">Partner with the Career Center and recruit students to learn more about open jobs and internship opportunities.</p>
+                                                                                    </div>
+                                    </a>
+                                  </div>
+                                </div>
+                                
+                                
+                                                                                                                              
+                                <div class="card-carousel-item carousel-item dept-card col-12" role="group">
+                                  <div class="carousel__card col-12 col-md-4">
+                                     <a class="card card__open card__open--link bar--magenta--with-arrow bar--thin" href="https://www.cpp.edu/cce/partners/co-op-education/index.shtml">
+                                    
+                                      <div class="card__open-img">
+                                        <img alt="Construction workers in hard hats and safety vests review documents at a worksite with large equipment, gravel, and dirt piles" class="bright-green-card__image" src="img/homepage/external-partners/service-learning.jpg"/>
+                                      </div>
+                                        <div class="card__open-content">
+                                            <h3 class="h6__proxima">Support Service Learning and Cooperative Education</h3>
+                                                                                            <p class="body2 image-card-text">Engage with the university by integrating community service with academic coursework, offering practical experiences that benefit both students and the community. This involvement promotes civic responsibility and experiential learning.</p>
+                                                                                    </div>
+                                    </a>
+                                  </div>
+                                </div>
+                                
+                                
+                                                      </div>
+                </div>
+            </div>
+        </div>
+    </div>
+  
+           <script>
+        let items5 = document.querySelectorAll('#cardCarousel5 .card-carousel-item')
+        
+         var cardHeight = 0;
+    var cardMaxHeight = 0;
+      items5.forEach((el) => {
+      
+       if( $(el).css('display') == 'flex') {
+          cardHeight = el.offsetHeight;
+    } else {
+        $(el).addClass('active');
+       cardHeight = el.offsetHeight;
+       $(el).removeClass('active');
+    }
+      if(cardHeight > cardMaxHeight) {
+        cardMaxHeight = cardHeight;
+      }
+        const minPerSlide = 3
+        let next = el.nextElementSibling
+        for (var i = 1; i < minPerSlide; i++) {
+          if (!next) {
+            // wrap carousel by using first child
+            console.log(next);
+            next = items5[0]
+          }
+          let cloneChild = next.cloneNode(true)
+          el.appendChild(cloneChild.children[0])
+          next = next.nextElementSibling
+        }
+      }) 
+            console.log("Max Card Height " + cardMaxHeight);
+    $('#cardCarousel5 .card-carousel-item').height(cardMaxHeight);
+    $('#cardCarousel5 .card-carousel-item .carousel__card').height(cardMaxHeight);
+    var totalItems5 = $('#cardCarousel5 .carousel-item').length;
+    $('#cardCarouselNum5').html(totalItems5);
+   
+    var slide5 = $('#cardCarousel5 .carousel-item.active').index() + 1; 
+    var slideTitle5 = $('#cardCarousel5 .carousel-item.active h3').html(); 
+    $('#cardCarouselNum5').html('<span class="sr-only">Slide</span> ' + slide5 + ' /' + totalItems5 + ' <span class="sr-only">Title:' + slideTitle5 + '</span>');
+    
+       $('#cardCarousel5').on('slid.bs.carousel', function() {
+            slide5 = $('#cardCarousel5 .carousel-item.active').index() + 1; 
+            slideTitle5 = $('#cardCarousel5 .carousel-item.active h3').html(); 
+            $('#cardCarouselNum5').html('<span class="sr-only">Slide</span> ' + slide5 + ' /' + totalItems5 + ' <span class="sr-only">Title:' + slideTitle5 + '</span>');
+          })
+ 
+   
+   
+</script>
+           
+           
+ 
+ 
+
+     
+        
+        
+    
+    
+     
+                         
+            
+           <div class="organism-spacer spacer__background-color--eggshell spacer__padding-top--small spacer__padding-bottom--small">
+          <section class="text-list text-list--eggshell">
+            <div class="cta-card__svg-wrapper">
+              <img alt="" class="cta-card__svg" src="https://www.cpp.edu/common//green-and-gold/assets/images/vertical-line-circle.svg"/>
+            </div>
+  
+        
+
+         <div class="container">
+                <div class="row">
+                    <div class="text-list__wrapper">
+                    
+                                            
+                        
+            
+                  
+              
+        <header class="text-list__header header-align--left">
+            <h2 class="h4__transducer col-lg-6">Our Offices and Programs</h2>
+        </header>
+
+        
+    
+                    
+                                            <div class="text-list__cta-grid row">
+                            
+                                                                                        
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label=" Career Center (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://careercenter.cpp.edu/" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12"> Career Center</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Center for Community Engagement (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="http://www.cpp.edu/cce" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Center for Community Engagement</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Innovation Incubator (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/ii/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Innovation Incubator</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Kellogg Honors College (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/honorscollege/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Kellogg Honors College</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Office of Undergraduate Research (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="http://www.cpp.edu/our-cpp" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Office of Undergraduate Research</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Student Innovation Idea Labs (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/siil/" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Student Innovation Idea Labs</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="CPP NSF I-Corps (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/~i-corps/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">CPP NSF I-Corps</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="CPP Invests (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/cpp-invests/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">CPP Invests</p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="SPICE (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/spice/index.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">SPICE</p>
+                    </a>
+    </div>
+    
+                                
+                                                          
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+    
+                    
+        
+    
+    
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+</div>
+    <div class="footer__gradient-section">
+<div class="container">
+<div class="row">
+
+     <div class="col-12 col-lg-4">
+        <h2 class="footer__gradient-header">Office of Academic Innovation</h2>
+      </div>
+      <div class="col-12 col-lg-8 footer__gradient-socials-wrapper">
+        <h3 class="footer__gradient-social-header button2__transducer">Follow Us:</h3>
+        <div class="footer__gradient-socials">
+              <a href="https://www.instagram.com/ai.cpp/" target="_blank">
+            <span aria-live="assertive" class="screen-reader-text">Instagram opens a new window</span>
+            <img alt="Instagram" src="/common/green-and-gold/assets/icons/social/insta-reverse.svg"/>
+          </a>
+                      <a href="https://www.linkedin.com/company/aicpp/" target="_blank">
+            <span aria-live="assertive" class="screen-reader-text">LinkedIn opens a new window</span>
+            <img alt="LinkedIn" src="/common/green-and-gold/assets/icons/social/li-reverse.svg"/>
+          </a>
+                    <a href="https://youtube.com/@calpolypomonaacademicinnov885?si=zZ4ua4CJdFjlkXJf" target="_blank">
+            <span aria-live="assertive" class="screen-reader-text">YouTube opens a new window</span>
+            <img alt="YouTube" src="/common/green-and-gold/assets/icons/social/yt-reverse.svg"/>
+          </a>
+                    <a href="https://www.facebook.com/AcademicInnovation/ " target="_blank">
+            <span aria-live="assertive" class="screen-reader-text">Facebook opens a new window</span>
+            <img alt="Facebook" src="/common/green-and-gold/assets/icons/social/fb-reverse.svg"/>
+          </a>
+             </div>
+ </div>
+ <style>
+    .footer__rip-wrapper {
+         background: none;
+     }
+ </style>
+
+
+
+
+</div>
+</div>
+</div>
+
+         
+<style>
+     @media screen and (min-width: 992px) {
+    .mini-footer .footer__socials-buttons {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}
+
+.mini-footer .button1__transducer {
+    font-size: 12px;
+    letter-spacing: .5px;
+}
+
+.mini-footer .button {
+	margin-top: 0;
+    padding: 8px 20px 8px 20px;
+
+}
+.mini-footer .footer-line {
+    border-top: thin solid #a4d65e;
+    margin-top: 39px;
+    padding-top: 15px;
+}
+ </style>
+<footer class="footer mini-footer">
+    <div class="footer__rip-wrapper">
+        <img class="footer__rip" alt="" src="/common/green-and-gold/assets/images/green-rip.svg" alt="Ripped green paper." />
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-2">
+                <div class="footer__logo-wrapper">
+                    <a href="/" aria-label="CPP Logo">
+                        <img class="footer__logo" src="/common/green-and-gold/assets/logos/cpp_primary_1c_gold_rgb.png" alt="Cal Poly Pomona logo, building with a palm tree." />
+                    </a>
+                </div>
+            </div>
+            <div class="col-12 col-lg-6 offset-lg-4">
+                <div class="footer__socials">
+                    <div class="footer__socials-buttons">
+                        <a class="button button__secondary button1__transducer" href="/apply/">Apply</a>
+                        <a class="button button__secondary button1__transducer" href="https://maps.cpp.edu/">Maps</a>
+                        <a class="button button__secondary button1__transducer" href="/outreach/tours.shtml">Visit</a>
+                        <a class="button button__secondary button1__transducer" href="/contact.shtml">Contact Us</a>
+                    </div>
+                    <div class="footer__socials-icons">
+                        <a href="https://www.instagram.com/calpolypomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram opens a new window" />
+                        </a>
+                        <a href="https://www.linkedin.com/school/cal-poly-pomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn opens a new window" />
+                        </a>
+                        <a href="https://www.youtube.com/user/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="YouTube opens a new window" />
+                        </a>
+                        <a href="https://www.facebook.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook opens a new window" />
+                        </a>
+                        <a href="https://twitter.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X opens a new window" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 footer-line">
+                <div class="footer__errata">
+                    <p class="footer__copyright" style="line-height: 1.8em">Copyright ©2025 California State Polytechnic University, Pomona.  All Rights Reserved 
+                        
+                        <br />A campus of 
+                        
+                        <a class="footer__errata-link" style="display: inline" href="https://www.calstate.edu/">The California State University</a>.
+                    
+                    </p>
+                    <div class="footer__errata-links">
+                        <a class="footer__errata-link" href="https://www.cpp.edu/website-feedback.shtml">Feedback</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/privacy.shtml">Privacy</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/accessibility.shtml">Accessibility</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/file-viewers.shtml">Document Readers</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer__gradient-bottom"></div>
+</footer>
+
+    </body>
+</html>

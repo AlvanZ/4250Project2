@@ -1,0 +1,1092 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+    <head>
+        <meta charset="UTF-8"/>
+        <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+        <meta content="ie=edge" http-equiv="X-UA-Compatible"/>
+        <title>
+            Cal Poly Pomona University Administration &amp; Leadership
+        </title>
+        
+        <meta content="Discover the innovative administration divisions and cross-campus collaboration that define Cal Poly Pomona’s Polytechnic Experience (PolyX)." name="description"/>
+        
+            <script src="https://cdn.levelaccess.net/accessjs/YW1wX2NwcDExMDM/access.js"></script>
+<script>// <![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSKJRNV');
+// ]]></script>
+<link rel="icon" href="/common/green-and-gold/assets/icons/gg-favicon.svg"  type="image/svg+xml" />
+<link rel="icon" href="/common/green-and-gold/assets/icons/gg-favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/index.css" />
+<link rel="stylesheet" href="https://use.typekit.net/fia5dle.css" />
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/cpp-fonts.css" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+<script src="/common/green-and-gold/assets/js/accordion.js"></script>
+<script crossorigin="anonymous" defer="defer" integrity="sha384-FW78RPcSpi13vjx77nPWQIrQbNSLkPBopb0qGzLCxD2x4Kr6FA8V05C/6cpgkKPL" src="https://pro.fontawesome.com/releases/v5.10.1/js/all.js"></script>
+<script src="/common/green-and-gold/assets/js/modal.js"></script>
+<script src="/common/green-and-gold/assets/js/fontawesome/v6.0x/sharp-light.js" crossorigin="anonymous" type="text/javascript"></script>
+<script src="/common/green-and-gold/assets/js/fontawesome/v6.0x/sharp-others.js" crossorigin="anonymous" type="text/javascript"></script>
+<!-- Swiper Library -->
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/swiper-bundle.min.css" />
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/swiper-carousel.css" />
+<script src="/common/green-and-gold/assets/js/swiper-bundle.min.js"></script>
+<script src="/common/green-and-gold/assets/js/carousel-cards-swiper.js"></script>
+
+    </head>
+    <body>
+        <a class="skip-to-content-link" href="#main">Skip to content</a>
+             <header class="nav fixed">
+    <nav class="container">
+        <ul class="row nav__main" id="mainNavMenu">
+            <li id="main-logo" class="col-6 col-lg-3 nav__logo">
+                <a href="/" aria-label="Cal Poly Pomona Home" tabindex="0">
+                    <div class="nav__logo--horizontal">
+                        <img src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png" alt="Cal Poly Pomona Logo" />
+                    </div>
+                </a>
+            </li>
+            <!-- department header hidden by default-->
+            <li id="dept-header-desktop" class="col-sm-5 col-md-6 nav__logo desktop d-none">
+                <a href="/" aria-label="Cal Poly Pomona Home" tabindex="0">
+                    <div class="nav__logo--stacked">
+                        <img src="/common/green-and-gold/assets/logos/cpp_primary_2c_green_cmyk.png" alt="Cal Poly Pomona Logo">
+                        </div>
+                    </a>
+                    <div class="divider"></div>
+                    <div id="split-header" class="nav__division col-lg-6">
+                        <div id="large-name"></div>
+                        <div style="display:none" id="sub-name"></div>
+                    </div>
+                </div>
+            </li>
+            <li class="nav__links col-2" id="head-links">
+                <a class="nav__link nav__link--desktop col-1" href="/commencement/" tabindex="0">
+                    <svg
+                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 1px;
+    width: auto;
+">
+                        <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                        <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#005030"></path>
+                    </svg>
+                    <span class="sr-only">commencement</span>
+                </a>
+                <a class="nav__link nav__link--desktop col-1" href="/apply/" tabindex="0">apply</a>
+                <a class="nav__link nav__link--desktop col-1" href="/outreach/tours.shtml" tabindex="0">visit</a>
+                <a class="nav__link nav__link--desktop col-1" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="0">info</a>
+                <a class="nav__link nav__link--desktop col-1" href="/giving/" tabindex="0">give</a>
+                <a class="nav__link nav__link--desktop col-1" href="https://my.cpp.edu" tabindex="0">mycpp</a>
+                <button id="search-open" class="nav__search col-1" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/search-dark-green.svg" alt="Open search box" />
+                </button>
+                <button class="nav__menu col-1" id="menuButton" aria-expanded="false" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/menu.svg" alt="menu" />
+                </button>
+            </li>
+        </ul>
+    </nav>
+</header>
+<header id="search-header" style="display:none">
+    <div class="row">
+        <div class="col-md-6"></div>
+        <div id="searchbox" class="col-md-6">
+            <div id="search-slide">
+                <label for="#gsc-i-id1" class="sr-only">Search</label>
+                <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+                <div class="gcse-searchbox-only" data-resultsurl="https://www.cpp.edu/search.shtml"></div>
+                <button class="nav__menu col-1" id="search-close" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close search menu">
+                    </button>
+                </div>
+            </div>
+            <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+            <script>
+       $("#search-open").click(function() {
+         $("#search-header").show();
+         $("#search-slide").addClass("slideup");
+         $("#gsc-i-id1").focus();
+         $('#search-close').focusout(function() {
+           $("#search-header").hide();
+           $("#search-slide").removeClass("slideup");
+           $("#search-open").focus();
+         })
+       });
+       $("#search-close").click(function() {
+         $("#search-header").hide();
+         $("#search-slide").removeClass("slideup");
+         $("#search-open").focus();
+       });
+     </script>
+            <style>
+       .gstl_50 gssb_c {
+         position: fixed !important;
+       }
+
+       #searchbox {
+         height: 93px;
+         overflow: hidden;
+       }
+
+       #search-header {
+         position: fixed;
+         height: 100px;
+         width: 100%;
+         height: 93px;
+         z-index: 99999;
+         top: 0;
+       }
+
+       #gsc-i-id1 {
+         height: 40px;
+         width: 70%;
+         border-radius: 4px;
+         border: none;
+         padding: 15px;
+       }
+
+       #search-submit {
+         margin: 15px;
+       }
+
+       #search-close {
+         width: 23px;
+         height: 21px;
+         position: absolute;
+         top: 32px;
+       }
+
+       #search-slide {
+         width: 0px;
+         right: -100%;
+         padding: 20px 15px;
+         position: relative;
+         background: #005030;
+         height: 100%;
+         transition: all .5s ease 0s
+       }
+
+       #search-slide.slideup {
+         right: 0;
+         width: 100%;
+         position: relative;
+       }
+
+       @media screen and (max-width:991px) {
+         #search-slide {
+           height: 77px !important;
+           padding: 12px 10px;
+         }
+       }
+
+       @media screen and (max-width:767px) {
+         #search-header {
+           position: relative !important;
+         }
+
+         #search-slide {
+           text-align: center !important;
+         }
+       }
+
+       .gsc-search-button-v2 svg {
+         width: auto;
+         height: 21px;
+       }
+
+       .gsc-search-button-v2,
+       .gsc-search-button-v2:hover,
+       .gsc-search-button-v2:focus {
+         border: none !important;
+         background: none !important;
+       }
+
+       form.gsc-search-box {
+         font-size: 13px;
+         margin-top: 0;
+         margin-right: 0;
+         margin-bottom: 4px;
+         margin-left: 0;
+         width: 100%;
+         display: inline-block;
+       }
+
+       #___gcse_0 {
+         width: 70%;
+         display: inline-block;
+       }
+
+       table.gsc-search-box td.gsc-input {
+         padding-right: 0;
+       }
+
+       #gsc-i-id1 {
+         width: 100%;
+         padding: 0px;
+         border: none;
+         margin: -0.0625em 0px 0px;
+         height: 40px !important;
+         background: rgb(255, 255, 255);
+         outline: none;
+         font-size: 20px;
+         font-weight: 200;
+       }
+
+       .gstl_50.gssb_c {
+         z-index: 99999;
+       }
+
+       .gsq_a {
+         font-weight: 200;
+         font-size: 18px;
+         padding: 2px;
+       }
+
+       .gssb_a img {
+         display: none;
+       }
+     </style>
+        </div>
+    </header>
+    <section class="side-nav" id="sideNavOverlay">
+        <header class="side-nav__overlay relative">
+            <nav class="container">
+                <ul class="row nav__overlay" id="sideNavMenu">
+                    <li class="nav__logo col-12 col-md-10 col-lg-3" id="navLogoOverlay">
+                        <a href="/" aria-label="Cal Poly Pomona Home" tabindex="-1">
+                            <img src="/common/green-and-gold/assets/logos/cpp_horizontal_1c_gold_rgb.png" alt="Cal Poly Pomona Logo" />
+                        </a>
+                    </li>
+                    <div class="nav__overlay--right col-12 col-lg-9">
+                        <li class="nav__links nav__links--desktop col-12 col-lg-6">
+                            <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 1px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/apply/" tabindex="-1">apply</a>
+                            <a class="nav__link nav__link--mobile col-1" href="/outreach/tours.shtml" tabindex="-1">visit</a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="-1">info</a>
+                            <a class="nav__link nav__link--mobile col-1" href="/giving/" tabindex="-1">give</a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://my.cpp.edu" tabindex="-1">mycpp</a>
+                        </li>
+                        <li class="nav__icons col-1">
+                            <button id="search-open-green" class="nav__search col-1" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/search-white.svg" alt="Open search box" />
+                            </button>
+                            <button class="nav__close col-1" id="closeButton" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close menu" />
+                            </button>
+                        </li>
+                        <li class="nav__links nav__links--mobile col-12 col-lg-6">
+                            <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 1px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/apply/" tabindex="-1">apply </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/outreach/tours.shtml" tabindex="-1">visit </a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="-1">info </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/giving/" tabindex="-1">give </a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://my.cpp.edu" tabindex="-1">mycpp </a>
+                        </li>
+                    </div>
+                </ul>
+            </nav>
+        </header>
+        <nav class="container side-nav__container">
+            <ul class="row side-nav__links">
+                <li class="side-nav__link col-12">
+                    <a class="h3__proxima" href="/" tabindex="-1" aria-label="Cal Poly Pomona Home page">Home</a>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--0">
+                    <button class="h3__proxima" id="0" aria-expanded="false" tabindex="-1" aria-label="About">
+                        <span>about</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--1">
+                    <button class="h3__proxima" id="1" aria-expanded="false" tabindex="-1" aria-label="Admissions & Aid">
+                        <span>admissions &amp; aid</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--2">
+                    <button class="h3__proxima" id="2" aria-expanded="false" tabindex="-1" aria-label="Academics">
+                        <span>academics</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--3">
+                    <button class="h3__proxima" id="3" aria-expanded="false" tabindex="-1" aria-label="Life at CPP">
+                        <span>life at CPP</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small">
+            <ul class="row">
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="https://broncoathletics.com/" tabindex="-1">athletics</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/alumni/" tabindex="-1">alumni</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/news/" tabindex="-1">news &amp; events</a>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small-bottom">
+            <ul class="col-12 col-lg-6 side-nav__links--small-bottom">
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/prospective-student-gateway/" tabindex="-1">future students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/student-gateway/" tabindex="-1">current students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/family/" tabindex="-1">families</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/faculty-staff-gateway/" tabindex="-1">faculty &amp; staff</a>
+                </li>
+            </ul>
+            <ul class="col-12 col-lg-6 social-icons">
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.instagram.com/calpolypomona/" aria-label="Instagram" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.linkedin.com/school/cal-poly-pomona/" aria-label="LinkedIn " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.youtube.com/user/calpolypomona" aria-label="Youtube " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="Youtube" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.facebook.com/calpolypomona" aria-label="Facebook " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://twitter.com/calpolypomona" aria-label="X (Twitter)" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X" />
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </section>
+    <script src="/common/green-and-gold/assets/js/nav.js"></script>
+
+            
+    
+
+
+
+  
+
+
+  
+
+  
+                  
+            
+
+                   
+                           <code></code>
+           
+                            
+
+
+
+<header class="sub-nav">
+<nav class="container">
+    <ul class="row sub-nav__links">
+
+           <li class="sub-nav__link ">
+            <a class="button__proxima sub-nav__link--default" href="                                                  /aboutcpp/index.shtml      " tabindex="0">The Cal Poly Pomona Difference</a>
+        </li>
+        
+
+
+           <li class="sub-nav__link ">
+            <a class="button__proxima sub-nav__link--default" href="                                                  /aboutcpp/polyx.shtml      " tabindex="0">The CPP Polytechnic Experience</a>
+        </li>
+        
+
+
+           <li class="sub-nav__link ">
+            <a class="button__proxima sub-nav__link--default" href="                                                  /aboutcpp/become-by-doing.shtml      " tabindex="0">Become by Doing</a>
+        </li>
+        
+
+
+           <li class="sub-nav__link ">
+            <a class="button__proxima sub-nav__link--default" href="                                                  /aboutcpp/rankings.shtml      " tabindex="0">Our Rankings</a>
+        </li>
+        
+
+
+           <li class="sub-nav__link ">
+            <a class="button__proxima sub-nav__link--default" href="                                                  /aboutcpp/visitor-information/index.shtml      " tabindex="0">Visit Us</a>
+        </li>
+        
+
+
+           <li class="sub-nav__link ">
+            <a class="button__proxima sub-nav__link--default" href="                                                  /aboutcpp/news-and-media.shtml      " tabindex="0">News and Media</a>
+        </li>
+        
+
+
+           <li class="sub-nav__link ">
+            <a class="button__proxima sub-nav__link--default" href="                                                  /aboutcpp/administration.shtml      " tabindex="0">Administration</a>
+        </li>
+        
+
+
+           <li class="sub-nav__link ">
+            <a class="button__proxima sub-nav__link--default" href="                                                  /aboutcpp/heritage.shtml      " tabindex="0">Our Heritage</a>
+        </li>
+        
+
+</ul>
+
+<div class="row sub-nav__division-menu">
+    <div class="sub-nav__division"></div>
+        <div class="col-4 menu-button">
+        <button aria-expanded="false" aria-label="Site Menu" class="button button__primary--yellow-green button__proxima" data-dropdown-id="dropdownMenuBtn" id="dropdownMenuBtn">Menu
+             <span class="icon chevron">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" height="12" viewBox="0 0 19 12" width="19">
+            <g id="Atom / Icon / Expand Arrow / Small">
+            <path d="M2 2L9.5 9L17 2" id="Vector 2" stroke="none" stroke-width="3"/>
+            </g>
+            </svg>
+            </span>
+        </button>
+    </div>
+    <div class="sub-nav__dropdown hidden" id="dropdownMenu">
+       
+                       
+             <li class="sub-nav__link">
+    <a class="button__proxima" href="                                                  /aboutcpp/index.shtml      " tabindex="0">The Cal Poly Pomona Difference</a>
+  </li>
+      
+
+        
+
+
+             <li class="sub-nav__link">
+    <a class="button__proxima" href="                                                  /aboutcpp/polyx.shtml      " tabindex="0">The CPP Polytechnic Experience</a>
+  </li>
+      
+
+        
+
+
+             <li class="sub-nav__link">
+    <a class="button__proxima" href="                                                  /aboutcpp/become-by-doing.shtml      " tabindex="0">Become by Doing</a>
+  </li>
+      
+
+        
+
+
+             <li class="sub-nav__link">
+    <a class="button__proxima" href="                                                  /aboutcpp/rankings.shtml      " tabindex="0">Our Rankings</a>
+  </li>
+      
+
+        
+
+
+             <li class="sub-nav__link">
+    <a class="button__proxima" href="                                                  /aboutcpp/visitor-information/index.shtml      " tabindex="0">Visit Us</a>
+  </li>
+      
+
+        
+
+
+             <li class="sub-nav__link">
+    <a class="button__proxima" href="                                                  /aboutcpp/news-and-media.shtml      " tabindex="0">News and Media</a>
+  </li>
+      
+
+        
+
+
+             <li class="sub-nav__link">
+    <a class="button__proxima" href="                                                  /aboutcpp/administration.shtml      " tabindex="0">Administration</a>
+  </li>
+      
+
+        
+
+
+             <li class="sub-nav__link">
+    <a class="button__proxima" href="                                                  /aboutcpp/heritage.shtml      " tabindex="0">Our Heritage</a>
+  </li>
+      
+
+        
+
+
+    </div>
+</div>
+
+
+
+
+</nav>
+<script type="text/javascript">
+
+    $(".button").attr("data-dropdown-id", "dropdownMenuBtn").on("click", function(event) {
+        var dropdownMenu = $("#dropdownMenu");
+        var nestedDropdownMenus = $(".sub-nav__nested-dropdown");
+        
+        if ($(this).attr("aria-expanded") === "false") {
+            $(this).attr("aria-expanded", "true");
+        } else {
+            $(this).attr("aria-expanded", "false");
+        }
+
+        toggleDropdown(dropdownMenu);;
+        
+        // close all nested dropdown menus if open
+        nestedDropdownMenus.each(function() {
+            if ($(this).hasClass("show")) {
+                $(this).removeClass("show");
+                $(this).addClass("hidden");
+            }
+        })
+    })
+    $(".sub-nav__nested-button").on("click", function(event) {
+        var currentButtonId = $(this).attr("id")
+        var nestedDropdownMenu = $(`#nestedDropdownMenu--${currentButtonId}`)
+        $(this).find(".chevron").toggleClass("active");
+
+        if ($(this).attr("aria-expanded") === "false") {
+            $(this).attr("aria-expanded", "true");
+        } else {
+            $(this).attr("aria-expanded", "false");
+        }
+
+        toggleDropdown(nestedDropdownMenu);
+    })
+    function toggleDropdown(menu) {
+        if (menu.hasClass("hidden")) {
+            menu.removeClass("hidden");
+            menu.addClass("show");
+              $(document).on('keydown', function(event) {
+                   if (event.key == "Escape") {
+                        var dropdownMenu = $("#dropdownMenu");
+                        var nestedDropdownMenus = $(".sub-nav__nested-dropdown");  
+                         $(".button").attr("data-dropdown-id", "dropdownMenuBtn").attr("aria-expanded", "false");
+                        nestedDropdownMenus.each(function() {
+                                if ($(".button").attr("data-dropdown-id", "dropdownMenuBtn").hasClass("show")) {
+                                    $(".button").attr("data-dropdown-id", "dropdownMenuBtn").removeClass("show");
+                                    $(".button").attr("data-dropdown-id", "dropdownMenuBtn").addClass("hidden");
+                                }
+                            }) 
+                          menu.removeClass("show");
+                        menu.addClass("hidden");
+               }});
+        } else {
+            menu.removeClass("show");
+            menu.addClass("hidden");
+        }
+    }
+
+</script>
+</header>
+<div class="cqw-wrapper" id="main">
+ <div class="organism-spacer">
+    <section class="content-sub-page">
+        <div class="container">
+            <div class="row">
+                <div class="col-6 col-lg-8">
+                    <h1 class="h2__proxima content-sub-page__header">Administration </h1>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+
+     
+        
+                     
+
+<div class="organism-spacer spacer__padding-top--small spacer__padding-bottom--small">
+  <section class="image-cta-lockup image-cta-lockup--dark-green" id="content-section-1">
+       <div class="linework">
+              
+      <img alt="" class="linework--mobile" src="https://www.cpp.edu/common//green-and-gold/assets/images/linework-combo-offset-white-mobile.svg"/>
+      <img alt="" class="linework--desktop" src="https://www.cpp.edu/common//green-and-gold/assets/images/linework-combo-offset-white.svg"/>
+      
+    </div>
+        <div class="container">
+      <div class="row">
+        <div class="image-cta-lockup__content col-lg-6">
+          <header class="image-cta-lockup__header">
+                          <h2 class="kicker__transducer">Cross-Campus Collaboration</h2>
+              <h3 class="h2__proxima">University Administration</h3>
+                        <p class="body2">Cal Poly Pomona is a member of the 23-campus California State University system, the largest public university system in the U.S., known for providing an accessible quality education. CPP benefits from strong leadership across campus and disciplines. The university’s chief executive is its president, who ensures that our community lives up to our mission, values and goals.</p>
+          </header>
+                    </div>
+        <div class="col-lg-6">
+          <div class="image-cta-lockup__img">
+            <img alt="The Walkway at the Student Services Building (SSB)" src="img/ssb-walkway.jpg"/>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+                            
+            
+
+     
+        
+                            
+        
+                <div class="organism-spacer spacer__padding-top--small spacer__padding-bottom--small">
+            <section class="faq">
+                <div class="container">
+                    <div class="row">
+                        <header class="faq__header col-lg-9">
+                            <h2 class="h5__proxima">Cal Poly Pomona University Divisions</h2><br/>
+                            <p class="body2">Management of the university is divided into six divisions. </p>
+                        </header>
+                        <div class="accordion__items col-lg-9">
+                            
+                                                                                    
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="Academic Affairs" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">Academic Affairs</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><span class="TextRun SCXW174484552 BCX0" data-contrast="none" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW174484552 BCX0">The </span></span><a class="Hyperlink SCXW174484552 BCX0" href="https://www.cpp.edu/&#126;academic-affairs/index.shtml" rel="noreferrer noopener" target="_blank"><span class="TextRun Underlined SCXW174484552 BCX0" data-contrast="none" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW174484552 BCX0" data-ccp-charstyle="Hyperlink">Division of </span><span class="NormalTextRun SCXW174484552 BCX0" data-ccp-charstyle="Hyperlink">Academic </span><span class="NormalTextRun SCXW174484552 BCX0" data-ccp-charstyle="Hyperlink">A</span><span class="NormalTextRun SCXW174484552 BCX0" data-ccp-charstyle="Hyperlink">ffairs</span></span></a><span class="TextRun SCXW174484552 BCX0" data-contrast="none" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW174484552 BCX0"> oversees the university&#8217;s academic endeavors, including the </span></span><a class="Hyperlink SCXW174484552 BCX0" href="http://www.cpp.edu/&#126;academics/colleges-departments/index.shtml" rel="noreferrer noopener" target="_blank"><span class="TextRun Underlined SCXW174484552 BCX0" data-contrast="none" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW174484552 BCX0" data-ccp-charstyle="Hyperlink">colle</span><span class="NormalTextRun SCXW174484552 BCX0" data-ccp-charstyle="Hyperlink">g</span><span class="NormalTextRun SCXW174484552 BCX0" data-ccp-charstyle="Hyperlink">es and departments</span></span></a><span class="TextRun SCXW174484552 BCX0" data-contrast="none" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW174484552 BCX0">.</span></span></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="Administrative Affairs" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">Administrative Affairs</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><span class="TextRun SCXW187823253 BCX0" data-contrast="none" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW187823253 BCX0">The </span></span><a class="Hyperlink SCXW187823253 BCX0" href="https://www.cpp.edu/&#126;admin-affairs/" rel="noreferrer noopener" target="_blank"><span class="TextRun Underlined SCXW187823253 BCX0" data-contrast="none" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW187823253 BCX0" data-ccp-charstyle="Hyperlink">Division of Administrative Affairs</span></span></a><span class="TextRun SCXW187823253 BCX0" data-contrast="none" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW187823253 BCX0"> </span><span class="NormalTextRun SCXW187823253 BCX0">provides fiscal, human and facility services in support of the university community.</span></span></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="Information Technology" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">Information Technology</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><span class="TextRun SCXW101079259 BCX0" data-contrast="none" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW101079259 BCX0">The</span></span><span class="TextRun SCXW101079259 BCX0" data-contrast="none" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW101079259 BCX0"> </span></span><a class="Hyperlink SCXW101079259 BCX0" href="https://www.cpp.edu/&#126;it/" rel="noreferrer noopener" target="_blank"><span class="TextRun Underlined SCXW101079259 BCX0" data-contrast="none" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW101079259 BCX0" data-ccp-charstyle="Hyperlink">Division of Information Technology</span></span></a><span class="TextRun SCXW101079259 BCX0" data-contrast="none" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW101079259 BCX0"> </span><span class="NormalTextRun SCXW101079259 BCX0">offers</span><span class="NormalTextRun SCXW101079259 BCX0"> innovative, </span><span class="NormalTextRun SCXW101079259 BCX0">strategic</span><span class="NormalTextRun SCXW101079259 BCX0"> and cost-appropriate technology services for the university.</span></span></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="Office of the President" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">Office of the President</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p><span data-contrast="none">The </span><a href="https://www.cpp.edu/president/index.shtml"><span data-contrast="none">Office of the President</span></a><span data-contrast="none"> includes:</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559685&quot;:720,&quot;335559740&quot;:279}">&#160;</span></p>
+<ul>
+<li aria-setsize="-1" data-aria-level="2" data-aria-posinset="1" data-font="Courier New" data-leveltext="o" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:1440,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Courier New&quot;,&quot;469769242&quot;:[9675],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;o&quot;,&quot;469777815&quot;:&quot;multilevel&quot;}" data-listid="25"><span data-contrast="none">The Division of People, Culture and Institutional Affairs, which includes, but is not limited to:&#160;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:279}">&#160;</span>
+<ul>
+<li><span data-contrast="none">Conflict resolution services and Ombuds</span></li>
+<li>Employee and Organizational Development and Advancement/Human Resources Operations, which strives to inspire employees to use their best skills and talents in the pursuit of excellence;&#160;<span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:279}">&#160;</span></li>
+<li><span data-contrast="none">Employee/Labor Relations and Compliance, which supports and sustains positive and effective working relationships at CPP through dynamic solutions to employee and labor relations matters; and</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:279}">&#160;</span></li>
+<li><span data-contrast="none">Strategic Communications, which engages, informs and inspires internal and external communities through storytelling and transparent communications</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:279}">&#160;</span></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li aria-setsize="-1" data-aria-level="2" data-aria-posinset="2" data-font="Courier New" data-leveltext="o" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:1440,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Courier New&quot;,&quot;469769242&quot;:[9675],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;o&quot;,&quot;469777815&quot;:&quot;multilevel&quot;}" data-listid="25"><span data-contrast="none">Outreach, Recruitment &amp; Educational Partnerships connects CPP with future Broncos and ensures they have the guidance needed to succeed in their academic journey</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:279}">&#160;</span></li>
+</ul>
+<ul>
+<li aria-setsize="-1" data-aria-level="2" data-aria-posinset="3" data-font="Courier New" data-leveltext="o" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:1440,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Courier New&quot;,&quot;469769242&quot;:[9675],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;o&quot;,&quot;469777815&quot;:&quot;multilevel&quot;}" data-listid="25"><span data-contrast="none">The Office of Equity and Compliance administers our Title IX/</span> <span data-contrast="none">Discrimination, Harassment and Retaliation processes and cultivates a campus environment where members of our&#8239;community can learn and work free of sexual misconduct, discrimination,&#8239;harassment and retaliation.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:279}">&#160;</span></li>
+</ul></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="Student Affairs" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">Student Affairs</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><span class="TextRun SCXW20501748 BCX0" data-contrast="none" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW20501748 BCX0">The </span></span><a class="Hyperlink SCXW20501748 BCX0" href="https://www.cpp.edu/&#126;student-affairs/" rel="noreferrer noopener" target="_blank"><span class="TextRun Underlined SCXW20501748 BCX0" data-contrast="none" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW20501748 BCX0" data-ccp-charstyle="Hyperlink">Division of Student Affairs</span></span></a><span class="TextRun SCXW20501748 BCX0" data-contrast="none" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW20501748 BCX0"> provides student-centered programs and services that promote learning and success.</span></span></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="University Advancement" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">University Advancement</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><span class="TextRun SCXW36458139 BCX0" data-contrast="none" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW36458139 BCX0">The </span></span><a class="BCX0 Hyperlink SCXW36458139" href="https://www.cpp.edu/giving/advancement-division/about-us.shtml" rel="noopener noreferrer" target="_blank"><span class="TextRun Underlined SCXW36458139 BCX0" data-contrast="none" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW36458139 BCX0" data-ccp-charstyle="Hyperlink">Division of University Advancement</span></span></a><span class="TextRun SCXW36458139 BCX0" data-contrast="none" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW36458139 BCX0"> </span><span class="NormalTextRun SCXW36458139 BCX0">generates support for the university through fundraising, </span><span class="NormalTextRun SCXW36458139 BCX0">stewardship</span><span class="NormalTextRun SCXW36458139 BCX0"> </span><span class="NormalTextRun SCXW36458139 BCX0">and external relations.</span></span></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                         
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+        
+    
+            
+                
+            
+
+     
+        
+                            
+        
+                <div class="organism-spacer spacer__padding-top--small spacer__padding-bottom--small">
+            <section class="faq">
+                <div class="container">
+                    <div class="row">
+                        <header class="faq__header col-lg-9">
+                            <h2 class="h5__proxima">Cal Poly Pomona Organizational Governance</h2><br/>
+                            <p class="body2">A number of organizations are involved in the university’s governance. </p>
+                        </header>
+                        <div class="accordion__items col-lg-9">
+                            
+                                                                                    
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="Academic Senate" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">Academic Senate</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><span class="TextRun SCXW238897582 BCX0" data-contrast="none" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW238897582 BCX0">The </span></span><a class="Hyperlink SCXW238897582 BCX0" href="https://www.cpp.edu/senate/index.shtml" rel="noreferrer noopener" target="_blank"><span class="TextRun Underlined SCXW238897582 BCX0" data-contrast="none" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW238897582 BCX0" data-ccp-charstyle="Hyperlink">Academic Senate</span></span></a><span class="TextRun SCXW238897582 BCX0" data-contrast="none" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW238897582 BCX0"> is the official voice of the university faculty and the primary consultative body in issues related to education and academic policies.</span></span></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="Associated Students, Inc." class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">Associated Students, Inc.</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><a class="Hyperlink SCXW240564339 BCX0" href="http://asi.cpp.edu/" rel="noreferrer noopener" target="_blank"><span class="TextRun Underlined SCXW240564339 BCX0" data-contrast="none" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW240564339 BCX0" data-ccp-charstyle="Hyperlink">Associated Students</span><span class="NormalTextRun SCXW240564339 BCX0" data-ccp-charstyle="Hyperlink">,</span><span class="NormalTextRun SCXW240564339 BCX0" data-ccp-charstyle="Hyperlink"> Inc</span><span class="NormalTextRun SCXW240564339 BCX0" data-ccp-charstyle="Hyperlink">.</span><span class="NormalTextRun SCXW240564339 BCX0" data-ccp-charstyle="Hyperlink"> (ASI)</span></span></a><span class="TextRun SCXW240564339 BCX0" data-contrast="none" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW240564339 BCX0"> is </span><span class="NormalTextRun SCXW240564339 BCX0">CPP&#8217;s</span><span class="NormalTextRun SCXW240564339 BCX0"> student government as well as a non-profit corporation </span><span class="NormalTextRun SCXW240564339 BCX0">that </span><span class="NormalTextRun SCXW240564339 BCX0">serv</span><span class="NormalTextRun SCXW240564339 BCX0">es</span><span class="NormalTextRun SCXW240564339 BCX0"> students on many levels.</span></span><span class="EOP SCXW240564339 BCX0" data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:279}">&#160;</span></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="Cal Poly Pomona Enterprises, Inc." class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">Cal Poly Pomona Enterprises, Inc.</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><a class="Hyperlink SCXW70330737 BCX0" href="https://foundation.cpp.edu/" rel="noreferrer noopener" target="_blank"><span class="TextRun Underlined SCXW70330737 BCX0" data-contrast="none" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW70330737 BCX0" data-ccp-charstyle="Hyperlink">Cal Poly Pomona Enterprises</span></span></a><span class="TextRun SCXW70330737 BCX0" data-contrast="none" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW70330737 BCX0"> is a public-benefit</span><span class="NormalTextRun SCXW70330737 BCX0">,</span><span class="NormalTextRun SCXW70330737 BCX0"> charitable-educational organization that supports the university community</span><span class="NormalTextRun SCXW70330737 BCX0"> by </span><span class="NormalTextRun SCXW70330737 BCX0">provid</span><span class="NormalTextRun SCXW70330737 BCX0">ing</span><span class="NormalTextRun SCXW70330737 BCX0"> goods and </span><span class="NormalTextRun ContextualSpellingAndGrammarErrorV2Themed SCXW70330737 BCX0">services</span><span class="NormalTextRun ContextualSpellingAndGrammarErrorV2Themed SCXW70330737 BCX0">,</span><span class="NormalTextRun ContextualSpellingAndGrammarErrorV2Themed SCXW70330737 BCX0"> and</span><span class="NormalTextRun SCXW70330737 BCX0"> develop</span><span class="NormalTextRun SCXW70330737 BCX0">ing</span><span class="NormalTextRun SCXW70330737 BCX0"> assets and resources.</span></span><span class="EOP SCXW70330737 BCX0" data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:279}">&#160;</span></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label=" California State University System" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima"> California State University System</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><span class="TextRun SCXW242415027 BCX0" data-contrast="none" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW242415027 BCX0">Cal Poly Pomona is a part of the 23-campus <a href="https://www.calstate.edu">California State University</a>&#160;(CSU) system</span><span class="NormalTextRun SCXW242415027 BCX0">. The </span><span class="NormalTextRun SCXW242415027 BCX0">CSU</span><span class="NormalTextRun SCXW242415027 BCX0"> is led by a&#8239;</span></span><a class="Hyperlink SCXW242415027 BCX0" href="http://www.calstate.edu/executive/" rel="noreferrer noopener" target="_blank"><span class="TextRun Underlined SCXW242415027 BCX0" data-contrast="none" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW242415027 BCX0" data-ccp-charstyle="Hyperlink">ch</span><span class="NormalTextRun SCXW242415027 BCX0" data-ccp-charstyle="Hyperlink">a</span><span class="NormalTextRun SCXW242415027 BCX0" data-ccp-charstyle="Hyperlink">ncellor</span></span></a><span class="TextRun SCXW242415027 BCX0" data-contrast="none" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW242415027 BCX0">&#8239;and overseen by a 25-member&#8239;</span></span><a class="Hyperlink SCXW242415027 BCX0" href="http://www.calstate.edu/BOT/" rel="noreferrer noopener" target="_blank"><span class="TextRun Underlined SCXW242415027 BCX0" data-contrast="none" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW242415027 BCX0" data-ccp-charstyle="Hyperlink">Board of Trustees</span></span></a><span class="TextRun SCXW242415027 BCX0" data-contrast="none" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW242415027 BCX0">.</span></span><span class="EOP SCXW242415027 BCX0" data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:279}">&#160;</span></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                         
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+        
+    
+            
+                
+            
+
+     
+        
+            
+                
+                    
+                        
+                                   
+                            <div class="organism-spacer cta-green-card__header spacer__padding-top--small spacer__padding-bottom--small">
+                                <section class="standard-text body2 cta-green-card" id="content-section-2">
+                        <div class="container">
+                            <div class="row">
+                               
+                                     <header class="cta-green-card__header text-start col-12 col-sm-8">
+                                                                        <h2 class="h4__proxima">Collective Bargaining Units</h2>
+                                                                </header>
+                            </div>
+                            <div class="row">
+                                <div class="body2 text-start col-12 col-sm-8"><p>Collective bargaining units also represent groups of Cal Poly Pomona employees, such as:&#160;</p>
+<ul>
+<li><a href="http://www.calfac.org/"><span data-contrast="none">Califonia Faculty Association (CFA)</span></a><span data-contrast="none">&#160;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:279}">&#160;</span></li>
+<li><a href="http://www.cpp.edu/&#126;cfa/"><span data-contrast="none">CFA Cal Poly Pomona Chapter</span></a><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:279}">&#160;</span></li>
+<li><a href="http://www.csueu.org/"><span data-contrast="none">California State University Employees Union (CSUEU)</span></a><span data-contrast="none">&#160;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:279}">&#160;</span></li>
+<li><a href="https://www.csueu.org/chapters/calpoly-pomona"><span>CSUEU Cal Poly Pomona Chapter</span></a><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:279}">&#160;</span></li>
+<li><a href="https://apc1002.org/"><span data-contrast="none">Academic Professionals of California</span></a><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:279}">&#160;</span></li>
+<li><a href="https://www.supapolice.org/"><span data-contrast="none">Statewide University Police Association</span></a><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:279}">&#160;</span></li>
+<li><a href="http://www.uapd.com/"><span data-contrast="none">Union of American Physicians and Dentists</span></a><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559740&quot;:279}">&#160;</span></li>
+</ul></div>  
+                            </div>
+                       </div>
+                    </section>
+                </div>
+                                          
+            
+</div>
+
+
+
+         
+<style>
+     @media screen and (min-width: 992px) {
+    .mini-footer .footer__socials-buttons {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}
+
+.mini-footer .button1__transducer {
+    font-size: 12px;
+    letter-spacing: .5px;
+}
+
+.mini-footer .button {
+	margin-top: 0;
+    padding: 8px 20px 8px 20px;
+
+}
+.mini-footer .footer-line {
+    border-top: thin solid #a4d65e;
+    margin-top: 39px;
+    padding-top: 15px;
+}
+ </style>
+<footer class="footer mini-footer">
+    <div class="footer__rip-wrapper">
+        <img class="footer__rip" alt="" src="/common/green-and-gold/assets/images/green-rip.svg" alt="Ripped green paper." />
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-2">
+                <div class="footer__logo-wrapper">
+                    <a href="/" aria-label="CPP Logo">
+                        <img class="footer__logo" src="/common/green-and-gold/assets/logos/cpp_primary_1c_gold_rgb.png" alt="Cal Poly Pomona logo, building with a palm tree." />
+                    </a>
+                </div>
+            </div>
+            <div class="col-12 col-lg-6 offset-lg-4">
+                <div class="footer__socials">
+                    <div class="footer__socials-buttons">
+                        <a class="button button__secondary button1__transducer" href="/apply/">Apply</a>
+                        <a class="button button__secondary button1__transducer" href="https://maps.cpp.edu/">Maps</a>
+                        <a class="button button__secondary button1__transducer" href="/outreach/tours.shtml">Visit</a>
+                        <a class="button button__secondary button1__transducer" href="/contact.shtml">Contact Us</a>
+                    </div>
+                    <div class="footer__socials-icons">
+                        <a href="https://www.instagram.com/calpolypomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram opens a new window" />
+                        </a>
+                        <a href="https://www.linkedin.com/school/cal-poly-pomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn opens a new window" />
+                        </a>
+                        <a href="https://www.youtube.com/user/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="YouTube opens a new window" />
+                        </a>
+                        <a href="https://www.facebook.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook opens a new window" />
+                        </a>
+                        <a href="https://twitter.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X opens a new window" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 footer-line">
+                <div class="footer__errata">
+                    <p class="footer__copyright" style="line-height: 1.8em">Copyright ©2025 California State Polytechnic University, Pomona.  All Rights Reserved 
+                        
+                        <br />A campus of 
+                        
+                        <a class="footer__errata-link" style="display: inline" href="https://www.calstate.edu/">The California State University</a>.
+                    
+                    </p>
+                    <div class="footer__errata-links">
+                        <a class="footer__errata-link" href="https://www.cpp.edu/website-feedback.shtml">Feedback</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/privacy.shtml">Privacy</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/accessibility.shtml">Accessibility</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/file-viewers.shtml">Document Readers</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer__gradient-bottom"></div>
+</footer>
+
+    </body>
+</html>

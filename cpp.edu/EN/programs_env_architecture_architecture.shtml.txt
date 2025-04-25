@@ -1,0 +1,1253 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+    <head>
+        <meta charset="UTF-8"/>
+        <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+        <meta content="ie=edge" http-equiv="X-UA-Compatible"/>
+        <title>
+            Architecture 
+        </title>
+        
+        <meta content="Design and shape the world around you, while also learning about the people, places, programs, and purposes of buildings and human environments. " name="description"/>
+        
+            <script src="https://cdn.levelaccess.net/accessjs/YW1wX2NwcDExMDM/access.js"></script>
+<script>// <![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSKJRNV');
+// ]]></script>
+<link rel="icon" href="/common/green-and-gold/assets/icons/gg-favicon.svg"  type="image/svg+xml" />
+<link rel="icon" href="/common/green-and-gold/assets/icons/gg-favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/index.css" />
+<link rel="stylesheet" href="https://use.typekit.net/fia5dle.css" />
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/cpp-fonts.css" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+<script src="/common/green-and-gold/assets/js/accordion.js"></script>
+<script crossorigin="anonymous" defer="defer" integrity="sha384-FW78RPcSpi13vjx77nPWQIrQbNSLkPBopb0qGzLCxD2x4Kr6FA8V05C/6cpgkKPL" src="https://pro.fontawesome.com/releases/v5.10.1/js/all.js"></script>
+<script src="/common/green-and-gold/assets/js/modal.js"></script>
+<script src="/common/green-and-gold/assets/js/fontawesome/v6.0x/sharp-light.js" crossorigin="anonymous" type="text/javascript"></script>
+<script src="/common/green-and-gold/assets/js/fontawesome/v6.0x/sharp-others.js" crossorigin="anonymous" type="text/javascript"></script>
+<!-- Swiper Library -->
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/swiper-bundle.min.css" />
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/swiper-carousel.css" />
+<script src="/common/green-and-gold/assets/js/swiper-bundle.min.js"></script>
+<script src="/common/green-and-gold/assets/js/carousel-cards-swiper.js"></script>
+
+    </head>
+    <body>
+        <a class="skip-to-content-link" href="#main">Skip to content</a>
+             <header class="nav fixed">
+    <nav class="container">
+        <ul class="row nav__main" id="mainNavMenu">
+            <li id="main-logo" class="col-6 col-lg-3 nav__logo">
+                <a href="/" aria-label="Cal Poly Pomona Home" tabindex="0">
+                    <div class="nav__logo--horizontal">
+                        <img src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png" alt="Cal Poly Pomona Logo" />
+                    </div>
+                </a>
+            </li>
+            <!-- department header hidden by default-->
+            <li id="dept-header-desktop" class="col-sm-5 col-md-6 nav__logo desktop d-none">
+                <a href="/" aria-label="Cal Poly Pomona Home" tabindex="0">
+                    <div class="nav__logo--stacked">
+                        <img src="/common/green-and-gold/assets/logos/cpp_primary_2c_green_cmyk.png" alt="Cal Poly Pomona Logo">
+                        </div>
+                    </a>
+                    <div class="divider"></div>
+                    <div id="split-header" class="nav__division col-lg-6">
+                        <div id="large-name"></div>
+                        <div style="display:none" id="sub-name"></div>
+                    </div>
+                </div>
+            </li>
+            <li class="nav__links col-2" id="head-links">
+                <a class="nav__link nav__link--desktop col-1" href="/commencement/" tabindex="0">
+                    <svg
+                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 1px;
+    width: auto;
+">
+                        <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                        <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#005030"></path>
+                    </svg>
+                    <span class="sr-only">commencement</span>
+                </a>
+                <a class="nav__link nav__link--desktop col-1" href="/apply/" tabindex="0">apply</a>
+                <a class="nav__link nav__link--desktop col-1" href="/outreach/tours.shtml" tabindex="0">visit</a>
+                <a class="nav__link nav__link--desktop col-1" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="0">info</a>
+                <a class="nav__link nav__link--desktop col-1" href="/giving/" tabindex="0">give</a>
+                <a class="nav__link nav__link--desktop col-1" href="https://my.cpp.edu" tabindex="0">mycpp</a>
+                <button id="search-open" class="nav__search col-1" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/search-dark-green.svg" alt="Open search box" />
+                </button>
+                <button class="nav__menu col-1" id="menuButton" aria-expanded="false" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/menu.svg" alt="menu" />
+                </button>
+            </li>
+        </ul>
+    </nav>
+</header>
+<header id="search-header" style="display:none">
+    <div class="row">
+        <div class="col-md-6"></div>
+        <div id="searchbox" class="col-md-6">
+            <div id="search-slide">
+                <label for="#gsc-i-id1" class="sr-only">Search</label>
+                <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+                <div class="gcse-searchbox-only" data-resultsurl="https://www.cpp.edu/search.shtml"></div>
+                <button class="nav__menu col-1" id="search-close" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close search menu">
+                    </button>
+                </div>
+            </div>
+            <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+            <script>
+       $("#search-open").click(function() {
+         $("#search-header").show();
+         $("#search-slide").addClass("slideup");
+         $("#gsc-i-id1").focus();
+         $('#search-close').focusout(function() {
+           $("#search-header").hide();
+           $("#search-slide").removeClass("slideup");
+           $("#search-open").focus();
+         })
+       });
+       $("#search-close").click(function() {
+         $("#search-header").hide();
+         $("#search-slide").removeClass("slideup");
+         $("#search-open").focus();
+       });
+     </script>
+            <style>
+       .gstl_50 gssb_c {
+         position: fixed !important;
+       }
+
+       #searchbox {
+         height: 93px;
+         overflow: hidden;
+       }
+
+       #search-header {
+         position: fixed;
+         height: 100px;
+         width: 100%;
+         height: 93px;
+         z-index: 99999;
+         top: 0;
+       }
+
+       #gsc-i-id1 {
+         height: 40px;
+         width: 70%;
+         border-radius: 4px;
+         border: none;
+         padding: 15px;
+       }
+
+       #search-submit {
+         margin: 15px;
+       }
+
+       #search-close {
+         width: 23px;
+         height: 21px;
+         position: absolute;
+         top: 32px;
+       }
+
+       #search-slide {
+         width: 0px;
+         right: -100%;
+         padding: 20px 15px;
+         position: relative;
+         background: #005030;
+         height: 100%;
+         transition: all .5s ease 0s
+       }
+
+       #search-slide.slideup {
+         right: 0;
+         width: 100%;
+         position: relative;
+       }
+
+       @media screen and (max-width:991px) {
+         #search-slide {
+           height: 77px !important;
+           padding: 12px 10px;
+         }
+       }
+
+       @media screen and (max-width:767px) {
+         #search-header {
+           position: relative !important;
+         }
+
+         #search-slide {
+           text-align: center !important;
+         }
+       }
+
+       .gsc-search-button-v2 svg {
+         width: auto;
+         height: 21px;
+       }
+
+       .gsc-search-button-v2,
+       .gsc-search-button-v2:hover,
+       .gsc-search-button-v2:focus {
+         border: none !important;
+         background: none !important;
+       }
+
+       form.gsc-search-box {
+         font-size: 13px;
+         margin-top: 0;
+         margin-right: 0;
+         margin-bottom: 4px;
+         margin-left: 0;
+         width: 100%;
+         display: inline-block;
+       }
+
+       #___gcse_0 {
+         width: 70%;
+         display: inline-block;
+       }
+
+       table.gsc-search-box td.gsc-input {
+         padding-right: 0;
+       }
+
+       #gsc-i-id1 {
+         width: 100%;
+         padding: 0px;
+         border: none;
+         margin: -0.0625em 0px 0px;
+         height: 40px !important;
+         background: rgb(255, 255, 255);
+         outline: none;
+         font-size: 20px;
+         font-weight: 200;
+       }
+
+       .gstl_50.gssb_c {
+         z-index: 99999;
+       }
+
+       .gsq_a {
+         font-weight: 200;
+         font-size: 18px;
+         padding: 2px;
+       }
+
+       .gssb_a img {
+         display: none;
+       }
+     </style>
+        </div>
+    </header>
+    <section class="side-nav" id="sideNavOverlay">
+        <header class="side-nav__overlay relative">
+            <nav class="container">
+                <ul class="row nav__overlay" id="sideNavMenu">
+                    <li class="nav__logo col-12 col-md-10 col-lg-3" id="navLogoOverlay">
+                        <a href="/" aria-label="Cal Poly Pomona Home" tabindex="-1">
+                            <img src="/common/green-and-gold/assets/logos/cpp_horizontal_1c_gold_rgb.png" alt="Cal Poly Pomona Logo" />
+                        </a>
+                    </li>
+                    <div class="nav__overlay--right col-12 col-lg-9">
+                        <li class="nav__links nav__links--desktop col-12 col-lg-6">
+                            <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 1px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/apply/" tabindex="-1">apply</a>
+                            <a class="nav__link nav__link--mobile col-1" href="/outreach/tours.shtml" tabindex="-1">visit</a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="-1">info</a>
+                            <a class="nav__link nav__link--mobile col-1" href="/giving/" tabindex="-1">give</a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://my.cpp.edu" tabindex="-1">mycpp</a>
+                        </li>
+                        <li class="nav__icons col-1">
+                            <button id="search-open-green" class="nav__search col-1" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/search-white.svg" alt="Open search box" />
+                            </button>
+                            <button class="nav__close col-1" id="closeButton" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close menu" />
+                            </button>
+                        </li>
+                        <li class="nav__links nav__links--mobile col-12 col-lg-6">
+                            <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 1px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/apply/" tabindex="-1">apply </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/outreach/tours.shtml" tabindex="-1">visit </a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="-1">info </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/giving/" tabindex="-1">give </a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://my.cpp.edu" tabindex="-1">mycpp </a>
+                        </li>
+                    </div>
+                </ul>
+            </nav>
+        </header>
+        <nav class="container side-nav__container">
+            <ul class="row side-nav__links">
+                <li class="side-nav__link col-12">
+                    <a class="h3__proxima" href="/" tabindex="-1" aria-label="Cal Poly Pomona Home page">Home</a>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--0">
+                    <button class="h3__proxima" id="0" aria-expanded="false" tabindex="-1" aria-label="About">
+                        <span>about</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--1">
+                    <button class="h3__proxima" id="1" aria-expanded="false" tabindex="-1" aria-label="Admissions & Aid">
+                        <span>admissions &amp; aid</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--2">
+                    <button class="h3__proxima" id="2" aria-expanded="false" tabindex="-1" aria-label="Academics">
+                        <span>academics</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--3">
+                    <button class="h3__proxima" id="3" aria-expanded="false" tabindex="-1" aria-label="Life at CPP">
+                        <span>life at CPP</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small">
+            <ul class="row">
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="https://broncoathletics.com/" tabindex="-1">athletics</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/alumni/" tabindex="-1">alumni</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/news/" tabindex="-1">news &amp; events</a>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small-bottom">
+            <ul class="col-12 col-lg-6 side-nav__links--small-bottom">
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/prospective-student-gateway/" tabindex="-1">future students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/student-gateway/" tabindex="-1">current students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/family/" tabindex="-1">families</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/faculty-staff-gateway/" tabindex="-1">faculty &amp; staff</a>
+                </li>
+            </ul>
+            <ul class="col-12 col-lg-6 social-icons">
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.instagram.com/calpolypomona/" aria-label="Instagram" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.linkedin.com/school/cal-poly-pomona/" aria-label="LinkedIn " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.youtube.com/user/calpolypomona" aria-label="Youtube " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="Youtube" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.facebook.com/calpolypomona" aria-label="Facebook " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://twitter.com/calpolypomona" aria-label="X (Twitter)" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X" />
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </section>
+    <script src="/common/green-and-gold/assets/js/nav.js"></script>
+
+            
+
+
+
+
+ 
+<script>
+
+                 
+                var mobileHtml = '<li class="col-6 nav__logo mobile"><a aria-label="Cal Poly Pomona Home" href="https://www.cpp.edu/" tabindex="0"><div class="nav__logo--horizontal"><img alt="Cal Poly Pomona Logo" src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png"/></div></a></li>';
+                $( "#main-logo" ).hide();
+                $( "#split-header #large-name" ).html('<a href="https://www.cpp.edu/env/">College of Environmental Design</a>');
+                $( "#dept-header-desktop" ).removeClass("d-none");
+                $( "#dept-header-desktop" ).addClass("d-flex");
+                $( "#dept-header-desktop" ).parent().prepend(mobileHtml);
+                $( "#sub-name" ).html('<a href="https://www.cpp.edu/env/architecture/index.shtml/index.shtml">Architecture</a>');
+                $( "#sub-name" ).show();
+
+        
+     </script>
+
+  
+
+
+  
+  
+
+ 
+
+  
+
+              
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+                   
+                           <code></code>
+           
+                            
+<div class="cqw-wrapper" id="main">
+
+    
+        
+        
+        
+    
+        <div class="organism-spacer">
+        <section class="hero-third-level">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 col-lg-7">
+                        <a class="hero-third-level__back-link button__proxima" href="https://www.cpp.edu/programs/index.shtml?programType=Bachelor">Undergraduate Programs</a>
+                        <h1 class="hero-third-level__header h2__proxima">Architecture </h1>
+                        <h2 class="hero-third-level__info">
+                            <div class="hero-third-level__info-item">
+                                <span class="hero-third-level__info-subitem kicker__proxima">Bachelor of Architecture – B.Arch.</span>
+                                <span class="hero-third-level__info-divider kicker__proxima">|</span>
+                            </div>
+                            <div class="hero-third-level__info-item">
+                                <span class="hero-third-level__info-subitem kicker__proxima">Undergraduate </span>
+                            </div>
+                        </h2>
+                    </div>
+                    <div class="col-12 col-lg-5">
+                        <div class="hero-third-level__image-wrapper">
+                            <div class="hero-third-level__accent-parent"></div>
+                            <img alt="Architecture student presents in studio" class="hero-third-level__image" src="../img/arc-main.jpg"/>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+    
+
+
+
+        
+        <style>
+        .dropdown-toggle__quick-links:is(:hover, :focus, :focus-visible) {
+            outline: 3px solid #000;
+            border: 2px solid #fff;
+            border-radius: 5px;
+        }   
+    </style>
+    
+    <div class="organism-spacer">
+        <section class="quick-links">
+            <div class="quick-links__flex-wrapper">
+                <h2 class="quick-links__header">Quicklinks</h2>
+                
+                                
+                                        
+                    <a class="quick-links__link" href="https://www.cpp.edu/env/architecture/index.shtml">Department Page</a>
+                                
+                                        
+                    <a class="quick-links__link" href="https://www.cpp.edu/env/architecture/program-degrees-admissions/computer-requirements.shtml">Costs &amp; Technology</a>
+                                
+                                        
+                    <a class="quick-links__link" href="https://www.cpp.edu/env/architecture/resources/studio-culture.shtml">Studio Culture</a>
+                                
+                                        
+                    <a class="quick-links__link" href="https://www.cpp.edu/env/architecture/about/contact.shtml">Contact Us</a>
+                                
+            </div>
+            <div class="container dropdown-container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="dropdown">
+                            <button aria-expanded="false" class="quick-links__header dropdown-toggle dropdown-toggle__quick-links" data-bs-toggle="dropdown" type="button">Quicklinks 
+                                <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                                    <path d="M1 1L7 7L13 1" stroke="#ffffff" stroke-width="2"/>
+                                </svg>
+                            </button>
+                            <ul class="dropdown-menu dropdown-menu__quick-links">
+                            
+                                                          
+                                                            
+                                <a class="dropdown-item quick-links__link" href="https://www.cpp.edu/env/architecture/index.shtml">Department Page</a>
+                                                          
+                                                            
+                                <a class="dropdown-item quick-links__link" href="https://www.cpp.edu/env/architecture/program-degrees-admissions/computer-requirements.shtml">Costs &amp; Technology</a>
+                                                          
+                                                            
+                                <a class="dropdown-item quick-links__link" href="https://www.cpp.edu/env/architecture/resources/studio-culture.shtml">Studio Culture</a>
+                                                          
+                                                            
+                                <a class="dropdown-item quick-links__link" href="https://www.cpp.edu/env/architecture/about/contact.shtml">Contact Us</a>
+                                                          
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    
+
+
+
+                
+        
+        
+        
+            
+                
+        
+        <div class="organism-spacer">
+        <section class="eggshell-heading-stat-box">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 col-lg-5 eggshell-heading-stat-box__text-wrapper">
+                        <div class="eggshell-heading-stat-box__text">
+                            <h2 class="kicker__transducer eggshell-heading-stat-box__header">About the Program </h2>
+                            <p class="body1 eggshell-heading-stat-box__copy">Design and shape the world around you, while also learning about the people, places, programs, and purposes of buildings and human environments. You will become an innovative problem solver and build skills in a broad spectrum of visual communication tools and methods, design technologies, and design information management. </p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-5 offset-lg-2">
+                        <div class="eggshell-heading-stat-box__gradient">
+                            <div class="eggshell-heading-stat-box__item">
+                            <div class="stat2 eggshell-heading-stat-box__stat-number">#1</div>
+                            <div class="h6__proxima eggshell-heading-stat-box__stat-meaning">Top 100 Undergraduate Architecture Program Graduating the Highest Number of Latinx Students</div>
+                            <div class="body3 eggshell-heading-stat-box__stat-source">The Hispanic Outlook on Education Magazine</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+    
+        
+    
+
+
+        
+    
+    <div class="organism-spacer spacer__padding-top--large spacer__padding-top--medium" style="--desktopPaddingBottomOverride: 113px;">
+        <section class="intro-text intro-text--default">
+            <img alt="" class="cta-card__svg" src="https://www.cpp.edu/common//green-and-gold/assets/images/vertical-line-circle.svg"/>
+            <div class="container">
+                <div class="row">
+                    <div class="intro-text__wrapper">
+                        
+                        
+                        <header class="intro-text__header">
+            <div class="kicker__transducer intro-text__kicker">Architecture</div>
+            <h2 class="h2__proxima">The Polytechnic Approach </h2>
+        </header>
+        <div class="intro-text__copy">
+            <p class="body2">In the architecture program, you’ll take designs from initial sketches to structural models. You will balance aesthetic concepts with structural considerations and design details with economic choices. Studio courses will provide collaborative environments with project-focused instruction, while lectures introduce topics that impact architectural design. Our integrative, learn by doing approach, internship experiences and strong industry connections will develop you into a lateral, creative thinker and prepare you for careers in various sectors, allowing you to make a difference in the built environment. </p>
+        </div>
+        <div class="intro-text__buttons">
+            
+                                        
+            
+    <a class="button button__primary--light-green button1__transducer" href="http://cpp.edu/apply">Apply</a>
+    
+                            
+            
+    <a class="button button__primary--light-green button1__transducer" href="https://www.cpp.edu/env/architecture/about/contact.shtml">Contact Us</a>
+    
+                            
+            
+    <a class="button button__primary--light-green button1__transducer" href="https://www.cpp.edu/env/architecture/news-events/arc-in-motion.shtml">ARC In Motion</a>
+    
+                        
+        </div>
+                
+                                
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+    
+
+
+
+
+    
+        
+                      
+                        
+                      
+            <style>
+  <!--
+  @media (max-width: 767px) {
+    #cardCarousel1 .carousel-inner .card-carousel-item>div {
+      display: none;
+    }
+
+    #cardCarousel1 .carousel-inner .carousel-item>div:first-child {
+      display: block;
+    }
+   
+  }
+  
+  #cardCarousel1 .carousel-inner .carousel-item.active,
+  #cardCarousel1 .carousel-inner .carousel-item-next,
+  #cardCarousel1 .carousel-inner .carousel-item-prev {
+    display: flex;
+  }
+
+  /* medium and up screens */
+  @media (min-width: 768px) {
+
+    #cardCarousel1 .carousel-inner .carousel-item-end.active,
+    #cardCarousel1 .carousel-inner .carousel-item-next {
+      transform: translateX(33%);
+    }
+
+    #cardCarousel1 .carousel-inner .carousel-item-start.active,
+    #cardCarousel1 .carousel-inner .carousel-item-prev {
+      transform: translateX(-33%);
+    }
+  }
+
+  #cardCarousel1 .carousel-inner .carousel-item-end,
+  #cardCarousel1 .carousel-inner .carousel-item-start {
+    transform: translateX(0);
+  }
+
+  #cardCarousel1 .carousel-indicators {
+    bottom: 60px !important;
+  }
+
+  .card-carousel .carousel-item {
+    gap: 20px;
+    padding-top: 20px;
+    height: 100% !important;
+  }
+  -->
+</style>
+ 
+
+                     <div class="organism-spacer spacer__padding-top--medium">
+                  <div class="container">
+                     <div class="row">
+                      <div class="content-carousel content-carousel--default">
+    
+                              
+                                                                            <div class="content-carousel__header default ">
+                                
+                                <h2 class="h4__transducer col-lg-6">Career Outcomes</h2>
+                                              
+                          <div class="content-carousel content-carousel__controls-wrapper d-flex justify-content-end">
+                              
+                                                         
+                            
+                              
+                            <div class="content-carousel content-carousel__controls">
+                              <button aria-disabled="false" aria-label="Previous slide" class="carousel-prev--2" data-bs-slide="prev" data-bs-target="#cardCarousel1" style="opacity: 1;" type="button">
+                                <span class="visually-hidden">Previous </span>
+                              </button>
+                              <div aria-live="polite" class="carousel-tracker body3">
+                                <div id="cardCarouselNum1"></div>
+                              </div>
+                              <button aria-disabled="false" aria-label="Next slide" class="carousel-next carousel-next--2" data-bs-slide="next" data-bs-target="#cardCarousel1" style="opacity: 1;" type="button">
+                                <span class="visually-hidden">Next </span>
+                              </button>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    <div class="card-carousel carousel slide" data-bs-interval="false" id="cardCarousel1">
+                        <div class="carousel-inner" role="listbox">        
+        
+        
+        
+        
+                        
+                                         
+            <div class="card-carousel-item carousel-item active" role="group">
+            <div class="carousel__card">
+                                     <section aria-roledescription="Slide 1 link" class="card card__kicker card--dark-green no-link-bar--teal col-lg-4" tabindex="0">
+                                                                        <div class="card__body">
+                          
+                        <h3 class="h4__proxima">Restoration Architect </h3>
+                          <p class="body2">Preserve and conserve buildings, structures and monuments with cultural and historic significance. </p>
+                        </div>
+                    </section>
+              
+                         
+            </div>
+          </div>
+                  
+                        
+                                         
+            <div class="card-carousel-item carousel-item" role="group">
+            <div class="carousel__card">
+                                     <section aria-roledescription="Slide 2 link" class="card card__kicker card--dark-green no-link-bar--teal col-lg-4" tabindex="0">
+                                                                        <div class="card__body">
+                          
+                        <h3 class="h4__proxima">Urban Planner </h3>
+                          <p class="body2">Create public and community spaces, helping to develop land and make the most accessible and safe use of open land. </p>
+                        </div>
+                    </section>
+              
+                         
+            </div>
+          </div>
+                  
+                        
+                                         
+            <div class="card-carousel-item carousel-item" role="group">
+            <div class="carousel__card">
+                                     <section aria-roledescription="Slide 3 link" class="card card__kicker card--dark-green no-link-bar--teal col-lg-4" tabindex="0">
+                                                                        <div class="card__body">
+                          
+                        <h3 class="h4__proxima">Computer Aided Design Detailer </h3>
+                          <p class="body2">Use technology to make execution in the physical world smoother, easier and safer by creating blueprints and illustrations to predict and test for obstacles. </p>
+                        </div>
+                    </section>
+              
+                         
+            </div>
+          </div>
+                  
+                        
+                                         
+            <div class="card-carousel-item carousel-item" role="group">
+            <div class="carousel__card">
+                                     <section aria-roledescription="Slide 4 link" class="card card__kicker card--dark-green no-link-bar--teal col-lg-4" tabindex="0">
+                                                                        <div class="card__body">
+                          
+                        <h3 class="h4__proxima">Interior Designer </h3>
+                          <p class="body2">Using knowledge of architectural design, help structure the interior placement of furniture, lighting, artwork and more to evoke the appropriate emotion and sensation in a safe, accessible way. </p>
+                        </div>
+                    </section>
+              
+                         
+            </div>
+          </div>
+                                      </div>
+                </div>
+            </div>
+        </div>
+    </div>
+     
+           <script>
+  let items1 = document.querySelectorAll('#cardCarousel1 .card-carousel-item')
+    var cardHeight = 0;
+    var cardMaxHeight = 0;
+      items1.forEach((el) => {
+   
+
+    if( $(el).css('display') == 'flex') {
+          cardHeight = el.offsetHeight;
+    } else {
+        $(el).addClass('active');
+       cardHeight = el.offsetHeight;
+       $(el).removeClass('active');
+    }
+      if(cardHeight > cardMaxHeight) {
+        cardMaxHeight = cardHeight;
+      }
+        const minPerSlide = 3
+        let next = el.nextElementSibling
+        for (var i = 1; i < minPerSlide; i++) {
+          if (!next) {
+            // wrap carousel by using first child
+            console.log(next);
+            next = items1[0]
+          }
+          let cloneChild = next.cloneNode(true)
+          el.appendChild(cloneChild.children[0])
+          next = next.nextElementSibling
+        }
+      }) 
+
+      console.log("Max Card Height " + cardMaxHeight);
+    $('#cardCarousel1 .card-carousel-item').height(cardMaxHeight);
+    $('#cardCarousel1 .card-carousel-item .carousel__card').height(cardMaxHeight);
+
+    var totalItems1 = $('#cardCarousel1 .carousel-item').length;
+    $('#cardCarouselNum1').html(totalItems1);
+   
+    var slide1 = $('#cardCarousel1 .carousel-item.active').index() + 1; 
+    var slideTitle1 = $('#cardCarousel1 .carousel-item.active h3').html(); 
+    $('#cardCarouselNum1').html('<span class="sr-only">Slide</span> ' + slide1 + ' /' + totalItems1 + ' <span class="sr-only">Title:' + slideTitle1 + '</span>');
+    
+       $('#cardCarousel1').on('slid.bs.carousel', function() {
+            slide1 = $('#cardCarousel1 .carousel-item.active').index() + 1; 
+            slideTitle1 = $('#cardCarousel1 .carousel-item.active h3').html(); 
+            $('#cardCarouselNum1').html('<span class="sr-only">Slide</span> ' + slide1 + ' /' + totalItems1 + ' <span class="sr-only">Title:' + slideTitle1 + '</span>');
+          })
+ 
+  
+       
+    
+    
+   
+</script>
+           
+           
+
+
+
+        
+        
+    
+        
+    
+      
+    <style>
+
+        .course-info, .course-info h2 {
+            color: #005030;
+        }
+        
+        .courses-buttons {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            padding: 20px 0;
+        }
+        
+        .courses-buttons a {
+            width: 100%;
+            margin: auto;
+            border-radius: 8px;
+        }
+        
+        .disclaimer-and-buttons {
+            padding: 0 90px;
+            font-size: 12pt;
+        }
+    
+    </style>
+
+    <div class="organism-spacer spacer__padding-bottom--medium spacer__padding-top--medium">
+    <section class="course-info">
+        <div class="container">
+            <div class="row">
+                
+                <div class="col-lg-6">
+                    <h2 class="h4__transducer">Courses</h2>
+                    <p class="body2" style="padding: 30px 0">The architecture program consists of a five-year curriculum focused on the design laboratory. The studio sequence consists of four segments: a three-year basic core, three-semester topic studios and a two-semester long culminating senior project. Lecture classes in Architecture Theory and History, Human Behavior, Professional Practice, Programming, Sustainability, Building Technology, Structures, Codes and Digital Media are closely coordinated with the studio sequence, and students are expected to demonstrate their knowledge of these areas in their design projects. </p>
+                </div>
+                <div class="col-lg-6">
+                    <div class="disclaimer-and-buttons">
+                        <p>
+                                                            For the most up-to-date information on courses for this program, visit the course catalog or contact an advisor.
+                                                        
+                        </p>
+                        
+                        <div class="courses-buttons">
+                            
+                            <a class="button button__primary--light-green button1__transducer" href="https://catalog.cpp.edu/preview_program.php?catoid=68&amp;poid=18617 ">See Course Catalog</a>
+                            
+                            
+        
+    <a class="button button__primary--light-green button1__transducer" href="https://www.cpp.edu/env/student-success-advising-center/">Visit Advising</a>
+    
+                            
+                                                                                                                                
+        
+    <a class="button button__primary--light-green button1__transducer" href="https://www.cpp.edu/env/architecture/program-degrees-admissions/internship-requirement.shtml">Internships</a>
+    
+                                                                    
+        
+    <a class="button button__primary--light-green button1__transducer" href="https://www.cpp.edu/env/architecture/program-degrees-admissions/computer-requirements.shtml">Required Tech</a>
+    
+                                                                                        
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+    
+
+            
+                
+                         
+                                            
+             
+<div class="organism-spacer spacer__padding-top--small spacer__padding-bottom--small" style="--mobileMarginBottomOverride: 60px;">
+
+  <section class="image-text" id="content-section-2">
+    <div class="container">
+      <div class="image-text__wrapper image-text__wrapper--left">
+        <div class="col-12 col-md-8 col-lg-5 image-text__grid image-text__grid--teal" style="background-image:url('/common/green-and-gold/assets/images/white-grid.png')">
+          <div class="image-text__img">
+            <img alt="Architecture student working on her model" src="../img/arc-accred.jpg"/>
+          </div>
+        </div>
+        <div class="image-text__content">
+          <div class="image-text__copy col-12 col-md-8 col-lg-6 image-text__copy--white image-text__copy--regular">
+                          <h2 class="kicker__transducer">Accreditation</h2>
+                                                                    <h3 class="h3__proxima">Design the Built Environment</h3>
+                                <p class="body2">The Bachelor of Architecture program is accredited by the National Architectural Accrediting Board (NAAB).</p>
+                                </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+            
+                
+                                    
+             
+
+<div class="organism-spacer ">
+  <section class="image-cta-lockup image-cta-lockup--dark-green" id="content-section-3">
+       <div class="linework">
+              
+      <img alt="" class="linework--mobile" src="https://www.cpp.edu/common//green-and-gold/assets/images/linework-combo-offset-white-mobile.svg"/>
+      <img alt="" class="linework--desktop" src="https://www.cpp.edu/common//green-and-gold/assets/images/linework-combo-offset-white.svg"/>
+      
+    </div>
+        <div class="container">
+      <div class="row">
+        <div class="image-cta-lockup__content col-lg-6">
+          <header class="image-cta-lockup__header">
+                          <h2 class="kicker__transducer">Financial Aid &amp; Scholarships </h2>
+              <h3 class="h2__proxima">Peter J. Pitassi Design Scholarship</h3>
+                        <p class="body2">The Pitassi Scholarship is open to high-achieving freshmen and sophomore architecture students interested in the role of housing in community development. Awardees are also eligible for consideration of a paid internship over the summer with a private development firm. </p>
+          </header>
+                                      <div class="image-cta-lockup__cta">
+                                                                  <a class="button button__secondary button1__transducer" href="                                                          https://www.cpp.edu/env/architecture/resources/scholarships.shtml      ">See More Scholarships</a>                      
+                                </div>
+                        </div>
+        <div class="col-lg-6">
+          <div class="image-cta-lockup__img">
+            <img alt="Luis Lazaro works on his  model during his 1st Year Architecture studio" src="../img/arc-pitassi.jpg"/>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+            
+                
+                         
+                                              
+             
+<div class="organism-spacer spacer__padding-top--small" style="--mobileMarginBottomOverride: 60px;">
+
+  <section class="image-text" id="content-section-4">
+    <div class="container">
+      <div class="image-text__wrapper image-text__wrapper--left">
+        <div class="col-12 col-md-8 col-lg-5 image-text__grid image-text__grid--gold" style="background-image:url('/common/green-and-gold/assets/images/white-grid.png')">
+          <div class="image-text__img">
+            <img alt="Architecture Professor Irma Ramirez " src="../img/arc-irma-ramirez.jpg"/>
+          </div>
+        </div>
+        <div class="image-text__content">
+          <div class="image-text__copy col-12 col-md-8 col-lg-6 image-text__copy--white image-text__copy--regular">
+                          <h2 class="kicker__transducer">Featured Faculty</h2>
+                                                                                      <blockquote class="h5__proxima image-text__quote">Irma Ramirez focuses on community-based design, design-build, interdisciplinary practice and service learning. She collaborates with CPP's Habitat 21 Sustainable Settlements Project and founded the ENV China Program in Beijing. </blockquote>
+                                
+                 <span class="kicker__proxima image-text__name">Irma Ramirez </span>
+                <span class="kicker__transducer image-text__department">Professor, Architecture </span>
+                  
+                                              
+                          <div class="image-text__cta">
+                                                                  <a class="button button1__transducer button__primary--light-green" href="                                                          https://www.cpp.edu/faculty/ieramirez/index.shtml      ">Faculty Profile</a>                      
+                                </div>
+                      </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+    
+
+
+
+
+            
+             <div class="organism-spacer spacer__padding-top--large spacer__padding-bottom--large">
+          <section class="text-list">
+            
+        
+
+         <div class="container">
+                <div class="row">
+                    <div class="text-list__wrapper">
+                    
+                                            
+                        
+            
+                  
+              
+        <header class="text-list__header header-align--left">
+            <h2 class="h4__transducer col-lg-6">Related Programs</h2>
+        </header>
+
+        
+    
+                    
+                                            <div class="text-list__cta-grid row">
+                            
+                                                                                        
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Art History, B.A.  (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/programs/env/art/art-history.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Art History, B.A. </p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Landscape Architecture, B.S.  (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/programs/env/landscape-architecture/landscape-architecture.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Landscape Architecture, B.S. </p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Visual Communication Design, B.F.A  (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/programs/env/art/visual-communication-design.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Visual Communication Design, B.F.A </p>
+                    </a>
+    </div>
+    
+                                
+                                                            
+                                
+        
+        <div class="text-list__cta col-lg-6">
+        <a aria-label="Urban and Regional Planning, B.S. - Urban Design  (opens a new window)" class="cta-card bar--dark-green--with-arrow bar--thin" href="https://www.cpp.edu/programs/env/urp/urban-design.shtml" target="_blank">
+            <p aria-hidden="true" class="cta-card__copy h6__proxima col-10 col-sm-12">Urban and Regional Planning, B.S. - Urban Design </p>
+                    </a>
+    </div>
+    
+                                
+                                                          
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+    
+</div>
+<style>
+    /*.footer__rip-wrapper {*/
+    /*    background: #f2eee8;*/
+    /*}*/
+</style>
+
+         
+<style>
+     @media screen and (min-width: 992px) {
+    .mini-footer .footer__socials-buttons {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}
+
+.mini-footer .button1__transducer {
+    font-size: 12px;
+    letter-spacing: .5px;
+}
+
+.mini-footer .button {
+	margin-top: 0;
+    padding: 8px 20px 8px 20px;
+
+}
+.mini-footer .footer-line {
+    border-top: thin solid #a4d65e;
+    margin-top: 39px;
+    padding-top: 15px;
+}
+ </style>
+<footer class="footer mini-footer">
+    <div class="footer__rip-wrapper">
+        <img class="footer__rip" alt="" src="/common/green-and-gold/assets/images/green-rip.svg" alt="Ripped green paper." />
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-2">
+                <div class="footer__logo-wrapper">
+                    <a href="/" aria-label="CPP Logo">
+                        <img class="footer__logo" src="/common/green-and-gold/assets/logos/cpp_primary_1c_gold_rgb.png" alt="Cal Poly Pomona logo, building with a palm tree." />
+                    </a>
+                </div>
+            </div>
+            <div class="col-12 col-lg-6 offset-lg-4">
+                <div class="footer__socials">
+                    <div class="footer__socials-buttons">
+                        <a class="button button__secondary button1__transducer" href="/apply/">Apply</a>
+                        <a class="button button__secondary button1__transducer" href="https://maps.cpp.edu/">Maps</a>
+                        <a class="button button__secondary button1__transducer" href="/outreach/tours.shtml">Visit</a>
+                        <a class="button button__secondary button1__transducer" href="/contact.shtml">Contact Us</a>
+                    </div>
+                    <div class="footer__socials-icons">
+                        <a href="https://www.instagram.com/calpolypomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram opens a new window" />
+                        </a>
+                        <a href="https://www.linkedin.com/school/cal-poly-pomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn opens a new window" />
+                        </a>
+                        <a href="https://www.youtube.com/user/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="YouTube opens a new window" />
+                        </a>
+                        <a href="https://www.facebook.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook opens a new window" />
+                        </a>
+                        <a href="https://twitter.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X opens a new window" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 footer-line">
+                <div class="footer__errata">
+                    <p class="footer__copyright" style="line-height: 1.8em">Copyright ©2025 California State Polytechnic University, Pomona.  All Rights Reserved 
+                        
+                        <br />A campus of 
+                        
+                        <a class="footer__errata-link" style="display: inline" href="https://www.calstate.edu/">The California State University</a>.
+                    
+                    </p>
+                    <div class="footer__errata-links">
+                        <a class="footer__errata-link" href="https://www.cpp.edu/website-feedback.shtml">Feedback</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/privacy.shtml">Privacy</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/accessibility.shtml">Accessibility</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/file-viewers.shtml">Document Readers</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer__gradient-bottom"></div>
+</footer>
+
+
+    </body>
+</html>

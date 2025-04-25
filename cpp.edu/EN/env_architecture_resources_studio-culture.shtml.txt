@@ -1,0 +1,1036 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+		<title>
+			Studio Culture
+		</title>
+		<!-- Required meta tags -->
+		<meta charset="utf-8"/>
+		<meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
+		<meta content="ENV" property="cludo:category"/>
+<meta content="2022-12-21T15:54Z" property="date"/>
+<link href="https://www.cpp.edu/env/architecture/resources/studio-culture.shtml" rel="canonical"/>
+		
+		
+		
+    <div lang="en">
+
+
+                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                <script src="https://cdn.levelaccess.net/accessjs/YW1wX2NwcDExMDM/access.js"></script>
+<script>// <![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSKJRNV');
+// ]]></script>
+<link href="/common/green-and-gold/assets/icons/gg-favicon.svg" rel="icon" type="image/svg+xml"/> <link crossorigin="anonymous" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" rel="stylesheet"/>
+<script crossorigin="anonymous" defer="defer" integrity="sha384-FW78RPcSpi13vjx77nPWQIrQbNSLkPBopb0qGzLCxD2x4Kr6FA8V05C/6cpgkKPL" src="https://pro.fontawesome.com/releases/v5.10.1/js/all.js"></script>
+<link href="https://www.cpp.edu/common/2018/assets/css/cpp-base-styles.css" rel="stylesheet"/> <link href="https://www.cpp.edu/common/2018/assets/css/cpp-extended-styles.css" rel="stylesheet"/> <link href="https://use.typekit.net/fia5dle.css" rel="stylesheet"/> <link href="/common/green-and-gold/assets/css/cpp-fonts.css" rel="stylesheet"/> <link href="/common/green-and-gold/assets/css/gg-header-footer.css" rel="stylesheet"/>
+
+</div>
+    
+		
+		
+	</head>
+	<body>
+		
+		
+	
+    <div lang="en">
+
+
+                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                 
+<header class="nav fixed">
+    <nav class="container">
+        <ul class="row nav__main" id="mainNavMenu">
+            <li id="main-logo" class="col-6 col-lg-3 nav__logo">
+                <a href="/" aria-label="Cal Poly Pomona Home" tabindex="0">
+                    <div class="nav__logo--horizontal">
+                        <img src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png" alt="Cal Poly Pomona Logo" />
+                    </div>
+                </a>
+            </li>
+            <li class="nav__links col-6" id="head-links">
+             <a class="nav__link nav__link--desktop col-1" href="/commencement/" tabindex="0">
+                    <svg
+                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 6px;
+    width: auto;
+">
+                        <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                        <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#005030"></path>
+                    </svg>
+                    <span class="sr-only">commencement</span>
+                </a>
+                <a class="nav__link nav__link--desktop" href="/apply/" tabindex="0">apply</a>
+                <a class="nav__link nav__link--desktop" href="/outreach/tours.shtml" tabindex="0">visit</a>
+                <a class="nav__link nav__link--desktop" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="0">info</a>
+                <a class="nav__link nav__link--desktop" href="/giving/" tabindex="0">give</a>
+                <a class="nav__link nav__link--desktop" href="https://my.cpp.edu" tabindex="0">mycpp</a>
+                <button id="search-open" class="nav__search" aria-expanded="false" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/search-dark-green.svg" alt="Search" />
+                </button>
+                <button class="nav__menu" id="menuButton" aria-expanded="false" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/menu.svg" alt="menu" />
+                </button>
+            </li>
+        </ul>
+    </nav>
+</header>
+<header id="search-header" style="display:none">
+    <div class="row">
+        <div class="col-md-6"></div>
+        <div id="searchbox" class="col-md-6">
+            <div id="search-slide">
+                <label for="#gsc-i-id1" class="sr-only">Search</label>
+                <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+                <div class="gcse-searchbox-only" data-resultsurl="https://www.cpp.edu/search.shtml"></div>
+                <button class="nav__menu col-1" id="search-close" aria-expanded="false" tabindex="0" aria-label="Menu icon">
+                    <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close icon">
+                    </button>
+                </div>
+            </div>
+            <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+            <style>
+
+     .gstl_50 gssb_c {
+         position:fixed !important;
+         }
+       #search-close img {
+         width: auto !important;
+       }
+
+       #searchbox {
+         height: 93px;
+         overflow: hidden;
+       }
+
+       #search-header {
+         position: fixed;
+         height: 100px;
+         width: 100%;
+         height: 93px;
+         z-index: 99999;
+         top: 0;
+       }
+
+       #gsc-i-id1 {
+         height: 40px;
+         width: 70%;
+         border-radius: 4px;
+         border: none;
+         padding: 15px;
+       }
+
+       #search-submit {
+         margin: 15px;
+       }
+
+       #search-close {
+         width: 23px;
+         height: 21px;
+         position: absolute;
+         top: 32px;
+       }
+
+       #search-slide {
+         width: 0px;
+         right: -100%;
+         padding: 20px 15px;
+         position: relative;
+         background: #005030;
+         height: 100%;
+         transition: all .5s ease 0s
+       }
+
+       #search-slide.slideup {
+         right: 0;
+         width: 100%;
+         position: relative;
+       }
+
+       @media screen and (max-width:991px) {
+         #search-slide {
+           height: 77px !important;
+           padding: 12px 10px;
+         }
+       }
+
+       @media screen and (max-width:767px) {
+         #search-header {
+           position: relative !important;
+         }
+
+         #search-slide {
+           text-align: center !important;
+         }
+       }
+
+     .gsc-search-button-v2 svg {
+    width: auto;
+    height: 25px;
+    position: relative;
+    top: 8px;
+}
+
+       .gsc-search-button-v2,
+       .gsc-search-button-v2:hover,
+       .gsc-search-button-v2:focus {
+         border: none !important;
+         background: none !important;
+       }
+
+       form.gsc-search-box {
+         font-size: 13px;
+         margin-top: 0;
+         margin-right: 0;
+         margin-bottom: 4px;
+         margin-left: 0;
+         width: 100%;
+         display: inline-block;
+       }
+
+       #___gcse_0 {
+         width: 70%;
+         display: inline-block;
+       }
+
+       table.gsc-search-box td.gsc-input {
+         padding-right: 0;
+       }
+
+       #gsc-i-id1 {
+         width: 100%;
+         padding: 0px;
+         border: none;
+         margin: -0.0625em 0px 0px;
+         height: 40px !important;
+         background: rgb(255, 255, 255);
+         outline: none;
+         font-size: 20px;
+         font-weight: 200;
+       }
+
+       .gstl_50.gssb_c {
+         z-index: 99999;
+       }
+
+       .gsq_a {
+         font-weight: 200;
+         font-size: 18px;
+         padding: 2px;
+       }
+
+       .gssb_a img {
+         display: none;
+       }
+
+       .side-nav__links--small-bottom {
+           margin-left:-15px;
+       }
+       .nav__links .nav__links--mobile {
+           margin-top: 50px;
+            margin-bottom: -50px;
+            margin-left: 50px
+       }
+       .nav__link--mobile {
+        	padding:0px;
+        }
+     /*   .side-nav__container, .side-nav__container--small {
+          
+            padding-left: 50px;
+        }*/
+        .side-nav__container--small-bottom {
+           padding-left: 35px;
+        }
+         @media screen and (max-width:991px) {
+             .nav__links--mobile {
+                 display:flex;
+             }
+         }
+          @media screen and (min-width:992px) {
+             .nav__links--mobile {
+                 display:none !important;
+             }
+          }
+         .nav__link--mobile {
+             color: #ffb81c;
+         }
+       </style>
+        </div>
+    </header>
+    <section class="side-nav" id="sideNavOverlay">
+        <header class="side-nav__overlay relative">
+            <nav class="container">
+                <ul class="row nav__overlay" id="sideNavMenu">
+                    <li class="nav__logo col-12 col-md-10 col-lg-3" id="navLogoOverlay">
+                        <a href="/" aria-label="Cal Poly Pomona Home" tabindex="-1">
+                            <img src="/common/green-and-gold/assets/logos/cpp_horizontal_1c_gold_rgb.png" alt="Cal Poly Pomona Logo" />
+                        </a>
+                    </li>
+                    <div class="nav__overlay--right col-12 col-lg-9">
+                        <li class="nav__links nav__links--desktop col-12 col-lg-6">
+                             <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 6px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                            <a class="nav__link nav__link--mobile" href="/apply/" tabindex="-1">apply</a>
+                            <a class="nav__link nav__link--mobile" href="/outreach/tours.shtml" tabindex="-1">visit</a>
+                            <a class="nav__link nav__link--mobile" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="-1">info</a>
+                            <a class="nav__link nav__link--mobile" href="/giving/" tabindex="-1">give</a>
+                            <a class="nav__link nav__link--mobile" href="https://my.cpp.edu" tabindex="-1">mycpp</a>
+                        </li>
+                        <li class="nav__icons">
+                            <button id="search-open-green" class="nav__search" aria-expanded="false" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/search-white.svg" alt="Search" />
+                            </button>
+                            <button class="nav__close" id="closeButton" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close menu" />
+                            </button>
+                        </li>
+                    </div>
+                </ul>
+            </nav>
+        </header>
+        
+            <div class="mobile_overlay_nav nav__links nav__links--mobile col-12 col-lg-6">
+                 <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 6px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                <a class="nav__link nav__link--mobile" href="/apply/" tabindex="0">apply </a>
+                <a class="nav__link nav__link--mobile" href="/outreach/tours.shtml" tabindex="0">visit </a>
+                <a class="nav__link nav__link--mobile" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="0">info </a>
+                <a class="nav__link nav__link--mobile" href="/giving/" tabindex="0">give </a>
+                <a class="nav__link nav__link--mobile" href="https://my.cpp.edu" tabindex="0">mycpp </a>
+            </div>
+       
+        <nav class="container side-nav__container">
+            <ul class="row side-nav__links">
+                <li id="home-button" class="side-nav__link">
+                    <a class="h3__proxima" href="/" tabindex="-1" aria-label="Cal Poly Pomona Home page">Home</a>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--0">
+                    <button class="h3__proxima" id="0" aria-expanded="false" tabindex="-1" aria-label="Link">
+                        <span>about</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--1">
+                    <button class="h3__proxima" id="1" aria-expanded="false" tabindex="-1" aria-label="Admissions & Aid">
+                        <span>admissions &amp; aid</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--2">
+                    <button class="h3__proxima" id="2" aria-expanded="false" tabindex="-1" aria-label="academics">
+                        <span>academics</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--3">
+                    <button class="h3__proxima" id="3" aria-expanded="false" tabindex="-1" aria-label="life at CPP">
+                        <span>life at CPP</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small">
+            <ul class="row">
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="https://broncoathletics.com/" tabindex="-1">athletics</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/alumni/" tabindex="-1">alumni</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/news/" tabindex="-1">news &amp; events</a>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small-bottom">
+            <ul class="col-12 col-lg-7 side-nav__links--small-bottom">
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/prospective-student-gateway/" tabindex="-1">future students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/student-gateway/" tabindex="-1">current students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/family/" tabindex="-1">families</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom">
+                    <a class="body2" href="/faculty-staff-gateway/" tabindex="-1">faculty &amp; staff</a>
+                </li>
+            </ul>
+            <ul class="col-12 col-lg-5 social-icons">
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.instagram.com/calpolypomona/" aria-label="Instagram" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.linkedin.com/school/cal-poly-pomona/" aria-label="LinkedIn " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.youtube.com/user/calpolypomona" aria-label="Youtube " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="Youtube" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.facebook.com/calpolypomona" aria-label="Facebook " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://twitter.com/calpolypomona" aria-label="X (Twitter)" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X" />
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </section>
+
+</div>
+    
+
+		                                                                                                                                                        																										                                                            												
+
+
+            
+    <header title="Architecture">
+
+
+
+      
+        
+    <custom/> 
+
+    
+                         <div id="dept-title">
+                            Architecture
+                    </div>
+    </header>
+
+                        <nav class="navbar navbar-expand-md navbar-light d-block " id="horizontalnav">
+        <button aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler navbar-toggler-right" data-target="#navbarSupportedContent" data-toggle="collapse" id="site-menu-expand-button" type="button">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="nav nav-pills nav-fill center-pills" id="site-nav">
+                                <li class="nav-item" id="li-1">
+                    <a class="nav-link" data-parent="#site-nav" href="/env/architecture/index.shtml">Home</a>    
+                </li>
+                                  
+                                                                                                                                                                                                                                                                                                                                                                                                                                                
+                                                
+                                                                                                            
+                                                                                            <li class="nav-item dropdown" id="li-2">
+
+                                    <a aria-expanded="false" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">About</a>
+                                                                             <div class="dropdown-menu">
+                                                                           
+                                                                                                                                                <a class="dropdown-item" href="/env/architecture/about/what-is-an-arthitect.shtml">What is an Architect?</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/env/architecture/about/department-history.shtml">Department History</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/env/architecture/about/mission.shtml">Mission</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/env/architecture/about/faculty-staff.shtml">Faculty / Staff</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/env/architecture/about/aias.shtml">AIAS</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/env/architecture/about/tsd.shtml">TSD</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/env/architecture/about/nomas.shtml"> NOMAS</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/env/architecture/about/alumni-advisory-group.shtml">Architecture Alumni Advisory Board</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/env/architecture/about/contact.shtml">Contact</a>
+                                                                                                                                    
+                                                                                                                        
+                                    </div>
+                                </li>
+                                
+                                                                                                                                     
+                                                                                                                                                                                            
+                                                
+                                                                                                            
+                                                                                            <li class="nav-item dropdown" id="li-3">
+
+                                    <a aria-expanded="false" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">News/Events</a>
+                                                                             <div class="dropdown-menu">
+                                                                           
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/env/architecture/news-events/news/index.shtml">News</a>
+                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/env/architecture/news-events/public-lectures.shtml">Public Lectures</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/env/architecture/news-events/arc-in-motion.shtml">ARC in Motion</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/env/architecture/news-events/open-positions.shtml">Open Positions</a>
+                                                                                                                                    
+                                                                                                                        
+                                    </div>
+                                </li>
+                                
+                                                                                                                                     
+                                                                                                                                                                                            
+                                                
+                                                                                                            
+                                                                                            <li class="nav-item dropdown" id="li-4">
+
+                                    <a aria-expanded="false" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">Distinguished Scholars / Practitioners</a>
+                                                                             <div class="dropdown-menu">
+                                                                           
+                                                                                                                                                <a class="dropdown-item" href="/env/architecture/distinguished-scholars-practitioners/neutra-award.shtml">Neutra Award</a>
+                                                                                                                                    
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/~env/architecture/helmle-fellow/index.shtml">Helmle Fellowship</a>
+                                                                                    
+                                                                                            <a class="dropdown-item" href="https://www.cpp.edu/env/architecture/cavin/index.shtml">Cavin Family Traveling Fellowship</a>
+                                                                                    
+                                                                                                                        
+                                    </div>
+                                </li>
+                                
+                                                                                                                                     
+                                                                                                                                                                                            
+                                                
+                                                                                                            
+                                                                                            <li class="nav-item dropdown" id="li-5">
+
+                                    <a aria-expanded="false" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">Program / Degrees / Admissions</a>
+                                                                             <div class="dropdown-menu">
+                                                                           
+                                                                                                                                                <a class="dropdown-item" href="/env/architecture/program-degrees-admissions/naab-accreditation.shtml">NAAB Accreditation</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/env/architecture/program-degrees-admissions/program-student-learning-outcomes.shtml">Program &amp; Student Learning Outcomes</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/env/architecture/program-degrees-admissions/bachelor-of-architecture.shtml">B.Arch - Bachelor of Architecture</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/env/architecture/program-degrees-admissions/master-of-architecture.shtml">M.Arch - Master of Architecture</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/env/architecture/program-degrees-admissions/master-of-interior-architecture.shtml">Master of Interior Architecture</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/env/architecture/program-degrees-admissions/study-abroad-programs.shtml">Study Abroad Programs</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/env/architecture/program-degrees-admissions/internship-requirement.shtml">Internship Requirement</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/env/architecture/program-degrees-admissions/computer-requirements.shtml">Costs &amp; Computer Requirements</a>
+                                                                                                                                    
+                                                                                                                        
+                                    </div>
+                                </li>
+                                
+                                                                                                                                     
+                                                                                                                                                                                            
+                                                
+                                                                                                            
+                                                                                            <li class="nav-item dropdown" id="li-6">
+
+                                    <a aria-expanded="false" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">Resources</a>
+                                                                             <div class="dropdown-menu">
+                                                                           
+                                                                                                                                                                                
+                                                                                                                                                <a class="dropdown-item" href="/env/architecture/resources/forms.shtml">Forms</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/env/architecture/resources/scholarships.shtml">Scholarships</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/env/architecture/resources/studio-culture.shtml">Studio Culture</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/env/architecture/resources/studio-safety.shtml">Studio Safety</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/env/architecture/resources/arc-fab-lab.shtml">Architecture Fabrication Lab</a>
+                                                                                                                                    
+                                                                                                                                                <a class="dropdown-item" href="/env/architecture/resources/arc-facilities-map.shtml">ARC Facilities Map</a>
+                                                                                                                                    
+                                                                                                                                                                                
+                                                                                                                                                                                
+                                                                                                                                                <a class="dropdown-item" href="/env/architecture/resources/additional-resources.shtml">Additional Resources</a>
+                                                                                                                                    
+                                                                                                                        
+                                    </div>
+                                </li>
+                                
+                                                                                                                                     
+                                                                                                                                                                                                                                                                                            
+                                                
+                                                                                                            
+                                                                                            <li class="nav-item dropdown" id="li-7">
+
+                                    <a aria-expanded="false" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">Make a Gift</a>
+                                                                             <div class="dropdown-menu">
+                                                                           
+                                                                                                                                                <a class="dropdown-item" href="/env/architecture/make-a-gift/index.shtml">Donate</a>
+                                                                                                                                    
+                                                                                                                        
+                                    </div>
+                                </li>
+                                
+                                                                                                                                     
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+                                                
+                                        
+                        
+                                                                                                                                                                                                    </ul>
+        </div>
+    </nav>
+             
+    
+
+
+    <main class="container flex-grow">
+
+           <div class="row">
+                            <div class="col-12" id="main">
+                                    <h1 class="cpp-h1">Studio Culture</h1>
+            
+
+
+    
+                                            
+                                    <section class="text-images" id="s0">
+                                
+                                                        
+        
+               
+          
+       
+        
+        
+    
+    
+                                            <figure class="image align-center" style="text-align: center;"><img alt="Hana Lemseffer in Design Center" height="427" src="../img/hana-lemseffer-at-interim-design-ctr.jpg" style="height: auto;" width="640"/>
+<figcaption><span style="font-size: 10pt;"> <em>Hana Lemseffer (B.Arch, '17), Interim Design Center, Bldg. 89.</em> </span></figcaption>
+</figure>
+<p>&#160;</p>
+<h2>Studio Culture Policy Overview</h2>
+<p>NAAB requires that all architecture programs, &#8220;demonstrate a positive and respectful learning environment through the encouragement of the fundamental values of optimism, respect, sharing, engagement, and innovation between and among the members of its faculty, student body, administration, and staff.&#8221; It also asks that programs, &#8220;encourage students and faculty to appreciate these values as guiding principles of professional conduct throughout their careers.&#8221;</p>
+<p>Cal Poly Pomona Architecture (CPP <strong>ARC</strong>) has adopted a written studio culture policy that specifically addresses issues of time management, respect for others, support for individuality and creativity, and safety policies to protect both the faculty and the students. The following are a list of ways that students and faculty support an open and collaborative environment, as spelled out in the Studio Culture policy:</p>
+<ol>
+<li>A student representative shall attend all faculty meetings (with exception of times when faculty are discussing personnel decisions or discussing specific students).<br/><br/></li>
+<li>The department shall hold student and faculty meetings at the start of every semester to introduce faculty, student activities and scholarships, and elective and topic studio course offerings.<br/><br/></li>
+<li>The chair shall schedule in collaboration with AIAS, NOMAS and TSD, a "chair chat" one day per semester to get feedback from students regarding courses, policies, resources, and the general state of the program.<br/><br/></li>
+<li>Student representatives and faculty shall meet once per year to revisit studio culture policies and to discuss their effectiveness and ways to improve adherences to these principles. This meeting will also serve to reinforce the need for a positive and respecful learning environment.<br/><br/></li>
+<li>Faculty will engage with th student body for feedback and accountability regarding all actions taken toward diversity, equity and inclusion in architecture education.</li>
+</ol>
+            </section>
+                            
+                  
+       
+	
+	
+ 
+         
+    
+
+    
+                    
+                  
+        
+    	
+            
+                                       <div class="accordion" id="accordion-1">
+                                    
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading1">
+                <h2 class="m-0">
+                    <button aria-controls="collapse1-1" aria-expanded="false" class="btn btn-link" data-target="#collapse1-1" data-toggle="collapse">
+                              
+        
+               
+          
+       
+        
+        
+    
+    
+                                                  Shared Values
+                    </button>
+                </h2>
+            </div>
+                            <div aria-labelledby="heading1" class="collapse " data-parent="#accordion-1" id="collapse1-1">
+                          <div class="card-body">
+
+                                            
+        
+               
+          
+       
+        
+        
+    
+    
+                                                <p><span>The Department of Architecture has established a set of shared values for the faculty, staff and student body. The original text was authored by former dean, Marvin J. Malecha, FAIA, in consultation with the faculty and student body and adapted in modified form on November 1990 (and 2016) by the American Institute of Architecture Students.</span></p>
+<p><strong>THE RIGHT OF INQUIRY</strong><br/>The right of inquiry establishes the freedom to choose the time, place and nature of learning, free from any form of prejudice or the fear of failure.</p>
+<p><strong>THE RIGHT TO INDIVIDUAL IDENTITY</strong><br/>Each person must be allowed to be unique, not bound by preconception or a curriculum so fixed as to prevent individual expression. Each individual has the right to learn without fear of character depreciation or retribution for personal opinions.</p>
+<p><strong>THE RIGHT TO FREEDOM FROM PREJUDICE</strong><br/>It is the right of an individual to be exposed to a diversity of philosophical and cultural lessons. No individual should ever suffer in the learning experience because of race, ethnicity, national origin, disability, religion or lack thereof, gender, gender identity, and sexual orientation.</p>
+<p><strong>THE RIGHT TO HAVE ACCESS TO INFORMATION</strong><br/>Never in the educational environment must information be withheld because of the judgment of another that one represents improper political, religious, or social positions.</p>
+<p><strong>THE RIGHT TO A NURTURING LEARNING ENVIRONMENT</strong><br/>There is a demonstrable connection between the quality of the learning place and the memorable learning experience. Such an experience must be made available to every individual.</p>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                            
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading2">
+                <h2 class="m-0">
+                    <button aria-controls="collapse1-2" aria-expanded="false" class="btn btn-link" data-target="#collapse1-2" data-toggle="collapse">
+                              
+        
+               
+          
+       
+        
+        
+    
+    
+                                                  2020-2021 STUDIO CULTURE POLICY
+                    </button>
+                </h2>
+            </div>
+                            <div aria-labelledby="heading2" class="collapse " data-parent="#accordion-1" id="collapse1-2">
+                          <div class="card-body">
+
+                                            
+        
+               
+          
+       
+        
+        
+    
+    
+                                                <p>Architectural education at Cal Poly Pomona is focused on the design studio as the integrative agent to a thought process where, through the logical analysis of issues, the student develops the analytical skills necessary to discover the essence of a design problem as well as the ability to synthesize a response and give it a three-dimensional form.</p>
+<p>All students begin with studio exercises in drawing, graphics, and visual communication and progress toward comprehensive architectural design projects that employ creative and analytic skills. Course work in history, theory, environmental controls, structures, practice, technology, construction, and human behavior is integrated with studio work, so that a student&#8217;s judgment concerning decisions affecting the natural and human environment is developed.</p>
+<p>This Studio Culture was written collaboratively by the faculty and student representatives from AIAS, TSD, and NOMAS following a number of meetings. The document is organized into the following categories: Social Environment, Intellectual Environment, Physical Environment, and Studio structure and policies.</p>
+<h3>I. Social Environment</h3>
+<p><strong>Respect for Others:</strong><span>&#160;</span>While working in a high-pressure academic environment with the intention of eventually joining a professional body, it is extremely important that you respect the rights of those who are working toward the same goal and those who are helping you to achieve your goals. These individuals include fellow students, the faculty, and staff. The pandemic has resulted in both direct and indirect hardships. Thus, open communication between students and faculty is highly encouraged seeks solutions to consequential issues that are detrimental to a student&#8217;s academic performance. Faculty will direct students to appropriate campus resources.</p>
+<p>A large diverse college community like CPP<strong>ARC</strong><span>&#160;</span>has to make a concerted effort to create a harmonious working environment. This is especially true in the &#8220;pressure-cooker&#8221; environment of studios. Collectively each studio group has the responsibility to respect the rights of group members and to ensure that its behavior does not affect or offend its colleagues. Offensive or distracting issues include things like playing loud music, inappropriate and/or offensive images or graphics, late night rowdiness, and lack of personal hygiene and a clean work environment. Also, students should be mindful of diversity and practice inclusive language amongst your cohort, faculty, and staff. No one wants to turn the studio into a dreary workplace, but mutual consideration is necessary to ensure that it is an enjoyable and stimulating workplace for all. For the mental health of students who must work remotely, it is highly encouraged to separate your work environment from your rest environment even if this means a small sheet of material or curtain to partition spaces.</p>
+<p><strong>Commitment to cooperation and collaboration:<span>&#160;</span></strong>Collaboration with faculty and interpersonal communication between students, inside and outside of architecture, is crucial to a productive and engaging academic learning environment. This includes involvement in discussions, opportunities for teamwork between students, and opportunities for cooperation and scholarship between students and faculty. Students are also given opportunities to weigh-in on curricular decision by the department.</p>
+<p>The values of collaboration within the architecture studio include the open exchange of ideas during design reviews, making work visible by displaying student work in studio, encouraging peer-to-peer learning opportunities such as student led tutorials, informal pin-ups, and other means of sharing resources. The Department also encourages collaboration by facilitating lower-division students to help senior project and graduating thesis students with their culminating project. Student groups are encouraged to pursue design competitions outside of the planned program curriculum as well as take advantage of the opportunity to collaborate with professionals in their classes, or that are facilitated by the faculty. In the era of the pandemic, constructive flexibility, and good communication between the students and faculty is essential. Faculty are encouraged to conduct anonymous surveys of students regarding workload, mental health, and/or other general concerns. The faculty may need to adjust exercises that support students in response to the survey, while ensuring learning objectives are still met.</p>
+<p><strong>Time management:<span>&#160;</span></strong>All students need to be able to balance their schoolwork, paid work and personal life. In our college, where many students work outside school, commute to campus and drive on the freeways, time management is even more important to allow students to function properly at school, work and on the road. Faculty are asked to judge how much work is reasonable, evaluate and balance competing demands and deadlines, and respect the requirements of all classes, including lecture, seminar and studio courses. This is especially important in an online environment where the boundaries between work and home life blur. For online curriculum, students should plan ahead and submit projects early to correct unexpected errors, and avoid the consequences of slow internet speeds.</p>
+<h3>II. Intellectual Environment</h3>
+<p><strong>Engaging in open dialog:</strong><span>&#160;</span>The design studio is a crucial space for students to learn to communicate their ideas. Students should feel comfortable speaking up and having their voices heard. This is true of discussions with faculty, but includes encouraging peer-to-peer conversations and critique. It may be important to employ the use of breakout rooms or other such means to engage in peer-to-peer feedback; in an online environment, students are not as willing to provide feedback and may require other prompts to facilitate engagement.</p>
+<p><strong>Studio Project Reviews:<span>&#160;</span></strong>The studio project review offers students and faculty a setting to conduct professional presentations, share ideas and work, and the review provides opportunities for students to respond to questions and/or obtain constructive input. Effective studio reviews and critiques should always focus first on the formally stated learning objectives, after which and time permitting, broader discussions of the presenter&#8217; work may be entertained. The lead faculty should always ensure that this format is respected. Likewise, student presenters are responsible for responding to design prompts as these relate to stated studio learning objectives. Going beyond stated learning objectives is encouraged but not required.</p>
+<p>Both design jurors and students need to respect the learning potential of the design review.</p>
+<p>When either jurors or students go off topic without first reconciling stated learning objectives, unproductive criticism (unfairly harsh AND/OR over complimentary without cause) can misrepresent the merits a design project holds for the problem at hand. This can confuse the student audience, and undermine the learning community. Work and discussion which go outside stated boundaries, should always be accountable, and both jurors and students who go outside the lines, owe it to the learning community to first speak to how learning objectives are met.</p>
+<p>Helping students find their own creative voice: Cal Poly Pomona&#8217;s Learn-by-doing methodology provides opportunities for students to experiment, build physical objects, test ideas, and experiment with innovative technologies. In studio, students are asked to understand, question, reconsider, and shape architectural processes and conventions, and students are encouraged to be inventive and imaginative. The goal is to prepare students to develop their own approaches to architectural problems and to the discipline in preparation for a productive and innovative professional life.</p>
+<p><strong>Exhibiting thoughtful decision making:<span>&#160;</span></strong>Students are expected to develop diligence and reliance as part of their work habits, and to concentrate in producing high quality work. Student work should show the process followed, starting with the project&#8217;s conception and through successive iterations and alternatives, modified in response to constructive feedback. Students are encouraged to keep an open attitude towards advice and to improve their work benefit of constructive criticism. Attending and actively participating in the review of peer projects provides students one of the best opportunities to learn from others, and reflective one&#8217;s own work; a central attribute of the studio learning experience.</p>
+<h3>III. Physical Environment</h3>
+<p><strong>Safety first:</strong><span>&#160;</span>Studios are locked to those outside of the major, but are open to architecture students 24 hours/ 7 days per week. Those outside of the major are not allowed in studios without permission and an escort. Architecture majors may use their IDs to gain access to studios located in the Interim Design Center (IDC). Keys are available to graduate and undergraduate students for the studios located in Building 3 and Building 7. Failure to return key will result in a grade hold and fine.</p>
+<p>Students and faculty must respect all fire lanes and safety rules as spelled out in College and Department policies. If you see someone doing something that is unsafe, feel uncomfortable or in anyway unsafe you should say something. It is all of our responsibility to look out for each other and to create a safe work environment.</p>
+<p><strong>Keep it clean:<span>&#160;</span></strong>Policies have been developed for the use of the studios: these are posted in the buildings. Please obey them. Imagine your workstation is the only one you will have for at least twenty years. Maintain it in excellent condition. Tables must be covered with chipboard at the start of each semester. Students will be charged for damage to work stations/desks. Please invest in a cutting mat to be used over group work tables provided so as to protect workstation surfaces.</p>
+<p>Please clean up any trash on or around your workstation; and all aisles and the floor must remain clean and kept free of hazards. Architecture students are responsible for all materials used to construct projects. This includes, but is not limited to, wood, chipboard, cardboard, paints, glue, 3D printing materials, etc. Students&#8217; materials are not to be left unattended and must be secured when not in use. Studio aisles must remain clear at all times.</p>
+<p>College policy requires that personal possessions be removed from instructional areas at the end of each semester. At the end of each semester, students must remove any materials they have brought onto campus. Faculty will place a &#8220;hold&#8221; on grades for students that leave projects or materials on campus past the end of the semester.</p>
+<p>The Department supports recycling. Bins are made available for basic recycling: paper, glass, and cans. When using these bins, please take care not to contaminate these with non-recyclables and garbage. If necessary, students may be asked to help move student-owned recyclable materials to a recycling center.</p>
+<p><strong>Use tools and equipment responsibly:</strong><span>&#160;</span>Students must pass the ENV Model Shop test before using power tools. The College maintains a list of those students who pass the test. To avoid noise, debris and air pollution, power tools shall not be used at any time within studios and classrooms or other indoor spaces (except for the woodshop and digital fabrication shop).</p>
+<p>Only with permission and after successfully passing the ENV Model Shop test, may power tools be used outside on the concrete pads behind the IDC or other locations approved by the ENV Model Shop technician, and preferably when an instructor or the ENV Model Shop technician is present. If no technician or faculty is available, students shall work in groups of not fewer than three people: if an accident occurs, one person would then be available to stay with the injured student while the other seeks help by dialing 911, or the campus police at (909) 869-3070 ( 3070 on a campus phone). Power tools shall be used outside in dry weather only, and when the pavement is free of any moisture, as electricity and water are a dangerous combination.</p>
+<p>No chemical products (including but not limited to clay, plaster, paint or concrete) are to be mixed or disposed of in university sinks. For your own and your colleagues&#8217; welfare, do not store hazardous or flammable products on campus. (see campus policy <a href="https://www.cpp.edu/ehs/waste-management/hazardous-waste.shtml" rel="noopener" target="_blank" title="Hazardous Waste Requirements (opens in new window)">Hazardous Waste Requirements</a>). The use of aerosols indoors is strictly forbidden - this includes &#8220;spray-mounts&#8221; and &#8220;spray-paint&#8221;. Cover all outside surfaces that may receive overspray when using aerosols.</p>
+<p>See the CPP office of <a href="https://www.cpp.edu/ehs/" rel="noopener" target="_blank" title="Environmental Health and Safety (opens in new window)">Environmental Health and Safety&#8217;s</a> specific instructions for chemical and hazardous wastes on campus.</p>
+<h3>IV. Studio structure and policies</h3>
+<p><strong>Desk crits:</strong><span>&#160;</span>Desk crits are an opportunity for a faculty to engage a student in one-on-one conversation regarding their project. The goal of these one-on-one meetings is to offer constructive feedback, such as encouraging students to evaluate other possibilities or to suggest readings and or research on precedents that could help to strengthen the work.</p>
+<p><strong>Midterms and final studio reviews:</strong><span>&#160;</span>Design reviews are an opportunity to discuss larger architectural issues and to evaluate students&#8217; individual responses to these issues. The design review offers students an opportunity to defend their design strategies and outcomes, and also to develop clear arguments and improve their speaking ability. Design reviews are an important part of studio teaching, and should be conducted in a professional manner. Students and faculty should be on time for reviews. All students shall be given a similar amount of time to present their work to the jury. Jury discussions shall focus on the substance of the student&#8217;s work in response to course learning objectives.</p>
+<p><strong>Studio grading:</strong><span>&#160;</span>Grading shall be based on a student&#8217;s performance in studio during project development at desk-crits, in midterm and at final reviews. Syllabi should clearly explain the grading rubric. Faculty should advise and counsel students on their performance throughout the semester and should hand-out midterm grades to make sure students are aware of their status in the course.</p>
+<p><strong>Studio lottery for Topic Studios and Senior Project:</strong><span>&#160;</span>Students will select topic studios and senior projects through a lottery. On the first day of studio instructors for each studio will make a presentation to students on the topic and site of their studio. Each student will be then asked to rank their preferences, giving their 1st, 2nd, 3rd, etc. choice. Once all students have submitted their choices, a neutral party, such as the chair, will assign students to each section so that all students get one of their top choices and so that all sections have an equal number of students. Note that during unforeseen events like the COVID pandemic, the lottery for topic studios may be suspended. Students may be able to swap topic studio sections during add/drop, space permitting.</p>
+<p><strong>Studio field trips and travel:<span>&#160;</span></strong>Studio field trips should take place during studio hours or on weekends. Longer studio trips should be scheduled on the 3rd or 10th week of the semester to minimize conflicts with other courses. Students and faculty must file appropriate paperwork such as 1A travel forms and student releases prior to their trip. For foreign travel students should consult with the International Center regarding special requirements and ensure that students are insured while they are abroad.</p>
+<p><strong>Studio and Lecture schedule:<span>&#160;</span></strong>The Department makes every effort to create an equitable timetable and class roadmap for student success. An effort has been made to avoid deadline conflicts between studio presentations and other courses by implementing a master calendar. The calendar designates that studio course midterms be held on week 6 or 7 and that lecture course assignment be scheduled for weeks 8 and 9. Week 13 is reserved for completing final studio design projects. Weeks 14-15, the last weeks of classes, shall be reserved for studio work. Week 16, finals week, is reserved for lecture course final exams and papers. No studio final shall take place in week 16 (except for 5th year senior project and 3rd year grad thesis, which will take place during week 16 of spring semester).</p>
+<p><strong>Maximum work hours and course units:</strong><span>&#160;</span>Although we understand that most of our students work outside of school, we expect students to make their education their highest priority. Students are encouraged to pursue work and internships under licensed professionals to satisfy the ARC internship requirement set by administration. We strongly recommend that students work no more than 20 hours per week while school is in session recognizing that the Architecture Program is a full-time commitment. We also recommend that students take no more than 18 units per semester and that faculty discuss the implications of taking on extra courses before they sign petitions for students to take more than 20 units.</p>
+<p><strong>Lecture and studio homework:<span>&#160;</span></strong>Although the design studios are accessible 24 hours/day, the tradition of the &#8220;all-nighter&#8221; is strongly discouraged. Students are instead encouraged to work more efficiently and intelligently. Working all night is an indication of poor planning and is ultimately detrimental to the work and to the student&#8217;s well-being. As in a professional environment, the architecture department aims to meet a 40-46 hour/week course + homework schedule. For an average student schedule of 16-18 units per semester students will be in class for 20-23 hours per week or working on homework 20-23 hours per week. This does not mean that a student can&#8217;t choose to spend more time on a given course, but it does mean that a student should be able to complete all weekly assignments in their five courses with a passing grade by working diligently for this amount of time.</p>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                            
+                                
+                                
+                        <div class="card">
+            <div class="card-header" id="heading3">
+                <h2 class="m-0">
+                    <button aria-controls="collapse1-3" aria-expanded="false" class="btn btn-link" data-target="#collapse1-3" data-toggle="collapse">
+                              
+        
+               
+          
+       
+        
+        
+    
+    
+                                                  2020-21 Studio Policy Contributors
+                    </button>
+                </h2>
+            </div>
+                            <div aria-labelledby="heading3" class="collapse " data-parent="#accordion-1" id="collapse1-3">
+                          <div class="card-body">
+
+                                            
+        
+               
+          
+       
+        
+        
+    
+    
+                                                <p>George Proctor, Department Chair</p>
+<p>Garrett Hartsuyker, AIAS President 2020-21</p>
+<p>Henry Chu, CPP-NOMAS President 2020-21</p>
+<p>Marc Martineau. TSD President 2020-21</p>
+                                
+              </div>
+            </div>
+        </div>
+                        
+                                                            
+                    </div>   
+               
+	
+	
+ 
+         
+    
+
+</div>
+</div>
+</main>
+
+		
+    <div lang="en">
+
+
+                
+        
+               
+        
+            
+             
+       
+   
+   
+   
+      
+       
+        
+        
+    
+    
+                                 
+<style>
+     @media screen and (min-width: 992px) {
+    .mini-footer .footer__socials-buttons {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}
+
+.mini-footer .button1__transducer {
+    font-size: 12px;
+    letter-spacing: .5px;
+}
+
+.mini-footer .button {
+	margin-top: 0;
+    padding: 8px 20px 8px 20px;
+
+}
+.mini-footer .footer-line {
+    border-top: thin solid #a4d65e;
+    margin-top: 39px;
+    padding-top: 15px;
+}
+ </style>
+<footer class="footer mini-footer">
+    <div class="footer__rip-wrapper">
+        <img class="footer__rip" alt="" src="/common/green-and-gold/assets/images/green-rip.svg" alt="Ripped green paper." />
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-2">
+                <div class="footer__logo-wrapper">
+                    <a href="/" aria-label="CPP Logo">
+                        <img class="footer__logo" src="/common/green-and-gold/assets/logos/cpp_primary_1c_gold_rgb.png" alt="Cal Poly Pomona logo, building with a palm tree." />
+                    </a>
+                </div>
+            </div>
+            <div class="col-12 col-lg-6 offset-lg-4">
+                <div class="footer__socials">
+                    <div class="footer__socials-buttons">
+                        <a class="button button__secondary button1__transducer" href="/apply/">Apply</a>
+                        <a class="button button__secondary button1__transducer" href="https://maps.cpp.edu/">Maps</a>
+                        <a class="button button__secondary button1__transducer" href="/outreach/tours.shtml">Visit</a>
+                        <a class="button button__secondary button1__transducer" href="/contact.shtml">Contact Us</a>
+                    </div>
+                    <div class="footer__socials-icons">
+                        <a href="https://www.instagram.com/calpolypomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram opens a new window" />
+                        </a>
+                        <a href="https://www.linkedin.com/school/cal-poly-pomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn opens a new window" />
+                        </a>
+                        <a href="https://www.youtube.com/user/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="YouTube opens a new window" />
+                        </a>
+                        <a href="https://www.facebook.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook opens a new window" />
+                        </a>
+                        <a href="https://twitter.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X opens a new window" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 footer-line">
+                <div class="footer__errata">
+                    <p class="footer__copyright" style="line-height: 1.8em">Copyright ©2025 California State Polytechnic University, Pomona.  All Rights Reserved 
+                        
+                        <br />A campus of 
+                        
+                        <a class="footer__errata-link" style="display: inline" href="https://www.calstate.edu/">The California State University</a>.
+                    
+                    </p>
+                    <div class="footer__errata-links">
+                        <a class="footer__errata-link" href="https://www.cpp.edu/website-feedback.shtml">Feedback</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/privacy.shtml">Privacy</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/accessibility.shtml">Accessibility</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/file-viewers.shtml">Document Readers</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer__gradient-bottom"></div>
+</footer>
+
+
+<script   src="https://code.jquery.com/jquery-3.2.1.min.js"   integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="   crossorigin="anonymous">
+</script><script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script src="https://www.cpp.edu/common/green-and-gold/assets/js/cpp-legacy.js" ></script>
+<script src="https://www.cpp.edu/common/2018/assets/js/tabs.js" ></script>
+<script src="/common/green-and-gold/assets/js/nav.js"></script>
+
+
+</div>
+    
+		
+		
+	</body>
+</html>

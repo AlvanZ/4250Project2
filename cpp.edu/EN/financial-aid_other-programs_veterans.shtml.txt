@@ -1,0 +1,1746 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+    <head>
+        <meta charset="UTF-8"/>
+        <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+        <meta content="ie=edge" http-equiv="X-UA-Compatible"/>
+        <title>
+            
+        </title>
+        
+        
+        
+            <script src="https://cdn.levelaccess.net/accessjs/YW1wX2NwcDExMDM/access.js"></script>
+<script>// <![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSKJRNV');
+// ]]></script>
+<link rel="icon" href="/common/green-and-gold/assets/icons/gg-favicon.svg"  type="image/svg+xml" />
+<link rel="icon" href="/common/green-and-gold/assets/icons/gg-favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/index.css" />
+<link rel="stylesheet" href="https://use.typekit.net/fia5dle.css" />
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/cpp-fonts.css" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+<script src="/common/green-and-gold/assets/js/accordion.js"></script>
+<script crossorigin="anonymous" defer="defer" integrity="sha384-FW78RPcSpi13vjx77nPWQIrQbNSLkPBopb0qGzLCxD2x4Kr6FA8V05C/6cpgkKPL" src="https://pro.fontawesome.com/releases/v5.10.1/js/all.js"></script>
+<script src="/common/green-and-gold/assets/js/modal.js"></script>
+<script src="/common/green-and-gold/assets/js/fontawesome/v6.0x/sharp-light.js" crossorigin="anonymous" type="text/javascript"></script>
+<script src="/common/green-and-gold/assets/js/fontawesome/v6.0x/sharp-others.js" crossorigin="anonymous" type="text/javascript"></script>
+<!-- Swiper Library -->
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/swiper-bundle.min.css" />
+<link rel="stylesheet" href="/common/green-and-gold/assets/css/swiper-carousel.css" />
+<script src="/common/green-and-gold/assets/js/swiper-bundle.min.js"></script>
+<script src="/common/green-and-gold/assets/js/carousel-cards-swiper.js"></script>
+
+    </head>
+    <body>
+        <a class="skip-to-content-link" href="#main">Skip to content</a>
+             <header class="nav fixed">
+    <nav class="container">
+        <ul class="row nav__main" id="mainNavMenu">
+            <li id="main-logo" class="col-6 col-lg-3 nav__logo">
+                <a href="/" aria-label="Cal Poly Pomona Home" tabindex="0">
+                    <div class="nav__logo--horizontal">
+                        <img src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png" alt="Cal Poly Pomona Logo" />
+                    </div>
+                </a>
+            </li>
+            <!-- department header hidden by default-->
+            <li id="dept-header-desktop" class="col-sm-5 col-md-6 nav__logo desktop d-none">
+                <a href="/" aria-label="Cal Poly Pomona Home" tabindex="0">
+                    <div class="nav__logo--stacked">
+                        <img src="/common/green-and-gold/assets/logos/cpp_primary_2c_green_cmyk.png" alt="Cal Poly Pomona Logo">
+                        </div>
+                    </a>
+                    <div class="divider"></div>
+                    <div id="split-header" class="nav__division col-lg-6">
+                        <div id="large-name"></div>
+                        <div style="display:none" id="sub-name"></div>
+                    </div>
+                </div>
+            </li>
+            <li class="nav__links col-2" id="head-links">
+                <a class="nav__link nav__link--desktop col-1" href="/commencement/" tabindex="0">
+                    <svg
+                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 1px;
+    width: auto;
+">
+                        <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                        <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#005030"></path>
+                    </svg>
+                    <span class="sr-only">commencement</span>
+                </a>
+                <a class="nav__link nav__link--desktop col-1" href="/apply/" tabindex="0">apply</a>
+                <a class="nav__link nav__link--desktop col-1" href="/outreach/tours.shtml" tabindex="0">visit</a>
+                <a class="nav__link nav__link--desktop col-1" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="0">info</a>
+                <a class="nav__link nav__link--desktop col-1" href="/giving/" tabindex="0">give</a>
+                <a class="nav__link nav__link--desktop col-1" href="https://my.cpp.edu" tabindex="0">mycpp</a>
+                <button id="search-open" class="nav__search col-1" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/search-dark-green.svg" alt="Open search box" />
+                </button>
+                <button class="nav__menu col-1" id="menuButton" aria-expanded="false" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/menu.svg" alt="menu" />
+                </button>
+            </li>
+        </ul>
+    </nav>
+</header>
+<header id="search-header" style="display:none">
+    <div class="row">
+        <div class="col-md-6"></div>
+        <div id="searchbox" class="col-md-6">
+            <div id="search-slide">
+                <label for="#gsc-i-id1" class="sr-only">Search</label>
+                <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+                <div class="gcse-searchbox-only" data-resultsurl="https://www.cpp.edu/search.shtml"></div>
+                <button class="nav__menu col-1" id="search-close" tabindex="0">
+                    <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close search menu">
+                    </button>
+                </div>
+            </div>
+            <script async="" src="https://cse.google.com/cse.js?cx=007035455219528863532:fcaogmpwbtt"></script>
+            <script>
+       $("#search-open").click(function() {
+         $("#search-header").show();
+         $("#search-slide").addClass("slideup");
+         $("#gsc-i-id1").focus();
+         $('#search-close').focusout(function() {
+           $("#search-header").hide();
+           $("#search-slide").removeClass("slideup");
+           $("#search-open").focus();
+         })
+       });
+       $("#search-close").click(function() {
+         $("#search-header").hide();
+         $("#search-slide").removeClass("slideup");
+         $("#search-open").focus();
+       });
+     </script>
+            <style>
+       .gstl_50 gssb_c {
+         position: fixed !important;
+       }
+
+       #searchbox {
+         height: 93px;
+         overflow: hidden;
+       }
+
+       #search-header {
+         position: fixed;
+         height: 100px;
+         width: 100%;
+         height: 93px;
+         z-index: 99999;
+         top: 0;
+       }
+
+       #gsc-i-id1 {
+         height: 40px;
+         width: 70%;
+         border-radius: 4px;
+         border: none;
+         padding: 15px;
+       }
+
+       #search-submit {
+         margin: 15px;
+       }
+
+       #search-close {
+         width: 23px;
+         height: 21px;
+         position: absolute;
+         top: 32px;
+       }
+
+       #search-slide {
+         width: 0px;
+         right: -100%;
+         padding: 20px 15px;
+         position: relative;
+         background: #005030;
+         height: 100%;
+         transition: all .5s ease 0s
+       }
+
+       #search-slide.slideup {
+         right: 0;
+         width: 100%;
+         position: relative;
+       }
+
+       @media screen and (max-width:991px) {
+         #search-slide {
+           height: 77px !important;
+           padding: 12px 10px;
+         }
+       }
+
+       @media screen and (max-width:767px) {
+         #search-header {
+           position: relative !important;
+         }
+
+         #search-slide {
+           text-align: center !important;
+         }
+       }
+
+       .gsc-search-button-v2 svg {
+         width: auto;
+         height: 21px;
+       }
+
+       .gsc-search-button-v2,
+       .gsc-search-button-v2:hover,
+       .gsc-search-button-v2:focus {
+         border: none !important;
+         background: none !important;
+       }
+
+       form.gsc-search-box {
+         font-size: 13px;
+         margin-top: 0;
+         margin-right: 0;
+         margin-bottom: 4px;
+         margin-left: 0;
+         width: 100%;
+         display: inline-block;
+       }
+
+       #___gcse_0 {
+         width: 70%;
+         display: inline-block;
+       }
+
+       table.gsc-search-box td.gsc-input {
+         padding-right: 0;
+       }
+
+       #gsc-i-id1 {
+         width: 100%;
+         padding: 0px;
+         border: none;
+         margin: -0.0625em 0px 0px;
+         height: 40px !important;
+         background: rgb(255, 255, 255);
+         outline: none;
+         font-size: 20px;
+         font-weight: 200;
+       }
+
+       .gstl_50.gssb_c {
+         z-index: 99999;
+       }
+
+       .gsq_a {
+         font-weight: 200;
+         font-size: 18px;
+         padding: 2px;
+       }
+
+       .gssb_a img {
+         display: none;
+       }
+     </style>
+        </div>
+    </header>
+    <section class="side-nav" id="sideNavOverlay">
+        <header class="side-nav__overlay relative">
+            <nav class="container">
+                <ul class="row nav__overlay" id="sideNavMenu">
+                    <li class="nav__logo col-12 col-md-10 col-lg-3" id="navLogoOverlay">
+                        <a href="/" aria-label="Cal Poly Pomona Home" tabindex="-1">
+                            <img src="/common/green-and-gold/assets/logos/cpp_horizontal_1c_gold_rgb.png" alt="Cal Poly Pomona Logo" />
+                        </a>
+                    </li>
+                    <div class="nav__overlay--right col-12 col-lg-9">
+                        <li class="nav__links nav__links--desktop col-12 col-lg-6">
+                            <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 1px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/apply/" tabindex="-1">apply</a>
+                            <a class="nav__link nav__link--mobile col-1" href="/outreach/tours.shtml" tabindex="-1">visit</a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="-1">info</a>
+                            <a class="nav__link nav__link--mobile col-1" href="/giving/" tabindex="-1">give</a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://my.cpp.edu" tabindex="-1">mycpp</a>
+                        </li>
+                        <li class="nav__icons col-1">
+                            <button id="search-open-green" class="nav__search col-1" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/search-white.svg" alt="Open search box" />
+                            </button>
+                            <button class="nav__close col-1" id="closeButton" tabindex="-1">
+                                <img src="/common/green-and-gold/assets/icons/nav/close.svg" alt="Close menu" />
+                            </button>
+                        </li>
+                        <li class="nav__links nav__links--mobile col-12 col-lg-6">
+                            <a class="nav__link nav__link--mobile col-1" href="/commencement/" tabindex="-1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="
+    position: relative;
+    height: 25px;
+    top: 1px;
+    width: auto;
+">
+                                    <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                                    <path d="M622.3 153.2L343.4 67.5c-15.2-4.7-31.6-4.7-46.8 0L17.7 153.2c-23.5 7.2-23.5 38.4 0 45.6l48.6 14.9c-10.7 13.2-17.2 29.3-17.9 46.9C38.8 266.2 32 276.1 32 288c0 10.8 5.7 19.9 13.9 25.7L20.3 428.5C18.1 438.5 25.7 448 35.9 448h56.1c10.2 0 17.8-9.5 15.6-19.5L82.1 313.7C90.3 307.9 96 298.8 96 288c0-11.6-6.5-21.3-15.7-26.9 .8-15 8.4-28.3 20.7-36.7L296.6 284.5c9.1 2.8 26.4 6.3 46.8 0l279-85.7c23.6-7.2 23.6-38.4 0-45.6zM352.8 315.1c-28.5 8.8-52.8 3.9-65.6 0l-145-44.6L128 384c0 35.4 86 64 192 64s192-28.7 192-64l-14.2-113.5-145 44.6z"
+fill="#ffb81c"></path>
+                                </svg>
+                                <span class="sr-only">Commencement</span>
+                            </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/apply/" tabindex="-1">apply </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/outreach/tours.shtml" tabindex="-1">visit </a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://engage.cpp.edu/register/ask_us_a_question" tabindex="-1">info </a>
+                            <a class="nav__link nav__link--mobile col-1" href="/giving/" tabindex="-1">give </a>
+                            <a class="nav__link nav__link--mobile col-1" href="https://my.cpp.edu" tabindex="-1">mycpp </a>
+                        </li>
+                    </div>
+                </ul>
+            </nav>
+        </header>
+        <nav class="container side-nav__container">
+            <ul class="row side-nav__links">
+                <li class="side-nav__link col-12">
+                    <a class="h3__proxima" href="/" tabindex="-1" aria-label="Cal Poly Pomona Home page">Home</a>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--0">
+                    <button class="h3__proxima" id="0" aria-expanded="false" tabindex="-1" aria-label="About">
+                        <span>about</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--1">
+                    <button class="h3__proxima" id="1" aria-expanded="false" tabindex="-1" aria-label="Admissions & Aid">
+                        <span>admissions &amp; aid</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--2">
+                    <button class="h3__proxima" id="2" aria-expanded="false" tabindex="-1" aria-label="Academics">
+                        <span>academics</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+                <li class="side-nav__item" id="sideNavItem--3">
+                    <button class="h3__proxima" id="3" aria-expanded="false" tabindex="-1" aria-label="Life at CPP">
+                        <span>life at CPP</span>
+                        <span class="side-nav__item--plus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M17.25 0V34.5M17.25 0V34.5" stroke="#A4D65E" stroke-width="3" />
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                        <span class="side-nav__item--minus">
+                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 17.25L34.5 17.25M0 17.25L34.5 17.25" stroke="#A4D65E" stroke-width="3" />
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small">
+            <ul class="row">
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="https://broncoathletics.com/" tabindex="-1">athletics</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/alumni/" tabindex="-1">alumni</a>
+                </li>
+                <li class="side-nav__link--small col-12 col-lg-6">
+                    <a class="h6__proxima" href="/news/" tabindex="-1">news &amp; events</a>
+                </li>
+            </ul>
+        </nav>
+        <nav class="container side-nav__container--small-bottom">
+            <ul class="col-12 col-lg-6 side-nav__links--small-bottom">
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/prospective-student-gateway/" tabindex="-1">future students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/student-gateway/" tabindex="-1">current students</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/family/" tabindex="-1">families</a>
+                    <span class="divider">|</span>
+                </li>
+                <li class="side-nav__link--small-bottom col-2">
+                    <a class="body2" href="/faculty-staff-gateway/" tabindex="-1">faculty &amp; staff</a>
+                </li>
+            </ul>
+            <ul class="col-12 col-lg-6 social-icons">
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.instagram.com/calpolypomona/" aria-label="Instagram" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.linkedin.com/school/cal-poly-pomona/" aria-label="LinkedIn " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.youtube.com/user/calpolypomona" aria-label="Youtube " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="Youtube" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://www.facebook.com/calpolypomona" aria-label="Facebook " tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook" />
+                    </a>
+                </li>
+                <li class="side-nav__icon--small-bottom">
+                    <a href="https://twitter.com/calpolypomona" aria-label="X (Twitter)" tabindex="-1">
+                        <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X" />
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </section>
+    <script src="/common/green-and-gold/assets/js/nav.js"></script>
+
+            <script>
+    
+                  
+                var mobileHtml = '<li class="col-6 nav__logo mobile"><a aria-label="Cal Poly Pomona Home" href="https://www.cpp.edu/" tabindex="0"><div class="nav__logo--horizontal"><img alt="Cal Poly Pomona Logo" src="/common/green-and-gold/assets/logos/cpp_horizontal_2c_green_rgb.png"/></div></a></li>';
+                $( "#main-logo" ).hide();
+                $( "#split-header #large-name" ).html('<a href="https://www.cpp.edu/academic-affairs/index.shtml">Academic Affairs</a>');
+                $( "#dept-header-desktop" ).removeClass("d-none");
+                $( "#dept-header-desktop" ).addClass("d-flex");
+                $( "#dept-header-desktop" ).parent().prepend(mobileHtml);
+                $( "#sub-name" ).html('<a href="/financial-aid/index.shtml">Financial Aid and Scholarships</a>');
+                $( "#sub-name" ).show();
+           
+        
+                
+     </script>
+
+    
+
+
+  
+
+
+  
+
+  
+              
+  
+            
+
+        
+           
+                           <code></code>
+           
+                            
+
+
+
+<header class="sub-nav">
+<nav class="container" id="subNavContainer">
+    <ul class="row sub-nav__links">
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Home <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/enrollment/" tabindex="0">Enrollment Management and Services</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/index.shtml" tabindex="0">Office of Financial Aid and Scholarships</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/admissions/index.shtml" tabindex="0">Office of Admissions</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="https://www.cpp.edu/registrar/" tabindex="0">Registrar's Office</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/contact.shtml" tabindex="0">Contact Us</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Undergraduate <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/undergraduate/parent-and-family.shtml" tabindex="0">Parent &amp; Family Financial Aid Information</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/undergraduate/prospective/index.shtml" tabindex="0">Prospective Students</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/undergraduate/newly-admitted/index.shtml" tabindex="0">Newly Admitted Students</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/undergraduate/current/index.shtml" tabindex="0">Current Students</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Credentials <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/credentials/course-eligibility.shtml" tabindex="0">Financial Aid Course Eligibility</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/credentials/prospective/index.shtml" tabindex="0">Prospective Students</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/credentials/current/index.shtml" tabindex="0">Current Credential Students</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/credentials/newly-admitted/index.shtml" tabindex="0">Newly Admitted Students</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Graduate <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/graduate/course-eligibility.shtml" tabindex="0">Financial Aid Course Eligibility</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/graduate/prospective/index.shtml" tabindex="0">Prospective Students</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/graduate/newly-admitted-and-current/index.shtml" tabindex="0">Admitted &amp; Current Students</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Other Programs <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/other-programs/summer/index.shtml" tabindex="0">Summer Session</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/other-programs/veterans.shtml" tabindex="0">Veterans</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/other-programs/college-of-professional-and-global-education.shtml" tabindex="0">College of Professional and Global Education</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/other-programs/certificate-programs.shtml" tabindex="0">Certificate Programs</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/other-programs/cross-enrollment.shtml" tabindex="0">Cross Enrollment</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/other-programs/study-abroad.shtml" tabindex="0">Study Abroad</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Scholarships <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/scholarships/department-staff-and-faculty-information.shtml" tabindex="0">Information for Department Staff and Faculty</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/scholarships/cal-poly-pomona-scholarships.shtml" tabindex="0">Cal Poly Pomona Scholarships</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/scholarships/csu-systemwide-scholarships.shtml" tabindex="0">CSU Systemwide Scholarships</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/scholarships/outside-scholarships.shtml" tabindex="0">Outside Scholarships</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/scholarships/scholarship-faqs.shtml" tabindex="0">Scholarship FAQs</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Federal Work Study <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/federal-work-study/index.shtml" tabindex="0">Federal Work Study</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/federal-work-study/student-information.shtml" tabindex="0">Information for Students</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/federal-work-study/on-campus-employers-information.shtml" tabindex="0">Information for On Campus Employers</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/federal-work-study/faqs.shtml" tabindex="0">Frequently Asked Questions</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+
+                   <li class="sub-nav__link">
+                    <button aria-expanded="false" class="button__proxima sub-nav__link--default" data-bs-toggle="dropdown">Resources <svg xmlns="http://www.w3.org/2000/svg" class="chevron" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                      </svg>
+                    </button>
+                    <ul class="dropdown-menu sub-dropdown">
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/fafsa-simplification/index.shtml" tabindex="0">FAFSA Simplification</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/using-broncodirect-financial-aid-information.shtml" tabindex="0">Using BroncoDirect- Financial Aid Information</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/appeals.shtml" tabindex="0">Appeals</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/announcements.shtml" tabindex="0">Announcements</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/campus-resources.shtml" tabindex="0">Campus Resources</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/fafsa-dream-workshops.shtml" tabindex="0">FAFSA/CA Dream Act Workshops</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/financial-aid-policies.shtml" tabindex="0">Financial Aid Policies</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/financial-aid-outreach.shtml" tabindex="0">Financial Aid Presentations and Outreach Requests</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/financial-wellness.shtml" tabindex="0">Financial Wellness</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/faqs.shtml" tabindex="0">Frequently Asked Questions</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/heerf/index.shtml" tabindex="0">HEERF Student Aid</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/loan-information.shtml" tabindex="0">Loan Information</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/question-of-the-month.shtml" tabindex="0">Question of the Month</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/understanding-aid-program-limits.shtml" tabindex="0">Understanding Aid Program Limits</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/understanding-enrollment-requirements.shtml" tabindex="0">Understanding Enrollment Requirements</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/understanding-repeat-coursework-and-aid-eligibility.shtml" tabindex="0">Understanding Repeat Coursework and Aid Eligibility</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/understanding-return-of-federal-aid.shtml" tabindex="0">Understanding Return of Federal Aid Due to Withdrawals (R2T4)</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/understanding-sap.shtml" tabindex="0">Understanding SAP</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/understanding-state-university-grant-eligibility.shtml" tabindex="0">Understanding State University Grant Eligibility</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/understanding-unit-maximums.shtml" tabindex="0">Understanding Unit Maximums</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/understanding-verification.shtml" tabindex="0">Understanding Verification</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/aid-offer-notification.shtml" tabindex="0">Understanding Your Aid Offer and Next Steps</a>
+                      </li>
+                                    <li>
+                        <a class="dropdown-item bs_dropdown_button__proxima" href="/financial-aid/resources/writing-a-successful-sap-appeal.shtml" tabindex="0">Writing a Successful SAP Appeal</a>
+                      </li>
+                          
+                    </ul>
+              </li>                             
+                              
+          
+        
+
+</ul>
+
+<div class="row sub-nav__division-menu">
+    <div class="sub-nav__division"></div>
+        <div class="col-4 menu-button">
+        <button aria-expanded="false" aria-label="Site Menu" class="button button__primary--yellow-green button__proxima" data-dropdown-id="dropdownMenuBtn" id="dropdownMenuBtn">Menu
+             <span class="icon chevron">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" height="12" viewBox="0 0 19 12" width="19">
+            <g id="Atom / Icon / Expand Arrow / Small">
+            <path d="M2 2L9.5 9L17 2" id="Vector 2" stroke="none" stroke-width="3"/>
+            </g>
+            </svg>
+            </span>
+        </button>
+    </div>
+    <div class="sub-nav__dropdown hidden" id="dropdownMenu">
+       
+                       
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="1" tabindex="0">Home<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--1">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/enrollment/" tabindex="0">Enrollment Management and Services</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/index.shtml" tabindex="0">Office of Financial Aid and Scholarships</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/admissions/index.shtml" tabindex="0">Office of Admissions</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="https://www.cpp.edu/registrar/" tabindex="0">Registrar's Office</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/contact.shtml" tabindex="0">Contact Us</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="2" tabindex="0">Undergraduate<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--2">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/undergraduate/parent-and-family.shtml" tabindex="0">Parent &amp; Family Financial Aid Information</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/undergraduate/prospective/index.shtml" tabindex="0">Prospective Students</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/undergraduate/newly-admitted/index.shtml" tabindex="0">Newly Admitted Students</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/undergraduate/current/index.shtml" tabindex="0">Current Students</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="3" tabindex="0">Credentials<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--3">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/credentials/course-eligibility.shtml" tabindex="0">Financial Aid Course Eligibility</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/credentials/prospective/index.shtml" tabindex="0">Prospective Students</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/credentials/current/index.shtml" tabindex="0">Current Credential Students</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/credentials/newly-admitted/index.shtml" tabindex="0">Newly Admitted Students</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="4" tabindex="0">Graduate<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--4">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/graduate/course-eligibility.shtml" tabindex="0">Financial Aid Course Eligibility</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/graduate/prospective/index.shtml" tabindex="0">Prospective Students</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/graduate/newly-admitted-and-current/index.shtml" tabindex="0">Admitted &amp; Current Students</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="5" tabindex="0">Other Programs<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--5">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/other-programs/summer/index.shtml" tabindex="0">Summer Session</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/other-programs/veterans.shtml" tabindex="0">Veterans</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/other-programs/college-of-professional-and-global-education.shtml" tabindex="0">College of Professional and Global Education</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/other-programs/certificate-programs.shtml" tabindex="0">Certificate Programs</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/other-programs/cross-enrollment.shtml" tabindex="0">Cross Enrollment</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/other-programs/study-abroad.shtml" tabindex="0">Study Abroad</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="6" tabindex="0">Scholarships<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--6">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/scholarships/department-staff-and-faculty-information.shtml" tabindex="0">Information for Department Staff and Faculty</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/scholarships/cal-poly-pomona-scholarships.shtml" tabindex="0">Cal Poly Pomona Scholarships</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/scholarships/csu-systemwide-scholarships.shtml" tabindex="0">CSU Systemwide Scholarships</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/scholarships/outside-scholarships.shtml" tabindex="0">Outside Scholarships</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/scholarships/scholarship-faqs.shtml" tabindex="0">Scholarship FAQs</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="7" tabindex="0">Federal Work Study<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--7">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/federal-work-study/index.shtml" tabindex="0">Federal Work Study</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/federal-work-study/student-information.shtml" tabindex="0">Information for Students</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/federal-work-study/on-campus-employers-information.shtml" tabindex="0">Information for On Campus Employers</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/federal-work-study/faqs.shtml" tabindex="0">Frequently Asked Questions</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+                   <li class="sub-nav__link">
+                   <div class="sub-nav__link--wrapper">
+                   <button aria-expanded="false" class="button__proxima sub-nav__nested-button" id="8" tabindex="0">Resources<svg xmlns="http://www.w3.org/2000/svg" class="chevron active" fill="none" height="9" viewBox="0 0 14 9" width="14">
+                        <path d="M1 1L7 7L13 1" stroke="#005030" stroke-width="2"/>
+                        </svg>
+                    </button> </div>
+                  <div class="sub-nav__nested-dropdown show" id="nestedDropdownMenu--8">
+                                            <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/fafsa-simplification/index.shtml" tabindex="0">FAFSA Simplification</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/using-broncodirect-financial-aid-information.shtml" tabindex="0">Using BroncoDirect- Financial Aid Information</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/appeals.shtml" tabindex="0">Appeals</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/announcements.shtml" tabindex="0">Announcements</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/campus-resources.shtml" tabindex="0">Campus Resources</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/fafsa-dream-workshops.shtml" tabindex="0">FAFSA/CA Dream Act Workshops</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/financial-aid-policies.shtml" tabindex="0">Financial Aid Policies</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/financial-aid-outreach.shtml" tabindex="0">Financial Aid Presentations and Outreach Requests</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/financial-wellness.shtml" tabindex="0">Financial Wellness</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/faqs.shtml" tabindex="0">Frequently Asked Questions</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/heerf/index.shtml" tabindex="0">HEERF Student Aid</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/loan-information.shtml" tabindex="0">Loan Information</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/question-of-the-month.shtml" tabindex="0">Question of the Month</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/understanding-aid-program-limits.shtml" tabindex="0">Understanding Aid Program Limits</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/understanding-enrollment-requirements.shtml" tabindex="0">Understanding Enrollment Requirements</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/understanding-repeat-coursework-and-aid-eligibility.shtml" tabindex="0">Understanding Repeat Coursework and Aid Eligibility</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/understanding-return-of-federal-aid.shtml" tabindex="0">Understanding Return of Federal Aid Due to Withdrawals (R2T4)</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/understanding-sap.shtml" tabindex="0">Understanding SAP</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/understanding-state-university-grant-eligibility.shtml" tabindex="0">Understanding State University Grant Eligibility</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/understanding-unit-maximums.shtml" tabindex="0">Understanding Unit Maximums</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/understanding-verification.shtml" tabindex="0">Understanding Verification</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/aid-offer-notification.shtml" tabindex="0">Understanding Your Aid Offer and Next Steps</a>
+                      
+                      </div>
+                                    <div class="sub-nav__sub-link">
+                           <a class="button__proxima" href="/financial-aid/resources/writing-a-successful-sap-appeal.shtml" tabindex="0">Writing a Successful SAP Appeal</a>
+                      
+                      </div>
+                                   
+                    </div>
+              </li>                             
+                             
+        
+
+
+    </div>
+</div>
+
+
+
+
+</nav>
+<script type="text/javascript">
+    $(".button").attr("data-dropdown-id", "dropdownMenuBtn").on("click", function(event) {
+        var dropdownMenu = $("#dropdownMenu");
+        var nestedDropdownMenus = $(".sub-nav__nested-dropdown");
+        
+        if ($(this).attr("aria-expanded") === "false") {
+            $(this).attr("aria-expanded", "true");
+        } else {
+            $(this).attr("aria-expanded", "false");
+        }
+
+        toggleDropdown(dropdownMenu);;
+        
+        // close all nested dropdown menus if open
+        nestedDropdownMenus.each(function() {
+            if ($(this).hasClass("show")) {
+                $(this).removeClass("show");
+                $(this).addClass("hidden");
+            }
+        })
+    })
+    $(".sub-nav__nested-button").on("click", function(event) {
+        var currentButtonId = $(this).attr("id")
+        var nestedDropdownMenu = $(`#nestedDropdownMenu--${currentButtonId}`)
+        $(this).find(".chevron").toggleClass("active");
+
+        if ($(this).attr("aria-expanded") === "false") {
+            $(this).attr("aria-expanded", "true");
+        } else {
+            $(this).attr("aria-expanded", "false");
+        }
+
+        toggleDropdown(nestedDropdownMenu);
+    })
+    function toggleDropdown(menu) {
+        if (menu.hasClass("hidden")) {
+            menu.removeClass("hidden");
+            menu.addClass("show");
+            
+            //add click listener to check for clicks outside of the nav
+            //https://stackoverflow.com/questions/152975/how-do-i-detect-a-click-outside-an-element/3028037#3028037
+            $(document).click(function(event) { 
+                var $target = $(event.target);
+                if(!$target.closest('#subNavContainer').length) {
+                    closeDropdown(menu);
+                }
+            });
+            
+            //add listener for escape key
+            $(document).on('keydown', function(event) {
+                if (event.key == "Escape") {
+                    closeDropdown(menu);
+            }});
+        } else {
+            menu.removeClass("show");
+            menu.addClass("hidden");
+        }
+    }
+
+    function closeDropdown(menu) {
+        var dropdownMenu = $("#dropdownMenu");
+        var nestedDropdownMenus = $(".sub-nav__nested-dropdown");  
+        $(".button").attr("data-dropdown-id", "dropdownMenuBtn").attr("aria-expanded", "false");
+        nestedDropdownMenus.each(function() {
+            if ($(".button").attr("data-dropdown-id", "dropdownMenuBtn").hasClass("show")) {
+                $(".button").attr("data-dropdown-id", "dropdownMenuBtn").removeClass("show");
+                $(".button").attr("data-dropdown-id", "dropdownMenuBtn").addClass("hidden");
+            }
+        })
+        menu.removeClass("show");
+        menu.addClass("hidden");
+    }
+
+</script>
+</header>
+<div class="cqw-wrapper" id="main">
+ <div class="organism-spacer">
+    <section class="content-sub-page">
+        <div class="container">
+            <div class="row">
+                <div class="col-6 col-lg-8">
+                    <h1 class="h2__proxima content-sub-page__header">Other Programs</h1>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+
+        
+         
+ 
+        
+                
+                
+                    
+                        
+                                   
+                            <div class="organism-spacer cta-green-card__header spacer__padding-top--small spacer__padding-bottom--small">
+                                <section class="standard-text body2 cta-green-card" id="content-section-1">
+                        <div class="container">
+                            <div class="row">
+                               
+                                     <header class="cta-green-card__header text-start col-12 col-sm-8">
+                                                                        <h2 class="h4__proxima">Veterans</h2>
+                                                                </header>
+                            </div>
+                            <div class="row">
+                                <div class="body2 text-start col-12 col-sm-8"><section class="text-images" id="s0">
+<p><strong>The Office of Financial Aid &amp; Scholarships at Cal Poly Pomona is honored to serve veterans, active-duty members of the United States military and their dependents!&#160;<span>&#160;</span></strong>Students receiving VA Educational Benefits can use a combination of financial aid sources including federal, state, institutional, and private scholarships to meet the total Cost of Attendance at Cal Poly Pomona.</p>
+<p><a href="https://www.cpp.edu/veterans/index.shtml">Cal Poly Pomona Veterans Resource Center</a><span>&#160;</span>offers information related to the types of benefits, certification of VA benefits, contact information for dedicated support, and campus resources for students who have served in the military and their dependents.</p>
+<p>We encourage you to file for financial aid if you&#160;will need additional aid during the academic year or while you are waiting for your VA educational benefits to arrive. To apply, complete a<span>&#160;</span><a href="https://studentaid.gov/h/apply-for-aid/fafsa">Free&#160;Application for Federal Student Aid (FAFSA)</a>.&#160;</p>
+</section>
+<script src="https://embed.ocelotbot.com/cms/embed/script/6010?current_entity=7ef8862f-80d1-4607-ae2b-8c9c01f98a23&amp;dim=640x360" type="text/javascript"></script></div>  
+                            </div>
+                       </div>
+                    </section>
+                </div>
+                                          
+                    
+        
+
+
+        
+         
+ 
+        
+                                
+        
+                <div class="organism-spacer spacer__padding-top--small spacer__padding-bottom--small">
+            <section class="faq">
+                <div class="container">
+                    <div class="row">
+                        <header class="faq__header col-lg-9">
+                            <h2 class="h5__proxima">Veterans FAQs</h2><br/>
+                            <p class="body2"></p>
+                        </header>
+                        <div class="accordion__items col-lg-9">
+                            
+                                                                                    
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="General Information " class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">General Information </h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p>Students receiving VA Educational Benefits can use a combination of financial aid sources including federal, state, institutional, and private scholarships to meet the total Cost of Attendance at Cal Poly Pomona.</p>
+<p>Effective July 1, 2015,&#160;<a href="https://benefits.va.gov/gibill/">the U.S. Department of Veterans Affairs (VA)&#160;educational benefits</a> (Chapters 1606, 1607, 30, 31, 33, 35 and certain ROTC benefits) are excluded in determining student eligibility for federal financial aid. Please note that <a href="https://www.calvet.ca.gov/VetServices/Pages/College-Fee-Waiver.aspx">Cal-Vet fee waivers</a> are state-based awards and not subject to exclusion in your financial aid offer letter.</p>
+<p>The VA Office has released a&#160;<a href="https://department-of-veterans-affairs.github.io/gi-bill-comparison-tool/">GI Bill&#174;Comparison Tool</a> for students receiving Chapter 33 benefits. The tool includes a Benefit&#160;Estimator, as well as helpful information&#160;about your school.&#160;The<a href="http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp"> About This Tool</a>&#160;page includes detailed information about this new tool.</p>
+<p><span data-contrast="auto">We encourage you to file for financial aid if you&#160;will need additional aid during the academic year or while you are waiting for your VA educational benefits to arrive. To apply, complete a <a href="https://studentaid.gov/h/apply-for-aid/fafsa" rel="noopener" target="_blank">Free&#160;Application for Federal Student Aid (FAFSA)</a>.</span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:240}"></span></p>
+<h3 aria-level="3"><span style="font-size: 14pt;"><strong>Getting Started with your VA Chapter Benefits:</strong>&#160;</span></h3>
+<p>&#160;</p>
+<h3 aria-level="3"><span>&#160;<img alt="Getting Started with your VA Chapter Benefits" class="img img-original-size" height="342" src="data:image/png;base64,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" width="578"/><br/></span><span style="font-size: 14pt;"><strong>Getting Started with your Cal Vet Fee Waiver:</strong>&#160;</span></h3>
+<p aria-level="3"><img alt="Getting Started with your Cal Vet Fee Waiver" class="img img-original-size" height="342" src="data:image/png;base64,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" width="578"/></p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="Tuition Waiver (CAL VET College Fee Waiver) " class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">Tuition Waiver (CAL VET College Fee Waiver) </h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><h3 aria-level="3"><span style="font-size: 14pt;"><strong>Basic Benefit Information</strong> </span> <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559738&quot;:40,&quot;335559739&quot;:0,&quot;335559740&quot;:259}">&#160;</span></h3>
+<p><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}">The <strong>College Tuition Fee Waiver for Veteran Dependents</strong> benefit waives mandatory system-wide tuition and fees at any State of California Community College, California State University, or University of California campus. This program does not cover the expense of books, parking or room and board. There are four plans under which dependents of veterans may be eligible. Visit the <a href="https://www.calvet.ca.gov/VetServices/Pages/College-Fee-Waiver.aspx">California Department of Veterans Affairs website</a> for more information about the four plans, eligibility, contact information, FAQ&#8217;s and additional resources.&#160; </span></p>
+<p><a class="btn" href="https://www.calvet.ca.gov/VetServices/Pages/College-Fee-Waiver-Calculator.aspx"> <strong> <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}" style="font-size: 14pt;">College Fee Waiver Calculator</span> </strong> </a></p>
+<h3 aria-level="3"><span style="font-size: 14pt;"> <strong>What Fees are Waived at&#160;</strong> <strong>Cal Poly Pomona</strong> <strong>?</strong> </span></h3>
+<p><strong>Not <em>all</em> fees are waived under this program. </strong> Fees which are eligible for exemption at Cal Poly Pomona are the <strong>system-wide tuition</strong> fee.</p>
+<ul>
+<li>The Cal Vet Fee Waiver covers Fall Semester through Summer Semester.</li>
+<li>It is highly recommended that you bring the CAL VET Fee Waiver directly to the VA Certifying Official or to the Veterans Resource Center.</li>
+<li>Complete the CAL VET Fee Waiver application process as soon as possible in the Summer (or possibly Spring) so that it is processed prior to when Fall Semester fees are due.</li>
+</ul>
+<p>Cal Vet Fee Waivers <strong>do not apply to the Mandatory (Auxiliary) Campus Fees</strong>.&#160; The Waiver does not apply to tuition and fees for self-supporting programs.&#160; Such programs are not supported by state funds and are not subject to state law regarding exemptions for dependents of veterans.</p>
+<h3 aria-level="3"><span style="font-size: 12pt;"> <strong>What if I have Non-Resident Fees showing on my account?</strong>&#160; </span></h3>
+<p><span data-contrast="auto">All questions concerning residency must be directed to the <a href="mailto:Residency@cpp.edu">Residency Coordinator</a> in the <a href="https://www.cpp.edu/admissions/residency/index.shtml">Office of Admissions</a>. &#160;If you are not classified as a California Resident by Cal Poly Pomona, your fee waiver will be invalid and you will be billed for full fees </span> <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"></span></p>
+<h3 aria-level="3"><span style="font-size: 14pt;"> <strong>How Do I Apply?</strong>&#160; </span></h3>
+<p>To apply for the Cal Vet Fee Waiver, download the <strong> <a href="https://www.calvet.ca.gov/VetServices/Pages/College-Fee-Waiver.aspx">Cal Vet Fee Waiver application</a> </strong> from the California Department of Veterans Affairs website. <strong>&#160;</strong> After completing your application contact your local <a href="https://www.calvet.ca.gov/find-a-service-provider">County Veteran Service Office (CVSO)</a>. Once you get to the website put your zip code and check the box on the right that is labeled "education." &#160;After you click <strong> <em>search</em> </strong> you will be provided a list of the nearest VA offices that can process your Cal Vet application.&#160;</p>
+<p>Once approved, you will receive an Authorization Letter. Copies of authorization letters should be obtained through the CVSO for the county in which an application has been submitted. Once the authorization letter is received, the student or the CVSO should submit the letter to the <a href="mailto:kim@cpp.edu">VA Certifying Official at Cal Poly Pomona</a>.</p>
+<p><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> <strong>Reminder:</strong> You must reapply every academic year you wish to receive this benefit. Benefits are awarded on an academic year basis, and students are required to reapply each year for ongoing benefits. It is recommended that you apply for benefits and submit your authorization letter in a timely manner prior to attending school to have your fees waived before the initial fee payment deadline. </span></p>
+<h3 aria-level="3"><span style="font-size: 14pt;"> <strong>Will my Financial Aid, Cal Grant or Other VA Benefits be Affected by the Waiver?</strong>&#160; </span></h3>
+<p><span data-contrast="auto">Yes.&#160;</span> <span data-contrast="auto">T</span> <span data-contrast="auto">he Cal Grant</span> <span data-contrast="auto">, Middle Class Scholarship</span> <span data-contrast="auto">&#160;and the CA Veterans College Fee Waiver are considered fee-paying resources and cover the exact same tuition. Therefore, students are only eligible to receive one during a period of enrollment.&#160; St</span> <span data-contrast="auto">udents who have been awarded a Cal Grant Tuition Grant (or Middle Class Scholarship) <em> <strong>and</strong> </em> a CAL VET </span> <span data-contrast="auto"> Fee</span> <span data-contrast="auto">&#160;Waiver will have the tuition portion of the Cal Grant (</span> <span data-contrast="auto">or the&#160;Middle Class&#160;Scholarship) </span> <span data-contrast="auto">returned to the California Student Aid Commission.&#160; </span></p>
+<p><span data-contrast="auto"></span> <span data-contrast="auto">Additional financial aid may also be affected by the waiver, up to the amount of the waiver, including&#160;</span> <span data-contrast="auto">grants and</span> <span data-contrast="auto">&#160;loans.</span> <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}">&#160;</span></p>
+<p>The Post 9/11 GI Bill&#174;(Chapter 33) payments for tuition are also affected by the waiver (or Cal Grant or Middle Class Scholarship). The tuition that the VA will pay directly to the school will be reduced by the amount of the waiver, the Cal Grant, or the Middle Class Scholarship. <span data-contrast="auto"></span> <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"></span></p>
+<h3 aria-level="3"><span style="font-size: 14pt;"> <strong>If I receive a "retroactive" authorization, can I be reimbursed for prior semesters?</strong> <strong>?</strong>&#160; </span></h3>
+<p>&#160;</p>
+<p><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}">If this is your situation, please contact the VA Certifying Official or the Veterans Resource Center for more information at 909 869 6994 or at&#160; <a href="mailto:vetquestions@cpp.edu">vetquestions@cpp.edu</a>. </span></p>
+<h3><strong> <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}" style="font-size: 14pt;">Additional Information and Resources</span> </strong></h3>
+<p><a class="btn" href="https://www.calvet.ca.gov/VetServices/Pages/College-Fee-Waiver-Calculator.aspx"> <strong> <span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}" style="font-size: 14pt;">College Fee Waiver Calculator</span> </strong> </a></p>
+<p><a class="btn" href="https://www.calvet.ca.gov/VetServices/Pages/College-Fee-Waiver.aspx">Cal Vet Fee Waiver Application</a></p>
+<p><a href="https://www.calvet.ca.gov/VetServices/Pages/College-Fee-Waiver.aspx"> <span style="font-size: 12pt;"> <strong>Cal Vet Fee Waiver website</strong> </span> </a></p>
+<p><a href="https://www.calvet.ca.gov/VetServices/Documents/Veteran_%20Resource_%20Book.pdf"> <span style="font-size: 12pt;">Cal Vet Resource Book (PDF)</span></a></p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="Chapter Benefits " class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">Chapter Benefits </h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p>Many benefits are available to advance the education and skills of veterans and service members. Spouses and family members may also be eligible for education and training assistance.&#160; Some might find they're eligible for more than one benefit or that one program is more suited to certain education and training goals than another.&#160;Use the <a href="https://www.va.gov/gi-bill-comparison-tool/">VA Education Programs Comparison Chart</a> to determine which benefit you may be eligible to receive.</p>
+<p>Below is an overview of some of the available Benefit Programs.&#160; More information about educational benefits is available through the <a href="https://www.va.gov/education/">U.S. Veterans Affairs website</a>.</p>
+<h3><span style="font-size: 14pt;"><strong>The Post 9/11 GI Bill&#174; (Chapter 33)</strong></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"></span></h3>
+<p>The <strong>Post 9/11 GI Bill&#174;</strong> provides financial support for education and housing to individuals with at least 90 days of aggregate service on or after September 11, 2001, or individuals discharged with a service-connected disability after 30 days. You must have received an honorable discharge to be eligible for the Post-9/11 GI Bill.</p>
+<p>Individuals eligible under Chapter 33 are generally entitled to 36 months of educational assistance.</p>
+<p>As of August 1, 2009, the Post 9/11 GI Bill&#174; is effective for training. Approved training under the Post 9/11 GI Bill&#174; includes graduate and undergraduate degrees, professional degrees, and vocational/technical training. All training programs must be offered by an institution of higher learning (IHL) and approved for GI Bill&#174; benefits. Additionally, tutorial assistance and licensing and certification test reimbursement are approved under the Post 9/11 GI Bill&#174;.</p>
+<p>The Post 9/11 GI Bill&#174; will pay your tuition based upon the highest in-state tuition charged by a public educational institution in the state where the school is located. The amount of support that an individual may qualify for depends on where they live and what type of degree they are pursuing.</p>
+<h4><span style="font-size: 12pt;"><strong>Benefit Payments</strong></span></h4>
+<ul>
+<li><strong>Tuition and Fees:</strong> paid directly to the school on behalf of the student when the enrollment certification is processed. The tuition and fees payment is prorated by the students benefit level. The payment is the actual net cost for in-state tuition for tuition and fees after the application of tuition specific resources or waiver.</li>
+<li><strong>Monthly Housing Allowance:</strong> paid directly to the student at the beginning of each month for previous month. The monthly housing allowance paid equals the <a href="https://www.defensetravel.dod.mil/site/bah.cfm">Basic Allowance for Housing</a> rate for an "E-5 with dependents" and the zip code of the school (For Cal Poly Pomona - 91768). The housing allowance is prorated by the student&#8217;s length of service percentage and the rate of pursuit if not full time.</li>
+<li><strong>Books and Supplies:</strong> stipend paid directly to the student. The stipend is $1,000 paid proportionately based on enrollment.</li>
+</ul>
+<p>Visit the U.S. Department of Veterans Affairs website for further information about <a href="https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rates/ch33/ch33rates080121.asp">benefit payments rates.</a></p>
+<h4><span style="font-size: 12pt;"><strong>More Information and How to Apply</strong></span></h4>
+<ul>
+<li>For further detailed information and eligibility requirements, visit the <a href="http://www.benefits.va.gov/gibill/post911_gibill.asp">Post 9/11 GI Bill</a><u>&#174;</u> area of the U.S. Department of Veterans Affairs website.</li>
+<li>You can also view a <a href="http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#tuitionfees">summary of benefits</a> or compare schools using the <a href="http://department-of-veterans-affairs.github.io/gi-bill-comparison-tool/">GI Bill&#174; Comparison Tool</a></li>
+</ul>
+<h4><span style="font-size: 12pt;"><strong>Transfer of Eligibility</strong></span></h4>
+<p>The Post 9/11 GI Bill&#174; also offers some service members the opportunity to transfer all or some of their unused benefits to their spouse or dependent children. The Department of Defense (DoD) determines whether or not you can transfer benefits. Once the DoD approves benefits for transfer, the new beneficiaries apply for them with the VA.</p>
+<p>For further information, visit the <a href="http://www.benefits.va.gov/gibill/post911_transfer.asp">Transfer Post 9/11 GI Bill&#174;</a> area of the U.S. Department of Veterans Affairs website.</p>
+<h3 aria-level="3"><span style="font-size: 14pt;"><strong>Dependents Educational Assistance (Chapter 35)</strong></span></h3>
+<p>The <strong>Survivors and Dependents Educational Assistance (DEA)</strong> program provides education and training opportunities to eligible dependents and spouses of veterans who are permanently and totally disabled due to a service-related condition or of veterans who died while active duty or as a result of a service-related condition.</p>
+<p>The program offers up to 36 months of education benefits.</p>
+<p>The monthly benefit amount is paid directly to the student. The monthly payment for full-time training, as of 10/01/2020, is $1,265.</p>
+<h4><span style="font-size: 12pt;"><strong>Eligibility</strong></span></h4>
+<p>To be eligible, you must be the son or daughter (typically between ages 18 and 26), or spouse of:</p>
+<ul>
+<li>A Veteran who <strong>died or is permanently and totally disabled as the result of a service-connected disability</strong>. The disability must arise out of active service in the U.S. armed forces.</li>
+<li>A Veteran who <strong>died from any cause while such permanent and total service-connected disability was in existence.</strong></li>
+<li>A Service member <strong>missing in action or captured in line of duty by a hostile force.</strong></li>
+<li>A Service member <strong>forcibly detained or interned in line of duty by a foreign government or power.</strong></li>
+<li>A Service member who is <strong>hospitalized or receiving outpatient treatment for a service connected permanent and total disability</strong> and is likely to be discharged for that disability. This change is effective Dec. 23, 2006.</li>
+</ul>
+<h4><span style="font-size: 12pt;"><strong>More Information and How to Apply</strong></span></h4>
+<p>For further detailed information and eligibility requirements visit the <a href="http://www.benefits.va.gov/GIBILL/DEA.asp">DEA</a> area of the Department of Veteran Affairs website.</p>
+<p><span data-contrast="auto">Current and past rates for this benefit can be found on the US Department of Veteran Affairs website under <a href="http://www.benefits.va.gov/GIBILL/resources/benefits_resources/rate_tables.asp">Rate Tables</a>.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"></span><span data-contrast="auto"></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"></span></p>
+<h3><strong><span style="font-size: 14pt;">Montgomery GI Bill&#174; (Chapter 30 and 1606)</span></strong></h3>
+<p>The <strong>Montgomery GI Bill&#174; (MGIB)</strong> is available for those who enlist in the US Armed Forces. These benefits are paid on a monthly basis directly to the veteran. Current and past rates for this benefit can be found on the U.S. Department of Veteran Affairs website under <a href="http://www.benefits.va.gov/GIBILL/resources/benefits_resources/rate_tables.asp">Rate Tables</a>.</p>
+<h4><strong><span style="font-size: 12pt;">There are two main programs under the Montgomery GI Bill&#174;:</span></strong></h4>
+<ul>
+<li><a href="http://www.benefits.va.gov/gibill/mgib_ad.asp"><strong>Montgomery GI Bill&#174; Active Duty (MGIB-AD) (VA Chapter 30)</strong></a>: For active duty members who enroll and pay $100 per month for 12 months and are then entitled to receive a monthly education benefit once they have completed a minimum service obligation. This program provides education benefits to Veterans and Service members who have at least two years of active duty.&#160; Visit the <a href="http://www.benefits.va.gov/gibill/mgib_ad.asp">Montgomery GI Bill&#174;&#160; (Active Duty)</a> area of the U.S. Department of Veterans Affairs website or the view the online <a href="http://www.benefits.va.gov/gibill/docs/pamphlets/ch30_pamphlet.pdf">Chapter 30 Pamphlet (PDF)</a> for more information.</li>
+</ul>
+<ul>
+<li><a href="http://www.benefits.va.gov/gibill/mgib_sr.asp"><strong>Montgomery GI Bill&#174; Selected Reserve (MGIB-SR) (VA Chapter 1606)</strong></a>: For Reservists with a six-year obligation in the Selected Reserve who are actively drilling. Eligibility for this program is determined by the Selected Reserve components and VA makes the payments. V<span style="font-size: 12pt;">isit the <a href="http://www.benefits.va.gov/gibill/mgib_sr.asp">Montgomery GI Bill&#174; (Reserves)</a> - Selected Reserve area of the U.S. Department of Veterans Affairs website or view the online <a href="http://www.benefits.va.gov/gibill/docs/pamphlets/ch1606_pamphlet.pdf">1606-Reserves (PDF)</a> for more information.</span></li>
+</ul>
+<span data-ccp-props="{&quot;134233279&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"></span>
+<h3 aria-level="3"><span style="font-size: 14pt;"><strong>V</strong><strong>veteran Readiness&#160;</strong><strong>and Employment (formerly V</strong><strong>ocational Rehabilitation and Employment</strong><strong>)&#160;</strong><strong>&#160;(Chapter 31)</strong>&#160;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"></span></h3>
+<p>The mission of Veteran Readiness and Employment is to help veterans with service-connected disabilities to prepare for, find, and keep suitable jobs. For veterans with service-connected disabilities, VR&amp;E offers services to improve their ability to live as independently as possible.</p>
+<h4><span style="font-size: 12pt;"><strong>Eligibility</strong></span></h4>
+<p>A veteran may be eligible for VR&amp;E benefits if he or she:</p>
+<ul>
+<li>Has received, or will receive, a <strong>discharge</strong> that is other than dishonorable.</li>
+<li>Has a <strong>service-connected disability rating</strong> of at least 10%, or a memorandum rating of 20% or more from the U.S. Department of Veterans Affairs (VA).</li>
+<li>Applies for <strong>Veteran Readiness and Employment (VR&amp;E) VetSuccess services.</strong></li>
+</ul>
+<p>The basic period of eligibility in which VR&amp;E's VetSuccess services may be used is 12 years from the latter of:</p>
+<ul>
+<li>The date of separation from active military service</li>
+<li>The date the veteran was first notified by VA of a service-connected disability rating</li>
+</ul>
+<h4><span style="font-size: 12pt;"><strong>More Information and How to Apply</strong></span></h4>
+<p><span style="font-size: 12pt;">Visit the <a href="http://www.benefits.va.gov/vocrehab/index.asp">Veteran Readiness and Employment</a> area of the U.S. Department of Veterans Affairs Website for further information, including eligibility requirements, services, and how to apply.</span></p>
+<h3 aria-level="3"><span style="font-size: 14pt;"><strong>General Information for All Benefits</strong></span></h3>
+<h4><span style="font-size: 12pt;"><strong>How Can I Apply?</strong></span></h4>
+<ul>
+<li><strong>If you have never applied for your VA Educational Benefits</strong>, apply online through the U.S. Department of Veterans Affairs: <a href="http://www.va.gov">va.gov</a>, or contact the U.S. Department of Veterans Affairs at 1-888-442-4551.</li>
+<li><strong>If you have already applied for your VA educational benefits </strong>and you want to use them at Cal Poly Pomona, please visit <a href="https://www.cpp.edu/veterans/money-matters.shtml">Cal Poly Pomona Veterans Resource Center &#8211; Money Matters</a>.</li>
+<li><strong>Cal Poly Pomona VA Certifying Official:</strong>
+<ul>
+<li><strong>Elke Azpeitia</strong>
+<ul>
+<li><a href="mailto:emazpeitia@cpp.edu">emazpeitia@cpp.edu</a></li>
+<li>909-869-2782</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="Financial Aid &amp; Veterans Benefits " class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">Financial Aid &amp; Veterans Benefits </h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p>It&#8217;s not only the VA that could provide you tuition assistance. <span data-contrast="auto">You may be eligible for federal aid programs, California State and/or institutional&#160;</span><span data-contrast="auto">grants, or </span><span data-contrast="auto">scholarships in addition to your VA educational benefits.&#160;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span>Veterans, like any other college student, are eligible to apply for these federal grants and low-interest loans through the <a href="https://studentaid.gov/h/apply-for-aid/fafsa" rel="noopener" target="_blank">Free Application for Federal Student Aid</a>, better known as the FAFSA.</p>
+<p>Completing the&#160;<a href="https://studentaid.gov/h/apply-for-aid/fafsa" rel="noopener" target="_blank"><span data-contrast="none">FAFSA</span></a><span data-contrast="auto"></span> could help identify your eligibility for additional aid, beyond what you&#8217;ve earned through your military service. These options could include grants, which are need-based financial awards that do not need to be repaid.<span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> <br/></span></p>
+<h3 aria-level="3"><span style="font-size: 14pt;"><strong>Can I Receive both Financial Aid and Veterans Benefits?</strong>&#160;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"></span></h3>
+<p>Yes! In fact, we encourage that you file your <a href="https://studentaid.gov/h/apply-for-aid/fafsa">FAFSA</a> to see what financial aid you may be eligible for. VA educational benefits aren&#8217;t always enough to cover the cost associated with being a student (books, living expenses, etc.), so financial aid can be helpful.</p>
+<p>Members of the Office of Financial Aid &amp; Scholarships are available to help you determine what would be beneficial for you to accept from the financial aid package you are offered. Grants and scholarships are &#8220;free&#8221; money, but loans are debt that you do pay back.</p>
+<p><strong><span data-contrast="auto">Reminder:</span></strong><span data-contrast="auto">&#160;The FAFSA is available starting October&#8239;1 for the following academic year and the priority deadline to be considered for state and institutional grants is March 2 &#8211; so don&#8217;t forget to complete the FAFSA early!</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}">&#160;</span></p>
+<h3 aria-level="3"><span style="font-size: 14pt;"><strong>Can my VA Benefits Affect my Financial Aid?</strong>&#160;</span></h3>
+<p><span data-contrast="auto">Yes. In some cases, your financial aid can be affected by your VA educational benefits. The only VA educational benefits that may affect your financial aid award is the Chapter 33 tuition. Each award is different, so a VA educational benefit may affect each person&#8217;s award differently. But by filling out the FAFSA, you will maximize your funding for school and in most cases receive substantially more funding</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"><br/></span></p>
+<h3 aria-level="3"><span style="font-size: 14pt;"><strong>Can I Receive both the Cal Grant and the CAL VET College Tuition Fee Waiver?</strong>&#160;</span></h3>
+<p><span data-contrast="auto">No. The CAL VET Tuition Waiver and the Cal Grant are both considered fee-paying resources and they both cover the same thing</span><span data-contrast="auto">;&#160;</span><span data-contrast="auto">therefore, students are only eligible to receive one during a period of enrollment.&#160;</span><span data-contrast="auto">students who have been awarded both a Cal Grant and a CAL VET Fee Waiver will have the tuition portion of the Cal Grant, or the&#160;Middle Class&#160;Scholarship, returned to the California Student Aid Commission</span><span data-contrast="auto">&#160;Additional financial aid may also be affected by the waiver, up to the amount of the waiver, including grants and loans.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}">&#160;</span></p>
+<p><span data-contrast="auto">The Post-9/11 GI Bill&#174;, Chapter 33, payments for tuition and fees are also affected by the waiver (or Cal Grant or Middle Class Scholarship). The tuition and fees that the VA will pay directly to the school will be reduced by the amount of the waiver, the Cal Grant, or the Middle Class Scholarship.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"><br/></span></p>
+<h3 aria-level="3"><span style="font-size: 14pt;"><strong>What Scholarships are Available for Veterans and Military Dependents?</strong>&#160;</span></h3>
+<p><span data-contrast="auto">Review information about scholarships on our&#160;</span><a href="../scholarships/index.shtml"><strong><span data-contrast="auto">Scholarships page</span></strong></a><span data-contrast="auto">.&#160;&#160;</span><span data-contrast="auto">You are also encouraged to apply for additional outside scholarships.&#160;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}">&#160;</span></p>
+<p><span data-contrast="auto">The following major national organizations offer scholarships primarily to&#160;active duty&#160;military, veterans, and/or their families:</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}">&#160;</span></p>
+<ul>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="&#61623;" data-listid="13"><a href="https://www.legion.org/scholarships"><span data-contrast="none">American Legion</span></a><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:120,&quot;335559740&quot;:259}">&#160;</span></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="2" data-font="Symbol" data-leveltext="&#61623;" data-listid="13"><a href="http://amvets.org/scholarships/"><span data-contrast="none">AMVETS</span></a><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:120,&quot;335559740&quot;:259}">&#160;</span></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="3" data-font="Symbol" data-leveltext="&#61623;" data-listid="13"><a href="http://www.pva.org/find-support/membership/scholarship-program"><span data-contrast="none">Paralyzed Veterans of America</span></a><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:120,&quot;335559740&quot;:259}">&#160;</span></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="4" data-font="Symbol" data-leveltext="&#61623;" data-listid="13"><a href="https://www.vfw.org/assistance/student-veterans-support"><span data-contrast="none">Veterans of Foreign Wars</span></a><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:120,&quot;335559740&quot;:259}">&#160;</span></li>
+</ul>
+<p><span data-contrast="auto">There are many smaller veterans service organizations around the country that might offer scholarships. Check with your local organization or try a&#160;</span><a href="https://www.careeronestop.org/toolkit/training/find-scholarships.aspx"><span data-contrast="none">scholarship search</span></a><span data-contrast="auto">.&#160; Be sure to also review the information on&#160;</span><a href="https://studentaid.gov/sites/default/files/scholarships-for-military.pdf"><span data-contrast="none">Scholarships for Military Families (PDF)</span></a><span data-contrast="auto">&#160;from Federal Student Aid.&#160;&#160;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}">&#160;</span></p>
+<h3 aria-level="3"><span style="font-size: 14pt;"><strong>Do I have to Report my Veterans Education Benefits on the FAFSA?</strong>&#160;</span></h3>
+<p><span data-contrast="auto">No. You do not have to report VA education benefits on the FAFSA. However, you do need to report non-education VA benefits on the FAFSA. Non-education benefits include: disability, death pension, dependency indemnity compensation and/or VA Work-Study allowances</span><span data-contrast="none">.</span><span data-ccp-props="{&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:240}">&#160;</span></p>
+<h3><strong><span style="font-size: 14pt;">What happens to my financial aid if I am called to Active Duty?</span></strong></h3>
+<p>You will not lose financial aid eligibility if you take a leave of absence from school. Future aid will not be disbursed; you will not be responsible for paying back any funds. Please notify our office when you return so that we can prepare an aid package that reflects your current status.</p>
+<p>Complete a <a href="https://studentaid.gov/sites/default/files/MilitaryServiceandPostActiveDutyStudentDeferment.pdf" rel="noopener" target="_blank">Military Service Deferment Request Form (PDF)</a> from Federal Student Aid to keep your loans from going into repayment.</p>
+<h3 aria-level="3"><span style="font-size: 14pt;"><strong>Who can I Contact About Financial Aid and VA Benefits?</strong>&#160;</span></h3>
+<p><span data-contrast="auto">For general questions and information about the FAFSA and financial aid, please stop by or contact the&#160;</span><a href="mailto:finaid@cpp.edu"><span data-contrast="none">Office of Financial Aid and Scholarships</span></a><span data-contrast="auto">. </span></p>
+<p><span data-contrast="auto">For questions about VA benefits and/or how your VA benefits will affect your financial aid award, contact&#160;</span><span data-contrast="auto">Elke Azpeitia,&#160;</span><span data-contrast="auto">the&#160;</span><a href="mailto:emazpeitia@cpp.edu"><span data-contrast="none">VA Certifying Official</span></a><span data-contrast="auto">&#160;for Cal Poly Pomona</span><span data-contrast="auto">&#160;</span><span data-contrast="auto">located in the&#160;</span><span data-contrast="auto">Veterans Resource Center</span><span data-contrast="auto">.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}">&#160;</span></p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="8 Keys to Veterans Success" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">8 Keys to Veterans Success</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p>Cal Poly Pomona is&#160;committed to supporting&#160;Student Veterans, Service Members, and other military-affiliated students such as dependents, as they pursue their post-secondary&#160;education and employment goals by means of the &#8220;8 Keys&#8221; initiative through the Departments of Education, Veterans Affairs, and Department of Defense.</p>
+<ol>
+<li>Create a culture of trust and connectedness across the campus community to promote well-being and success for veterans.</li>
+<li>Ensure consistent and sustained support from campus leadership.</li>
+<li>Implement an early alert system to ensure all veterans receive academic, career, and financial advice before challenges become overwhelming.</li>
+<li>Coordinate and centralize campus efforts for all veterans, together with the creation of a designated space for them (even if limited in size).</li>
+<li>Collaborate with local communities and organizations, including government agencies, to align and coordinate various services for veterans.</li>
+<li>Utilize a uniform set of data tools to collect and track information on veterans, including demographics, retention, and degree completion.</li>
+<li>Provide comprehensive professional development for faculty and staff on issues and challenges unique to veterans.</li>
+<li>Develop systems that ensure sustainability of effective practices for veterans</li>
+</ol>
+<p>*To find out more information regarding the &#8220;8 Keys&#8221; visit the U.S. Department of Education&#8217;s <a href="https://www.ed.gov/veterans-and-military-families/8-keys-success-sites">Website</a>.</p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="Principles of Excellence" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">Principles of Excellence</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p><a href="https://www.va.gov/education/choosing-a-school/principles-of-excellence/">The Principles of Excellence</a> were announced on April 27, 2012 by President Obama in Executive Order 13607, to ensure that student Veterans, Servicemembers, and family members have information, support, and protections while using Federal education benefits.</p>
+<p>Cal Poly Pomona fully complies with the seven principles and is dedicated to helping our veteran and non-veteran students succeed! Educational institutions participating in the Principles of Excellence program agree to the following guidelines:</p>
+<h3><span style="font-size: 14pt;"><strong>Provide students with a personalized form covering the total cost of an education program.</strong></span></h3>
+<p>The <a href="https://www2.ed.gov/policy/highered/guid/aid-offer/index.html">College Financing Plan</a> is a consumer tool that participating institutions use to notify students about their financial aid package. It is a standardized form that is designed to simplify the information that students receive about costs and financial aid so that they can easily compare institutions and make informed decisions about where to attend school. This can be&#160;found in MyCPP Student Center and Bronco Direct.</p>
+<h3><span style="font-size: 14pt;"><strong>Provide educational plans for all military and Veteran education beneficiaries.</strong></span></h3>
+<p>Each student can access their degree plan through Bronco Direct.&#160; A list of all degree plans can be found in the university&#8217;s <a href="https://catalog.cpp.edu/">online catalog</a>.</p>
+<h3><span style="font-size: 14pt;"><strong>End fraudulent and aggressive recruiting techniques and misrepresentations</strong></span></h3>
+<p>The University does not, and has never, conducted fraudulent or aggressive recruiting on or off military installations or in any other venue, nor do we misrepresent ourselves, our programs, or our mission. We do not pay incentive compensation to anyone for recruiting actions. We meet all State authorization requirements consistent with those issued by the Department of Education.</p>
+<h3><span style="font-size: 14pt;"><strong>Accommodate Service members and Reservist absent due to service requirements.</strong></span></h3>
+<p>One of the most important roles our faculty and staff play is one of support for students who are called to active duty on short notice. Members of the U.S. Armed Forces, National Guard, or Reserves are <a href="https://catalog.cpp.edu/content.php?catoid=51&amp;navoid=3849#Returning_Veterans_Military_or_Alternative_Service">entitled to readmission</a> to the university if their separation is caused by either voluntary or involuntary service on active duty for a period of more than 30 days.&#160;&#160;&#160;</p>
+<p>If you are called to active duty, you should notify Samuel Kim, VA Certifying Official, or the Veterans Resource Center at 909 869 6994 or e-mail at <a href="mailto:vetquestions@cpp.edu">vetquestions@cpp.edu</a> that you have been deployed. This does not apply in situations where notice is precluded by military necessity or would compromise national security.&#160;</p>
+<p>After the completion of your military service, you may defer notifying the campus of your intent to return for no more than three years. If you are hospitalized or convalescing from an illness or injury during the performance of service, you are expected to notify the campus of your intent to return no later than two years after the end of your recovery.</p>
+<p>To resume studies, you must notify Elke Azpeitia, VA Certifying Official, at <a href="mailto:emazpeitia@cpp.edu">emazpeitia@cpp.edu</a> or contact the Veterans Resource Center at 909-869-6994 or e-mail at <a href="mailto:vetquestions@cpp.edu">vetquestions@cpp.edu</a>. Then, you should schedule a meeting with your advisor and establish an academic plan for the completion of your degree.</p>
+<h3><span style="font-size: 14pt;"><strong>Designate a point of contact to provide academic and financial advice</strong></span></h3>
+<p>The University&#8217;s Veterans Resource Center is the designated Point of Contact for matters associated with the Principles of Excellence. This office is the liaison with the Regional Processing Office, to assist veterans and dependents of veterans with their education benefits. The Veterans Resource Center also provides programming and resources for the campus community. Students will be referred to other University offices as needed for specific issues.</p>
+<h4><span style="font-size: 12pt;"><strong>Veterans Resource Center</strong></span></h4>
+<ul>
+<li>121 West, 1st Floor, Office 1940</li>
+<li>(909) 869-6994</li>
+<li><a href="mailto:vetquestions@cpp.edu">vetquestions@cpp.edu</a></li>
+</ul>
+<h3><span style="font-size: 14pt;"><strong>Ensure accreditation of all new programs prior to enrolling students</strong></span></h3>
+<p><span>Cal Poly Pomona is regionally <strong>accredited</strong> by WASC Senior College and University Commission (WSCUC). </span>Cal Poly Pomona&#160;works with our accrediting agency to ensure accreditation of new programs prior to enrolling students in those programs.</p>
+<h3><span style="font-size: 14pt;"><strong>Align institutional refund policies with those under Title IV, which governs the administration of federal student financial aid programs.</strong></span></h3>
+<p>Military and veteran students and their family members attending Cal Poly Pomona follow the same refund policies as do all other students at the University.</p>
+<ul>
+<li><a href="https://www.cpp.edu/student-accounting/home/policy.shtml#Q7">Cal Poly Pomona Tuition Refund Policy</a></li>
+<li><a href="../resources/financial-aid-policies.shtml">Cal Poly Pomona Return to Title IV (Federal) Aid Policy</a></li>
+</ul></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="College Financing Plan" class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">College Financing Plan</h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><p>In carrying out the Principles of Excellence Executive Order 13607, Cal Poly Pomona commits to providing the College Financing Plan to veterans and service members before a decision is made to attend.</p>
+<h3><span style="font-size: 14pt;"><strong>What is the College Financing Plan?</strong></span></h3>
+<p>The&#160;<a href="https://www2.ed.gov/policy/highered/guid/aid-offer/index.html">College Financing Plan (annotated) </a>is a consumer tool the College uses to notify students, who file a Free Application for Federal Student Aid (FAFSA) and are using Veterans Affairs Educational Benefits, about their financial aid packages.&#160; It is a standardized form designed to help students make informed decisions about funding their education who have applied to multiple institutions.</p>
+<ul>
+<li><a href="https://www2.ed.gov/policy/highered/guid/aid-offer/2021-22-anncollfinanplanungrad.pdf" rel="noopener" target="_blank">Annotated Undergraduate College Financing Plan (PDF)</a></li>
+<li><a href="https://www2.ed.gov/policy/highered/guid/aid-offer/2021-22anncollfinanplangrad2.pdf" rel="noopener" target="_blank">Annotated Graduate College Financing Plan (PDF)</a></li>
+</ul>
+<h3><span style="font-size: 14pt;"><strong>Will all veteran students have access to the College Financing Plan?</strong></span></h3>
+<p>Students who file a FAFSA and indicate on their application for admission that they are using VA education benefits will receive a College Financing Plan.</p>
+<h3><span style="font-size: 14pt;"><strong>What is the difference between the College Financing Plan and the award letter?</strong></span></h3>
+<p>Cal Poly Pomona makes every effort to provide each financial aid recipient with an award letter that is clear and complete. Since colleges and universities use many different formats for their award letters, students may find it difficult to compare the financial aid offers from various schools.</p>
+<p>The College Financing Plan is a standardized form used by schools that have agreed to comply with the VA&#8217;s Principles of Excellence. The Principles are designed to help ensure that students can make good educational and financial decisions using a clear, comparative tool that evaluates various financial aid awards. The college financing plan generates figures that are estimates only and all tuition rates and fees are subject to change without notice.</p>
+<h3><span style="font-size: 14pt;"><strong>Who do I contact if I have questions?</strong></span></h3>
+<p>If you have questions about your military-related education benefits, please contact <a href="mailto:emazpeitia@cpp.edu" rel="noopener" target="_blank">Elke Azpeitia, VA Certifying Official</a>.</p>
+<h3><strong><span style="font-size: 14pt;">Additional Resources</span> </strong></h3>
+<p><a href="https://www2.ed.gov/policy/highered/guid/aid-offer/2021-22collfinanplanfaq.pdf" rel="noopener" target="_blank"><strong>College Financing Plan Frequently Asked Questions (PDF)</strong></a></p></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                        
+                                                                                    
+                            <section class="accordion" role="tablist">
+                                <div class="accordion__item">
+                                    <button aria-expanded="false" aria-label="Additional Resources " class="accordion__header" tabindex="0">
+                                        <h3 class="h6__proxima">Additional Resources </h3>
+                                        <div class="accordion__item--right">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="accordion-chevron" fill="none" height="17" viewBox="0 0 29 17" width="29">
+                                                <path d="M27 1.5L14.5 14.5L2 1.5" stroke="#005030" stroke-width="3"/>
+                                            </svg>
+                                        </div>
+                                    </button>
+                                    <div class="accordion__content" tabindex="0">
+                                        <p class="body2"><ul>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="&#61623;" data-listid="12"><a href="https://www.cpp.edu/veterans/index.shtml"><span data-contrast="none">Cal Poly Pomona V</span><span data-contrast="none">veteran Resource Center</span></a><span data-ccp-props="{&quot;134233279&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:60,&quot;335559740&quot;:259}">&#160;</span></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="2" data-font="Symbol" data-leveltext="&#61623;" data-listid="12"><a href="http://www.benefits.va.gov/gibill/"><span data-contrast="none">Department of Veteran Affairs GI Bill</span></a></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="2" data-font="Symbol" data-leveltext="&#61623;" data-listid="12"><a href="https://www.ebenefits.va.gov/ebenefits-portal/ebenefits.portal"><span data-contrast="none">eBenefits</span></a><span data-ccp-props="{&quot;134233279&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:60,&quot;335559740&quot;:259}">&#160;</span></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="2" data-font="Symbol" data-leveltext="&#61623;" data-listid="12"><a href="https://www.gibill.va.gov/wave/index.do"><span data-contrast="none">VA Web Automated Verification of Enrollment (WAVE)</span></a><span data-ccp-props="{&quot;134233279&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:60,&quot;335559740&quot;:259}">&#160;</span></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="2" data-font="Symbol" data-leveltext="&#61623;" data-listid="12"><a href="https://www.calvet.ca.gov/"><span data-contrast="none">California Department of Veteran Affairs</span></a><span data-ccp-props="{&quot;134233279&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:60,&quot;335559740&quot;:259}">&#160;</span></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="2" data-font="Symbol" data-leveltext="&#61623;" data-listid="12"><a href="https://studentaid.gov/"><span data-contrast="none">Federal Student Aid</span></a><span data-ccp-props="{&quot;134233279&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:60,&quot;335559740&quot;:259}">&#160;</span></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="2" data-font="Symbol" data-leveltext="&#61623;" data-listid="12"><a href="https://csac.ca.gov/"><span data-contrast="none">California Student Aid Commission</span></a><span data-ccp-props="{&quot;134233279&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:60,&quot;335559740&quot;:259}">&#160;</span></li>
+<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="2" data-font="Symbol" data-leveltext="&#61623;" data-listid="12"><a href="https://studentaid.gov/sites/default/files/military-student-loan-benefits.pdf"><span data-contrast="none">For Members of the U.S. Armed Forces: What you need to know about your federal student loan benefits (PDF)</span></a></li>
+</ul></p>
+                                    </div>
+                                </div>
+                            </section>
+                                                         
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+        
+    
+            
+                
+                    
+               
+
+</div>
+
+
+    <div class="footer__gradient-section">
+<div class="container">
+<div class="row">
+
+     <div class="col-12 col-lg-4">
+        <h2 class="footer__gradient-header">Financial Aid and Scholarships</h2>
+      </div>
+      <div class="col-12 col-lg-8 footer__gradient-socials-wrapper">
+        <h3 class="footer__gradient-social-header button2__transducer">Follow Us:</h3>
+        <div class="footer__gradient-socials">
+              <a href="https://www.instagram.com/cpp.admissions/" target="_blank">
+            <span aria-live="assertive" class="screen-reader-text">Instagram opens a new window</span>
+            <img alt="Instagram" src="/common/green-and-gold/assets/icons/social/insta-reverse.svg"/>
+          </a>
+                               </div>
+ </div>
+ <style>
+    .footer__rip-wrapper {
+         background: none;
+     }
+ </style>
+        <script src="https://ai.ocelotbot.com/embed/standard/7b54fd2d-1135-40d3-9b64-110becef5e33" type="text/javascript"></script>
+
+
+
+
+</div>
+</div>
+</div>
+
+
+
+
+
+
+         
+<style>
+     @media screen and (min-width: 992px) {
+    .mini-footer .footer__socials-buttons {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}
+
+.mini-footer .button1__transducer {
+    font-size: 12px;
+    letter-spacing: .5px;
+}
+
+.mini-footer .button {
+	margin-top: 0;
+    padding: 8px 20px 8px 20px;
+
+}
+.mini-footer .footer-line {
+    border-top: thin solid #a4d65e;
+    margin-top: 39px;
+    padding-top: 15px;
+}
+ </style>
+<footer class="footer mini-footer">
+    <div class="footer__rip-wrapper">
+        <img class="footer__rip" alt="" src="/common/green-and-gold/assets/images/green-rip.svg" alt="Ripped green paper." />
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-2">
+                <div class="footer__logo-wrapper">
+                    <a href="/" aria-label="CPP Logo">
+                        <img class="footer__logo" src="/common/green-and-gold/assets/logos/cpp_primary_1c_gold_rgb.png" alt="Cal Poly Pomona logo, building with a palm tree." />
+                    </a>
+                </div>
+            </div>
+            <div class="col-12 col-lg-6 offset-lg-4">
+                <div class="footer__socials">
+                    <div class="footer__socials-buttons">
+                        <a class="button button__secondary button1__transducer" href="/apply/">Apply</a>
+                        <a class="button button__secondary button1__transducer" href="https://maps.cpp.edu/">Maps</a>
+                        <a class="button button__secondary button1__transducer" href="/outreach/tours.shtml">Visit</a>
+                        <a class="button button__secondary button1__transducer" href="/contact.shtml">Contact Us</a>
+                    </div>
+                    <div class="footer__socials-icons">
+                        <a href="https://www.instagram.com/calpolypomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/insta.svg" alt="Instagram opens a new window" />
+                        </a>
+                        <a href="https://www.linkedin.com/school/cal-poly-pomona/" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/li.svg" alt="LinkedIn opens a new window" />
+                        </a>
+                        <a href="https://www.youtube.com/user/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/yt.svg" alt="YouTube opens a new window" />
+                        </a>
+                        <a href="https://www.facebook.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/fb.svg" alt="Facebook opens a new window" />
+                        </a>
+                        <a href="https://twitter.com/calpolypomona" target="_blank">
+                            <img src="/common/green-and-gold/assets/icons/social/x.svg" alt="X opens a new window" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 footer-line">
+                <div class="footer__errata">
+                    <p class="footer__copyright" style="line-height: 1.8em">Copyright ©2025 California State Polytechnic University, Pomona.  All Rights Reserved 
+                        
+                        <br />A campus of 
+                        
+                        <a class="footer__errata-link" style="display: inline" href="https://www.calstate.edu/">The California State University</a>.
+                    
+                    </p>
+                    <div class="footer__errata-links">
+                        <a class="footer__errata-link" href="https://www.cpp.edu/website-feedback.shtml">Feedback</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/privacy.shtml">Privacy</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/accessibility.shtml">Accessibility</a>
+                        <a class="footer__errata-link" href="https://www.cpp.edu/file-viewers.shtml">Document Readers</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer__gradient-bottom"></div>
+</footer>
+
+    </body>
+</html>

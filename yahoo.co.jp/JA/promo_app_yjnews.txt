@@ -1,0 +1,304 @@
+
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=990" />
+    <title>Yahoo!ニュース公式アプリ - Yahoo!ニュース</title>
+    <meta name="format-detection" content="telephone=no" />
+    <meta
+      name="description"
+      content="24時間365日､最新ニュースが届く。編集部が世の中の動きを見て最新情報を無料でお届け。重要ニュースや地震などの防災情報をプッシュ通知。都道府県ニュースも大好評！24時間ライブ配信の「Yahoo!ニュース 動画」も。"
+    />
+    <meta property="og:title" content="Yahoo!ニュース公式アプリ - Yahoo!ニュース" />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="ja_JP" />
+    <meta
+      property="og:description"
+      content="24時間365日､最新ニュースが届く。編集部が世の中の動きを見て最新情報を無料でお届け。重要ニュースや地震などの防災情報をプッシュ通知。都道府県ニュースも大好評！24時間ライブ配信の「Yahoo!ニュース 動画」も。"
+    />
+    <meta property="og:url" content="https://news.yahoo.co.jp/promo/app/yjnews/" />
+    <meta
+      property="og:image"
+      content="https://s.yimg.jp/images/news/promo/appNews/common/facebook/ogp_app_512x512.png"
+    />
+    <meta property="fb:app_id" content="276725822409153" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Yahoo!ニュース公式アプリ - Yahoo!ニュース" />
+    <meta
+      name="twitter:description"
+      content="24時間365日､最新ニュースが届く。編集部が世の中の動きを見て最新情報を無料でお届け。重要ニュースや地震などの防災情報をプッシュ通知。都道府県ニュースも大好評！24時間ライブ配信の「Yahoo!ニュース 動画」も。"
+    />
+    <meta name="twitter:site" content="@YahooNewsTopics" />
+    <meta
+      name="twitter:image"
+      content="https://s.yimg.jp/images/news/promo/appNews/common/facebook/ogp_app_512x512.png"
+    />
+    <link rel="stylesheet" href="https://s.yimg.jp/images/riff/riff-react/1.0.0-alpha.38/css/riff.min.css" />
+    <link rel="stylesheet" href="https://s.yimg.jp/images/news-cms/common/dist/css/pc_mt_common_v2.2.css" />
+    <link rel="stylesheet" href="https://s.yimg.jp/images/news-cms/promo/dist/style/pc_v1.1.css" />
+    
+    <script>
+var TLDataContext = {
+  ual : {
+    pageview : {
+
+      opttype : 'pc',
+
+      content_id : '',
+      id_type : '',
+      nopv : 'false',
+      mtestid : '',
+      ss_join_id : '',
+      ss_join_id_type : '',
+      hierarchy_id : ''
+    }
+  }
+};
+</script>
+<script async src="https://s.yimg.jp/images/ds/managed/1/managed-ual.min.js?tk=5ae7ece4-3b93-4890-8f24-ce16ddd756ed&service=news"></script>
+    
+  </head>
+  <body>
+    
+    
+    
+    <div class="wrapper">
+      <header class="header" data-newspromo-header="true">
+        <div class="header_inner">
+          <h1 class="header_logo">
+            <a href="https://news.yahoo.co.jp" class="header_logoLink"><span>Yahoo!ニュース</span></a>
+          </h1>
+          <ul class="header_snsList">
+            <li>
+              <a
+                class="header_snsLink header_snsLink-twitter"
+                href="http://twitter.com/share?url=https://news.yahoo.co.jp/promo/app/yjnews/&amp;text=24時間365日､最新ニュースが届く - Yahoo!ニュースアプリ"
+                target="_blank"
+                aria-label="ポストする"
+              ></a>
+            </li>
+            <li>
+              <a
+                class="header_snsLink header_snsLink-facebook"
+                href="https://www.facebook.com/sharer/sharer.php?u=https://news.yahoo.co.jp/promo/app/yjnews/"
+                aria-label="facebookでシェアする"
+              ></a>
+            </li>
+          </ul>
+        </div>
+        
+        <script defer src="https://s.yimg.jp/images/templa/mhdemg/v2/templa.min.js"></script>
+<script>
+    window.addEventListener('DOMContentLoaded', function () {
+        if (typeof YAHOO !== 'undefined' && typeof YAHOO.JP !== 'undefined' && typeof YAHOO.JP.templa.EMG !== 'undefined' && typeof YAHOO.JP.templa.EMG.load !== 'undefined') {
+            YAHOO.JP.templa.EMG.load({"device_id":"pc"});
+        }
+    }, false);
+</script>
+<div id="TEMPLA_EMG"></div>
+        
+      </header>
+      <section class="contentsHeader">
+        <span class="contentsHeader_bg"></span>
+        <div class="contentsHeader_inner">
+          <p class="contentsHeader_catch">大事なニュースがすぐにわかる</p>
+          <h2 class="contentsHeader_name">Yahoo!ニュース公式アプリ</h2>
+          <ul class="contentsHeader_dlList">
+            <li class="contentsHeader_dlItem">
+              <a
+                href="https://app.adjust.com/3z0jnyd?redirect=https%3A%2F%2Fitunes.apple.com%2Fjp%2Fapp%2Fid407906756%3Fmt%3D8"
+                class="contentHeader_dlLink contentHeader_dlLink-ios"
+                ><img
+                  src="https://s.yimg.jp/images/news-app/promo/landing/img/pc/img_badge_ios.png"
+                  alt="AppStoreからダウンロード"
+                  width="225"
+                  height="72"
+              /></a>
+            </li>
+            <li class="contentsHeader_dlItem">
+              <a
+                href="https://app.adjust.com/669zv75?redirect=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Djp.co.yahoo.android.news"
+                class="contentHeader_dlLink contentHeader_dlLink-android"
+                ><img
+                  src="https://s.yimg.jp/images/news-app/promo/landing/img/pc/img_badge_android.png"
+                  alt="GooglePlayで手に入れよう"
+                  width="225"
+                  height="72"
+              /></a>
+            </li>
+          </ul>
+        </div>
+      </section>
+      <main class="contents">
+        <div class="pointPickup">
+          <ul class="pointPickup_list">
+            <li class="pointPickup_item">
+              <div class="pointPickup_imgWrap">
+                <img
+                  src="https://s.yimg.jp/images/news-cms/promo/img/common/img_point_feedback.png"
+                  class="pointPickup_img"
+                />
+              </div>
+              <dl>
+                <dt class="pointPickup_title">記事にフィードバックできる</dt>
+                <dd class="pointPickup_lead">
+                  「学びがある」「わかりやすい」「新しい視点」という3種類のリアクションボタンで評価できます。
+                </dd>
+              </dl>
+            </li>
+            <li class="pointPickup_item">
+              <div class="pointPickup_imgWrap">
+                <img
+                  src="https://s.yimg.jp/images/news-cms/promo/img/common/img_point_fontSize.png"
+                  class="pointPickup_img"
+                />
+              </div>
+              <dl>
+                <dt class="pointPickup_title">文字サイズを変更できる</dt>
+                <dd class="pointPickup_lead">
+                  「小」から「最大」までお好みで5段階の文字サイズが選べます。読みやすい文字サイズで記事を読むことができます。
+                </dd>
+              </dl>
+            </li>
+            <li class="pointPickup_item">
+              <div class="pointPickup_imgWrap">
+                <img
+                  src="https://s.yimg.jp/images/news-cms/promo/img/common/img_point_live.png"
+                  class="pointPickup_img"
+                />
+              </div>
+              <dl>
+                <dt class="pointPickup_title">映像ニュースを24時間ライブ配信</dt>
+                <dd class="pointPickup_lead">
+                  「ライブ」画面でニュース動画を24時間365日ライブ配信。大規模災害が発生した場合などの特別編成では、「主要」タブでも動画を視聴できます。
+                </dd>
+              </dl>
+            </li>
+            <li class="pointPickup_item">
+              <div class="pointPickup_imgWrap">
+                <img
+                  src="https://s.yimg.jp/images/news-cms/promo/img/common/img_point_topics.png"
+                  class="pointPickup_img"
+                />
+              </div>
+              <dl>
+                <dt class="pointPickup_title">ニュースを紐解く手がかりに</dt>
+                <dd class="pointPickup_lead">
+                  ニュースの要点をしっかり押さえたトピックスで、あなたの情報収集をYahoo!ニュースがサポートします。
+                </dd>
+              </dl>
+            </li>
+            <li class="pointPickup_item">
+              <div class="pointPickup_imgWrap">
+                <img
+                  src="https://s.yimg.jp/images/news-cms/promo/img/common/img_point_comment.png"
+                  class="pointPickup_img"
+                />
+              </div>
+              <dl>
+                <dt class="pointPickup_title">みんなの考えがわかる</dt>
+                <dd class="pointPickup_lead">
+                  「このニュース、みんなはどう思う？」そんな時コメント機能の多様な意見を通して、ニュースの理解がぐっと深まります。
+                </dd>
+              </dl>
+            </li>
+            <li class="pointPickup_item">
+              <div class="pointPickup_imgWrap">
+                <img
+                  src="https://s.yimg.jp/images/news-cms/promo/img/common/img_point_disaster.png"
+                  class="pointPickup_img"
+                />
+              </div>
+              <dl>
+                <dt class="pointPickup_title">防災情報もお届け</dt>
+                <dd class="pointPickup_lead">
+                  ゲリラ豪雨や地震などの防災情報をプッシュ通知します。諸外国によるミサイル発射の際に、政府が避難を呼びかける「国民保護情報（Jアラート）」にも対応。
+                </dd>
+              </dl>
+            </li>
+          </ul>
+        </div>
+      </main>
+      <div class="download">
+        <div class="download_inner">
+          <p class="download_title"><span class="download_name">Yahoo!ニュース 公式アプリ</span></p>
+          <ul class="download_list">
+            <li class="download_item download_ios">
+              <span class="download_text">iPhoneはこちら</span
+              ><a
+                href="https://app.adjust.com/y2ybo81?redirect=https%3A%2F%2Fitunes.apple.com%2Fjp%2Fapp%2Fid407906756%3Fmt%3D8"
+                class="download_link"
+                ><img
+                  src="https://s.yimg.jp/images/news-app/promo/landing/img/pc/img_badge_ios.png"
+                  alt="AppStoreからダウンロード"
+                  width="225"
+                  height="72"
+              /></a>
+            </li>
+            <li class="download_item download_android">
+              <span class="download_text">Androidはこちら</span
+              ><a
+                href="https://app.adjust.com/1t29dkg?redirect=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Djp.co.yahoo.android.news%26hl%3Dja"
+                class="download_link"
+                ><img
+                  src="https://s.yimg.jp/images/news-app/promo/landing/img/pc/img_badge_android.png"
+                  alt="GooglePlayで手に入れよう"
+                  width="225"
+                  height="72"
+              /></a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <footer class="footer">
+        <ul class="footer_notice">
+          <li>・アプリケーションはiPhone、iPod touch、またはAndroidでご利用いただけます。</li>
+          <li>・「App Store」ボタンを押すとiTunes（外部サイト）が起動します。</li>
+          <li>・Apple、Appleのロゴ、App Store、iPodのロゴ、iTunesは、米国および他国のApple Inc.の登録商標です。</li>
+          <li>・iPhone、iPod touchはApple Inc.の商標です。</li>
+          <li>・iPhone商標は、アイホン株式会社のライセンスに基づき使用されています。</li>
+          <li>・Android、Androidロゴ、Google Play、Google Playロゴは、Google Inc.の商標または登録商標です。</li>
+          <li>
+            ・スマートフォンでバーコードを読み取るには、専用のアプリケーションが必要です。→<a
+              href="https://support.yahoo-net.jp/PccYjcommon/s/article/H000006844"
+              >バーコードの読み取り方</a
+            >
+          </li>
+          <li>・Copyright (C) 2022 Apple Inc. All rights reserved.</li>
+          <li>・写真：アフロ</li>
+        </ul>
+        <div class="footer_nav">
+          <ul class="footer_list">
+            <li class="footer_item"><a href="https://news.yahoo.co.jp">Yahoo!ニュース</a></li>
+            <li class="footer_item"><a href="https://www.yahoo.co.jp">Yahoo! JAPAN</a></li>
+          </ul>
+        </div>
+        <address class="footer_address">
+          <ul>
+            <li class="footer_address_item">
+              <a href="https://www.lycorp.co.jp/ja/company/privacypolicy/" rel="nofollow">プライバシーポリシー</a>
+            </li>
+            <li class="footer_address_item">
+              <a href="https://privacy.lycorp.co.jp/ja/" rel="nofollow">プライバシーセンター</a>
+            </li>
+            <li class="footer_address_item">
+              <a href="https://www.lycorp.co.jp/ja/company/terms/" rel="nofollow">利用規約</a>
+            </li>
+            <li class="footer_address_item">
+              <a href="https://about.yahoo.co.jp/common/mediastatement/" rel="nofollow">メディアステートメント</a>
+            </li>
+            <li class="footer_address_item">
+              <a href="https://support.yahoo-net.jp/voc/s/news" rel="nofollow">ご意見・ご要望</a>
+            </li>
+            <li class="footer_address_item">
+              <a href="https://support.yahoo-net.jp/SccNews/s/" rel="nofollow">ヘルプ・お問い合わせ</a>
+            </li>
+          </ul>
+          
+          &copy; LY Corporation          
+        </address>
+      </footer>
+    </div>
+  </body>
+</html>

@@ -74,25 +74,54 @@ class PageRank:
             print(f"Error extracting links from {file_path}: {e}")
             return []
     
-    def build_graph_from_html_files(self, base_dir):
-        """Build graph by scanning HTML files."""
-        print(f"Building graph from HTML files in {base_dir}")
+    def build_graph_from_html_files(self, base_dir, csv_path="report.csv"):
+        """Build graph using HTML files but only including links between crawled pages."""
+        # First, load the set of crawled pages from CSV
+        crawled_pages = set()
+        
+        csv_file = os.path.join(base_dir, csv_path)
+        if os.path.exists(csv_file):
+            try:
+                df = pd.read_csv(csv_file)
+                for url in df['URL']:
+                    crawled_pages.add(url)
+                print(f"Loaded {len(crawled_pages)} crawled pages from CSV")
+            except Exception as e:
+                print(f"Error loading CSV {csv_file}: {e}")
+                return
+        else:
+            print(f"CSV file not found at {csv_file}")
+            return
+        
+        # Add all crawled pages to our set of pages
+        self.pages = crawled_pages.copy()
+        
+        # Now process HTML files to extract outlinks between crawled pages
+        processed_files = 0
         for root, dirs, files in os.walk(base_dir):
             for file in files:
                 if file.endswith('.txt'):
                     file_path = os.path.join(root, file)
-                    # We need to determine the original URL from the file path
-                    # This is a simplification - adjust based on your crawler's naming scheme
-                    url = f"file://{file_path}"
-                    self.pages.add(url)
                     
-                    # Extract links
-                    outlinks = self.extract_links_from_html(file_path, url)
-                    if outlinks:
-                        self.graph[url] = outlinks
-                        # Add outlinks to pages set
-                        for link in outlinks:
-                            self.pages.add(link)
+                    # Try to determine the original URL
+                    # You may need to adjust this logic based on how your crawler saved files
+                    file_basename = os.path.basename(file_path).replace('_', '/').replace('.txt', '')
+                    potential_matches = [url for url in crawled_pages if file_basename in url]
+                    
+                    if potential_matches:
+                        source_url = potential_matches[0]
+                        outlinks = self.extract_links_from_html(file_path, source_url)
+                        
+                        # Filter outlinks to only include other crawled pages
+                        valid_outlinks = [link for link in outlinks if link in crawled_pages]
+                        
+                        if valid_outlinks:
+                            self.graph[source_url] = valid_outlinks
+                        
+                        processed_files += 1
+        
+        print(f"Processed {processed_files} HTML files")
+        print(f"Built graph with {len(self.graph)} source pages and {len(self.pages)} total pages")
     
     def calculate_pagerank(self, damping_factor=0.85, iterations=100, tolerance=1e-6):
         """Calculate PageRank scores for all pages."""
@@ -173,12 +202,12 @@ if __name__ == "__main__":
     pr = PageRank()
     
     # Method 1: Build graph from CSV file
-    report_csv = "c:\\Users\\micha\\Code_windows\\cpp\\classes\\spring-2025\\CS4250\\assignment2\\4250Project2\\cpp.edu\\report.csv"
-    pr.load_data_from_csv(report_csv)
+    # report_csv = "c:\\Users\\micha\\Code_windows\\cpp\\classes\\spring-2025\\CS4250\\assignment2\\4250Project2\\cpp.edu\\report.csv"
+    # pr.load_data_from_csv(report_csv)
     
     # Method 2: Build graph from HTML files (uncomment if you want to use this approach)
-    # html_dir = "c:\\Users\\micha\\Code_windows\\cpp\\classes\\spring-2025\\CS4250\\assignment2\\4250Project2\\cpp.edu"
-    # pr.build_graph_from_html_files(html_dir)
+    html_dir = "c:\\Users\\micha\\Code_windows\\cpp\\classes\\spring-2025\\CS4250\\assignment2\\4250Project2\\cpp.edu"
+    pr.build_graph_from_html_files(html_dir)
     
     # Calculate PageRank
     pr.calculate_pagerank()

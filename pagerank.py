@@ -12,45 +12,6 @@ class PageRank:
         self.graph = defaultdict(list)  # URL -> list of outbound links
         self.pages = set()  # Set of all pages
         self.pagerank_scores = {}  # URL -> PageRank score
-        
-    def load_data_from_csv(self, csv_path):
-        """Load outlink data from a CSV file."""
-        if not os.path.exists(csv_path):
-            print(f"CSV file not found: {csv_path}")
-            return
-            
-        try:
-            df = pd.read_csv(csv_path)
-            print(f"Loaded {len(df)} rows from {csv_path}")
-            
-            # Add all URLs to the pages set
-            for url in df['URL']:
-                self.pages.add(url)
-                
-            # Build a graph representation
-            # For now, we'll use a simplified model where each page links to
-            # a random subset of other pages based on its outlink count
-            all_urls = list(self.pages)
-            import random
-            
-            for _, row in df.iterrows():
-                url = row['URL']
-                outlink_count = row['Outlinks']
-                
-                if outlink_count > 0:
-                    # Create a set of potential targets (all pages except self)
-                    potential_targets = set(all_urls) - {url}
-                    if potential_targets:
-                        # Select random targets based on outlink count
-                        # (This is a simplification - you'd want actual links)
-                        targets = random.sample(
-                            list(potential_targets), 
-                            min(outlink_count, len(potential_targets))
-                        )
-                        self.graph[url] = targets
-        
-        except Exception as e:
-            print(f"Error loading CSV {csv_path}: {e}")
     
     def extract_links_from_html(self, file_path, base_url):
         """Extract links from an HTML file."""
@@ -104,7 +65,6 @@ class PageRank:
                     file_path = os.path.join(root, file)
                     
                     # Try to determine the original URL
-                    # You may need to adjust this logic based on how your crawler saved files
                     file_basename = os.path.basename(file_path).replace('_', '/').replace('.txt', '')
                     potential_matches = [url for url in crawled_pages if file_basename in url]
                     
@@ -201,11 +161,7 @@ if __name__ == "__main__":
     # Create PageRank instance
     pr = PageRank()
     
-    # Method 1: Build graph from CSV file
-    # report_csv = "c:\\Users\\micha\\Code_windows\\cpp\\classes\\spring-2025\\CS4250\\assignment2\\4250Project2\\cpp.edu\\report.csv"
-    # pr.load_data_from_csv(report_csv)
-    
-    # Method 2: Build graph from HTML files (uncomment if you want to use this approach)
+    # Build graph from HTML files
     html_dir = "c:\\Users\\micha\\Code_windows\\cpp\\classes\\spring-2025\\CS4250\\assignment2\\4250Project2\\cpp.edu"
     pr.build_graph_from_html_files(html_dir)
     

@@ -6,6 +6,7 @@ from collections import defaultdict
 import json
 from urllib.parse import urljoin
 from bs4 import BeautifulSoup
+import argparse
 
 class PageRank:
     def __init__(self):
@@ -35,53 +36,90 @@ class PageRank:
             print(f"Error extracting links from {file_path}: {e}")
             return []
     
-    def build_graph_from_html_files(self, base_dir, csv_path="report.csv"):
-        """Build graph using HTML files but only including links between crawled pages."""
-        # First, load the set of crawled pages from CSV
-        crawled_pages = set()
+    def build_pagerank_graph_multi(self, base_dir, domains=None, csv_filename="report.csv"):
+        """
+        Build a PageRank graph from multiple domains.
         
-        csv_file = os.path.join(base_dir, csv_path)
-        if os.path.exists(csv_file):
-            try:
-                df = pd.read_csv(csv_file)
-                for url in df['URL']:
-                    crawled_pages.add(url)
-                print(f"Loaded {len(crawled_pages)} crawled pages from CSV")
-            except Exception as e:
-                print(f"Error loading CSV {csv_file}: {e}")
-                return
-        else:
-            print(f"CSV file not found at {csv_file}")
+        Args:
+            base_dir: Base directory containing domain folders
+            domains: List of domain folders to include (None means all available)
+            csv_filename: Name of the CSV file with outlink data
+        """
+        # Clear any existing data
+        self.graph = defaultdict(list)
+        self.pages = set()
+        
+        # If no domains specified, use all available domain directories
+        if domains is None:
+            domains = []
+            for item in os.listdir(base_dir):
+                domain_dir = os.path.join(base_dir, item)
+                if os.path.isdir(domain_dir):
+                    domains.append(item)
+        
+        if not domains:
+            print("No domains found or specified.")
             return
         
-        # Add all crawled pages to our set of pages
-        self.pages = crawled_pages.copy()
+        print(f"Building PageRank graph for domains: {', '.join(domains)}")
         
-        # Now process HTML files to extract outlinks between crawled pages
-        processed_files = 0
-        for root, dirs, files in os.walk(base_dir):
-            for file in files:
-                if file.endswith('.txt'):
-                    file_path = os.path.join(root, file)
-                    
-                    # Try to determine the original URL
-                    file_basename = os.path.basename(file_path).replace('_', '/').replace('.txt', '')
-                    potential_matches = [url for url in crawled_pages if file_basename in url]
-                    
-                    if potential_matches:
-                        source_url = potential_matches[0]
-                        outlinks = self.extract_links_from_html(file_path, source_url)
-                        
-                        # Filter outlinks to only include other crawled pages
-                        valid_outlinks = [link for link in outlinks if link in crawled_pages]
-                        
-                        if valid_outlinks:
-                            self.graph[source_url] = valid_outlinks
-                        
-                        processed_files += 1
+        # Process each domain
+        total_pages = 0
+        total_processed_files = 0
         
-        print(f"Processed {processed_files} HTML files")
+        for domain in domains:
+            domain_dir = os.path.join(base_dir, domain)
+            if not os.path.isdir(domain_dir):
+                print(f"Domain directory not found: {domain_dir}")
+                continue
+            
+            # Load crawled pages for this domain
+            csv_file = os.path.join(domain_dir, csv_filename)
+            domain_pages = set()
+            
+            if os.path.exists(csv_file):
+                try:
+                    df = pd.read_csv(csv_file)
+                    for url in df['URL']:
+                        domain_pages.add(url)
+                        self.pages.add(url)
+                    print(f"  {domain}: Loaded {len(domain_pages)} pages from CSV")
+                    total_pages += len(domain_pages)
+                except Exception as e:
+                    print(f"  Error loading CSV for {domain}: {e}")
+                    continue
+            else:
+                print(f"  CSV file not found for {domain}: {csv_file}")
+                continue
+            
+            # Process HTML files for this domain
+            processed_files = 0
+            for root, dirs, files in os.walk(domain_dir):
+                for file in files:
+                    if file.endswith('.txt'):
+                        file_path = os.path.join(root, file)
+                        
+                        # Try to determine the original URL
+                        file_basename = os.path.basename(file_path).replace('_', '/').replace('.txt', '')
+                        potential_matches = [url for url in domain_pages if file_basename in url]
+                        
+                        if potential_matches:
+                            source_url = potential_matches[0]
+                            outlinks = self.extract_links_from_html(file_path, source_url)
+                            
+                            # Filter outlinks to only include other crawled pages from any domain
+                            valid_outlinks = [link for link in outlinks if link in self.pages]
+                            
+                            if valid_outlinks:
+                                self.graph[source_url] = valid_outlinks
+                            
+                            processed_files += 1
+            
+            total_processed_files += processed_files
+            print(f"  {domain}: Processed {processed_files} HTML files")
+        
         print(f"Built graph with {len(self.graph)} source pages and {len(self.pages)} total pages")
+        print(f"Total processed files: {total_processed_files}")
     
     def calculate_pagerank(self, damping_factor=0.85, iterations=100, tolerance=1e-6):
         """Calculate PageRank scores for all pages."""
@@ -155,25 +193,77 @@ class PageRank:
         with open(filename, 'w', encoding='utf-8') as f:
             json.dump(self.pagerank_scores, f, indent=4)
         print(f"PageRank scores saved to {filename}")
+    
+    def save_top_pages_list(self, filename='top_pages.txt', n=100):
+        """
+        Save the top n pages by PageRank score to a text file.
+        
+        Args:
+            filename: Output filename
+            n: Number of top pages to include
+        """
+        top_pages = self.get_top_pages(n)
+        
+        with open(filename, 'w', encoding='utf-8') as f:
+            f.write(f"Top {len(top_pages)} Pages by PageRank\n")
+            f.write("="*50 + "\n\n")
+            
+            for i, (url, score) in enumerate(top_pages):
+                f.write(f"{i+1}. {score:.8f}: {url}\n")
+        
+        print(f"Top {len(top_pages)} pages saved to {filename}")
 
 # Example usage
 if __name__ == "__main__":
+    import sys
+    
+    # Set up command line argument parsing
+    parser = argparse.ArgumentParser(description='Calculate PageRank for crawled web pages')
+    parser.add_argument('--base_dir', type=str, default='.',
+                        help='Base directory containing domain folders (default: current directory)')
+    parser.add_argument('--domains', type=str, nargs='*',
+                        help='Domain folders to process (default: all available)')
+    parser.add_argument('--damping', type=float, default=0.85,
+                        help='Damping factor (default: 0.85)')
+    parser.add_argument('--top', type=int, default=100,
+                        help='Number of top pages to output (default: 100)')
+    parser.add_argument('--output', type=str, default='pagerank_scores.json',
+                        help='Output JSON file for all PageRank scores (default: pagerank_scores.json)')
+    parser.add_argument('--top_list', type=str, default='top_pages.txt',
+                        help='Output text file for top pages (default: top_pages.txt)')
+    
+    args = parser.parse_args()
+    
+    # Normalize the base directory path
+    base_dir = os.path.normpath(args.base_dir)
+    
+    # Verify the path exists
+    if not os.path.exists(base_dir):
+        print(f"Error: The specified base directory does not exist: {base_dir}")
+        sys.exit(1)
+    
+    # If no domains specified, use only the known crawl directories
+    if args.domains is None:
+        # List of known crawled domains - modify as needed
+        args.domains = ['cpp.edu', 'yahoo.co.jp', 'taobao.com']
+        print(f"No domains specified, using default crawled domains: {', '.join(args.domains)}")
+    
     # Create PageRank instance
     pr = PageRank()
     
-    # Build graph from HTML files
-    html_dir = "c:\\Users\\micha\\Code_windows\\cpp\\classes\\spring-2025\\CS4250\\assignment2\\4250Project2\\cpp.edu"
-    pr.build_graph_from_html_files(html_dir)
+    # Build graph from specified domains
+    pr.build_pagerank_graph_multi(base_dir, args.domains)
     
     # Calculate PageRank
-    pr.calculate_pagerank()
+    pr.calculate_pagerank(damping_factor=args.damping)
     
     # Get top pages
-    top_pages = pr.get_top_pages(100)
+    top_pages = pr.get_top_pages(args.top)
     
-    print("\nTop 10 pages by PageRank:")
-    for url, score in top_pages[:10]:
-        print(f"{score:.6f}: {url}")
+    print(f"\nTop 10 pages by PageRank:")
+    for i, (url, score) in enumerate(top_pages[:10]):
+        print(f"{i+1}. {score:.6f}: {url}")
     
     # Save results
-    pr.save_pagerank_scores()
+    pr.save_pagerank_scores(args.output)
+    pr.save_top_pages_list(args.top_list, args.top)

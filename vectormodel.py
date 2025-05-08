@@ -16,6 +16,7 @@ def load_inverted_index_from_file(filename='inverted_index.json'):
     except FileNotFoundError:
         print(f"Error: {filename} not found. Please crawl first.")
 
+# returns the cosine similarity between two vectors
 def cosine_similarity(query_vector, document_vector):
     numerator = 0
 
@@ -40,7 +41,7 @@ idf = { term: math.log(N / df_t, 10)
         for term, df_t in df.items() }
 
 while True:
-    query = input("Please enter your query: ")
+    query = input("Please enter your query (ctrl + C to quit): ")
     print("")
     query_terms = query.split()
 
@@ -63,6 +64,8 @@ while True:
     
     sorted_documents = sorted(scores.items(), key=lambda x: x[1], reverse=True)
     #print("sorted_documents:", sorted_documents)
+
+    print("Relevant results and scores from vector space model (boolean weights) are:\n")
 
     for document, score in sorted_documents:
         print(document + " | " + "Score: " + str(score))

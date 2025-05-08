@@ -45,17 +45,27 @@ while True:
     print("")
     query_terms = query.split()
 
-    query_vector = defaultdict(int)
+    tf_query = defaultdict(int)
+
+    # get a count for how many times each term appears in the query, aka the term frequency
+    for term in query_terms:
+        tf_query[term] += 1
+    
+    tf_idf_query = defaultdict(int)
+
+    # using the formula (1 + log(tf)) * idf, compute the query vector
+    for term in tf_query:
+        tf_idf_query[term] = (1 + math.log(tf_query[term])) * idf.get(term, 0)
+    
+
+    query_vector = tf_idf_query
 
     relevant_documents = defaultdict(lambda: defaultdict(int))
 
-    for term in query_terms:
-        # set the value in the query vector to 1, indicating that the term appears
-        query_vector[term] = 1
-
-        # grab all documents where at least one word in the query appears at least once
+    for term in query_vector:
+        # calculate the tf_idf values for all the terms within the documents where at least 1 query term appears at least once
         for document in inverted_index.get(term, {}):
-            relevant_documents[document][term] = 1
+            relevant_documents[document][term] = (1 + math.log(inverted_index.get(term, {}).get(document, 0))) * idf.get(term, 0)
 
     scores = {}
 
@@ -65,7 +75,7 @@ while True:
     sorted_documents = sorted(scores.items(), key=lambda x: x[1], reverse=True)
     #print("sorted_documents:", sorted_documents)
 
-    print("Relevant results and scores from vector space model (boolean weights) are:\n")
+    print("Relevant results and scores from vector space model (TF.IDF weights) are:\n")
 
     for document, score in sorted_documents:
         print(document + " | " + "Score: " + str(score))

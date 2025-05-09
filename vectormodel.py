@@ -79,4 +79,8 @@ while True:
 
     for document, score in sorted_documents:
         print(document + " | " + "Score: " + str(score))
+        
+    # Save TF-IDF scores to JSON for Part 5
+    with open("tfidf_results.json", "w", encoding="utf-8") as f:
+        json.dump(scores, f, indent=2)
 

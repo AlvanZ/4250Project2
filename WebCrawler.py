@@ -153,10 +153,23 @@ def save_inverted_index_to_file(filename='inverted_index.json'):
     print(f"Inverted index updated in {filename}")
 # Function to load inverted index from file
 def load_inverted_index_from_file(filename='inverted_index.json'):
-    global inverted_index
+    global inverted_index, df, idf, N, doc_lengths
     try:
         with open(filename, 'r', encoding='utf-8') as f:
             inverted_index = json.load(f)
+
+        N = 0
+        df = {}
+        idf = {}
+        doc_lengths = {}
+
+        for term, postings in inverted_index.items():
+            df[term] = len(postings)
+            for doc, count in postings.items():
+                doc_lengths[doc] = doc_lengths.get(doc, 0) + count
+                N += 1
+
+        idf = { term: math.log(N / df_t, 10) for term, df_t in df.items() }
         print(f"Inverted index loaded from {filename}")
     except FileNotFoundError:
         print(f"Error: {filename} not found. Please crawl first.")
@@ -337,8 +350,11 @@ for term in sorted(inverted_index.keys())[:50]:  # show only first 50 for brevit
 print("...")
 print(f"Total unique terms (tokens): {len(inverted_index)}")
 
+load_inverted_index_from_file()  # ← Load from disk
+
 while True:
     q = input("Enter Boolean query (or 'exit'): ").strip()
+
     if q.lower() in ('exit','quit'): break
     for url, score in search(q):
         print(f"{score:.4f}\t{url}")
